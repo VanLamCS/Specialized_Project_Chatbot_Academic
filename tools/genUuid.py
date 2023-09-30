@@ -1,6 +1,13 @@
 import json
 import uuid
 
+def is_valid_uuid(value):
+  try:
+    uuid_obj = uuid.UUID(value)
+    return True
+  except ValueError:
+    return False
+
 def main():
   datasetBase = "./dataset/"
   print("Input file name: ")
@@ -18,7 +25,7 @@ def main():
     uniqueId = ""
 
     for i in range(len(dataTrains)):
-      if dataTrains[i]["id"] == "":
+      if not is_valid_uuid(dataTrains[i]["id"]):
         uniqueId = str(uuid.uuid4())
         trainObj["train"]["data"][i]["id"] = uniqueId
 

@@ -28,7 +28,7 @@ def main():
       
     trainObj["train"]["data"] = dataTrains
     with open(fileName, "w", encoding='utf-8') as f:
-      json.dump(trainObj, f, ensure_ascii = False)
+      json.dump(trainObj, f, ensure_ascii = False, indent = 2)
 
   except Exception as error:
     raise error

@@ -12,6 +12,8 @@ def countTokenPosition(context, ans):
   lenAnsTokens = len(ansTokens)
   if lenAnsTokens > lenContextTokens:
     return (-1 ,-1)
+  elif lenAnsTokens <= 0:
+    return (-1, -1)
   for i in range(lenContextTokens - lenAnsTokens):
     if contextTokens[i] == ansTokens[0]:
       isFind = True

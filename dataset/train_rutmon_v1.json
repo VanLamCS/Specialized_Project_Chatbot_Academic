@@ -1,0 +1,211 @@
+{
+  "train": {
+    "version": "1.1.0",
+    "data": [
+      {
+        "id": "a5342672-321f-40d9-b989-51c951248105",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Thời gian đăng ký rút môn học là khi nào?",
+        "answers": {
+          "text": [
+            "Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ.",
+            "Xem chi tiết tại trang hcmut.edu.vn"
+          ],
+          "answer_start": [
+            145,
+            266
+          ],
+          "answer_end": [
+            160,
+            277
+          ]
+        }
+      },
+      {
+        "id": "a079ea5d-dabf-4137-9cf1-1074723c6a43",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Điều kiện nào được yêu cầu khi Rút môn học?",
+        "answers": {
+          "text": [
+            "Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ."
+          ],
+          "answer_start": [
+            13
+          ],
+          "answer_end": [
+            36
+          ]
+        }
+      },
+      {
+        "id": "cd1a2fb7-215c-40d6-9734-7e272fd4c8df",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Sinh viên sẽ nhận điểm bao nhiêu khi rút môn học",
+        "answers": {
+          "text": [
+            "Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17)."
+          ],
+          "answer_start": [
+            36
+          ],
+          "answer_end": [
+            51
+          ]
+        }
+      },
+      {
+        "id": "c1a145fc-227b-48f1-bdf7-3dae917dc17f",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Rút môn học có ảnh hưởng đến việc nộp học phí không?",
+        "answers": {
+          "text": [
+            "SV phải nộp đủ học phí, kể cả các môn nhận điểm R."
+          ],
+          "answer_start": [
+            51
+          ],
+          "answer_end": [
+            65
+          ]
+        }
+      },
+      {
+        "id": "e7770fd8-4b8b-4785-9818-3a8fe16f9ca5",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Có thời khoá biểu cho các môn học bị Rút không?",
+        "answers": {
+          "text": [
+            "Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học."
+          ],
+          "answer_start": [
+            65
+          ],
+          "answer_end": [
+            84
+          ]
+        }
+      },
+      {
+        "id": "deeaaa9e-cb1d-4f0c-a357-c6bde3a8e20d",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Làm thế nào để đăng ký Rút môn học?",
+        "answers": {
+          "text": [
+            "Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học."
+          ],
+          "answer_start": [
+            102
+          ],
+          "answer_end": [
+            140
+          ]
+        }
+      },
+      {
+        "id": "85c048cb-6e84-45bd-8b98-c652b0c863f5",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Thời gian đăng ký Rút môn học thường được thông báo khi nào?",
+        "answers": {
+          "text": [
+            "Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ."
+          ],
+          "answer_start": [
+            140
+          ],
+          "answer_end": [
+            160
+          ]
+        }
+      },
+      {
+        "id": "d80e2c92-a678-4c7d-9615-621036f89ed7",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Quy trình xử lí rút môn của phòng đào tạo như thế nào?",
+        "answers": {
+          "text": [
+            "Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm."
+          ],
+          "answer_start": [
+            161
+          ],
+          "answer_end": [
+            262
+          ]
+        }
+      },
+      {
+        "id": "51008de7-4ac1-4add-9ee0-f03052d976b7",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Rút môn học ảnh hưởng đến việc tính điểm trung bình của sinh viên không?",
+        "answers": {
+          "text": [
+            "Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí."
+          ],
+          "answer_start": [
+            84
+          ],
+          "answer_end": [
+            101
+          ]
+        }
+      },
+      {
+        "id": "78794c15-bb45-4d33-9e94-14d30c46f167",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Tôi có thể xem thêm các quy định liên quan đến rút môn ở đâu",
+        "answers": {
+          "text": [
+            "Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần."
+          ],
+          "answer_start": [
+            262
+          ],
+          "answer_end": [
+            316
+          ]
+        }
+      },
+      {
+        "id": "10b9c8aa-2660-4fb2-80f9-9dfff09a6b72",
+        "title": "Rút môn học",
+        "context": "Rút môn học: Điều kiện Rút môn học: Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ. Sinh viên đăng ký Rút môn học và nhận điểm R (điểm 17). SV phải nộp đủ học phí, kể cả các môn nhận điểm R. Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học. Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí. 2. Hướng dẫn đăng ký Rút môn học: SV đăng ký tại trang mybk.hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký Rút Môn học. Thời gian đăng ký: Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ. 3. Quy trình xử lý: Sau hạn cuối theo \"thông báo gởi qua tin nhắn Bkel vào đầu học kỳ\", PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học. Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút (điểm RT hoặc điểm 17) tại trang web: mybk.hcmut.edu.vn >> tin sinh viên >> Bảng điểm. Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần.",
+        "question": "Tôi có thể xem thêm các quy định liên quan đến rút môn ở đâu",
+        "answers": {
+          "text": [
+            "Quy định: Xem chi tiết tại trang hcmut.edu.vn >> Đào tạo >> Quy chế - quy định >> Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần."
+          ],
+          "answer_start": [
+            262
+          ],
+          "answer_end": [
+            316
+          ]
+        }
+      }
+    ]
+  },
+  "validation": {
+    "data": [
+      {
+        "id": "",
+        "title": "Rút môn học",
+        "context": "",
+        "question": "",
+        "answers": {
+          "text": [],
+          "answer_start": []
+        }
+      }
+    ]
+  }
+}

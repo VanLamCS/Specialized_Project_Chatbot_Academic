@@ -1,0 +1,189 @@
+{
+  "train": {
+    "version": "1.1.0",
+    "data": [
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Hồ sơ cần nộp khi xác minh văn bằng gồm những gì?",
+        "answers": {
+          "text": [
+            "1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch)."
+          ],
+          "answer_start": [
+            23
+          ],
+          "answer_end": [
+            99
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Bản sao bằng tốt nghiệp cần được xác nhận ở đâu?",
+        "answers": {
+          "text": [
+            "có thể chứng thực tại Phòng Đào tạo)"
+          ],
+          "answer_start": [
+            53
+          ],
+          "answer_end": [
+            63
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Bản dịch tiếng Anh bằng cấp và bảng điểm do ai thực hiện?",
+        "answers": {
+          "text": [
+            "(bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch)."
+          ],
+          "answer_start": [
+            85
+          ],
+          "answer_end": [
+            99
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Trong trường hợp nào thì không cần dịch bằng và bảng điểm sang tiếng Anh?",
+        "answers": {
+          "text": [
+            "Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch."
+          ],
+          "answer_start": [
+            99
+          ],
+          "answer_end": [
+            115
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Hồ sơ sau khi hoàn thành sẽ được gửi đi bởi ai?",
+        "answers": {
+          "text": [
+            "giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài."
+          ],
+          "answer_start": [
+            133
+          ],
+          "answer_end": [
+            156
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Hồ sơ sẽ được gửi đi bằng hình thức nào?",
+        "answers": {
+          "text": [
+            "Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài."
+          ],
+          "answer_start": [
+            115
+          ],
+          "answer_end": [
+            156
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Có cần chứng thực giấy tờ không?",
+        "answers": {
+          "text": [
+            "Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo)"
+          ],
+          "answer_start": [
+            43
+          ],
+          "answer_end": [
+            63
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Hồ sơ được gửi đi bằng phương thức gì?",
+        "answers": {
+          "text": [
+            "Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên để tự gửi đến trường/tổ chức nước ngoài."
+          ],
+          "answer_start": [],
+          "answer_end": []
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Ai là người liên hệ Phòng Đào tạo?",
+        "answers": {
+          "text": [
+            "Cựu sinh viên (hoặc người thân)"
+          ],
+          "answer_start": [
+            1
+          ],
+          "answer_end": [
+            10
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "",
+        "context": "Cựu sinh viên (hoặc người thân) đem đến Phòng Đào tạo bộ hồ sơ bao gồm: 1. Biểu mẫu yêu cầu xác minh của trường/tổ chức nước ngoài (nếu có) 2. Bằng (bản sao y có chứng thực, có thể chứng thực tại Phòng Đào tạo) 3. Bản sao Học Bạ (Bảng điểm) đăng ký in tại Phòng Đào tạo 4. Bằng và Bảng điểm (bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch). Nếu bằng, bảng điểm đã có tiếng Anh thì không cần bản dịch. Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong, giao cho cựu sinh viên (hoặc người thân) để tự gửi đến trường/tổ chức nước ngoài. Liên hệ: Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG-HCM Phòng 101A1, 268 Lý Thường Kiệt, Phường 14, Quận 10, TP.HCM",
+        "question": "Bảng điểm cần được xác nhận ở đâu?",
+        "answers": {
+          "text": [
+            "đăng ký in tại Phòng Đào tạo"
+          ],
+          "answer_start": [
+            73
+          ],
+          "answer_end": [
+            80
+          ]
+        }
+      }
+    ]
+  },
+  "validation": {
+    "version": "1.1.0",
+    "data": [
+      {
+        "id": "",
+        "title": "",
+        "context": "",
+        "question": "",
+        "answers": {
+          "text": [],
+          "answer_start": [],
+          "answer_end": []
+        }
+      }
+    ]
+  }
+}

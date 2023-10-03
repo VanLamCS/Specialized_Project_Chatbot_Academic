@@ -3,7 +3,7 @@
     "version": "1.1.0",
     "data": [
       {
-        "id": "",
+        "id": "32f8c327-b91b-4143-8a82-87b3f2165dc6",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Làm thế nào để đăng ký Thông tin Văn bằng?",
@@ -20,7 +20,7 @@
         }
       },
       {
-        "id": "",
+        "id": "cee3561b-fe99-43b6-a0e3-86cbe718fa6b",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Làm thế nào để kiểm tra tình trạng đăng ký văn bằng?",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "id": "",
+        "id": "55ae8ebc-9190-4d51-a221-3cf5513f2b94",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Sinh Viên bị mất bằng THPT phải làm gì?",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "",
+        "id": "bf707e1e-9f3f-49b4-bf4c-3cf63b2c2c79",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Nếu thông tin văn bằng không hợp lệ thì phải làm gì?",
@@ -71,7 +71,7 @@
         }
       },
       {
-        "id": "",
+        "id": "b25b9042-4118-4889-8c8e-2f22be8d5e34",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Nếu bản sao bằng THPT không có số hiệu thì làm thế nào?",
@@ -88,7 +88,7 @@
         }
       },
       {
-        "id": "",
+        "id": "b25bcea6-b73d-4f9c-8218-18fe1a661b29",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Bước cuối cùng sau khi tra cứu số hiệu văn bằng là gì?",
@@ -105,7 +105,7 @@
         }
       },
       {
-        "id": "",
+        "id": "f526ed05-16ff-40a9-a873-85824f6298a2",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Đăng ký thông tin văn bằng ở mục nào trên trang web?",
@@ -122,7 +122,7 @@
         }
       },
       {
-        "id": "",
+        "id": "06df1349-6395-425e-9913-72a1cef8d925",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Thông tin văn bằng không hợp lệ phải làm gì?",
@@ -139,7 +139,7 @@
         }
       },
       {
-        "id": "",
+        "id": "1a4864e6-e53b-4fae-a922-5285340151e3",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Bước đầu tiên khi bản sao bằng THPT không có số hiệu là gì?",
@@ -156,7 +156,7 @@
         }
       },
       {
-        "id": "",
+        "id": "df3c1462-2794-46c2-8141-78099f5d758c",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Để xem chi tiết về thông tin văn bằng phải làm sao?",
@@ -173,7 +173,7 @@
         }
       },
       {
-        "id": "",
+        "id": "625cfa2d-30c9-4778-8899-85525354ecc3",
         "title": "",
         "context": "Sinh viên đăng ký thông tin văn bằng tại trang hcmut.edu.vn >> Ứng dụng cho Sinh viên >> Đăng ký thông tin Văn bằng. Sinh viên xem chi tiết tại trang web hcmut.edu.vn >> Thông báo >> PHÒNG ĐÀO TẠO >> Tổng kiểm tra văn bằng đầu vào và số hóa hồ sơ sinh viên. Lưu ý:  1) Trường hợp SV bị mất hoặc thất lạc bằng THPT, vui lòng liên hệ về Sở GD&ĐT để xin cấp lại. 2) Các trường hợp đăng ký Thông tin văn bằng được xác nhận tình trạng “không hợp lệ” để khai lại thông tin văn bằng SV vui lòng chọn dấu “X” góc bên trái của mã phiếu đăng ký để hủy phiếu và đăng ký lại Thông tin Văn bằng. 3) Trường hợp bản sao bằng THPT do Sở GD&ĐT cấp không có số hiệu, SV làm theo 1 trong các hướng dẫn sau: - SV liên hệ về Trường THPT hoặc Sở GD&ĐT để xin thông tin số hiệu văn bằng; - - SV tra cứu số hiệu văn bằng tại cổng thông tin điện tử của Sở GD&ĐT. - Sau đó, SV ghi tay số hiệu văn bằng vào bản sao THPT -> SV chụp hình và đăng ký lại Thông tin Văn bằng.",
         "question": "Các lưu ý về đăng kí văn bằng là gì?",

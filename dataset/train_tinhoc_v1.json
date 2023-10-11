@@ -1,0 +1,557 @@
+{
+  "train": {
+    "version": "1.1.0",
+    "data": [
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa.",
+        "question": "Tốt nghiệp có cần chứng chỉ công nghệ thông tin không?",
+        "answers": {
+          "text": [
+            "Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint"
+          ],
+          "answer_start": [],
+          "answer_end": []
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa.",
+        "question": "Có chuẩn công nghệ thông tin qua từng năm không?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai."
+          ],
+          "answer_start": [
+            65
+          ],
+          "answer_end": [
+            95
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa.",
+        "question": "Có chuẩn công nghệ thông tin qua từng năm không?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai."
+          ],
+          "answer_start": [
+            65
+          ],
+          "answer_end": [
+            95
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Làm sao để đạt chuẩn?",
+        "answers": {
+          "text": [
+            "Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa."
+          ],
+          "answer_start": [
+            121
+          ],
+          "answer_end": [
+            291
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Đơn vị nào tổ chức kì thi?",
+        "answers": {
+          "text": [
+            "Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên."
+          ],
+          "answer_start": [
+            193
+          ],
+          "answer_end": [
+            217
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Thời hạn bằng có giá trị sau khi thi là bao lâu?",
+        "answers": {
+          "text": [
+            "Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa."
+          ],
+          "answer_start": [
+            247
+          ],
+          "answer_end": [
+            291
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Có bao nhiêu môn thi cần đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin?",
+        "answers": {
+          "text": [
+            "Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint."
+          ],
+          "answer_start": [
+            12
+          ],
+          "answer_end": [
+            57
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau bao nhiêu năm học?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai."
+          ],
+          "answer_start": [
+            65
+          ],
+          "answer_end": [
+            95
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Để được đăng ký học phần Khoá luận tốt nghiệp, sinh viên cần phải làm gì?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp."
+          ],
+          "answer_start": [
+            95
+          ],
+          "answer_end": [
+            114
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Sinh viên có thể nộp chứng chỉ nào để hoàn tất chuẩn kỹ năng ứng dụng Công nghệ thông tin?",
+        "answers": {
+          "text": [
+            "Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này."
+          ],
+          "answer_start": [
+            162
+          ],
+          "answer_end": [
+            193
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Có bao nhiêu lần kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ miễn phí cho sinh viên trong năm thứ nhất?",
+        "answers": {
+          "text": [
+            "Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất."
+          ],
+          "answer_start": [
+            121
+          ],
+          "answer_end": [
+            162
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Có bao nhiêu lần thi chứng chỉ MOS miễn phí cho sinh viên chính quy?",
+        "answers": {
+          "text": [
+            "Mỗi sinh viên chính quy được miễn phí một lần thi."
+          ],
+          "answer_start": [
+            217
+          ],
+          "answer_end": [
+            229
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Thời hạn bảo lưu kết quả sau khi hoàn tất chuẩn nội bộ là bao lâu?",
+        "answers": {
+          "text": [
+            "Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa."
+          ],
+          "answer_start": [
+            247
+          ],
+          "answer_end": [
+            291
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Các môn thi nào cần đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS ở 02 bài thi là Excel và PowerPoint."
+          ],
+          "answer_start": [],
+          "answer_end": []
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Sinh viên cần đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin sau bao nhiêu năm học?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai."
+          ],
+          "answer_start": [
+            65
+          ],
+          "answer_end": [
+            95
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Khi nào sinh viên cần đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp."
+          ],
+          "answer_start": [
+            95
+          ],
+          "answer_end": [
+            114
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Làm thế nào để sinh viên có thể hoàn tất chuẩn kỹ năng ứng dụng Công nghệ thông tin?",
+        "answers": {
+          "text": [
+            "Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này."
+          ],
+          "answer_start": [
+            121
+          ],
+          "answer_end": [
+            193
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Ai tổ chức kì thi để sinh viên có thể đạt chứng chỉ MOS?",
+        "answers": {
+          "text": [
+            "Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên."
+          ],
+          "answer_start": [
+            193
+          ],
+          "answer_end": [
+            217
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Sinh viên chính quy có được miễn phí bao nhiêu lần thi chứng chỉ MOS?",
+        "answers": {
+          "text": [
+            "Mỗi sinh viên chính quy được miễn phí một lần thi."
+          ],
+          "answer_start": [
+            217
+          ],
+          "answer_end": [
+            229
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Thời hạn bảo lưu kết quả sau khi hoàn tất chuẩn nội bộ là bao lâu?",
+        "answers": {
+          "text": [
+            "Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa."
+          ],
+          "answer_start": [
+            247
+          ],
+          "answer_end": [
+            291
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN.",
+        "question": "Có bất kỳ phí nào cho kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ không?",
+        "answers": {
+          "text": [
+            "Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất."
+          ],
+          "answer_start": [
+            121
+          ],
+          "answer_end": [
+            162
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Điều gì xảy ra nếu sinh viên đã hoàn tất chuẩn nội bộ và đã qua 05 năm?",
+        "answers": {
+          "text": [
+            "Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa."
+          ],
+          "answer_start": [
+            247
+          ],
+          "answer_end": [
+            291
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Có bất kỳ yêu cầu gì đối với chứng chỉ MOS?",
+        "answers": {
+          "text": [
+            "sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint."
+          ],
+          "answer_start": [
+            18
+          ],
+          "answer_end": [
+            57
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Sinh viên cần đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin để làm gì?",
+        "answers": {
+          "text": [
+            "Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp."
+          ],
+          "answer_start": [
+            95
+          ],
+          "answer_end": [
+            114
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Có bất kỳ phí nào cho việc nộp chứng chỉ MOS?",
+        "answers": {
+          "text": [
+            "sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint."
+          ],
+          "answer_start": [
+            18
+          ],
+          "answer_end": [
+            57
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Có bất kỳ hạn chế nào về việc nộp chứng chỉ MOS?",
+        "answers": {
+          "text": [
+            "sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint."
+          ],
+          "answer_start": [
+            18
+          ],
+          "answer_end": [
+            57
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Người nào được miễn phí một lần thi chứng chỉ MOS?",
+        "answers": {
+          "text": [
+            "Mỗi sinh viên chính quy được miễn phí một lần thi."
+          ],
+          "answer_start": [
+            217
+          ],
+          "answer_end": [
+            229
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. SV vui lòng xem chi tiết tại phụ lục 9. QUY ĐỊNH VỀ KỸ NĂNG CÔNG NGHỆ THÔNG TIN ",
+        "question": "Có bất kỳ hạn chế nào về số lần nộp chứng chỉ MOS?",
+        "answers": {
+          "text": [
+            "sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint."
+          ],
+          "answer_start": [
+            18
+          ],
+          "answer_end": [
+            57
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin.",
+        "question": "CCCNTT cơ bản và IC3 có tương đương với nhau không?",
+        "answers": {
+          "text": [
+            "Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin."
+          ],
+          "answer_start": [
+            291
+          ],
+          "answer_end": [
+            328
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin.",
+        "question": "SV nộp chứng chỉ MOS thì có được tính là đã hoàn thành chứng chỉ tin học cơ bản hay không hay SV phải đạt song song 2 tín chỉ (cơ bản và nâng cao -MOS) thì mới được công nhận đã hoàn thành tín chỉ CNTT?",
+        "answers": {
+          "text": [
+            "Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin."
+          ],
+          "answer_start": [
+            291
+          ],
+          "answer_end": [
+            328
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin.",
+        "question": "Đối với trường hợp có chững chỉ MOS để được đăng ký học phần khóa luận tốt nghiệp mà qua thời gian đăng ký thì trường có thể xem xét ko xét điều kiện K221?",
+        "answers": {
+          "text": [
+            "Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin."
+          ],
+          "answer_start": [
+            291
+          ],
+          "answer_end": [
+            328
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Chuẩn tin học",
+        "context": "6. Chuẩn kỹ năng ứng dụng Công nghệ thông tin: Từ khóa 2021, sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản và đạt chứng chỉ MOS (Microsoft Office Specialist) ở 02 bài thi là Excel và PowerPoint. 7. Các điều kiện ràng buộc: Sinh viên phải đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản sau năm thứ nhất để có thể được xếp trình độ năm thứ hai. Sinh viên phải đạt chứng chỉ MOS để được đăng ký học phần Khoá luận tốt nghiệp. 8. Cách thức đạt chuẩn: Nhà trường tổ chức các kỳ kiểm tra kỹ năng ứng dụng Công nghệ thông tin nội bộ, không cấp chứng chỉ, miễn phí một lần cho toàn bộ các sinh viên chính quy trong năm thứ nhất. Sinh viên có thể nộp các chứng chỉ Ứng dụng Công nghệ thông tin cơ bản hợp lệ hoặc chứng chỉ quốc tế IC3 để hoàn tất chuẩn này. Trường phối hợp với các đơn vị có trách nhiệm tổ chức các kỳ thi lấy chứng chỉ MOS cho sinh viên. Mỗi sinh viên chính quy được miễn phí một lần thi. Sinh viên có thể nộp các chứng chỉ MOS tương ứng để hoàn tất chuẩn này. Sinh viên đã hoàn tất chuẩn nội bộ, trong đối đa 05 năm, được bảo lưu kết quả khi trúng tuyển đầu vào của nhà trường hoặc chuyển sang hình thức vừa làm vừa học, đào tạo từ xa. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin.",
+        "question": "Trường có tổ chức ôn thi MOS cho sinh viên không?",
+        "answers": {
+          "text": [
+            "Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Phụ lục 9. Quy định về kỹ năng công nghệ thông tin."
+          ],
+          "answer_start": [
+            291
+          ],
+          "answer_end": [
+            328
+          ]
+        }
+      }
+    ]
+  },
+  "validation": {
+    "data": [
+      {
+        "id": "",
+        "title": "Rút môn học",
+        "context": "",
+        "question": "",
+        "answers": {
+          "text": [],
+          "answer_start": []
+        }
+      }
+    ]
+  }
+}

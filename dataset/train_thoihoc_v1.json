@@ -1,0 +1,361 @@
+{
+  "train": {
+    "version": "1.1.0",
+    "data": [
+      {
+        "id": "",
+        "title": "Thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức như thế nào?",
+        "answers": {
+          "text": [
+            "Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học."
+          ],
+          "answer_start": [
+            233
+          ],
+          "answer_end": [
+            300
+          ]
+        }
+      },
+      {
+        "id": "",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ như thế nào?",
+        "answers": {
+          "text": [
+            "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ."
+          ],
+          "answer_start": [
+            259
+          ],
+          "answer_end": [
+            276
+          ]
+        }
+      },
+      {
+        "id": "51",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức như thế nào?",
+        "answers": {
+          "text": [
+            "Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học."
+          ],
+          "answer_start": [
+            233
+          ],
+          "answer_end": [
+            300
+          ]
+        }
+      },
+      {
+        "id": "52",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ như thế nào?",
+        "answers": {
+          "text": [
+            "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ."
+          ],
+          "answer_start": [
+            259
+          ],
+          "answer_end": [
+            276
+          ]
+        }
+      },
+      {
+        "id": "53",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Thời gian tối đa mà sinh viên có thể nghỉ học tạm thời là bao lâu?",
+        "answers": {
+          "text": [
+            "Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ."
+          ],
+          "answer_start": [
+            191
+          ],
+          "answer_end": [
+            259
+          ]
+        }
+      },
+      {
+        "id": "54",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Sinh viên phải thực hiện thủ tục gì sau thời hạn nghỉ học tạm thời?",
+        "answers": {
+          "text": [
+            "Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học."
+          ],
+          "answer_start": [
+            276
+          ],
+          "answer_end": [
+            300
+          ]
+        }
+      },
+      {
+        "id": "57",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Khi nào sinh viên có thể xin thôi học?",
+        "answers": {
+          "text": [
+            "Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác."
+          ],
+          "answer_start": [
+            318
+          ],
+          "answer_end": [
+            372
+          ]
+        }
+      },
+      {
+        "id": "58",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Sinh viên đã thôi học vì lý do cá nhân phải làm gì nếu muốn quay trở lại học?",
+        "answers": {
+          "text": [
+            "Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác."
+          ],
+          "answer_start": [
+            346
+          ],
+          "answer_end": [
+            372
+          ]
+        }
+      },
+      {
+        "id": "59",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Khi nào sinh viên có thể xin nghỉ học tạm thời?",
+        "answers": {
+          "text": [
+            "a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ."
+          ],
+          "answer_start": [
+            37
+          ],
+          "answer_end": [
+            259
+          ]
+        }
+      },
+      {
+        "id": "60",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Có bao nhiêu lý do khiến sinh viên có thể nghỉ học tạm thời?",
+        "answers": {
+          "text": [
+            "a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ."
+          ],
+          "answer_start": [
+            37
+          ],
+          "answer_end": [
+            259
+          ]
+        }
+      },
+      {
+        "id": "61",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Thời gian tối đa mà sinh viên có thể nghỉ học tạm thời là bao lâu?",
+        "answers": {
+          "text": [
+            "Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường."
+          ],
+          "answer_start": [
+            191
+          ],
+          "answer_end": [
+            233
+          ]
+        }
+      },
+      {
+        "id": "62",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Sinh viên phải thực hiện thủ tục gì sau thời hạn nghỉ học tạm thời?",
+        "answers": {
+          "text": [
+            "Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học."
+          ],
+          "answer_start": [
+            276
+          ],
+          "answer_end": [
+            300
+          ]
+        }
+      },
+      {
+        "id": "63",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Sinh viên sẽ bị xoá tên khi nào?",
+        "answers": {
+          "text": [
+            "Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn."
+          ],
+          "answer_start": [
+            300
+          ],
+          "answer_end": [
+            314
+          ]
+        }
+      },
+      {
+        "id": "64",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Sinh viên thôi học vì lý do cá nhân có thể quay trở lại học như thế nào?",
+        "answers": {
+          "text": [
+            "Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác."
+          ],
+          "answer_start": [
+            346
+          ],
+          "answer_end": [
+            372
+          ]
+        }
+      },
+      {
+        "id": "64",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Khi nào nộp hồ sơ nghỉ học tạm thời?",
+        "answers": {
+          "text": [
+            "Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ."
+          ],
+          "answer_start": [
+            233
+          ],
+          "answer_end": [
+            276
+          ]
+        }
+      },
+      {
+        "id": "64",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Có cần đóng học phí trong kì nghỉ học học?",
+        "answers": {
+          "text": [
+            "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ."
+          ],
+          "answer_start": [
+            259
+          ],
+          "answer_end": [
+            276
+          ]
+        }
+      },
+      {
+        "id": "64",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Tôi học được 1 thời gian sau đó nghỉ học thì có đóng học phí không?",
+        "answers": {
+          "text": [
+            "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ."
+          ],
+          "answer_start": [
+            259
+          ],
+          "answer_end": [
+            276
+          ]
+        }
+      },
+      {
+        "id": "64",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Sau bao lâu phải đi học lại từ khi xin nghỉ tạm thời?",
+        "answers": {
+          "text": [
+            "Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn."
+          ],
+          "answer_start": [
+            276
+          ],
+          "answer_end": [
+            314
+          ]
+        }
+      },
+      {
+        "id": "64",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Thôi học khác gì nghỉ học?",
+        "answers": {
+          "text": [
+            "Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác."
+          ],
+          "answer_start": [
+            346
+          ],
+          "answer_end": [
+            372
+          ]
+        }
+      },
+      {
+        "id": "64",
+        "title": "Nghỉ học tạm thời, thôi học",
+        "context": "Điều 32.Nghỉ học tạm thời, thôi học 32.1 Nghỉ học tạm thời Sinh viên được nghỉ học tạm thời và bảo lưu kết quả đã học trong các trường hợp sau: a) Được điều động vào lực lượng vũ trang; b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự các kỳ thi, giải đấu quốc tế, hoặc thực hiện các nhiệm vụ quốc gia, của ngành; c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế; d) Vì lý do cá nhân khác nhưng đã phải học tối thiểu 01 học kỳ ở cơ sở đào tạo và không thuộc các trường hợp bị xem xét buộc thôi học, hoặc xem xét kỷ luật. Thời gian nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức. Sinh viên chỉ được phép nghỉ học tạm thời vì nhu cầu cá nhân từng học kỳ và được gia hạn tối đa 01 học kỳ kế tiếp và tối đa 04 học kỳ trong suốt thời gian học tại trường. Thời điểm nộp hồ sơ nghỉ học tạm thời vì lý do cá nhân chậm nhất là tuần thứ 04 tính từ đầu học kỳ. Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ. Sau thời hạn nghỉ học tạm thời, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. Sinh viên sẽ bị xoá tên nếu nghỉ học tạm thời quá hạn. 32.2 Thôi học Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật. Sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học phải dự tuyển đầu vào như những thí sinh khác.",
+        "question": "Có trường hợp nào không được xin thôi học không?",
+        "answers": {
+          "text": [
+            "Sinh viên được xin thôi học vì lý do cá nhân, trừ trường hợp bị xem xét buộc thôi học hoặc xem xét kỷ luật."
+          ],
+          "answer_start": [
+            318
+          ],
+          "answer_end": [
+            346
+          ]
+        }
+      }
+    ]
+  },
+  "validation": {
+    "data": [
+      {
+        "id": "",
+        "title": "",
+        "context": "",
+        "question": "",
+        "answers": {
+          "text": [],
+          "answer_start": []
+        }
+      }
+    ]
+  }
+}

@@ -1111,7 +1111,8 @@
         "question": "",
         "answers": {
           "text": [],
-          "answer_start": []
+          "answer_start": [],
+          "answer_end": []
         }
       }
     ]

@@ -1,0 +1,362 @@
+{
+  "train": {
+    "version": "1.1.0",
+    "data": [
+      {
+        "id": "fcc0e896-2eaf-4204-9296-45bad7ec089b",
+        "title": "Chuẩn quy định",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm những thành phần nào?",
+        "answers": {
+          "text": [
+            "Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên."
+          ],
+          "answer_start": [
+            24
+          ],
+          "answer_end": [
+            97
+          ]
+        }
+      },
+      {
+        "id": "402",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần được lập bởi ai và trong trường hợp nào?",
+        "answers": {
+          "text": [
+            "Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...)."
+          ],
+          "answer_start": [
+            280
+          ],
+          "answer_end": [
+            384
+          ]
+        }
+      },
+      {
+        "id": "403",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?",
+        "answers": {
+          "text": [
+            "Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa."
+          ],
+          "answer_start": [
+            399
+          ],
+          "answer_end": [
+            430
+          ]
+        }
+      },
+      {
+        "id": "404",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm các bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu và theo điều kiện nào?",
+        "answers": {
+          "text": [
+            "(Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai  bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15."
+          ],
+          "answer_start": [
+            143
+          ],
+          "answer_end": [
+            208
+          ]
+        }
+      },
+      {
+        "id": "405",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Nội dung ghi chú của các giảng viên trong hồ sơ học phần liên quan đến điều gì?",
+        "answers": {
+          "text": [
+            "Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên."
+          ],
+          "answer_start": [
+            208
+          ],
+          "answer_end": [
+            241
+          ]
+        }
+      },
+      {
+        "id": "406",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Theo quy định, các tài liệu và loại tài liệu liên quan đến học vụ phải được lưu trữ trong khoảng thời gian nào?",
+        "answers": {
+          "text": [
+            "Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo."
+          ],
+          "answer_start": [
+            437
+          ],
+          "answer_end": [
+            489
+          ]
+        }
+      },
+      {
+        "id": "408",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm đề cương học phần. Đề cương học phần được phụ trách bởi ai?",
+        "answers": {
+          "text": [
+            "Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách."
+          ],
+          "answer_start": [
+            280
+          ],
+          "answer_end": [
+            309
+          ]
+        }
+      },
+      {
+        "id": "409",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Đánh giá này được thực hiện bởi ai?",
+        "answers": {
+          "text": [
+            "Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách."
+          ],
+          "answer_start": [
+            280
+          ],
+          "answer_end": [
+            309
+          ]
+        }
+      },
+      {
+        "id": "410",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên nhỏ hơn 15?",
+        "answers": {
+          "text": [
+            "(Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15."
+          ],
+          "answer_start": [
+            143
+          ],
+          "answer_end": [
+            208
+          ]
+        }
+      },
+      {
+        "id": "411",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm bài làm của sinh viên ở các mức xấu, trung bình, tốt. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?",
+        "answers": {
+          "text": [
+            "(Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15."
+          ],
+          "answer_start": [
+            143
+          ],
+          "answer_end": [
+            208
+          ]
+        }
+      },
+      {
+        "id": "412",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm bảng điểm. Bản gốc của bảng điểm được lưu trữ theo quy định của ai?",
+        "answers": {
+          "text": [
+            "Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo."
+          ],
+          "answer_start": [
+            437
+          ],
+          "answer_end": [
+            489
+          ]
+        }
+      },
+      {
+        "id": "413",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ: Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm các đề và đáp án của bài tập, thực hành, thí nghiệm. Các đề và đáp án này phải được lưu trữ theo quy định nào?",
+        "answers": {
+          "text": [
+            "Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo."
+          ],
+          "answer_start": [
+            438
+          ],
+          "answer_end": [
+            490
+          ]
+        }
+      },
+      {
+        "id": "414",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?",
+        "answers": {
+          "text": [
+            "Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa."
+          ],
+          "answer_start": [
+            399
+          ],
+          "answer_end": [
+            430
+          ]
+        }
+      },
+      {
+        "id": "415",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Theo quy định, các tài liệu và loại tài liệu liên quan đến học vụ phải được lưu trữ theo quy định của ai?",
+        "answers": {
+          "text": [
+            "Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo."
+          ],
+          "answer_start": [
+            437
+          ],
+          "answer_end": [
+            489
+          ]
+        }
+      },
+      {
+        "id": "416",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?",
+        "answers": {
+          "text": [
+            "(Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai  bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15."
+          ],
+          "answer_start": [
+            143
+          ],
+          "answer_end": [
+            208
+          ]
+        }
+      },
+      {
+        "id": "417",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm bài làm của sinh viên ở các mức xấu, trung bình, tốt. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên ít hơn 15?",
+        "answers": {
+          "text": [
+            "(Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai  bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15."
+          ],
+          "answer_start": [
+            143
+          ],
+          "answer_end": [
+            208
+          ]
+        }
+      },
+      {
+        "id": "418",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm các bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?",
+        "answers": {
+          "text": [
+            "(Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai  bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15."
+          ],
+          "answer_start": [
+            143
+          ],
+          "answer_end": [
+            208
+          ]
+        }
+      },
+      {
+        "id": "419",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm các đề và đáp án của bài tập, thực hành, thí nghiệm. Các đề và đáp án này phải được lưu trữ theo quy định của ai?",
+        "answers": {
+          "text": [
+            "Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo."
+          ],
+          "answer_start": [
+            437
+          ],
+          "answer_end": [
+            489
+          ]
+        }
+      },
+      {
+        "id": "420",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao gồm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Đánh giá này được thực hiện bởi ai?",
+        "answers": {
+          "text": [
+            "Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ."
+          ],
+          "answer_start": [
+            384
+          ],
+          "answer_end": [
+            399
+          ]
+        }
+      },
+      {
+        "id": "420",
+        "title": "Báo cáo, lưu trữ học vụ",
+        "context": "Chương 9: BÁO CÁO, LƯU TRỮ HỌC VỤ Điều 40.Hồ sơ học phần: Hồ sơ học phần bao gồm: Đề cương học phần. Bộ slide bài giảng. (Bản sao) Bảng điểm học phần. Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần. Đầu bài và hướng dẫn chấm bài của các bài tập lớn. Bài làm các bài tập lớn của sinh viên. Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài. Đề kiểm tra, đề thi và đáp án đề kiểm tra, đề thi. (Bản sao) Bài làm của sinh viên (đối với các học phần có thi tự luận). Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu, trung bình, tốt; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15. Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy, trong đó có phân tích về phổ điểm tổng kết của sinh viên. Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm. Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, ...) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của sinh viên, ghi chú, ...). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ. Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa. Điều 41.Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần, bài làm, bảng điểm, ... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo.",
+        "question": "Hồ sơ học phần bao được lưu trữ ở đâu?",
+        "answers": {
+          "text": [
+            "Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa."
+          ],
+          "answer_start": [
+            399
+          ],
+          "answer_end": [
+            430
+          ]
+        }
+      }
+    ]
+  },
+  "validation": {
+    "data": [
+      {
+        "id": "",
+        "title": "",
+        "context": "",
+        "question": "",
+        "answers": {
+          "text": [],
+          "answer_start": [],
+          "answer_end": []
+        }
+      }
+    ]
+  }
+}

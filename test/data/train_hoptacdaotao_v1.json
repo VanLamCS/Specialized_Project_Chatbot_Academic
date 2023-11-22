@@ -1,0 +1,157 @@
+{
+  "version": "1.1.0",
+  "data": [
+    {
+      "id": "45b077bb-d647-4b57-b08e-816828abddb0",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Sinh viên được tham gia trao đổi và tích lũy tín chỉ ở đâu?",
+      "answers": {
+        "text": [
+          "Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia."
+        ],
+        "answer_start": [42],
+        "answer_end": [307]
+      }
+    },
+    {
+      "id": "ef3b3f92-9b9b-4341-817d-be25a4694a67",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Trường quyết định công nhận chuyển đổi tín chỉ cho sinh viên dựa trên điều gì?",
+      "answers": {
+        "text": [
+          "Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên."
+        ],
+        "answer_start": [308],
+        "answer_end": [583]
+      }
+    },
+    {
+      "id": "67f77f41-166e-439c-8def-a473206f7f94",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Sinh viên phải đăng ký học phần cho các học phần tương ứng nào khi tham gia trao đổi?",
+      "answers": {
+        "text": [
+          "Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học."
+        ],
+        "answer_start": [584],
+        "answer_end": [727]
+      }
+    },
+    {
+      "id": "2e9cb265-de25-4204-a016-637d99a3f7c3",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?",
+      "answers": {
+        "text": [
+          "Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác."
+        ],
+        "answer_start": [728],
+        "answer_end": [982]
+      }
+    },
+    {
+      "id": "4901d69e-677a-4cc6-bebc-8a2d689256b9",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Nếu trao đổi ra nước ngoài, sinh viên phải tuân thủ điều gì?",
+      "answers": {
+        "text": [
+          "Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam."
+        ],
+        "answer_start": [983],
+        "answer_end": [1137]
+      }
+    },
+    {
+      "id": "0c3791a9-8484-4d53-95d0-11120cf84d9a",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Học phí các học phần đăng ký trong trao đổi được miễn hoặc giảm dựa trên điều gì?",
+      "answers": {
+        "text": [
+          "Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia."
+        ],
+        "answer_start": [1138],
+        "answer_end": [1259]
+      }
+    },
+    {
+      "id": "4a84bb9a-360a-42f6-a0ab-491adc0105ed",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Thời gian trao đổi được tính vào thời gian nào?",
+      "answers": {
+        "text": ["Thời gian trao đổi tính vào thời gian đào tạo chính thức."],
+        "answer_start": [1260],
+        "answer_end": [1317]
+      }
+    },
+    {
+      "id": "a2b56e96-c8f7-4cd9-b657-d6f7b3466124",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Sinh viên tham gia trao đổi có được miễn học phí không?",
+      "answers": {
+        "text": [
+          "Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia."
+        ],
+        "answer_start": [1138],
+        "answer_end": [1259]
+      }
+    },
+    {
+      "id": "ac8a8050-5bf8-4c70-9d1d-a1344a4a3576",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Trong trường hợp trao đổi ra nước ngoài, có quy định cụ thể nào mà sinh viên cần tuân theo?",
+      "answers": {
+        "text": [
+          "Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia."
+        ],
+        "answer_start": [983],
+        "answer_end": [1259]
+      }
+    },
+    {
+      "id": "24950be8-5009-42b4-baae-2b898ab3c50d",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?",
+      "answers": {
+        "text": [
+          "Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác."
+        ],
+        "answer_start": [728],
+        "answer_end": [982]
+      }
+    },
+    {
+      "id": "9fc69f7d-0b65-47a0-960a-4490bc0fed44",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Sinh viên có được miễn học phí khi tham gia trao đổi?",
+      "answers": {
+        "text": [
+          "Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia."
+        ],
+        "answer_start": [1138],
+        "answer_end": [1259]
+      }
+    },
+    {
+      "id": "6ca5dbdf-b8cf-4ed8-8f1f-f8d138b719f3",
+      "title": "Trao đổi và hợp tác trong đào tạo",
+      "context": "Điều 36.Trao đổi và hợp tác trong đào tạo Sinh viên của trường được tham gia trao đổi, tích lũy tín chỉ ở các cơ sở đào tạo có ký kết hợp tác với nhà trường, các đơn vị thành viên của Đại học Quốc Gia Thành phố Hồ Chí Minh, các cơ sở đào tạo nằm trong các chương trình trao đổi sinh viên trường đã tham gia. Trên cơ sở đối sánh chuẩn đầu ra, nội dung và khối lượng học tập, cách thức đánh giá học phần, các điều kiện bảo đảm chất lượng thực hiện chương trình trao đổi và kết quả học tập của sinh viên sau khi trao đổi, trường ra quyết định công nhận chuyển đổi tín chỉ cho sinh viên. Sinh viên phải đăng ký học phần cho các học phần tương ứng dự kiến được công nhận chuyển đổi tín chỉ. Các học phần này không được xếp lịch học. Trong thời gian trao đổi, sinh viên được công nhận là sinh viên chính thức của trường, được miễn các hoạt động rèn luyện sinh viên của trường, nhưng phải tuân thủ đầy đủ các quy định, bao gồm các hoạt động rèn luyện sinh viên (nếu có) của trường đối tác. Trường hợp trao đổi ra nước ngoài, sinh viên phải tuân thủ đầy đủ các quy định luật pháp của nước sở tại và các quy định quản lý du học sinh của Việt Nam. Học phí các học phần đăng ký này được miễn hoặc giảm tuỳ theo thoả thuận hợp tác hoặc chương trình mà sinh viên tham gia. Thời gian trao đổi tính vào thời gian đào tạo chính thức.",
+      "question": "Thời gian trao đổi có tính vào thời gian đào tạo không?",
+      "answers": {
+        "text": ["Thời gian trao đổi tính vào thời gian đào tạo chính thức."],
+        "answer_start": [1260],
+        "answer_end": [1317]
+      }
+    }
+  ]
+}

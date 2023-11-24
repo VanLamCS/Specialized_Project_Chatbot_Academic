@@ -1,0 +1,692 @@
+[
+  {
+    "id": "63f45ff3-730b-4253-baba-c65ff87cda1a",
+    "questions": [
+      "Danh sách các môn tương đương thay thế?"
+    ]
+  },
+  {
+    "id": "ef5077f0-656b-41d8-bd20-5e42c2e33ab0",
+    "questions": [
+      "Tại sao điểm trung bình tích lũy, số tín chỉ tích lũy trên cổng thông tin sinh viên / xem điểm chưa được cập nhật?"
+    ]
+  },
+  {
+    "id": "d1fe7d7b-c418-48cb-abbd-b4409b36625b",
+    "questions": [
+      "Khi đăng ký môn học, xét các học phần tốt nghiệp,... bị xét thiếu, cần phải làm gì?"
+    ]
+  },
+  {
+    "id": "2b0c24d4-2c06-4954-9548-1f0475361868",
+    "questions": [
+      "Ràng buộc điểm thành phần và điểm tổng kết?"
+    ]
+  },
+  {
+    "id": "cb3873d6-4d39-48f2-84b2-78d0669df135",
+    "questions": [
+      "Điểm đạt của các học phần tốt nghiệp?"
+    ]
+  },
+  {
+    "id": "f024cbbd-a30a-4136-b8fc-4aea075ce73e",
+    "questions": [
+      "Cách tính điểm học phần?"
+    ]
+  },
+  {
+    "id": "aba41839-7f1d-4e1d-9734-4883af6cbf93",
+    "questions": [
+      "Quy định về thang điểm áp dụng cho khóa 2021 trở về sau như thế nào?"
+    ]
+  },
+  {
+    "id": "04585bf9-e54a-4587-b204-fa4b7232ee43",
+    "questions": [
+      "Cách tính điểm thành phần, tính điểm học phần, điểm đặc biệt, đánh giá kết quả học tập, xếp loại học lực áp dụng từ Khóa 2021 trở đi như thế nào?"
+    ]
+  },
+  {
+    "id": "5d4c9289-b564-4430-8509-a648536943f3",
+    "questions": [
+      "Theo thông tin từ giảng viên thì giảng viên đã chỉnh sửa rồi nhưng hệ thống vẫn chưa cập nhật điểm? hoặc Giảng viên nhập sai điểm / Điểm không đúng / Khiếu nại điểm / Phúc tra lên điểm"
+    ]
+  },
+  {
+    "id": "1d70df38-432f-4e65-943c-ab50ea2307cf",
+    "questions": [
+      "Quy trình sửa điểm?"
+    ]
+  },
+  {
+    "id": "cb82f80f-2b0a-4d64-bf31-9c8c495ca6f1",
+    "questions": [
+      "Có vấn đề về điểm cần liên hệ ai để được hỗ trợ?"
+    ]
+  },
+  {
+    "id": "1679f1c9-f141-4638-b53d-d9adad07029c",
+    "questions": [
+      "Nếu em đã đạt, học cải thiện chứ không phải rớt môn học lại thì số tín chỉ học cải thiện đó có tính vào 5% số tín chỉ để hạ bậc xếp loại không?"
+    ]
+  },
+  {
+    "id": "6ad2b5fc-5d78-4f61-bbbd-2f65746cb6dd",
+    "questions": [
+      "SV muốn cải thiện điểm thì như thế nào?"
+    ]
+  },
+  {
+    "id": "2d554d17-0106-423c-8c0c-dc891a186668",
+    "questions": [
+      "Trên bảng điểm được in có in điểm (trung bình học kỳ) TBHK hay chỉ in điểm (trung bình tích lũy) TBTL? Và quy định một môn học chỉ xuất hiện một lần với số điểm cao nhất phải không?"
+    ]
+  },
+  {
+    "id": "a85c38fc-01f1-4e7d-9b5a-3813ce516f9d",
+    "questions": [
+      "Cách tính điểm trung bình tích lũy (ĐTBTL)?"
+    ]
+  },
+  {
+    "id": "f17248ad-1204-4afa-a034-0ed4f2f5d6c6",
+    "questions": [
+      "Điểm trung bình tích (ĐTBTL) lũy là gì?"
+    ]
+  },
+  {
+    "id": "d1d2211c-d151-4195-b459-c5a2aef49e82",
+    "questions": [
+      "\"Điểm cao nhất của các lần học\" là điểm gì (Điểm thành phần hay điểm tổng kết)?"
+    ]
+  },
+  {
+    "id": "a994fdce-46d4-42f2-b61c-c23acf092e57",
+    "questions": [
+      "Cách xem danh sách các môn tương đương thay thế?"
+    ]
+  },
+  {
+    "id": "4da9bb86-8b75-4603-928f-9788665cf639",
+    "questions": [
+      "Lý do điểm trung bình tích lũy, số tín chỉ tích lũy trên cổng thông tin sinh viên chưa được cập nhật?"
+    ]
+  },
+  {
+    "id": "579d292d-0b68-4453-bf3f-cf85908a27a5",
+    "questions": [
+      "Cần phải làm gì khi đăng ký môn học, xét các học phần tốt nghiệp,... bị xét thiếu?"
+    ]
+  },
+  {
+    "id": "d4a32b47-0eb8-4f72-8fa0-e9776985320c",
+    "questions": [
+      "Xem cách tính điểm thành phần, điểm học phần, điểm đặc biệt, đánh giá kết quả học tập, xếp loại học lực từ khóa 2021 trở đi ở đâu?"
+    ]
+  },
+  {
+    "id": "bbe3cf0d-8e7d-4cfb-b347-01784b1269f0",
+    "questions": [
+      "Quy trình sửa điểm như thế nào?"
+    ]
+  },
+  {
+    "id": "5102206c-d6af-4444-9b7c-5ebbe7bc30fe",
+    "questions": [
+      "Phải liên hệ ai để được hỗ trợ khi có vấn đề về điểm?"
+    ]
+  },
+  {
+    "id": "9ef47418-bee0-4eba-af53-4ffdad0df5b3",
+    "questions": [
+      "Muốn cải thiện điểm thì sinh viên cần phải làm gì?"
+    ]
+  },
+  {
+    "id": "ab64d72b-b868-4a05-a0cd-7f570365b35c",
+    "questions": [
+      "Trong bảng điểm sẽ có in những nội dung gì?"
+    ]
+  },
+  {
+    "id": "f3a69742-758b-41d0-9769-b22f314ec62f",
+    "questions": [
+      "Điểm trung bình tích lũy được tính như thế nào?"
+    ]
+  },
+  {
+    "id": "11505912-acf3-4f77-9430-3b7222d4113c",
+    "questions": [
+      "Số tín chỉ học cải thiện có tính vào 5% số tín chỉ để hạ bậc xếp loại không?"
+    ]
+  },
+  {
+    "id": "09df4c0a-742f-4dba-97d7-277a6fc75384",
+    "questions": [
+      "Làm thế nào để đánh giá sinh viên cho mỗi học phần?"
+    ]
+  },
+  {
+    "id": "c44d48c5-7f0e-429b-88ff-c4f98103f61e",
+    "questions": [
+      "Hệ thống điểm được sử dụng trong việc tính toán điểm học phần là gì?"
+    ]
+  },
+  {
+    "id": "b974ac19-8f42-47e8-beb7-aece1a2ffdcb",
+    "questions": [
+      "Điểm học phần được tính ra sao?"
+    ]
+  },
+  {
+    "id": "3ab687a5-71f0-4d13-8885-ff91c5f24cfe",
+    "questions": [
+      "Có những loại đạt phân mức nào?"
+    ]
+  },
+  {
+    "id": "7b13318b-1328-4cdc-b587-119f29386422",
+    "questions": [
+      "Các loại đạt không phân mức?"
+    ]
+  },
+  {
+    "id": "713940e8-ca42-4abd-a082-255a1ad02ecf",
+    "questions": [
+      "Các loại không đạt?"
+    ]
+  },
+  {
+    "id": "882c1ef1-a4b6-47b0-9bc8-fa4b89c73890",
+    "questions": [
+      "Điểm đặc biệt loại chữ không xếp vào điểm trung bình học tập?"
+    ]
+  },
+  {
+    "id": "9dcdb1df-2f01-4842-8099-558d23c3ea94",
+    "questions": [
+      "Điểm loại R áp dụng trong trường hợp nào?"
+    ]
+  },
+  {
+    "id": "552b3189-f468-4ede-a26a-acdf6984da5c",
+    "questions": [
+      "Điểm loại W áp dụng trong trường hợp nào?"
+    ]
+  },
+  {
+    "id": "ef22de02-7018-4b66-9e97-b9bdc8ac5899",
+    "questions": [
+      "Điểm loại I áp dụng trong trường hợp nào?"
+    ]
+  },
+  {
+    "id": "7b0c730e-4eb7-400f-be42-bf3489ca4c77",
+    "questions": [
+      "Điểm nào sẽ khiến sinh viên bị cấm thi trong các học phần có thí nghiệm?"
+    ]
+  },
+  {
+    "id": "cf0157e5-27c3-4738-b26d-f5b667825008",
+    "questions": [
+      "Điểm tổng kết của các học phần/phần học thí nghiệm được tính ra sao?"
+    ]
+  },
+  {
+    "id": "ada317b6-3e72-4ffc-bb7e-92d563c49371",
+    "questions": [
+      "Trong trường hợp điểm đánh giá từ các thành viên của hội đồng, của người hướng dẫn và của người phản biện lệch nhau quá bao nhiêu điểm, và điều gì xảy ra?"
+    ]
+  },
+  {
+    "id": "4389e38a-df59-4347-a515-a4e721b1b3d0",
+    "questions": [
+      "Có bao nhiêu loại điểm đạt được xếp dành cho các học phần tốt nghiệp?"
+    ]
+  },
+  {
+    "id": "549c442b-6e63-4fca-b311-2bf7c92aa7cb",
+    "questions": [
+      "Các thành viên của hội đồng đánh giá điểm không được lệch quá bao nhiều điểm?"
+    ]
+  },
+  {
+    "id": "d8abcd2c-8e6c-4e4b-a0de-6c3044b83dc2",
+    "questions": [
+      "Điều kiện gì được áp dụng để sinh viên có thể nhận điểm miễn cho các học phần gốc trong chương trình đào tạo?"
+    ]
+  },
+  {
+    "id": "1da6841e-2188-48c4-a348-57ba4261f43e",
+    "questions": [
+      "Chương trình liên thông Đại học-Thạc sĩ có quy định gì về việc miễn điểm học phần ở bậc đại học?"
+    ]
+  },
+  {
+    "id": "e18607c2-3af8-45a5-a49d-5fcc31359bd5",
+    "questions": [
+      "Có sự khác biệt nào đối với chương trình tài năng trong việc miễn điểm học phần ở bậc đại học không?"
+    ]
+  },
+  {
+    "id": "7d33774b-b12e-49ff-95e6-0d6d1a148d89",
+    "questions": [
+      "Sinh viên chương trình song ngành với cơ sở đào tạo khác có được công nhận tín chỉ và miễn các học phần tương ứng không?"
+    ]
+  },
+  {
+    "id": "34f84ec0-c0e7-4ba5-8f1b-2533e4d5dd16",
+    "questions": [
+      "Khi nào kết quả học tập của sinh viên được đánh giá?"
+    ]
+  },
+  {
+    "id": "cacfece8-c999-4d0e-bcdc-440d103329af",
+    "questions": [
+      "Tiêu chí để đánh giá kết quả học tập của sinh viên?"
+    ]
+  },
+  {
+    "id": "0ae3586e-1a24-46d0-bd2f-d9e54f0c9067",
+    "questions": [
+      "Làm thế nào để tính điểm trung bình học kỳ?"
+    ]
+  },
+  {
+    "id": "45d9a8c1-7724-481a-8ac5-9322313d2bc6",
+    "questions": [
+      "Làm thế nào để tính điểm trung bình tích lũy?"
+    ]
+  },
+  {
+    "id": "72037620-2b35-415f-86f5-d7a5da72a016",
+    "questions": [
+      "Khi có nhiều hơn số tín chỉ yêu cầu của một nhóm tự chọn, điểm trung bình tích luỹ được tính như thế nào?"
+    ]
+  },
+  {
+    "id": "9e2aa8f5-57dd-4dbd-993c-36f93b0bacda",
+    "questions": [
+      "Làm thế nào để quy đổi điểm chữ thành điểm số?"
+    ]
+  },
+  {
+    "id": "a1b75017-cf9e-423c-96e6-03e81822cf58",
+    "questions": [
+      "Sinh viên được xếp loại học lực như thế nào dựa trên điểm trung bình học kỳ?"
+    ]
+  },
+  {
+    "id": "0970d55f-fdb1-49e9-a560-0588204bb635",
+    "questions": [
+      "Khi nào sinh viên có thể bị cấm thi và nhận điểm 0 cho học phần?"
+    ]
+  },
+  {
+    "id": "d40af085-37e8-4b6b-aa0f-d13c850510aa",
+    "questions": [
+      "Khi nào sinh viên vắng thi, hoãn thi và nhận điểm 0?"
+    ]
+  },
+  {
+    "id": "828a8a64-604f-4cf3-8c21-73b89d804b2c",
+    "questions": [
+      "Sinh viên vắng mặt trong buổi thi cuối kỳ có lý do chính đáng thì điều gì xảy ra?"
+    ]
+  },
+  {
+    "id": "6e2c28d0-e0d9-4bfc-a306-e77b7fdc6a93",
+    "questions": [
+      "Bao lâu sau khi nhận điểm I mà sinh viên có thể dự thi để lấy điểm thay thế?"
+    ]
+  },
+  {
+    "id": "48d6f2b2-90ab-434f-883a-d80ee65a3597",
+    "questions": [
+      "Trường hợp học phần không tổ chức trong vòng một năm thì điều gì xảy ra?"
+    ]
+  },
+  {
+    "id": "52393406-7ba1-497d-b558-6f1243a12a32",
+    "questions": [
+      "Khi nào có thể sử dụng một điểm số khác thay thế cho điểm I?"
+    ]
+  },
+  {
+    "id": "7dca9f61-fb10-4afe-881f-db867725d7b4",
+    "questions": [
+      "Sinh viên vắng mặt có lý do chính đáng ở các buổi đánh giá điểm thành phần khác của học phần có thể làm gì?"
+    ]
+  },
+  {
+    "id": "8c9ba10b-27bd-49d0-a281-85a062ee9646",
+    "questions": [
+      "Ai có quyền gửi đề nghị để sinh viên được miễn kiểm tra, thi và nhận điểm?"
+    ]
+  },
+  {
+    "id": "a98bd20c-ef01-49d3-b8af-68969f755b93",
+    "questions": [
+      "Khi nào nhà trường có thể tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?"
+    ]
+  },
+  {
+    "id": "996c03c7-54fc-4aee-bf52-cfe9c3642c23",
+    "questions": [
+      "Khi nào sinh viên được đăng ký học lại để cải thiện điểm?"
+    ]
+  },
+  {
+    "id": "2ad4c8f3-0948-48cc-b4ca-1bcafc7ff4ea",
+    "questions": [
+      "Điểm học phần sau khi đánh giá lại được giới hạn ở mức nào trong trường hợp cần thiết?"
+    ]
+  },
+  {
+    "id": "3316a2f2-e90c-4d48-8585-4d0c60fc187c",
+    "questions": [
+      "Giảng viên có thể đề xuất đánh giá lại cột điểm thành phần nào?"
+    ]
+  },
+  {
+    "id": "a007a4b3-0c4b-4e62-8278-e53b7de34bcf",
+    "questions": [
+      "Ai ban hành điều kiện và quy trình đánh giá lại điểm thành phần trong trường hợp cần thiết?"
+    ]
+  },
+  {
+    "id": "e59ca9a9-ca45-4517-9361-2c8d73617dfc",
+    "questions": [
+      "Khi nào sinh viên được xem xét công nhận và chuyển đổi tín chỉ từ một trình độ đào tạo khác hoặc một ngành đào tạo khác?"
+    ]
+  },
+  {
+    "id": "568418d9-c203-498c-a435-cb697224608f",
+    "questions": [
+      "Cách để xem xét công nhận và chuyển đổi tín chỉ?"
+    ]
+  },
+  {
+    "id": "402a1a88-e434-4a0a-870b-6a32ce84e1fa",
+    "questions": [
+      "Khối lượng tối đa được công nhận và chuyển đổi không vượt quá bao nhiêu phần trăm khối lượng học tập tối thiểu của chương trình đào tạo?"
+    ]
+  },
+  {
+    "id": "1fe3dbe5-fa3d-4b44-b0d3-0038857dcc72",
+    "questions": [
+      "Ai quy định quy trình xem xét công nhận và chuyển đổi tín chỉ?"
+    ]
+  },
+  {
+    "id": "85599cce-2e6d-45cf-9f8c-6c967c4102d6",
+    "questions": [
+      "Xếp trình độ năm học cho sinh viên dựa trên điều gì?"
+    ]
+  },
+  {
+    "id": "99f73f50-f434-417c-a100-dace0790b226",
+    "questions": [
+      "Điều kiện xếp vào trình độ sinh viên năm thứ nhất là gì?"
+    ]
+  },
+  {
+    "id": "9a3b204f-cd55-4c48-ac42-a60521e276af",
+    "questions": [
+      "Điều kiện xếp vào trình độ sinh viên năm thứ hai là gì?"
+    ]
+  },
+  {
+    "id": "0d411795-9803-4e32-8860-d856a14f2a08",
+    "questions": [
+      "Điều kiện xếp vào trình độ sinh viên năm thứ ba là gì?"
+    ]
+  },
+  {
+    "id": "b7967f1e-7966-4e00-aa97-e01fd06be548",
+    "questions": [
+      "Điều kiện xếp vào trình độ sinh viên năm thứ tư là gì?"
+    ]
+  },
+  {
+    "id": "f9959e4d-2114-4333-a20b-b2df63bc576a",
+    "questions": [
+      "Điều kiện xếp vào trình độ sinh viên năm thứ năm là gì?"
+    ]
+  },
+  {
+    "id": "f9301c7c-7289-4d82-8633-c522d1afa6c9",
+    "questions": [
+      "Các hình thức đánh giá học phần?"
+    ]
+  },
+  {
+    "id": "b03420c6-99f3-4e6b-9c62-cb5e82e99d1b",
+    "questions": [
+      "Đánh giá bằng hình thức vấn đáp yêu cầu điều gì?"
+    ]
+  },
+  {
+    "id": "f5fe3375-0448-40e5-b98f-57ee25e3ed56",
+    "questions": [
+      "Làm thế nào để tính điểm từ đánh giá vấn đáp?"
+    ]
+  },
+  {
+    "id": "46e1bda3-65ef-4ac7-bcf9-6a47db095760",
+    "questions": [
+      "Trong trường hợp điểm của các giảng viên chấm thi lệch quá 02 điểm, điều gì xảy ra?"
+    ]
+  },
+  {
+    "id": "9383f2ba-bc2d-4902-a745-0b55b8688384",
+    "questions": [
+      "Làm thế nào để xác định các câu hỏi trong vấn đáp?"
+    ]
+  },
+  {
+    "id": "90f8c84b-e4b2-44d8-affa-cda5c9696d1a",
+    "questions": [
+      "Khi chấm bài luận hoặc sản phẩm, có yêu cầu thêm bước thuyết trình hoặc giải thích không?"
+    ]
+  },
+  {
+    "id": "fab5b3c5-aaf8-47bd-a8ac-54503f5401a9",
+    "questions": [
+      "Làm thế nào để xử lý vấn đề lệch điểm giữa các giảng viên trong trường hợp chấm tập thể hoặc bảo vệ hội đồng?"
+    ]
+  },
+  {
+    "id": "c95e2b72-1e08-4e5c-a61e-480d5828384e",
+    "questions": [
+      "Quy định riêng về thành phần hội đồng và cách chấm điểm khi thực hiện bảo vệ hội đồng?"
+    ]
+  },
+  {
+    "id": "665a03ce-ae76-4927-a6c8-b68f7d3961d5",
+    "questions": [
+      "Khi đánh giá học phần cần đảm bảo điều gì?"
+    ]
+  },
+  {
+    "id": "424a372b-3806-4be2-948a-c2870098c751",
+    "questions": [
+      "Đánh giá học phần phải tập trung vào điều gì?"
+    ]
+  },
+  {
+    "id": "b2fc5e93-3cd8-4dd6-a332-4bc6dcc66a4f",
+    "questions": [
+      "Phải tuân theo quy định gì khi sử dụng một phương thức đánh giá cho học phần?"
+    ]
+  },
+  {
+    "id": "909bc754-1da8-4f97-87c9-106b25bb78b8",
+    "questions": [
+      "Tối đa bao nhiêu phút cho thời lượng tổng cộng của kiểm tra hoặc thi của một học phần?"
+    ]
+  },
+  {
+    "id": "a19053c3-0950-40fb-afcb-9d3a22b08f79",
+    "questions": [
+      "Một phiên kiểm tra hoặc thi có thể có thời lượng là bao nhiêu phút?"
+    ]
+  },
+  {
+    "id": "5213e621-c983-4c4b-ac81-7588d0320eac",
+    "questions": [
+      "Giới hạn thời gian cho kiểm tra hoặc thi trắc nghiệm là bao nhiêu phút?"
+    ]
+  },
+  {
+    "id": "e0725fed-66fa-4e4a-a658-378c0a9aa735",
+    "questions": [
+      "Khi nào có thể yêu cầu chấm lại kiểm tra hoặc thi?"
+    ]
+  },
+  {
+    "id": "e1991474-5dab-40e0-b70e-5c5ce4e8cdd2",
+    "questions": [
+      "Quy định thời hạn chấm kiểm tra hoặc thi phúc tra là gì?"
+    ]
+  },
+  {
+    "id": "f9882743-c385-4030-96b3-083e7255fd68",
+    "questions": [
+      "Giảng viên có thể đề nghị điều gì sau khi nộp điểm kiểm tra hoặc thi?"
+    ]
+  },
+  {
+    "id": "4dbc555d-6fe3-4ce5-97a2-187cc01c42b6",
+    "questions": [
+      "Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng và có thể yêu cầu chấm lại một lần cho một học phần trong học kỳ."
+    ]
+  },
+  {
+    "id": "b7d86315-d23b-4bea-ae62-7e00329cc006",
+    "questions": [
+      "Ai quy định quy trình đề nghị chấm phúc tra, sửa điểm?"
+    ]
+  },
+  {
+    "id": "64a6fc05-a0b8-460d-aa54-38aa6f8c9c07",
+    "questions": [
+      "Cách đánh giá sinh viên cho mỗi học phần là như thế nào?"
+    ]
+  },
+  {
+    "id": "36fb25a5-a245-4c04-b85d-f493c8373e2b",
+    "questions": [
+      "Thang điểm để tính toán điểm học phần là hệ 10 hay hệ 4?"
+    ]
+  },
+  {
+    "id": "e68ff110-f681-4f92-a8c7-79c084081ccd",
+    "questions": [
+      "Cách tính điểm học phần?"
+    ]
+  },
+  {
+    "id": "21919a3d-226c-492d-8d94-9502d5ef9d92",
+    "questions": [
+      "Các trường hợp nào sẽ được áp dụng điểm loại R?"
+    ]
+  },
+  {
+    "id": "5a569963-19ea-48b5-b112-74081ae66246",
+    "questions": [
+      "Trường hợp nào sẽ áp dụng điểm loại W?"
+    ]
+  },
+  {
+    "id": "46ee0909-d395-4fdd-a62e-1032f92c56c8",
+    "questions": [
+      "Trường hợp nào sẽ áp dụng điểm loại I?"
+    ]
+  },
+  {
+    "id": "d7cba8a6-79a6-4463-9b99-89e4706a5d30",
+    "questions": [
+      "Sinh viên bị cấm thi trong các học phần có thí nghiệm nếu điểm ở mức nào?"
+    ]
+  },
+  {
+    "id": "7dfaec43-ac8b-488b-a93f-b1ccaf9caa60",
+    "questions": [
+      "Cách tính điểm tổng kết của các học phần/phần học thí nghiệm?"
+    ]
+  },
+  {
+    "id": "a7f68646-8973-4100-b155-0346985da94d",
+    "questions": [
+      "Điều gì xảy ra nếu điểm đánh giá của hội đồng, người hướng dẫn, người phản biện lệch nhau quá nhiều?"
+    ]
+  },
+  {
+    "id": "5175506f-8c5f-44b7-bcc4-f4325ebde56a",
+    "questions": [
+      "Các loại điểm đạt được xếp dành cho các học phần tốt nghiệp là gì?"
+    ]
+  },
+  {
+    "id": "66b3b4b3-ea62-4907-ab9a-638fbfc519ed",
+    "questions": [
+      "Điểm lệch tối đa mà các thành viên của hội đồng đánh giá là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "df500d9a-7ae8-4362-b7fd-63e94e6c0465",
+    "questions": [
+      "Kết quả học tập của sinh viên được đánh giá khi nào?"
+    ]
+  },
+  {
+    "id": "0bb6d875-d69a-4fc5-a89c-1b666aa3b699",
+    "questions": [
+      "Đánh giá kết quả học tập của sinh viên dựa trên tiêu chí gì?"
+    ]
+  },
+  {
+    "id": "4e1f1bcd-1aaa-4a69-b624-b96aab58a023",
+    "questions": [
+      "Cách tính điểm trung bình học kỳ?"
+    ]
+  },
+  {
+    "id": "624fc77b-1e00-4f33-8cce-7e095f248e37",
+    "questions": [
+      "Cách tính điểm trung bình tích lũy?"
+    ]
+  },
+  {
+    "id": "8d632bd8-7fae-485a-ac11-ce677ea1ad7a",
+    "questions": [
+      "Cách tính điểm trung bình tích lũy khi có số tín chỉ tự chọn nhiều hơn quy định?"
+    ]
+  },
+  {
+    "id": "8a650f52-5572-42a6-b3ac-2ccbd5e0fbd4",
+    "questions": [
+      "Sinh viên có thể bị cấm thi và nhận điểm 0 cho học phần khi nào?"
+    ]
+  },
+  {
+    "id": "35419fc5-a7dc-4048-a1a1-280790eae229",
+    "questions": [
+      "Sinh viên vắng thi và nhận điểm 0 khi nào?"
+    ]
+  },
+  {
+    "id": "690f21d4-244c-4fa9-90ce-7f9a19cb0664",
+    "questions": [
+      "Điều gì xảy ra khi sinh viên vắng mặt trong buổi thi cuối kỳ có lý do chính đáng?"
+    ]
+  },
+  {
+    "id": "21d3f11d-00e7-431b-8fb7-8e39d18dd388",
+    "questions": [
+      "Sinh viên có thể dự thi để thay thế điểm I trong bao lâu sau khi bị điểm I?"
+    ]
+  }
+]

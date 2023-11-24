@@ -1,0 +1,74 @@
+[
+  {
+    "id": "45b077bb-d647-4b57-b08e-816828abddb0",
+    "questions": [
+      "Sinh viên được tham gia trao đổi và tích lũy tín chỉ ở đâu?"
+    ]
+  },
+  {
+    "id": "ef3b3f92-9b9b-4341-817d-be25a4694a67",
+    "questions": [
+      "Trường quyết định công nhận chuyển đổi tín chỉ cho sinh viên dựa trên điều gì?"
+    ]
+  },
+  {
+    "id": "67f77f41-166e-439c-8def-a473206f7f94",
+    "questions": [
+      "Sinh viên phải đăng ký học phần cho các học phần tương ứng nào khi tham gia trao đổi?"
+    ]
+  },
+  {
+    "id": "2e9cb265-de25-4204-a016-637d99a3f7c3",
+    "questions": [
+      "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?"
+    ]
+  },
+  {
+    "id": "4901d69e-677a-4cc6-bebc-8a2d689256b9",
+    "questions": [
+      "Nếu trao đổi ra nước ngoài, sinh viên phải tuân thủ điều gì?"
+    ]
+  },
+  {
+    "id": "0c3791a9-8484-4d53-95d0-11120cf84d9a",
+    "questions": [
+      "Học phí các học phần đăng ký trong trao đổi được miễn hoặc giảm dựa trên điều gì?"
+    ]
+  },
+  {
+    "id": "4a84bb9a-360a-42f6-a0ab-491adc0105ed",
+    "questions": [
+      "Thời gian trao đổi được tính vào thời gian nào?"
+    ]
+  },
+  {
+    "id": "a2b56e96-c8f7-4cd9-b657-d6f7b3466124",
+    "questions": [
+      "Sinh viên tham gia trao đổi có được miễn học phí không?"
+    ]
+  },
+  {
+    "id": "ac8a8050-5bf8-4c70-9d1d-a1344a4a3576",
+    "questions": [
+      "Trong trường hợp trao đổi ra nước ngoài, có quy định cụ thể nào mà sinh viên cần tuân theo?"
+    ]
+  },
+  {
+    "id": "24950be8-5009-42b4-baae-2b898ab3c50d",
+    "questions": [
+      "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?"
+    ]
+  },
+  {
+    "id": "9fc69f7d-0b65-47a0-960a-4490bc0fed44",
+    "questions": [
+      "Sinh viên có được miễn học phí khi tham gia trao đổi?"
+    ]
+  },
+  {
+    "id": "6ca5dbdf-b8cf-4ed8-8f1f-f8d138b719f3",
+    "questions": [
+      "Thời gian trao đổi có tính vào thời gian đào tạo không?"
+    ]
+  }
+]

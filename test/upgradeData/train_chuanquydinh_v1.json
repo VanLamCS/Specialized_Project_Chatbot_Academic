@@ -1,0 +1,338 @@
+[
+  {
+    "id": "fcc0e896-2eaf-4204-9296-45bad7ec089b",
+    "questions": [
+      "Chuẩn công nghệ thông tin cơ bản ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "3305b2b0-9464-4a9b-a42e-07c675a6197f",
+    "questions": [
+      "Mục đích của chuẩn CNTTCB là gì?"
+    ]
+  },
+  {
+    "id": "1919a23a-980c-4822-8b92-40698e6da350",
+    "questions": [
+      "Để đạt chuẩn CNTTCB, điều kiện là gì?"
+    ]
+  },
+  {
+    "id": "53381343-ee1f-4b49-8210-21235f780c4c",
+    "questions": [
+      "Mục đích của chuẩn CNTTNC là gì?"
+    ]
+  },
+  {
+    "id": "08aba042-5021-4cff-8331-1a4907b38f73",
+    "questions": [
+      "Điều kiện để đạt được chuẩn CNTTNC là gì?"
+    ]
+  },
+  {
+    "id": "23f2ce11-9f07-487b-bafb-e8ed9ae34d06",
+    "questions": [
+      "Chuẩn ngoại ngữ năm nhất ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "8f83fffa-99e9-4977-a380-280816589975",
+    "questions": [
+      "Mục đích của chuẩn ngoại ngữ năm nhất (CCAS_0) là gì?"
+    ]
+  },
+  {
+    "id": "54c6830a-1894-4b6b-95df-356c92995437",
+    "questions": [
+      "Điều kiện để đạt được chuẩn CCAS_0 là gì?"
+    ]
+  },
+  {
+    "id": "09da3605-a0f5-4a3f-a84c-5b33f2e89f2f",
+    "questions": [
+      "Chuẩn ngoại ngữ năm thứ hai ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "f8fa0e0d-84b0-46ca-b329-1b5c9a2a3eec",
+    "questions": [
+      "Mục đích của chuẩn ngoại ngữ năm thứ hai (CCAS_1) là gì?"
+    ]
+  },
+  {
+    "id": "66adb65b-bc60-471c-b5d5-a78797304c11",
+    "questions": [
+      "Làm thế nào để đạt được chuẩn anh văn năm hai"
+    ]
+  },
+  {
+    "id": "89ebb653-22fd-4c9a-87f0-4df26103ab24",
+    "questions": [
+      "Chuẩn anh văn năm thứ ba ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "ba40dda3-a429-477c-8769-6aa90d23b056",
+    "questions": [
+      "Mục đích của chuẩn ngoại ngữ năm thứ ba là gì?"
+    ]
+  },
+  {
+    "id": "764330fd-8903-49ef-b2db-7c357e3d8d37",
+    "questions": [
+      "Để đạt được chuẩn ngoại ngữ năm thứ ba, điều kiện là gì?"
+    ]
+  },
+  {
+    "id": "e92cbade-7cb8-4326-b95f-7787861fa094",
+    "questions": [
+      "Chuẩn ngoại ngữ năm thứ tư ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "4fcac24c-bfcb-4792-bbd1-e6f2cfd7362f",
+    "questions": [
+      "Mục đích của chuẩn ngoại ngữ năm thứ tư là gì?"
+    ]
+  },
+  {
+    "id": "6bf01b0d-24a2-4d7f-a9ed-d71b3b5d8283",
+    "questions": [
+      "Cách để đạt chuẩn ngoại ngữ năm thứ tư (CCAS_3)?"
+    ]
+  },
+  {
+    "id": "26193d5c-2f73-4b02-9781-611624e0c9c8",
+    "questions": [
+      "Chuẩn SV_N1 là gì?"
+    ]
+  },
+  {
+    "id": "5adb8be1-3b8b-4827-80ef-8b646cf9a1e4",
+    "questions": [
+      "Mục đích của chuẩn sinh viên năm 1 (SV_N1) là gì?"
+    ]
+  },
+  {
+    "id": "38e828d9-a987-46fd-91b0-4119f714dbd2",
+    "questions": [
+      "Chuẩn SV_N2 là gì?"
+    ]
+  },
+  {
+    "id": "3d7b7ded-c4e4-4db8-a854-7e5d705084c0",
+    "questions": [
+      "Chuẩn sinh viên trình độ năm nhất ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "bf743359-edd2-4599-87bc-c8c73cfc446a",
+    "questions": [
+      "Chuẩn sinh viên năm hai ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "c813d6e2-833d-4beb-b2cf-453521dee135",
+    "questions": [
+      "Điều kiện đạt được của chuẩn sinh viên trình độ năm 2 là gì?"
+    ]
+  },
+  {
+    "id": "2158ca11-1e1a-49ad-90a9-f4d6581919dd",
+    "questions": [
+      "Chuẩn sinh viên trình độ năm 3 ký hiệu là gì?"
+    ]
+  },
+  {
+    "id": "d8d76b2b-bba8-41fa-a3e7-87eae9c47080",
+    "questions": [
+      "Chuẩn SV_N3 là gì?"
+    ]
+  },
+  {
+    "id": "c1e30de3-387b-4c54-a1a7-d60d0f064914",
+    "questions": [
+      "Mục đích của chuẩn sinh viên năm ba là gì?"
+    ]
+  },
+  {
+    "id": "97c9eb6f-3128-4fd3-a397-6a49b2f19085",
+    "questions": [
+      "Điều kiện đạt chuẩn sinh viên năm 3 là gì?"
+    ]
+  },
+  {
+    "id": "2499f7cb-9261-4930-874f-2e454e425470",
+    "questions": [
+      "Chuẩn SV_N5_V là gì?"
+    ]
+  },
+  {
+    "id": "9486264c-2c02-46dc-b135-5c4228890e56",
+    "questions": [
+      "Mục đích của chuẩn SV_N5_V là gì?"
+    ]
+  },
+  {
+    "id": "3e3fc199-405f-44d1-a5e9-4ca60a8fecce",
+    "questions": [
+      "Điều kiện đạt chuẩn SV_N5_V là gì?"
+    ]
+  },
+  {
+    "id": "e7c82083-4ec6-40bd-b351-92d6bfc24e4e",
+    "questions": [
+      "Chuẩn DH_THS là gi?"
+    ]
+  },
+  {
+    "id": "c07651f5-6231-40f1-a7ff-1fe2e6427774",
+    "questions": [
+      "Mục đích chuẩn DH_THS là gì?"
+    ]
+  },
+  {
+    "id": "36e4c5e0-f972-45c8-8f83-2301d5b2341a",
+    "questions": [
+      "Điều kiện của chuẩn DH_THS là gì?"
+    ]
+  },
+  {
+    "id": "c9bf6414-e459-498b-aff0-03ed5fddbabd",
+    "questions": [
+      "Chuẩn C_TTNT là gì?"
+    ]
+  },
+  {
+    "id": "01467055-0060-4045-b3f8-00e012c107a6",
+    "questions": [
+      "Làm thế nào để cập nhật kết quả các chuẩn?"
+    ]
+  },
+  {
+    "id": "4adb9506-41d6-43f6-bf92-3dd28732c185",
+    "questions": [
+      "Bảng tổng số tín chỉ tích lũy để đăng ký các học phần tốt nghiệp xem ở đâu?"
+    ]
+  },
+  {
+    "id": "d4efc8d0-2a97-4fea-9930-1a50e8fde034",
+    "questions": [
+      "Ký hiệu chuẩn công nghệ thông tin cơ bản là gì?"
+    ]
+  },
+  {
+    "id": "b74a21c9-c284-4fd7-a8a5-021c17264179",
+    "questions": [
+      "Chuẩn công nghệ thông tin cơ bản có mục đích gì?"
+    ]
+  },
+  {
+    "id": "174c4a22-df61-449e-a464-c4a4ace810fe",
+    "questions": [
+      "Điều kiện đạt chuẩn công nghệ thông tin cơ bản là gì?"
+    ]
+  },
+  {
+    "id": "c73d8d6c-a611-4a74-b211-3b1bf239d85c",
+    "questions": [
+      "Chuẩn công nghệ thông tin nâng cao có mục đích gì?"
+    ]
+  },
+  {
+    "id": "e58a0d22-4412-4048-90f1-b2a3ba30b35e",
+    "questions": [
+      "Điều kiện đạt chuẩn công nghệ thông tin nâng cao là gì?"
+    ]
+  },
+  {
+    "id": "b7a514d4-a30f-47d4-ad1e-d6531d19b239",
+    "questions": [
+      "Ký hiệu chuẩn ngoại ngữ năm 1 là gì?"
+    ]
+  },
+  {
+    "id": "7d16266e-9cc3-4b32-af8d-8860ba1358a7",
+    "questions": [
+      "Chuẩn ngoại ngữ năm 1 có mục đích gì?"
+    ]
+  },
+  {
+    "id": "9168883a-f017-4585-920d-d54beee6e4c9",
+    "questions": [
+      "Điệu kiện đạt chuẩn ngoại ngữ năm 1 là gì?"
+    ]
+  },
+  {
+    "id": "0c97a382-a3e5-44ec-b824-eca0a535ddde",
+    "questions": [
+      "Ký hiệu chuẩn ngoại ngữ năm 2?"
+    ]
+  },
+  {
+    "id": "9cbce010-c74f-4309-afc1-bcb9275850db",
+    "questions": [
+      "Chuẩn ngoại ngữ năm 2 có mục đích gì?"
+    ]
+  },
+  {
+    "id": "2bdf0831-dcd5-4976-a29f-aef7ec5b6c12",
+    "questions": [
+      "Cách đạt chuẩn anh văn năm 2?"
+    ]
+  },
+  {
+    "id": "03f75ac0-2801-4c54-a800-31e2757c6b76",
+    "questions": [
+      "Ký hiệu chuẩn anh văn năm 3?"
+    ]
+  },
+  {
+    "id": "4b920af4-e1e7-44dc-85a4-14e4327a3a87",
+    "questions": [
+      "Chuẩn anh văn năm 3 có mục đích gì?"
+    ]
+  },
+  {
+    "id": "ec5cda85-55bc-43e6-b14d-a3b2f5178d43",
+    "questions": [
+      "Điều kiện đạt chuẩn anh văn năm 3?"
+    ]
+  },
+  {
+    "id": "b1ba12fb-ced1-414d-bd8f-8aae3cf4c1a4",
+    "questions": [
+      "Ký hiệu chuẩn ngoại ngữ năm 4 là gì?"
+    ]
+  },
+  {
+    "id": "1b959b81-6e58-47fa-801b-c141c16dec9b",
+    "questions": [
+      "Chuẩn ngoại ngữ năm 4 có mục đích gì?"
+    ]
+  },
+  {
+    "id": "dc72a642-8454-4387-9cee-42d3b44de631",
+    "questions": [
+      "Điều kiện đạt chuẩn ngoại ngữ năm 4?"
+    ]
+  },
+  {
+    "id": "0275b68b-4459-484a-b4a6-379d80f9a500",
+    "questions": [
+      "Chuẩn SV_N5_V có mục đích gì?"
+    ]
+  },
+  {
+    "id": "e5856410-2cd5-4741-9e8c-0798a2513c77",
+    "questions": [
+      "Chuẩn DH_THS có mục đích gì?"
+    ]
+  },
+  {
+    "id": "96d461c1-c2aa-4c37-9aac-3b35832edc08",
+    "questions": [
+      "Cách để cập nhật kết quả các chuẩn?"
+    ]
+  }
+]

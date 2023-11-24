@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2a4905b1-073f-42eb-b7c2-d0c3b6b6a3a6",
+    "questions": [
+      "Khi nào sinh viên sẽ được cảnh báo học tập?"
+    ]
+  },
+  {
+    "id": "2f0bc8bb-f3b4-4f6a-b558-fa5bb1ed1f34",
+    "questions": [
+      "Khi nào sinh viên bị buộc tạm dừng học?"
+    ]
+  },
+  {
+    "id": "dc35542b-b3f6-4f1f-b797-f29193b2a10f",
+    "questions": [
+      "Dưới bao nhiêu tín chỉ 1 kỳ thì bị cảnh cáo học vụ?"
+    ]
+  },
+  {
+    "id": "9f2dedc4-ab8c-42bc-853e-86da469c3a92",
+    "questions": [
+      "Điểm trung bình bao nhiêu thì bị cảnh cáo học vụ?"
+    ]
+  },
+  {
+    "id": "5bce3367-4fc1-4ef1-9cba-565616285d59",
+    "questions": [
+      "Có sự khác nhau về mức điểm cảnh cáo học vụ giữa các năm học không?"
+    ]
+  },
+  {
+    "id": "6f3c00bb-93db-4ae0-a8b9-b2c771e70e5b",
+    "questions": [
+      "Điểm trung bình của sinh viên năm nhất dưới bao nhiêu thì bị cảnh cáo học vụ?"
+    ]
+  },
+  {
+    "id": "ebc75e2b-52eb-4d01-ab0d-7d41f55922a1",
+    "questions": [
+      "Điểm trung bình của sinh viên năm hai dưới bao nhiêu thì bị cảnh cáo học vụ?"
+    ]
+  },
+  {
+    "id": "f39617b8-be31-4468-9b7f-d37cdc85a6bf",
+    "questions": [
+      "Điểm trung bình của sinh viên năm ba dưới bao nhiêu thì bị cảnh cáo học vụ?"
+    ]
+  },
+  {
+    "id": "42b8f11c-234a-4bb0-a15a-343027500673",
+    "questions": [
+      "Điểm trung bình của sinh viên năm cuối dưới bao nhiêu thì bị cảnh cáo học vụ?"
+    ]
+  },
+  {
+    "id": "9054de51-f4de-4ea2-87e6-511b292f0d09",
+    "questions": [
+      "Khi nào sinh viên bị buộc tạm dừng học?"
+    ]
+  },
+  {
+    "id": "0f040d68-ae1e-4f80-8f17-10297ad1021b",
+    "questions": [
+      "Sinh viên có thể được thu nhận lại sau khi buộc tạm dừng việc học?"
+    ]
+  },
+  {
+    "id": "f6b79e92-98b0-4c4b-ad00-6f191c8b7949",
+    "questions": [
+      "Trong trường hợp nào sinh viên bị buộc thôi học?"
+    ]
+  },
+  {
+    "id": "20d07b6b-aade-45ff-81d8-07821eaecd28",
+    "questions": [
+      "Vi phạm kỷ luật có bị buộc thôi học không?"
+    ]
+  },
+  {
+    "id": "5a53b644-fb0e-4080-ae6f-5c24072ca88b",
+    "questions": [
+      "Bị cảnh cáo học tập có bị buột thôi học không?"
+    ]
+  },
+  {
+    "id": "319e03ca-5b2c-4f9f-b2cc-9d868d0cc7eb",
+    "questions": [
+      "Bỏ học có bị buột thôi học không?"
+    ]
+  },
+  {
+    "id": "762a40a1-93a6-4e91-9633-3893bde48453",
+    "questions": [
+      "Tạm dừng học có bị buột thôi học không?"
+    ]
+  },
+  {
+    "id": "c6af3dc0-a038-4b29-8133-5d10143d12d7",
+    "questions": [
+      "Nghỉ học tạm thời có bị buột thôi học không?"
+    ]
+  },
+  {
+    "id": "20be4733-7e1b-40fb-b0c2-21be5546e2a9",
+    "questions": [
+      "Tôi học quá thời gian đào tạo có bị buột thôi học không?"
+    ]
+  },
+  {
+    "id": "a9b00c3b-7518-4991-b8d9-acd51404d027",
+    "questions": [
+      "Có trường hợp nào vi phạm nhưng không được xem xét không thôi học không?"
+    ]
+  },
+  {
+    "id": "c52f9281-3c96-4780-90eb-3d96d179d1d8",
+    "questions": [
+      "Được hoãn buột thôi học tối đa bao nhiêu lần?"
+    ]
+  }
+]

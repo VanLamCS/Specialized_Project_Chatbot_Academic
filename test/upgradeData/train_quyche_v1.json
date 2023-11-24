@@ -1,0 +1,452 @@
+[
+  {
+    "id": "84cf8599-c8ef-4ddf-b473-b7d1c8f5042b",
+    "questions": [
+      "Chương trình đào tạo là gì?"
+    ]
+  },
+  {
+    "id": "5fda63f0-37a4-4e6b-9a98-5cf528da3f0d",
+    "questions": [
+      "Điều kiện tiên quyết của một học phần được định nghĩa ra sao?"
+    ]
+  },
+  {
+    "id": "7a402842-3e6f-4294-bb31-6d5a64e75da3",
+    "questions": [
+      "Học phần song song là gì?"
+    ]
+  },
+  {
+    "id": "e92303d8-750c-44b5-a8ba-eb15f08009c9",
+    "questions": [
+      "Học phần khuyến nghị là gì?"
+    ]
+  },
+  {
+    "id": "3d3a0a73-873f-4066-b8ec-3f07704c632a",
+    "questions": [
+      "Học phần tương đương là gì?"
+    ]
+  },
+  {
+    "id": "c0fd1647-5f79-4ae2-ae50-0eff28485a4e",
+    "questions": [
+      "Học phần thay thế là gì?"
+    ]
+  },
+  {
+    "id": "f4e8e873-5cf3-4080-a05b-eda4001f5f40",
+    "questions": [
+      "Lớp học phần là gì?"
+    ]
+  },
+  {
+    "id": "c32925c1-c971-471d-b40a-d89c7a92d275",
+    "questions": [
+      "Chuẩn đầu ra là gì?"
+    ]
+  },
+  {
+    "id": "e9045973-eaa5-4e06-a3b9-5c48d417d8a7",
+    "questions": [
+      "Học phần tương đương và học phần thay thế khác nhau như thế nào?"
+    ]
+  },
+  {
+    "id": "6c9f2919-8b84-4205-a43c-9fb5aba9b823",
+    "questions": [
+      "Khối lượng học tập của một học phần được định lượng bằng cách nào?"
+    ]
+  },
+  {
+    "id": "0974f232-a73c-46c9-82c1-c8dd665ed3d0",
+    "questions": [
+      "Giảng viên là ai?"
+    ]
+  },
+  {
+    "id": "9c16ba6d-cfef-4ba7-9cd1-6c74427b2fc4",
+    "questions": [
+      "Sinh viên là ai?"
+    ]
+  },
+  {
+    "id": "1164b43f-368f-4445-8e14-d8cf1231b273",
+    "questions": [
+      "Sinh viên chính thức là gì?"
+    ]
+  },
+  {
+    "id": "ca12cc15-9652-4a7a-8b6e-df98e2c64451",
+    "questions": [
+      "Sinh viên trao đổi, chuyển tiếp là gì?"
+    ]
+  },
+  {
+    "id": "790ce30f-ecce-4bb9-8099-141c7a97607e",
+    "questions": [
+      "Chuẩn ngoại ngữ là gì?"
+    ]
+  },
+  {
+    "id": "5b8a5a45-a129-47b4-9e5c-c6c87c3bc69a",
+    "questions": [
+      "Chuẩn ngoại ngữ năm nhất, năm hai, năm ba, năm tư quy định những gì?"
+    ]
+  },
+  {
+    "id": "fb13a04f-1b3a-4532-896c-68b63f67b8e8",
+    "questions": [
+      "Học phần thay thế được sử dụng trong trường hợp nào?"
+    ]
+  },
+  {
+    "id": "b8aeff6e-0322-4699-b534-46c0b264a1ae",
+    "questions": [
+      "Ai đảm nhận việc giảng dạy cho các học phần?"
+    ]
+  },
+  {
+    "id": "2a656e6c-d80d-4dcf-8c7f-00f6b55d8c3d",
+    "questions": [
+      "Bộ môn là gì?"
+    ]
+  },
+  {
+    "id": "822747b7-71dd-4485-93ed-7d56ca14b08c",
+    "questions": [
+      "Khoa là gì?"
+    ]
+  },
+  {
+    "id": "6ce7cad2-c6e5-4050-b972-07c5e96b02cb",
+    "questions": [
+      "Phòng đào tạo gồm những gì?"
+    ]
+  },
+  {
+    "id": "7ce93cc4-773e-4274-bce8-01b670286d9d",
+    "questions": [
+      "Chuẩn ngoại ngữ tốt nghiệp quy định gì?"
+    ]
+  },
+  {
+    "id": "2a3c0f6b-92e9-42da-929b-a65f8057e7b4",
+    "questions": [
+      "Trường đào tạo theo phương thức gì?"
+    ]
+  },
+  {
+    "id": "074f8a1d-2ea4-4d56-992f-f62d095de6ed",
+    "questions": [
+      "Làm thế nào để sinh viên có thể tích lũy tín chỉ của từng học phần?"
+    ]
+  },
+  {
+    "id": "461291e1-e0af-455e-ae31-c5752f6c8b01",
+    "questions": [
+      "Sinh viên không đạt một học phần bắt buộc phải làm gì?"
+    ]
+  },
+  {
+    "id": "8280304e-8d92-48d1-8483-c543d40db69e",
+    "questions": [
+      "Sinh viên không đạt một học phần tự chọn thì phải làm gì?"
+    ]
+  },
+  {
+    "id": "2a8e890a-c158-49a0-b039-a8c013eacd24",
+    "questions": [
+      "Hình thức giảng dạy của nhà trường?"
+    ]
+  },
+  {
+    "id": "27322a76-4f21-4631-a873-1d88eabac922",
+    "questions": [
+      "Hình thức giàng dạy lý thuyết là gì?"
+    ]
+  },
+  {
+    "id": "ae64dde0-dcda-400d-8699-9c36f508f1ff",
+    "questions": [
+      "Thời gian đào tạo chuẩn là gì?"
+    ]
+  },
+  {
+    "id": "1cfa3c43-e03f-47ce-8e7f-9af0a2b6cc77",
+    "questions": [
+      "Thời gian đào tạo kế hoạch là gì?"
+    ]
+  },
+  {
+    "id": "26c9982d-9f75-4745-bc17-16caa987989b",
+    "questions": [
+      "Thời gian đào tạo tối đa là gì?"
+    ]
+  },
+  {
+    "id": "e96680aa-f7d9-48b3-9c68-cd755657a175",
+    "questions": [
+      "Thời gian đào tạo của chương trình chính quy?"
+    ]
+  },
+  {
+    "id": "2eee7ba1-411f-492f-b789-8802d71dce1b",
+    "questions": [
+      "Thời gain đào tạo của chương trình kỹ sư Việt - Pháp?"
+    ]
+  },
+  {
+    "id": "582342e3-deef-4102-90da-da8605b9c3e7",
+    "questions": [
+      "Thời gian đào tạo của chương trình vừa học vừa làm, đào tạo từ xa?"
+    ]
+  },
+  {
+    "id": "48b4a521-867d-4416-90a1-667ac54173d0",
+    "questions": [
+      "Sinh viên được phép kéo dài thời gian đào tạo khi nào?"
+    ]
+  },
+  {
+    "id": "4e540eaf-3896-42d2-be62-2421b247e464",
+    "questions": [
+      "Mỗi sinh viên được kéo dài thời gian đào tạo bao nhiêu lần?"
+    ]
+  },
+  {
+    "id": "af4305a3-cf94-43e6-9dee-eee135cd0b65",
+    "questions": [
+      "Hiệu trưởng có thể xem xét quyết định kéo dài thời gian đào tạo tối đa bao nhiêu học kỳ đối với sinh viên chính quy?"
+    ]
+  },
+  {
+    "id": "edaba13e-d7a0-481e-810b-dff6f4af123e",
+    "questions": [
+      " Hiệu trưởng có thể xem xét quyết định kéo dài thời gian đào tạo tối đa bao nhiêu học kỳ?"
+    ]
+  },
+  {
+    "id": "2611b460-b51c-4e51-bc74-9e38b56fd6ca",
+    "questions": [
+      "Thời gian tối đa của loại hình đào tạo vừa học vừa làm là bao lâu?"
+    ]
+  },
+  {
+    "id": "6e4b5f06-ab64-4e91-94c8-3c9025fafde3",
+    "questions": [
+      "Thời gian thiết kế chuẩn cho chương trình chính quy là bao lâu?"
+    ]
+  },
+  {
+    "id": "99c1b181-024a-4af1-9cda-798e69b29466",
+    "questions": [
+      "Thời gian tối đa cho chương trình chính quy là bao lâu?"
+    ]
+  },
+  {
+    "id": "dfc1e98d-f51a-44c8-8dfd-829481d3f9de",
+    "questions": [
+      "Thời gian thiết kế chuẩn cho chương trình kỹ sư Việt - Pháp là bao lâu?"
+    ]
+  },
+  {
+    "id": "86e6b0aa-743b-4b43-b4d8-77f4209c1364",
+    "questions": [
+      "Thời gian thiết kế tối đa cho chương trình kỹ sư Việt - Pháp là bao lâu?"
+    ]
+  },
+  {
+    "id": "ec2f5708-2b68-45e6-9a7a-5183d1e3c429",
+    "questions": [
+      "Thời gian thiết kế chuẩn cho chương trình vừa học vừa làm, đào tạo từ xa là bao lâu?"
+    ]
+  },
+  {
+    "id": "d2cab2a9-5ac6-4b4a-a25f-652635031514",
+    "questions": [
+      "Trường tổ chức bao nhiêu học kỳ chính trong một năm học?"
+    ]
+  },
+  {
+    "id": "558e629c-97ff-4972-aa19-602e9aebce82",
+    "questions": [
+      "Trường tổ chức thêm học kỳ phụ nào không?"
+    ]
+  },
+  {
+    "id": "fc0a6fdd-b3a3-4f1d-9c80-c277ecce0eb5",
+    "questions": [
+      "Mỗi học kỳ chính có bao nhiêu thời gian?"
+    ]
+  },
+  {
+    "id": "15a35cb9-127f-44e1-b8f9-a17b88fd9471",
+    "questions": [
+      "Thời gian học kỳ phụ?"
+    ]
+  },
+  {
+    "id": "8ada5b5b-22fb-4e05-b028-68e460e7e0e1",
+    "questions": [
+      "Ký hiệu các học kỳ có dạng như thế nào?"
+    ]
+  },
+  {
+    "id": "864205af-d3c3-4ec9-88fd-1b1dcdde22aa",
+    "questions": [
+      "Ví dụ về ký hiệu các học kỳ"
+    ]
+  },
+  {
+    "id": "764821f9-1fa5-45ce-91d2-90ed4a9519e4",
+    "questions": [
+      "Ai chịu trách nhiệm xây dựng Biểu đồ học tập và khi nào nó được ban hành?"
+    ]
+  },
+  {
+    "id": "2f4f17a9-6c87-4ba0-9bc9-9dfed8f0517b",
+    "questions": [
+      "Biểu đồ học tập được quy định dựa trên điều gì?"
+    ]
+  },
+  {
+    "id": "ea0c9df3-5132-4554-889e-250cf2414bb5",
+    "questions": [
+      "Các ngày nghỉ lễ trong năm?"
+    ]
+  },
+  {
+    "id": "233fc008-6b8c-4df2-98ff-00a5b86fc9c8",
+    "questions": [
+      "Thời khóa biểu phải tuân thủ những quy định gì?"
+    ]
+  },
+  {
+    "id": "d53d5eda-fffe-4e57-93b8-9b3bbc218a6f",
+    "questions": [
+      "Quy định một phiên học lý thuyết như thế nào?"
+    ]
+  },
+  {
+    "id": "5517986a-7599-41c4-b5b1-8cdaa8e1755d",
+    "questions": [
+      "Quy định một phiên hướng dẫn thảo luận như thế nào?"
+    ]
+  },
+  {
+    "id": "f52a4488-a214-4525-b727-2e1f0213dd20",
+    "questions": [
+      "Quy định một phiên học thí nghiệm như thế nào?"
+    ]
+  },
+  {
+    "id": "c9b60170-d1e4-42e1-82e9-86734dac0881",
+    "questions": [
+      "Ai chịu trách nhiệm xếp thời khoá biểu và có thể điều chỉnh thời khoá biểu khi cần thiết?"
+    ]
+  },
+  {
+    "id": "2062d735-5e17-47ae-bc26-62beb681d6b5",
+    "questions": [
+      "Thời lượng tối đa của một phiên học lý thuyết là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "b01f845e-3e3f-4152-a904-0885f69a821e",
+    "questions": [
+      "Sinh viên học hè những gì?"
+    ]
+  },
+  {
+    "id": "7613c2fd-8b24-468b-9707-49a6c57d9a1f",
+    "questions": [
+      "Giờ học hàng tuẩn có thể thay đổi khi nào?"
+    ]
+  },
+  {
+    "id": "4b2db4b6-f238-4372-ab63-efe8f291dd37",
+    "questions": [
+      "Thay đổi giờ học phải đảm bảo điều gì?"
+    ]
+  },
+  {
+    "id": "47f51293-e9e1-4603-a4bd-81e4475e2725",
+    "questions": [
+      "Thời gian tổ chức hoạt động giảng dạy trong ngày là khoảng thời gian nào?"
+    ]
+  },
+  {
+    "id": "606de3da-cea6-464f-9ca8-6e50d5f6576a",
+    "questions": [
+      "Thời khóa biểu phải được công bố cho các bên liên quan trước khi áp dụng trong thời gian tối thiểu bao lâu?"
+    ]
+  },
+  {
+    "id": "339f9ead-a038-454f-aebf-18d112442a90",
+    "questions": [
+      "Biểu đồ học tập để làm gì?"
+    ]
+  },
+  {
+    "id": "b9c5a1df-0853-451d-a18f-4b5ada8d4dca",
+    "questions": [
+      "Thời gian nghỉ tiết là bao lâu?"
+    ]
+  },
+  {
+    "id": "035717ed-f1ea-4b0c-87f1-98565ca9e696",
+    "questions": [
+      "Có bao nhiêu học kỳ chính trong một năm học?"
+    ]
+  },
+  {
+    "id": "6f7455b1-8593-4ec5-92bd-c71bb2b7d73b",
+    "questions": [
+      "Có các học kỳ phụ nào?"
+    ]
+  },
+  {
+    "id": "55ba4ac8-19ef-4c47-b945-eecda8f90f51",
+    "questions": [
+      "Thời gian học kỳ chính?"
+    ]
+  },
+  {
+    "id": "f96c9d87-4bee-4b08-8ee9-5c7c492df13e",
+    "questions": [
+      "Học kỳ phụ kéo dài khoảng bao lâu?"
+    ]
+  },
+  {
+    "id": "224f4ffe-a081-4fec-9a0f-123e62c523d1",
+    "questions": [
+      "Sinh viên có thể nghĩ các ngày lễ nào?"
+    ]
+  },
+  {
+    "id": "cdb44f8f-3896-4f49-b816-12bbfd3eb0b8",
+    "questions": [
+      "Một phiên học lý thuyết không dài quá bao nhiêu tiết liên tục?"
+    ]
+  },
+  {
+    "id": "54207c33-100c-4827-86b1-97be818258a8",
+    "questions": [
+      "Một phiên hướng dẫn thảo luận không kéo dài quá bao nhiêu tiết liên tục?"
+    ]
+  },
+  {
+    "id": "7cbec567-2393-4939-b90b-696bd8f3f087",
+    "questions": [
+      "Một phiên học thí nghiệm không kéo dài quá bao nhiêu tiết liên tục?"
+    ]
+  },
+  {
+    "id": "4394334d-2552-446c-bc72-f20198c83c6c",
+    "questions": [
+      "Sinh viên có lịch học hè không?"
+    ]
+  }
+]

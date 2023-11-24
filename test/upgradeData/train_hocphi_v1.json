@@ -1,0 +1,152 @@
+[
+  {
+    "id": "a5342672-321f-40d9-b989-51c951248105",
+    "questions": [
+      "Làm cách nào để thanh toán học phí và các khoản tiền khác?"
+    ]
+  },
+  {
+    "id": "43568c45-cb6c-4dd2-938d-1b2716a0675a",
+    "questions": [
+      "Trường có chấp nhận các hình thức thanh toán học phí khác không?"
+    ]
+  },
+  {
+    "id": "cc833c63-4be7-4b29-a2ea-b2ce4bb2f76b",
+    "questions": [
+      "Nếu tôi không thanh toán học phí, quy định nào sẽ áp dụng?"
+    ]
+  },
+  {
+    "id": "a4d75518-b406-44b8-977e-3723f7569b32",
+    "questions": [
+      "Tôi cần hỗ trợ hoặc có sự cố khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?"
+    ]
+  },
+  {
+    "id": "cbd71d0b-1172-4661-b55f-eada7b319083",
+    "questions": [
+      "Làm thế nào để truy cập trang BKPay trên myBK?"
+    ]
+  },
+  {
+    "id": "472f454c-1ebd-43c9-91b4-b7915909233c",
+    "questions": [
+      "Sau khi thanh toán xong cần lưu ý gì không?"
+    ]
+  },
+  {
+    "id": "c2b0ac10-252c-4d9f-a30a-134f18c8ee4a",
+    "questions": [
+      "Thời gian đăng ký Rút môn học thường được thông báo khi nào?"
+    ]
+  },
+  {
+    "id": "f170ba15-f524-44b8-ae9d-cac6954e23ef",
+    "questions": [
+      "Khi nào cần thanh toán học phí kỳ chính?"
+    ]
+  },
+  {
+    "id": "82be233b-1d06-4345-b190-c9db8d16d9ff",
+    "questions": [
+      "Khi nào cần thanh toán học phí kỳ dự thính"
+    ]
+  },
+  {
+    "id": "0309c6f1-ce8d-4a2b-9f06-8d4eb3138a7b",
+    "questions": [
+      "Khi nào cần thanh toán học phí kỳ hè và dự thính hè"
+    ]
+  },
+  {
+    "id": "4681e9e1-b60f-4724-a443-99daab71dbb3",
+    "questions": [
+      "Tôi có thể xem thời gian nộp học phí ở đâu"
+    ]
+  },
+  {
+    "id": "22588a11-64a3-4d24-ab27-5de95c61a3a6",
+    "questions": [
+      "Xem thông tin mức học phí ở đâu?"
+    ]
+  },
+  {
+    "id": "2da262b7-850d-4ca9-a523-ef49b24269e6",
+    "questions": [
+      "Tôi có thể vay để nộp học phí không"
+    ]
+  },
+  {
+    "id": "340c90f5-7896-4e1d-a3af-951240220d05",
+    "questions": [
+      "Tôi có thể hoãn nộp học phí không"
+    ]
+  },
+  {
+    "id": "f3598d2f-e61e-4492-b6a7-f6eee7a7fd0d",
+    "questions": [
+      "Tôi có thể miễn nộp học phí không"
+    ]
+  },
+  {
+    "id": "06cebe7c-6b26-459b-a34a-764d421af40e",
+    "questions": [
+      "Tôi có thể xin giảm học phí không"
+    ]
+  },
+  {
+    "id": "a3ed5926-1212-4b2c-ab12-66e4d082f401",
+    "questions": [
+      "Học phí của sinh viên vừa học vừa làm được tính như thế nào?"
+    ]
+  },
+  {
+    "id": "299ecb49-9703-4ca2-9815-cf2d7b6bc5ec",
+    "questions": [
+      "Sinh viên VLVH có học chung với sinh viên CQ không?"
+    ]
+  },
+  {
+    "id": "61dc43ef-ce17-49e2-a338-17359aae1bed",
+    "questions": [
+      "SV VLVH học chung với SV chính quy theo lịch như thế nào?"
+    ]
+  },
+  {
+    "id": "9d866a87-473d-4d0f-a901-c90cbc9e88ff",
+    "questions": [
+      "Tại sao Học kỳ dự thính hè có đơn giá học phí khác so với các Học kỳ chính?"
+    ]
+  },
+  {
+    "id": "8ad0d2de-a60d-42f1-b51c-ee1c089e33af",
+    "questions": [
+      "Cách tính học kỳ dự thính hè"
+    ]
+  },
+  {
+    "id": "aeee5a08-8400-432d-9373-938f5eeddb9a",
+    "questions": [
+      "Cách tính học kỳ dự thính hè đối với khóa tính học phí trọn gói"
+    ]
+  },
+  {
+    "id": "4cc95280-6ab1-4f32-9be2-dc02368dface",
+    "questions": [
+      "Cách tính học kỳ dự thính hè đối với khóa tính học phí theo tín chỉ"
+    ]
+  },
+  {
+    "id": "8975e9e3-cc28-476e-90f3-776cfc1e0dec",
+    "questions": [
+      "Các môn hướng dẫn được tính như thế nào ở học kỳ hè"
+    ]
+  },
+  {
+    "id": "6a0393d6-c6d5-41d3-86c2-c694088225e5",
+    "questions": [
+      "Đồ án được tính như thế nào ở học kỳ hè"
+    ]
+  }
+]

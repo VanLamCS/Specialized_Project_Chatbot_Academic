@@ -2,7 +2,11 @@
   {
     "id": "5649fd4d-d7ae-499d-a51c-6b1d4a70ffd4",
     "questions": [
-      "Sinh viên cần tích lũy bao nhiêu tín chỉ để tốt nghiệp?"
+      "Sinh viên cần tích lũy bao nhiêu tín chỉ để tốt nghiệp?",
+      "Bao nhiêu tín chỉ là điều kiện cần để sinh viên có thể tốt nghiệp?",
+      "Quy định về số tín chỉ cần tích lũy để đạt được bằng tốt nghiệp là gì?",
+      "Làm thế nào để biết số lượng tín chỉ cần tích lũy để tốt nghiệp?",
+      "Có quy tắc cụ thể nào về việc tích lũy tín chỉ cho quá trình tốt nghiệp không?"
     ]
   },
   {
@@ -14,139 +18,241 @@
   {
     "id": "9353837b-cd32-4ead-908e-7350a0a2eb1b",
     "questions": [
-      "Điều kiện nào cần thiết để tốt nghiệp?"
+      "Điều kiện nào cần thiết để tốt nghiệp?",
+      "Các yêu cầu cần đáp ứng để có thể tốt nghiệp là gì?",
+      "Làm thế nào để đảm bảo đáp ứng các điều kiện tốt nghiệp?",
+      "Quy định về các điều kiện cần thiết để tốt nghiệp là gì?",
+      "Sinh viên cần hoàn thành những gì để đạt đến điều kiện tốt nghiệp?"
     ]
   },
   {
     "id": "73e8cd26-22ca-4dfe-a89f-45eb9f9fcddb",
     "questions": [
-      "Các điều kiện nào được yêu cầu để được công nhận tốt nghiệp?"
+      "Các điều kiện nào được yêu cầu để được công nhận tốt nghiệp?",
+      "Làm thế nào để đạt đến các điều kiện cần thiết để được công nhận tốt nghiệp?",
+      "Quy định về các yêu cầu để được công nhận tốt nghiệp là gì?",
+      "Sinh viên cần hoàn thành những điều gì để đáp ứng yêu cầu tốt nghiệp?",
+      "Có những tiêu chí nào để đảm bảo công nhận tốt nghiệp?"
     ]
   },
   {
     "id": "d10e1482-8d3f-405c-80b1-d8764bc7ba4b",
     "questions": [
-      "Ngoài tín chỉ, điều gì còn cần để tốt nghiệp?"
+      "Ngoài tín chỉ, điều gì còn cần để tốt nghiệp?",
+      "Các yếu tố nào khác quan trọng để đạt đến tình trạng tốt nghiệp?",
+      "Làm thế nào để đảm bảo đáp ứng các yêu cầu ngoài tín chỉ để tốt nghiệp?",
+      "Quy định về các yếu tố khác cần thiết để tốt nghiệp là gì?",
+      "Các điều kiện khác ngoài tín chỉ mà sinh viên cần thỏa mãn để tốt nghiệp là gì?"
     ]
   },
   {
     "id": "aa00336b-16ef-4fec-a6cf-9f1a4fe5c88f",
     "questions": [
-      "Làm thế nào để đạt chuẩn ngoại ngữ tốt nghiệp?"
+      "Làm thế nào để đạt chuẩn ngoại ngữ tốt nghiệp?",
+      "Quy trình đạt chuẩn ngoại ngữ tốt nghiệp là gì?",
+      "Các bước cụ thể để đáp ứng tiêu chí ngoại ngữ tốt nghiệp là gì?",
+      "Có các bài kiểm tra hoặc khóa học cụ thể nào cho việc đạt chuẩn ngoại ngữ?",
+      "Làm thế nào để đảm bảo đạt chuẩn ngoại ngữ theo yêu cầu của trường?"
     ]
   },
   {
     "id": "f2f6d6f5-5409-419a-b096-f19d2f48fe5a",
     "questions": [
-      "Tại thời điểm nào xét tốt nghiệp?"
+      "Tại thời điểm nào xét tốt nghiệp?",
+      "Khi nào là thời điểm chính để xét tốt nghiệp?",
+      "Làm thế nào để biết khi nào trường thường xét tốt nghiệp?",
+      "Quy định về thời gian xét tốt nghiệp là gì?",
+      "Có các kỳ xét tốt nghiệp cụ thể trong năm không?"
     ]
   },
   {
     "id": "b6cd142d-9a0e-45d5-ac1f-62db5cd0a143",
     "questions": [
-      "Có bất kỳ sự kiện nào khiến sinh viên không thể tốt nghiệp?"
+      "Có bất kỳ sự kiện nào khiến sinh viên không thể tốt nghiệp?",
+      "Những yếu tố nào có thể gây ảnh hưởng đến khả năng tốt nghiệp của sinh viên?",
+      "Có các điều kiện hoặc sự kiện nào có thể ngăn chặn quá trình tốt nghiệp?",
+      "Các thách thức có thể làm trì hoãn việc tốt nghiệp là gì?",
+      "Sinh viên gặp khó khăn gì trong quá trình tốt nghiệp không?"
     ]
   },
   {
     "id": "f0fd4a5b-3ede-451d-80ef-41a74b2b7cc3",
     "questions": [
-      "Bao nhiêu tín chỉ là bắt buộc để tốt nghiệp?"
+      "Bao nhiêu tín chỉ là bắt buộc để tốt nghiệp?",
+      "Cần đạt được bao nhiêu tín chỉ để hoàn thành chương trình và tốt nghiệp?",
+      "Số tín chỉ tối thiểu cần có để đáp ứng yêu cầu tốt nghiệp là bao nhiêu?",
+      "Tín chỉ bắt buộc để tốt nghiệp là bao nhiêu?",
+      "Làm thế nào để xác định số tín chỉ cần thiết để đạt tốt nghiệp?"
     ]
   },
   {
     "id": "03508a5d-092e-4645-bfce-b59981d428ca",
     "questions": [
-      "Làm thế nào để đạt điểm trung bình tích lũy từ trung bình trở lên?"
+      "Làm thế nào để đạt điểm trung bình tích lũy từ trung bình trở lên?",
+      "Điều gì cần thực hiện để có điểm trung bình tích lũy cao hơn trung bình?",
+      "Cách nào để đảm bảo điểm trung bình tích lũy vượt qua mức trung bình?",
+      "Làm thế nào để nâng cao điểm GPA lên trên trung bình?",
+      "Điều gì cần làm để có GPA cao hơn so với trung bình?"
     ]
   },
   {
     "id": "63eb0e17-478b-44ef-8a0b-e2b65749badf",
     "questions": [
-      "Có bất kỳ bước nào cần được hoàn thành trước khi tốt nghiệp?"
+      "Có bất kỳ bước nào cần được hoàn thành trước khi tốt nghiệp?",
+      "Làm thế nào để chuẩn bị cho quá trình tốt nghiệp?",
+      "Các bước nào cần phải hoàn tất trước khi đạt được bằng tốt nghiệp?",
+      "Điều gì là quan trọng trong quá trình chuẩn bị trước khi tốt nghiệp?",
+      "Cách nào để đảm bảo mình đã hoàn tất tất cả các bước cần thiết cho việc tốt nghiệp?"
     ]
   },
   {
     "id": "8f947f5c-cf0a-4e4e-b4bd-ac668821a050",
     "questions": [
-      "Làm thế nào để hoàn thành chương trình rèn luyện sinh viên?"
+      "Làm thế nào để hoàn thành chương trình rèn luyện sinh viên?",
+      "Các bước nào cần thiết để đạt được hoàn thành chương trình rèn luyện sinh viên?",
+      "Điều gì là quan trọng trong quá trình hoàn thành chương trình rèn luyện sinh viên?",
+      "Các hoạt động cần thực hiện để hoàn tất chương trình rèn luyện sinh viên?",
+      "Làm thế nào để kiểm tra việc hoàn thành chương trình rèn luyện sinh viên?"
     ]
   },
   {
     "id": "4718416f-4e8b-47ba-8883-e178bd40bf3c",
     "questions": [
-      "Có bất kỳ yêu cầu nào về thời gian để xét tốt nghiệp?"
+      "Có bất kỳ yêu cầu nào về thời gian để xét tốt nghiệp?",
+      "Làm thế nào thời gian ảnh hưởng đến quá trình xét tốt nghiệp?",
+      "Quy định nào liên quan đến thời gian xét tốt nghiệp?",
+      "Có những điều cần biết về thời gian trong quá trình xét tốt nghiệp không?",
+      "Thời gian cần để hoàn tất quá trình xét tốt nghiệp là bao lâu?"
     ]
   },
   {
     "id": "477c1c3b-3518-4c1d-b9b2-9367b08671e4",
     "questions": [
-      "Có những môn học nào cần hoàn thành để tích lũy đủ học phần?"
+      "Có những môn học nào cần hoàn thành để tích lũy đủ học phần?",
+      "Làm thế nào để xác định môn học cần hoàn thành để tích lũy đủ học phần?",
+      "Có danh sách cụ thể nào về các môn học cần hoàn thành để đạt đủ học phần?",
+      "Quy trình nào áp dụng để kiểm tra môn học cần hoàn thành để tích lũy học phần?",
+      "Các môn học nào quan trọng nhất trong việc tích lũy đủ học phần để tốt nghiệp?",
+      "Làm thế nào để theo dõi tiến độ hoàn thành các môn học để đảm bảo tích lũy đủ học phần?"
     ]
   },
   {
     "id": "5e71b993-0f4b-45d6-90c6-d32c384e39b5",
     "questions": [
-      "Làm thế nào để đáp ứng chuẩn đầu ra của chương trình đào tạo?"
+      "Làm thế nào để đáp ứng chuẩn đầu ra của chương trình đào tạo?",
+      "Quy trình nào áp dụng để đảm bảo đáp ứng chuẩn đầu ra của chương trình đào tạo?",
+      "Làm thế nào để kiểm tra và đánh giá việc đáp ứng chuẩn đầu ra của chương trình học?",
+      "Có bước nào đặc biệt để cải thiện và đáp ứng các chuẩn đầu ra của chương trình?",
+      "Cách tích hợp phản hồi từ sinh viên vào quá trình đáp ứng chuẩn đầu ra của chương trình là gì?",
+      "Có hệ thống theo dõi nào để đảm bảo liên tục và hiệu quả trong việc đáp ứng chuẩn đầu ra của chương trình?"
     ]
   },
   {
     "id": "8ba7700c-96b6-428a-a1a9-a1f5bed789d7",
     "questions": [
-      "Sinh viên cần hoàn thành bao nhiêu khóa học Giáo dục Quốc phòng - An ninh?"
+      "Sinh viên cần hoàn thành bao nhiêu khóa học Giáo dục Quốc phòng - An ninh?",
+      "Bao nhiêu khóa học Giáo dục Quốc phòng - An ninh sinh viên cần hoàn thành?",
+      "Sinh viên phải đăng ký bao nhiêu khóa học Giáo dục Quốc phòng - An ninh?",
+      "Có quy định cụ thể về số lượng khóa học Giáo dục Quốc phòng - An ninh sinh viên cần hoàn thành không?",
+      "Cách tính số lượng khóa học Giáo dục Quốc phòng - An ninh mà sinh viên cần theo học là như thế nào?",
+      "Làm thế nào để sinh viên biết thông tin chi tiết về việc hoàn thành khóa học Giáo dục Quốc phòng - An ninh?"
     ]
   },
   {
     "id": "ffe77153-4d0a-4a0e-81e5-9ca94e6f4153",
     "questions": [
-      "Có những mức đình chỉ học tập nào không cho phép xét tốt nghiệp?"
+      "Có những mức đình chỉ học tập nào không cho phép xét tốt nghiệp?",
+      "Có những mức đình chỉ học tập nào mà sinh viên không được phép xét tốt nghiệp?",
+      "Mức đình chỉ học tập nào làm sinh viên không đủ điều kiện xét tốt nghiệp?",
+      "Đình chỉ học tập ở mức nào sẽ ảnh hưởng đến khả năng xét tốt nghiệp của sinh viên?",
+      "Làm thế nào mức đình chỉ học tập ảnh hưởng đến quá trình xét tốt nghiệp?",
+      "Có quy định cụ thể về mức đình chỉ học tập và tác động đến xét tốt nghiệp không?"
     ]
   },
   {
     "id": "84042491-3e00-42e2-9cdf-34bf801d1112",
     "questions": [
-      "Sinh viên cần đạt điểm trung bình bao nhiêu để xét tốt nghiệp?"
+      "Sinh viên cần đạt điểm trung bình bao nhiêu để xét tốt nghiệp?",
+      "Để xét tốt nghiệp, sinh viên cần đạt điểm trung bình bao nhiêu?",
+      "Có yêu cầu gì về điểm trung bình để được xét tốt nghiệp?",
+      "Làm thế nào điểm trung bình ảnh hưởng đến quá trình xét tốt nghiệp?",
+      "Sinh viên cần duy trì điểm trung bình ở mức nào để không bị ảnh hưởng đến việc xét tốt nghiệp?",
+      "Có quy định cụ thể về điểm trung bình để đảm bảo xét tốt nghiệp không?"
     ]
   },
   {
     "id": "073d6c6b-857f-4d97-bf64-100582f80bca",
     "questions": [
-      "Bao nhiêu tín chỉ là bắt buộc để tốt nghiệp?"
+      "Bao nhiêu tín chỉ là bắt buộc để tốt nghiệp?",
+      "Số tín chỉ bắt buộc để tốt nghiệp là bao nhiêu?",
+      "Có quy định về số tín chỉ bắt buộc để đảm bảo tốt nghiệp không?",
+      "Làm thế nào để biết số tín chỉ bắt buộc cần hoàn thành để tốt nghiệp?",
+      "Có mức tối thiểu về số tín chỉ bắt buộc không thể giảm khi xét tốt nghiệp không?",
+      "Sinh viên cần tích lũy bao nhiêu tín chỉ để đáp ứng yêu cầu tốt nghiệp?"
     ]
   },
   {
     "id": "11100961-4050-4fcd-b137-f0fceda501a8",
     "questions": [
-      "Làm thế nào để đáp ứng chuẩn thể chất?"
+      "Làm thế nào để đáp ứng chuẩn thể chất?",
+      "Sinh viên cần thực hiện những bước gì để đáp ứng chuẩn thể chất?",
+      "Có quy định cụ thể nào về chuẩn thể chất mà sinh viên phải tuân thủ không?",
+      "Quá trình đáp ứng chuẩn thể chất bao gồm những yếu tố nào?",
+      "Làm thế nào để sinh viên có thể kiểm tra và đảm bảo rằng họ đáp ứng chuẩn thể chất?",
+      "Có những bài kiểm tra cụ thể nào đối với chuẩn thể chất của sinh viên?"
     ]
   },
   {
     "id": "35bc462e-4c41-4cbf-94c4-dd25f29e810a",
     "questions": [
-      "Khi nào hiệu trưởng cấp bằng tốt nghiệp cho sinh viên đủ điều kiện tốt nghiệp?"
+      "Khi nào hiệu trưởng cấp bằng tốt nghiệp cho sinh viên đủ điều kiện tốt nghiệp?",
+      "Hiệu trưởng cấp bằng tốt nghiệp cho sinh viên khi nào?",
+      "Quy trình xét tốt nghiệp bao gồm những bước nào trước khi hiệu trưởng cấp bằng?",
+      "Làm thế nào để biết khi nào hiệu trưởng sẽ cấp bằng tốt nghiệp?",
+      "Sinh viên phải thực hiện những thủ tục gì sau khi đủ điều kiện tốt nghiệp để nhận bằng?",
+      "Có quy định cụ thể nào về thời gian cấp bằng tốt nghiệp cho sinh viên không?"
     ]
   },
   {
     "id": "2b751af1-8af5-4ee1-9454-c94344113f77",
     "questions": [
-      "Làm thế nào để nhận bằng tốt nghiệp sau khi đủ điều kiện tốt nghiệp?"
+      "Làm thế nào để nhận bằng tốt nghiệp sau khi đủ điều kiện tốt nghiệp?",
+      "Quy trình nhận bằng tốt nghiệp bao gồm những bước nào?",
+      "Sinh viên cần thực hiện những thủ tục gì để nhận bằng sau khi tốt nghiệp?",
+      "Làm thế nào để đăng ký và đặt lịch nhận bằng tốt nghiệp?",
+      "Có những giấy tờ và chứng minh cần thiết nào khi nhận bằng tốt nghiệp?",
+      "Cần phải chờ bao lâu sau khi hoàn thành các thủ tục để nhận được bằng tốt nghiệp?"
     ]
   },
   {
     "id": "c559695c-2706-4045-828c-6457beae2969",
     "questions": [
-      "Có giấy chứng nhận tốt nghiệp tạm thời không?"
+      "Có giấy chứng nhận tốt nghiệp tạm thời không?",
+      "Sinh viên có được cấp giấy chứng nhận tạm thời sau khi tốt nghiệp không?",
+      "Làm thế nào để đạt được giấy chứng nhận tạm thời sau khi hoàn thành các yêu cầu tốt nghiệp?",
+      "Quy trình nhận giấy chứng nhận tạm thời tốt nghiệp như thế nào?",
+      "Có những thông tin nào được in đầy đủ trên giấy chứng nhận tạm thời?",
+      "Giấy chứng nhận tạm thời có giá trị trong thời gian bao lâu sau khi tốt nghiệp?"
     ]
   },
   {
     "id": "fdb2ad28-8853-4799-b85d-df60bf573f71",
     "questions": [
-      "Làm thế nào để nhận bằng tốt nghiệp?"
+      "Làm thế nào để nhận bằng tốt nghiệp?",
+      "Sinh viên cần thực hiện những bước nào để nhận bằng tốt nghiệp?",
+      "Quy trình nhận bằng tốt nghiệp như thế nào?",
+      "Có những yêu cầu gì cần đáp ứng để nhận bằng tốt nghiệp?"
     ]
   },
   {
     "id": "985316fa-d07e-4e7f-b79a-862030da6395",
     "questions": [
-      "Có bất kỳ thời hạn nào để nhận bằng tốt nghiệp?"
+      "Có bất kỳ thời hạn nào để nhận bằng tốt nghiệp?",
+      "Thời hạn nhận bằng tốt nghiệp là bao lâu sau khi đủ điều kiện tốt nghiệp?",
+      "Có nguyên tắc cụ thể về thời hạn nhận bằng tốt nghiệp không?",
+      "Làm thế nào để biết về thời hạn nhận bằng tốt nghiệp?",
+      "Có sự linh hoạt về thời hạn nhận bằng tốt nghiệp không?",
+      "Nếu vượt quá thời hạn, sinh viên có thể làm gì để nhận bằng tốt nghiệp?"
     ]
   },
   {

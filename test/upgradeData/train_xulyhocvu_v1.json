@@ -2,55 +2,97 @@
   {
     "id": "2a4905b1-073f-42eb-b7c2-d0c3b6b6a3a6",
     "questions": [
-      "Khi nào sinh viên sẽ được cảnh báo học tập?"
+      "Khi nào sinh viên sẽ được cảnh báo học tập?",
+      "Điều kiện nào khiến cho sinh viên bị cảnh báo về học tập?",
+      "Làm thế nào để biết khi nào sinh viên sẽ nhận được cảnh báo về học tập?",
+      "Có quy tắc cụ thể nào áp dụng khi sinh viên bị cảnh báo học tập?"
     ]
   },
   {
     "id": "2f0bc8bb-f3b4-4f6a-b558-fa5bb1ed1f34",
     "questions": [
-      "Khi nào sinh viên bị buộc tạm dừng học?"
+      "Khi nào sinh viên bị buộc tạm dừng học?",
+      "Điều kiện nào khiến cho sinh viên bị buộc tạm dừng học?",
+      "Làm thế nào để biết khi nào sinh viên sẽ bị buộc tạm dừng học?"
     ]
   },
   {
     "id": "dc35542b-b3f6-4f1f-b797-f29193b2a10f",
     "questions": [
-      "Dưới bao nhiêu tín chỉ 1 kỳ thì bị cảnh cáo học vụ?"
+      "Dưới bao nhiêu tín chỉ 1 kỳ thì bị cảnh cáo học vụ?",
+      "Khi số tín chỉ trong 1 kỳ học dưới mức nào thì sinh viên sẽ bị cảnh cáo về học vụ?",
+      "Cần phải có ít nhất bao nhiêu tín chỉ trong một học kỳ để không bị cảnh cáo học vụ?",
+      "Giới hạn tối thiểu của tín chỉ trong 1 kỳ học để tránh bị cảnh cáo là bao nhiêu?",
+      "Bao nhiêu tín chỉ là tiêu chuẩn để tránh việc bị cảnh cáo học vụ trong 1 kỳ học?"
     ]
   },
   {
     "id": "9f2dedc4-ab8c-42bc-853e-86da469c3a92",
     "questions": [
-      "Điểm trung bình bao nhiêu thì bị cảnh cáo học vụ?"
+      "Điểm trung bình bao nhiêu thì bị cảnh cáo học vụ?",
+      "Điểm trung bình bao nhiêu thì sinh viên bị cảnh cáo về học vụ?",
+      "Khi điểm trung bình xuống dưới mức nào thì sinh viên sẽ bị cảnh cáo học vụ?",
+      "Có điểm trung bình là bao nhiêu thì sinh viên có thể bị cảnh cáo về học vụ?",
+      "Giới hạn tối thiểu của điểm trung bình để tránh bị cảnh cáo học vụ là bao nhiêu?",
+      "Bao nhiêu điểm trung bình là tiêu chuẩn để tránh việc bị cảnh cáo học vụ?"
     ]
   },
   {
     "id": "5bce3367-4fc1-4ef1-9cba-565616285d59",
     "questions": [
-      "Có sự khác nhau về mức điểm cảnh cáo học vụ giữa các năm học không?"
+      "Có sự khác nhau về mức điểm cảnh cáo học vụ giữa các năm học không?",
+      "Mức điểm cảnh cáo học vụ có thể khác nhau giữa các năm học không?",
+      "Có sự biến đổi về mức điểm cảnh cáo học vụ qua các năm học không?",
+      "Có thay đổi về chuẩn điểm cảnh cáo học vụ qua từng năm học không?",
+      "Mức điểm cảnh cáo học vụ có thể thay đổi tùy theo năm học không?",
+      "Có sự khác biệt về mức điểm cảnh cáo học vụ giữa các năm không?"
     ]
   },
   {
     "id": "6f3c00bb-93db-4ae0-a8b9-b2c771e70e5b",
     "questions": [
-      "Điểm trung bình của sinh viên năm nhất dưới bao nhiêu thì bị cảnh cáo học vụ?"
+      "Điểm trung bình của sinh viên năm nhất dưới bao nhiêu thì bị cảnh cáo học vụ?",
+      "Mức điểm trung bình của sinh viên năm nhất khi nào sẽ bị cảnh cáo học vụ?",
+      "Điểm trung bình tối thiểu của sinh viên năm nhất để không bị cảnh cáo học vụ là bao nhiêu?",
+      "Cần có điểm trung bình là bao nhiêu để sinh viên năm nhất không bị cảnh cáo học vụ?",
+      "Giới hạn điểm trung bình của sinh viên năm nhất để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
+      "Điểm trung bình của sinh viên năm nhất dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?"
     ]
   },
   {
     "id": "ebc75e2b-52eb-4d01-ab0d-7d41f55922a1",
     "questions": [
-      "Điểm trung bình của sinh viên năm hai dưới bao nhiêu thì bị cảnh cáo học vụ?"
+      "Điểm trung bình của sinh viên năm hai dưới bao nhiêu thì bị cảnh cáo học vụ?",
+      "Điểm trung bình của sinh viên năm hai dưới bao nhiêu thì bị cảnh cáo học vụ?",
+      "Mức điểm trung bình của sinh viên năm hai khi nào sẽ bị cảnh cáo học vụ?",
+      "Điểm trung bình tối thiểu của sinh viên năm hai để không bị cảnh cáo học vụ là bao nhiêu?",
+      "Cần có điểm trung bình là bao nhiêu để sinh viên năm hai không bị cảnh cáo học vụ?",
+      "Giới hạn điểm trung bình của sinh viên năm hai để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
+      "Điểm trung bình của sinh viên năm hai dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?"
     ]
   },
   {
     "id": "f39617b8-be31-4468-9b7f-d37cdc85a6bf",
     "questions": [
-      "Điểm trung bình của sinh viên năm ba dưới bao nhiêu thì bị cảnh cáo học vụ?"
+      "Điểm trung bình của sinh viên năm ba dưới bao nhiêu thì bị cảnh cáo học vụ?",
+      "Điểm trung bình của sinh viên năm ba dưới bao nhiêu thì bị cảnh cáo học vụ?",
+      "Mức điểm trung bình của sinh viên năm ba khi nào sẽ bị cảnh cáo học vụ?",
+      "Điểm trung bình tối thiểu của sinh viên năm ba để không bị cảnh cáo học vụ là bao nhiêu?",
+      "Cần có điểm trung bình là bao nhiêu để sinh viên năm ba không bị cảnh cáo học vụ?",
+      "Giới hạn điểm trung bình của sinh viên năm ba để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
+      "Điểm trung bình của sinh viên năm ba dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?"
     ]
   },
   {
     "id": "42b8f11c-234a-4bb0-a15a-343027500673",
     "questions": [
-      "Điểm trung bình của sinh viên năm cuối dưới bao nhiêu thì bị cảnh cáo học vụ?"
+      "Điểm trung bình của sinh viên năm cuối dưới bao nhiêu thì bị cảnh cáo học vụ?",
+      "Điểm trung bình của sinh viên năm cuối dưới bao nhiêu thì bị cảnh cáo học vụ?",
+      "Mức điểm trung bình của sinh viên năm cuối khi nào sẽ bị cảnh cáo học vụ?",
+      "Điểm trung bình tối thiểu của sinh viên năm cuối để không bị cảnh cáo học vụ là bao nhiêu?",
+      "Cần có điểm trung bình là bao nhiêu để sinh viên năm cuối không bị cảnh cáo học vụ?",
+      "Giới hạn điểm trung bình của sinh viên năm cuối để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
+      "Điểm trung bình của sinh viên năm cuối dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?"
     ]
   },
   {
@@ -62,61 +104,111 @@
   {
     "id": "0f040d68-ae1e-4f80-8f17-10297ad1021b",
     "questions": [
-      "Sinh viên có thể được thu nhận lại sau khi buộc tạm dừng việc học?"
+      "Sinh viên có thể được thu nhận lại sau khi buộc tạm dừng việc học?",
+      "Điều gì làm cho sinh viên bị buộc tạm dừng học?",
+      "Có những tình huống nào khiến sinh viên phải buộc tạm dừng học?",
+      "Khi nào mà sinh viên phải tạm dừng việc học tập?",
+      "Điều kiện nào dẫn đến việc buộc tạm dừng học của sinh viên?",
+      "Có những trường hợp nào khiến sinh viên bị buộc tạm dừng học?"
     ]
   },
   {
     "id": "f6b79e92-98b0-4c4b-ad00-6f191c8b7949",
     "questions": [
-      "Trong trường hợp nào sinh viên bị buộc thôi học?"
+      "Trong trường hợp nào sinh viên bị buộc thôi học?",
+      "Có những tình huống gì khiến sinh viên bị buộc thôi học?",
+      "Khi nào mà sinh viên bị buộc thôi học?",
+      "Trong trường hợp nào sinh viên sẽ phải ngừng việc học?",
+      "Điều kiện nào dẫn đến việc buộc thôi học của sinh viên?",
+      "Có những lý do gì khiến sinh viên bị buộc thôi học?"
     ]
   },
   {
     "id": "20d07b6b-aade-45ff-81d8-07821eaecd28",
     "questions": [
-      "Vi phạm kỷ luật có bị buộc thôi học không?"
+      "Vi phạm kỷ luật có bị buộc thôi học không?",
+      "Vi phạm kỷ luật có thể dẫn đến việc buộc thôi học không?",
+      "Có thể bị buộc thôi học khi vi phạm các quy định kỷ luật không?",
+      "Tình huống vi phạm kỷ luật có thể gây ra việc buộc thôi học không?",
+      "Việc vi phạm các quy tắc kỷ luật có thể dẫn đến kết quả buộc thôi học không?",
+      "Liên quan đến việc vi phạm kỷ luật, có thể xảy ra tình trạng buộc thôi học không?"
     ]
   },
   {
     "id": "5a53b644-fb0e-4080-ae6f-5c24072ca88b",
     "questions": [
-      "Bị cảnh cáo học tập có bị buột thôi học không?"
+      "Bị cảnh cáo học tập có bị buột thôi học không?",
+      "Bị cảnh cáo học tập có thể dẫn đến việc bị buộc thôi học không?",
+      "Cảnh cáo học vụ có liên quan đến việc buộc thôi học không?",
+      "Tình trạng bị cảnh cáo học tập có thể gây ra việc buộc thôi học không?",
+      "Liên quan đến việc bị cảnh cáo học vụ, có thể có kết quả buộc thôi học không?",
+      "Bị cảnh cáo về học tập có thể dẫn đến tình trạng buộc thôi học không?"
     ]
   },
   {
     "id": "319e03ca-5b2c-4f9f-b2cc-9d868d0cc7eb",
     "questions": [
-      "Bỏ học có bị buột thôi học không?"
+      "Bỏ học có bị buột thôi học không?",
+      "Hành động bỏ học có thể dẫn đến việc bị buộc thôi học không?",
+      "Có thể bị buộc thôi học khi quyết định bỏ học không?",
+      "Tình trạng bỏ học có thể gây ra việc buộc thôi học không?",
+      "Liên quan đến việc bỏ học, có thể có kết quả buộc thôi học không?",
+      "Việc quyết định bỏ học có thể dẫn đến tình trạng buộc thôi học không?"
     ]
   },
   {
     "id": "762a40a1-93a6-4e91-9633-3893bde48453",
     "questions": [
-      "Tạm dừng học có bị buột thôi học không?"
+      "Tạm dừng học có bị buột thôi học không?",
+      "Hành động tạm dừng học có thể dẫn đến việc bị buộc thôi học không?",
+      "Có thể bị buộc thôi học khi quyết định tạm dừng học không?",
+      "Tình trạng tạm dừng học có thể gây ra việc buộc thôi học không?",
+      "Liên quan đến việc tạm dừng học, có thể có kết quả buộc thôi học không?",
+      "Việc quyết định tạm dừng học có thể dẫn đến tình trạng buộc thôi học không?"
     ]
   },
   {
     "id": "c6af3dc0-a038-4b29-8133-5d10143d12d7",
     "questions": [
-      "Nghỉ học tạm thời có bị buột thôi học không?"
+      "Nghỉ học tạm thời có bị buột thôi học không?",
+      "Hành động nghỉ học tạm thời có thể dẫn đến việc bị buộc thôi học không?",
+      "Có thể bị buộc thôi học khi quyết định nghỉ học tạm thời không?",
+      "Tình trạng nghỉ học tạm thời có thể gây ra việc buộc thôi học không?",
+      "Liên quan đến việc nghỉ học tạm thời, có thể có kết quả buộc thôi học không?",
+      "Việc quyết định nghỉ học tạm thời có thể dẫn đến tình trạng buộc thôi học không?"
     ]
   },
   {
     "id": "20be4733-7e1b-40fb-b0c2-21be5546e2a9",
     "questions": [
-      "Tôi học quá thời gian đào tạo có bị buột thôi học không?"
+      "Tôi học quá thời gian đào tạo có bị buột thôi học không?",
+      "Việc học quá thời gian đào tạo có thể dẫn đến việc bị buộc thôi học không?",
+      "Có thể bị buộc thôi học khi học quá thời gian đào tạo không?",
+      "Tình trạng học lâu hơn thời gian đào tạo có thể gây ra việc buộc thôi học không?",
+      "Liên quan đến việc học quá thời gian đào tạo, có thể có kết quả buộc thôi học không?",
+      "Việc học quá thời gian đào tạo có thể dẫn đến tình trạng buộc thôi học không?"
     ]
   },
   {
     "id": "a9b00c3b-7518-4991-b8d9-acd51404d027",
     "questions": [
-      "Có trường hợp nào vi phạm nhưng không được xem xét không thôi học không?"
+      "Có trường hợp nào vi phạm nhưng không được xem xét không thôi học không?",
+      "Có những trường hợp nào vi phạm nhưng không được xem xét để buộc thôi học không?",
+      "Khi nào vi phạm không được xem xét để buộc thôi học?",
+      "Có tình huống nào vi phạm không bị xem xét để buộc thôi học không?",
+      "Liên quan đến việc vi phạm, có thể có trường hợp không xem xét để buộc thôi học không?",
+      "Có trường hợp nào vi phạm nhưng không được xem xét để buộc thôi học không?"
     ]
   },
   {
     "id": "c52f9281-3c96-4780-90eb-3d96d179d1d8",
     "questions": [
-      "Được hoãn buột thôi học tối đa bao nhiêu lần?"
+      "Được hoãn buột thôi học tối đa bao nhiêu lần?",
+      "Số lần được hoãn buộc thôi học tối đa là bao nhiêu?",
+      "Có bao nhiêu lần có thể hoãn việc buộc thôi học?",
+      "Số lần tối đa có thể được hoãn buộc thôi học là bao nhiêu?",
+      "Giới hạn về số lần hoãn buộc thôi học là bao nhiêu?",
+      "Lượng hoãn buộc thôi học tối đa được cho là bao nhiêu lần?"
     ]
   }
 ]

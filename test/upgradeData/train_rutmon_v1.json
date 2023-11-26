@@ -2,67 +2,158 @@
   {
     "id": "a5342672-321f-40d9-b989-51c951248105",
     "questions": [
-      "Thời gian đăng ký rút môn học là khi nào?"
+      "Thời gian đăng ký rút môn học là khi nào?",
+      "Quy định nào xác định thời điểm đăng ký rút môn học?",
+      "Làm thế nào để biết về thời gian đăng ký rút môn học?",
+      "Có nguyên tắc cụ thể nào về việc xác định thời gian đăng ký rút môn học?",
+      "Nguyên tắc nào quy định về thời gian đăng ký rút môn học?",
+      "Làm thế nào quy trình xử lý về thời gian đăng ký rút môn học được thiết lập và thực hiện?",
+      "Có sự tham gia của ai trong quá trình quyết định về thời gian đăng ký rút môn học?",
+      "Làm thế nào để sinh viên biết về thời gian đăng ký rút môn học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời gian đăng ký rút môn học?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho thời gian đăng ký rút môn học không?"
     ]
   },
   {
     "id": "a079ea5d-dabf-4137-9cf1-1074723c6a43",
     "questions": [
-      "Điều kiện nào được yêu cầu khi Rút môn học?"
+      "Điều kiện nào được yêu cầu khi Rút môn học?",
+      "Quy định nào xác định các điều kiện cần thiết khi Rút môn học?",
+      "Làm thế nào để biết về các điều kiện yêu cầu khi Rút môn học?",
+      "Có nguyên tắc cụ thể nào về việc xác định điều kiện cần thiết khi Rút môn học?",
+      "Nguyên tắc nào quy định về các điều kiện cần thiết khi Rút môn học?",
+      "Làm thế nào quy trình xử lý về các điều kiện cần thiết khi Rút môn học được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về các điều kiện cần thiết khi Rút môn học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến các điều kiện cần thiết khi Rút môn học?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho các điều kiện cần thiết khi Rút môn học không?"
     ]
   },
   {
     "id": "cd1a2fb7-215c-40d6-9734-7e272fd4c8df",
     "questions": [
-      "Sinh viên sẽ nhận điểm bao nhiêu khi rút môn học"
+      "Sinh viên sẽ nhận điểm bao nhiêu khi rút môn học?",
+      "Quy định nào xác định điểm khi sinh viên rút môn học?",
+      "Làm thế nào để biết về cách tính điểm khi sinh viên rút môn học?",
+      "Có nguyên tắc cụ thể nào về việc xác định điểm khi sinh viên rút môn học?",
+      "Nguyên tắc nào quy định về cách tính điểm khi sinh viên rút môn học?",
+      "Làm thế nào quy trình xử lý về cách tính điểm khi sinh viên rút môn học được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về cách tính điểm khi rút môn học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến cách tính điểm khi rút môn học?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho cách tính điểm khi sinh viên rút môn học không?"
     ]
   },
   {
     "id": "c1a145fc-227b-48f1-bdf7-3dae917dc17f",
     "questions": [
-      "Rút môn học có ảnh hưởng đến việc nộp học phí không?"
+      "Rút môn học có ảnh hưởng đến việc nộp học phí không?",
+      "Quy định nào xác định ảnh hưởng của việc rút môn học đối với việc nộp học phí?",
+      "Làm thế nào để biết về cách rút môn học ảnh hưởng đến việc nộp học phí?",
+      "Có nguyên tắc cụ thể nào về việc xác định ảnh hưởng của việc rút môn học đối với việc nộp học phí?",
+      "Nguyên tắc nào quy định về ảnh hưởng của việc rút môn học đối với việc nộp học phí?",
+      "Làm thế nào quy trình xử lý về ảnh hưởng của việc rút môn học đối với việc nộp học phí được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về ảnh hưởng của việc rút môn học đối với việc nộp học phí?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến ảnh hưởng của việc rút môn học đối với việc nộp học phí?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho ảnh hưởng của việc rút môn học đối với việc nộp học phí không?"
     ]
   },
   {
     "id": "e7770fd8-4b8b-4785-9818-3a8fe16f9ca5",
     "questions": [
-      "Có thời khoá biểu cho các môn học bị Rút không?"
+      "Có thời khoá biểu cho các môn học bị Rút không?",
+      "Quy định nào xác định về thời khoá biểu cho các môn học bị Rút?",
+      "Làm thế nào để biết về thời khoá biểu cho các môn học bị Rút?",
+      "Có nguyên tắc cụ thể nào về việc xác định thời khoá biểu cho các môn học bị Rút?",
+      "Nguyên tắc nào quy định về thời khoá biểu cho các môn học bị Rút?",
+      "Làm thế nào quy trình xử lý về thời khoá biểu cho các môn học bị Rút được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thời khoá biểu cho các môn học bị Rút?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời khoá biểu cho các môn học bị Rút không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho thời khoá biểu cho các môn học bị Rút không?"
     ]
   },
   {
     "id": "deeaaa9e-cb1d-4f0c-a357-c6bde3a8e20d",
     "questions": [
-      "Làm thế nào để đăng ký Rút môn học?"
+      "Làm thế nào để đăng ký Rút môn học?",
+      "Quy định nào xác định về quy trình đăng ký Rút môn học?",
+      "Cần phải thực hiện bước nào để đăng ký Rút môn học?",
+      "Có nguyên tắc cụ thể nào về việc xác định quy trình đăng ký Rút môn học?",
+      "Nguyên tắc nào quy định về quy trình đăng ký Rút môn học?",
+      "Làm thế nào quy trình xử lý về quy trình đăng ký Rút môn học được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về quy trình đăng ký Rút môn học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến quy trình đăng ký Rút môn học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho quy trình đăng ký Rút môn học không?"
     ]
   },
   {
     "id": "85c048cb-6e84-45bd-8b98-c652b0c863f5",
     "questions": [
-      "Thời gian đăng ký Rút môn học thường được thông báo khi nào?"
+      "Thời gian đăng ký Rút môn học thường được thông báo khi nào?",
+      "Quy định nào xác định về thời điểm thông báo đăng ký Rút môn học?",
+      "Làm thế nào để biết về thời gian thông báo đăng ký Rút môn học?",
+      "Có nguyên tắc cụ thể nào về việc xác định thời gian thông báo đăng ký Rút môn học?",
+      "Nguyên tắc nào quy định về thời gian thông báo đăng ký Rút môn học?",
+      "Làm thế nào quy trình xử lý về thời gian thông báo đăng ký Rút môn học được thiết lập và thực hiện?",
+      "Có sự tham gia của ai trong quá trình quyết định về thời gian thông báo đăng ký Rút môn học?",
+      "Làm thế nào để sinh viên biết về thời gian thông báo đăng ký Rút môn học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời gian thông báo đăng ký Rút môn học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho thời gian thông báo đăng ký Rút môn học không?"
     ]
   },
   {
     "id": "d80e2c92-a678-4c7d-9615-621036f89ed7",
     "questions": [
-      "Quy trình xử lí rút môn của phòng đào tạo như thế nào?"
+      "Quy trình xử lí rút môn của phòng đào tạo như thế nào?",
+      "Quy định nào mô tả về quy trình xử lí rút môn của phòng đào tạo?",
+      "Làm thế nào để biết về quy trình xử lí rút môn của phòng đào tạo?",
+      "Có nguyên tắc cụ thể nào về việc xác định quy trình xử lí rút môn của phòng đào tạo?",
+      "Nguyên tắc nào quy định về quy trình xử lí rút môn của phòng đào tạo?",
+      "Làm thế nào quy trình xử lý về rút môn của phòng đào tạo được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về quy trình xử lí rút môn của phòng đào tạo?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến quy trình xử lí rút môn của phòng đào tạo không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho quy trình xử lí rút môn của phòng đào tạo không?"
     ]
   },
   {
     "id": "51008de7-4ac1-4add-9ee0-f03052d976b7",
     "questions": [
-      "Rút môn học ảnh hưởng đến việc tính điểm trung bình của sinh viên không?"
+      "Rút môn học ảnh hưởng đến việc tính điểm trung bình của sinh viên không?",
+      "Quy định nào xác định về ảnh hưởng của việc rút môn học đối với tính điểm trung bình của sinh viên?",
+      "Làm thế nào để biết về cách rút môn học ảnh hưởng đến tính điểm trung bình của sinh viên?",
+      "Có nguyên tắc cụ thể nào về việc xác định ảnh hưởng của việc rút môn học đối với tính điểm trung bình của sinh viên?",
+      "Nguyên tắc nào quy định về ảnh hưởng của việc rút môn học đối với tính điểm trung bình của sinh viên?",
+      "Làm thế nào quy trình xử lý về ảnh hưởng của việc rút môn học đối với tính điểm trung bình của sinh viên được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về ảnh hưởng của việc rút môn học đối với tính điểm trung bình của sinh viên?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến ảnh hưởng của việc rút môn học đối với tính điểm trung bình của sinh viên không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho ảnh hưởng của việc rút môn học đối với tính điểm trung bình của sinh viên không?"
     ]
   },
   {
     "id": "78794c15-bb45-4d33-9e94-14d30c46f167",
     "questions": [
-      "Tôi có thể xem thêm các quy định liên quan đến rút môn ở đâu"
+      "Tôi có thể xem thêm các quy định liên quan đến rút môn ở đâu?",
+      "Quy định nào mô tả về cách truy cập các quy định liên quan đến rút môn?",
+      "Làm thế nào để biết về cách xem thêm các quy định liên quan đến rút môn?",
+      "Có nguyên tắc cụ thể nào về cách truy cập các quy định liên quan đến rút môn?",
+      "Nguyên tắc nào quy định về cách xem thêm các quy định liên quan đến rút môn?",
+      "Làm thế nào quy trình xử lý về cách xem thêm các quy định liên quan đến rút môn được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về cách xem thêm các quy định liên quan đến rút môn?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến cách xem thêm các quy định liên quan đến rút môn không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho cách xem thêm các quy định liên quan đến rút môn không?"
     ]
   },
   {
     "id": "10b9c8aa-2660-4fb2-80f9-9dfff09a6b72",
     "questions": [
-      "Tôi có thể xem thêm các quy định liên quan đến rút môn ở đâu"
+      "Tôi có thể xem thêm các quy định liên quan đến rút môn ở đâu?",
+      "Làm thế nào để tra cứu thêm các quy định về rút môn?",
+      "Có nguồn thông tin nào cung cấp quy định chi tiết về rút môn không?",
+      "Làm thế nào để tìm hiểu thêm về các quy định và hướng dẫn rút môn?",
+      "Có trang web hoặc nguồn tài liệu cụ thể nào nói về quy định liên quan đến rút môn không?",
+      "Làm thế nào để truy cập các tài liệu hướng dẫn về rút môn của trường?",
+      "Có cách nào để xem chi tiết về quy định về rút môn không?",
+      "Làm thế nào để sinh viên có thể đọc và hiểu rõ hơn về quy định rút môn?",
+      "Có cơ hội nào để sinh viên đưa ra ý kiến hoặc thảo luận về các quy định rút môn không?",
+      "Có quy định nào về quy trình xem xét lại cho việc xem thêm các quy định liên quan đến rút môn không?"
     ]
   }
 ]

@@ -2,127 +2,300 @@
   {
     "id": "8d2bbfd1-04ee-4171-b741-eaf71c561d3e",
     "questions": [
-      "Tôi muốn xem quy định về tín chỉ TCTD (Tự chọn tự do) chi tiết ở đâu?"
+      "Tôi muốn xem quy định về tín chỉ TCTD (Tự chọn tự do) chi tiết ở đâu?",
+      "Quy định nào mô tả chi tiết về tín chỉ TCTD (Tự chọn tự do)?",
+      "Làm thế nào để tìm hiểu về quy định chi tiết của tín chỉ TCTD (Tự chọn tự do)?",
+      "Có nguyên tắc cụ thể nào về tín chỉ TCTD (Tự chọn tự do) được mô tả chi tiết?",
+      "Nguyên tắc nào quy định về chi tiết của tín chỉ TCTD (Tự chọn tự do)?",
+      "Làm thế nào quy trình xử lý về chi tiết của tín chỉ TCTD (Tự chọn tự do) được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến chi tiết của tín chỉ TCTD (Tự chọn tự do)?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc chi tiết của tín chỉ TCTD (Tự chọn tự do) không?",
+      "Làm thế nào để tôi nắm rõ về các điều khoản chi tiết của tín chỉ TCTD (Tự chọn tự do)?"
     ]
   },
   {
     "id": "4f944aa1-5125-4848-8c91-86716713d868",
     "questions": [
-      "Tín chỉ tự do là gì?"
+      "Tín chỉ tự do là gì?",
+      "Quy định nào mô tả về khái niệm tín chỉ tự do?",
+      "Làm thế nào để hiểu rõ về tín chỉ tự do?",
+      "Có nguyên tắc cụ thể nào về tín chỉ tự do được mô tả chi tiết?",
+      "Nguyên tắc nào quy định về khái niệm của tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về các điều khoản của tín chỉ tự do?"
     ]
   },
   {
     "id": "01646695-b50a-4af8-acd7-4f6dda77e66c",
     "questions": [
-      "Các môn học nào được coi là tín chỉ tự do"
+      "Các môn học nào được coi là tín chỉ tự do?",
+      "Danh sách các môn học tín chỉ tự do là gì?",
+      "Làm thế nào để xác định môn học nào thuộc tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn học tín chỉ tự do?",
+      "Nguyên tắc nào quy định về danh sách các môn học tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về danh sách các môn học tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến các môn học tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn học tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về danh sách các môn học được coi là tín chỉ tự do?"
     ]
   },
   {
     "id": "08fe64af-810b-402e-8e81-18f56a706eee",
     "questions": [
-      "Các môn đại cương có được xem là tín chỉ tự do không?"
+      "Các môn đại cương có được xem là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn đại cương là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn đại cương là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn đại cương là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn đại cương là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn đại cương là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn đại cương là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn đại cương là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn đại cương là tín chỉ tự do?"
     ]
   },
   {
     "id": "a127a805-0158-42a1-913d-fabffe76db6f",
     "questions": [
-      "Các môn nhập môn có được xem là tín chỉ tự do không?"
+      "Các môn nhập môn có được xem là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn nhập môn là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn nhập môn là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn nhập môn là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn nhập môn là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn nhập môn là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn nhập môn là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn nhập môn là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn nhập môn là tín chỉ tự do?"
     ]
   },
   {
     "id": "388e3ef8-db58-4c61-8dc6-3b648c51d928",
     "questions": [
-      "Các môn tương đương có được xem là tín chỉ tự do không?"
+      "Các môn tương đương có được xem là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn tương đương là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn tương đương là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn tương đương là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn tương đương là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn tương đương là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn tương đương là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn tương đương là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn tương đương là tín chỉ tự do?"
     ]
   },
   {
     "id": "b38c7ff7-8afb-4779-a1dc-2ac956e5c72a",
     "questions": [
-      "Các môn học thêm trong CTDT ngành có được xem là tự chọn tự do không?"
+      "Các môn học thêm trong CTDT ngành có được xem là tự chọn tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn học thêm trong CTDT ngành là tự chọn tự do?",
+      "Làm thế nào để biết về việc xem xét các môn học thêm trong CTDT ngành là tự chọn tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn học thêm trong CTDT ngành là tự chọn tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn học thêm trong CTDT ngành là tự chọn tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn học thêm trong CTDT ngành là tự chọn tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn học thêm trong CTDT ngành là tự chọn tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn học thêm trong CTDT ngành là tự chọn tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn học thêm trong CTDT ngành là tự chọn tự do?"
     ]
   },
   {
     "id": "27007e9f-6496-4780-bbf3-a189e802d4d4",
     "questions": [
-      "Các môn học cơ sở ngành của ngành khác có phải là tín chỉ tự do không"
+      "Các môn học cơ sở ngành của ngành khác có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn học cơ sở ngành của ngành khác là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn học cơ sở ngành của ngành khác là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn học cơ sở ngành của ngành khác là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn học cơ sở ngành của ngành khác là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn học cơ sở ngành của ngành khác là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn học cơ sở ngành của ngành khác là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn học cơ sở ngành của ngành khác là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn học cơ sở ngành của ngành khác là tín chỉ tự do?"
     ]
   },
   {
     "id": "91939956-36d2-425e-a2f3-5594c4af417d",
     "questions": [
-      "Các môn học ngành của ngành khác có phải là tín chỉ tự do không"
+      "Các môn học ngành của ngành khác có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn học ngành của ngành khác là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn học ngành của ngành khác là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn học ngành của ngành khác là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn học ngành của ngành khác là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn học ngành của ngành khác là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn học ngành của ngành khác là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn học ngành của ngành khác là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn học ngành của ngành khác là tín chỉ tự do?"
     ]
   },
   {
     "id": "ba843b70-75f4-4282-bc9d-dbad5bd97b96",
     "questions": [
-      "Các môn học chuyên ngành của ngành khác có phải là tín chỉ tự do không"
+      "Các môn học chuyên ngành của ngành khác có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn học chuyên ngành của ngành khác là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn học chuyên ngành của ngành khác là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn học chuyên ngành của ngành khác là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn học chuyên ngành của ngành khác là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn học chuyên ngành của ngành khác là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn học chuyên ngành của ngành khác là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn học chuyên ngành của ngành khác là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn học chuyên ngành của ngành khác là tín chỉ tự do?"
     ]
   },
   {
     "id": "552116b4-a672-47a5-9c4a-f12ed00d5028",
     "questions": [
-      "Các môn học thuộc chương trình Kỹ sư có phải là tín chỉ tự do không"
+      "Các môn học thuộc chương trình Kỹ sư có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn học thuộc chương trình Kỹ sư là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn học thuộc chương trình Kỹ sư là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn học thuộc chương trình Kỹ sư là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn học thuộc chương trình Kỹ sư là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn học thuộc chương trình Kỹ sư là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn học thuộc chương trình Kỹ sư là tín chỉ tự do?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc xem xét các môn học thuộc chương trình Kỹ sư là tín chỉ tự do không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn học thuộc chương trình Kỹ sư là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn học thuộc chương trình Kỹ sư là tín chỉ tự do?"
     ]
   },
   {
     "id": "820759d7-5300-4f30-ac7a-b1e577f10b9f",
     "questions": [
-      "Các môn học thuộc chương trình Thạc sĩ có phải là tín chỉ tự do không"
+      "Các môn học thuộc chương trình Thạc sĩ có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xem xét các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét các môn học thuộc chương trình Thạc sĩ là tín chỉ tự do?"
     ]
   },
   {
     "id": "edab6257-fb2b-494e-835c-a42a31c19bcf",
     "questions": [
-      "Có các ngoại lệ nào về tín chỉ tự do không?"
+      "Có các ngoại lệ nào về tín chỉ tự do không?",
+      "Quy định nào mô tả về các trường hợp ngoại lệ đối với tín chỉ tự do?",
+      "Làm thế nào để biết về các trường hợp ngoại lệ đối với tín chỉ tự do?",
+      "Có quy định cụ thể nào về các trường hợp ngoại lệ đối với tín chỉ tự do?",
+      "Nguyên tắc nào quy định về các trường hợp ngoại lệ đối với tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về các trường hợp ngoại lệ đối với tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến các trường hợp ngoại lệ đối với tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định các trường hợp ngoại lệ đối với tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về các trường hợp ngoại lệ đối với tín chỉ tự do?"
     ]
   },
   {
     "id": "dc053234-a176-40c3-8411-89b169fb09af",
     "questions": [
-      "Con người và Môi trường có phải là tín chỉ tự do không?"
+      "Con người và Môi trường có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xác định Con người và Môi trường là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét Con người và Môi trường là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định Con người và Môi trường là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét Con người và Môi trường là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét Con người và Môi trường là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét Con người và Môi trường là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định Con người và Môi trường là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét Con người và Môi trường là tín chỉ tự do?"
     ]
   },
   {
     "id": "a8a24a24-7685-40b6-a747-9fbf9fbc4aed",
     "questions": [
-      "Kỹ năng chuyên nghiệp cho kỹ sư có phải là tín chỉ tự do không?"
+      "Kỹ năng chuyên nghiệp cho kỹ sư có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xác định Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét Kỹ năng chuyên nghiệp cho kỹ sư là tín chỉ tự do?"
     ]
   },
   {
     "id": "3cbd4883-16a1-4015-8939-a51fabf572d5",
     "questions": [
-      "Nhóm môn quản lý cho kỹ sư có phải là tín chỉ tự do không?"
+      "Nhóm môn quản lý cho kỹ sư có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xác định Nhóm môn quản lý cho kỹ sư là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét Nhóm môn quản lý cho kỹ sư là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định Nhóm môn quản lý cho kỹ sư là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét Nhóm môn quản lý cho kỹ sư là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét Nhóm môn quản lý cho kỹ sư là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét Nhóm môn quản lý cho kỹ sư là tín chỉ tự do?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc xem xét Nhóm môn quản lý cho kỹ sư là tín chỉ tự do không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định Nhóm môn quản lý cho kỹ sư là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét Nhóm môn quản lý cho kỹ sư là tín chỉ tự do?"
     ]
   },
   {
     "id": "711d3f17-ba1d-45c7-9da6-65c0ccba05aa",
     "questions": [
-      "Khởi nghiệp có phải là tín chỉ tự do không?"
+      "Khởi nghiệp có phải là tín chỉ tự do không?",
+      "Quy định nào mô tả về việc xác định Khởi nghiệp là tín chỉ tự do?",
+      "Làm thế nào để biết về việc xem xét Khởi nghiệp là tín chỉ tự do?",
+      "Có quy định cụ thể nào về việc xác định Khởi nghiệp là tín chỉ tự do?",
+      "Nguyên tắc nào quy định về việc xem xét Khởi nghiệp là tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về việc xem xét Khởi nghiệp là tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc xem xét Khởi nghiệp là tín chỉ tự do?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc xem xét Khởi nghiệp là tín chỉ tự do không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định Khởi nghiệp là tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về việc xem xét Khởi nghiệp là tín chỉ tự do?"
     ]
   },
   {
     "id": "9631318c-b8b3-4ef1-bac6-b4b432272eed",
     "questions": [
-      "Tôi có thể xem danh sách các môn tương đương thay thế ở đâu"
+      "Tôi có thể xem danh sách các môn tương đương thay thế ở đâu?",
+      "Quy định nào cung cấp thông tin về các môn tương đương thay thế?",
+      "Làm thế nào để biết về danh sách các môn tương đương thay thế?",
+      "Có trang web nào cung cấp thông tin về các môn tương đương thay thế không?",
+      "Nguyên tắc nào quy định về việc xem xét danh sách các môn tương đương thay thế?",
+      "Làm thế nào quy trình xử lý về danh sách các môn tương đương thay thế được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến danh sách các môn tương đương thay thế?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định danh sách các môn tương đương thay thế không?",
+      "Làm thế nào để tôi hiểu rõ về danh sách các môn tương đương thay thế?"
     ]
   },
   {
     "id": "d659cd74-4eff-4f40-bea0-16027d65277a",
     "questions": [
-      "Tôi có thể xem danh sách các môn trùng ở đâu"
+      "Tôi có thể xem danh sách các môn trùng ở đâu?",
+      "Quy định nào cung cấp thông tin về các môn trùng?",
+      "Làm thế nào để biết về danh sách các môn trùng?",
+      "Có trang web nào cung cấp thông tin về các môn trùng không?",
+      "Nguyên tắc nào quy định về việc xem xét danh sách các môn trùng?",
+      "Làm thế nào quy trình xử lý về danh sách các môn trùng được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến danh sách các môn trùng?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến danh sách các môn trùng không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định danh sách các môn trùng không?",
+      "Làm thế nào để tôi hiểu rõ về danh sách các môn trùng?"
     ]
   },
   {
     "id": "895def8a-946e-4051-8228-be9e86354f35",
     "questions": [
-      "Tôi có liên hệ ai để được hỗ trợ thêm?"
+      "Tôi có liên hệ ai để được hỗ trợ thêm?",
+      "Quy định nào chỉ định về việc liên hệ để được hỗ trợ thêm?",
+      "Làm thế nào để biết ai là người liên hệ để được hỗ trợ thêm?",
+      "Có thông tin nào về việc liên hệ để được hỗ trợ thêm trên trang web không?",
+      "Nguyên tắc nào quy định về việc liên hệ để được hỗ trợ thêm?",
+      "Làm thế nào quy trình xử lý về việc liên hệ để được hỗ trợ thêm được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến việc liên hệ để được hỗ trợ thêm?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc liên hệ để được hỗ trợ thêm không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc liên hệ để được hỗ trợ thêm không?",
+      "Làm thế nào để tôi hiểu rõ về việc liên hệ để được hỗ trợ thêm?"
     ]
   },
   {
     "id": "321e06a9-679e-4c6b-9c00-86092c95e4b1",
     "questions": [
-      "Tôi xem các thông tin mới nhất về tín chỉ tự do ở đâu?"
+      "Tôi xem các thông tin mới nhất về tín chỉ tự do ở đâu?",
+      "Quy định nào cung cấp thông tin mới nhất về tín chỉ tự do?",
+      "Làm thế nào để biết về thông tin mới nhất về tín chỉ tự do?",
+      "Có trang web nào cập nhật thông tin mới nhất về tín chỉ tự do không?",
+      "Nguyên tắc nào quy định về việc xem xét thông tin mới nhất về tín chỉ tự do?",
+      "Làm thế nào quy trình xử lý về thông tin mới nhất về tín chỉ tự do được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến thông tin mới nhất về tín chỉ tự do?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc cung cấp thông tin mới nhất về tín chỉ tự do không?",
+      "Làm thế nào để tôi hiểu rõ về thông tin mới nhất về tín chỉ tự do?"
     ]
   }
 ]

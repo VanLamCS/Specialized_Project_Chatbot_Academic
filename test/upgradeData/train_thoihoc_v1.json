@@ -2,121 +2,285 @@
   {
     "id": "cec8621e-63ea-4ba4-9bd6-c3c9421b44c8",
     "questions": [
-      "Nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức như thế nào?"
+      "Nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức như thế nào?",
+      "Quy định nào mô tả về cách nghỉ học tạm thời ảnh hưởng đến thời gian học chính thức?",
+      "Làm thế nào để biết về cách nghỉ học tạm thời tính vào thời gian học chính thức?",
+      "Có nguyên tắc cụ thể nào về việc xác định ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức?",
+      "Nguyên tắc nào quy định về ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức?",
+      "Làm thế nào quy trình xử lý về ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức không?"
     ]
   },
   {
     "id": "ce4e47fc-a022-406b-8ec2-a55fa449dbc3",
     "questions": [
-      "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ như thế nào?"
+      "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ như thế nào?",
+      "Quy định nào mô tả về cách xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Làm thế nào để biết về cách xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Có nguyên tắc cụ thể nào về việc xác định giảm hoặc huỷ bỏ học phí cho học kỳ nghỉ học tạm thời?",
+      "Nguyên tắc nào quy định về việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Làm thế nào quy trình xử lý về việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về quy trình xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời không?"
     ]
   },
   {
     "id": "6cf4adcf-2de4-41bf-a5cd-15a4aafdf603",
     "questions": [
-      "Nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức như thế nào?"
+      "Nghỉ học tạm thời vì lý do cá nhân được tính vào thời gian học chính thức như thế nào?",
+      "Quy định nào mô tả về cách nghỉ học tạm thời ảnh hưởng đến thời gian học chính thức?",
+      "Làm thế nào để biết về cách nghỉ học tạm thời tính vào thời gian học chính thức?",
+      "Có nguyên tắc cụ thể nào về việc xác định ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức?",
+      "Nguyên tắc nào quy định về ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức?",
+      "Làm thế nào quy trình xử lý về ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho ảnh hưởng của nghỉ học tạm thời đối với thời gian học chính thức không?"
     ]
   },
   {
     "id": "a7318a98-55b9-4e61-87df-7d4a6fe919f9",
     "questions": [
-      "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ như thế nào?"
+      "Học phí của học kỳ nghỉ học tạm thời được xem xét giảm hoặc huỷ bỏ như thế nào?",
+      "Quy định nào mô tả về cách xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Làm thế nào để biết về cách xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Có nguyên tắc cụ thể nào về việc xác định giảm hoặc huỷ bỏ học phí cho học kỳ nghỉ học tạm thời?",
+      "Nguyên tắc nào quy định về việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Làm thế nào quy trình xử lý về việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về quy trình xem xét và giảm học phí cho học kỳ nghỉ học tạm thời?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xem xét và giảm học phí cho học kỳ nghỉ học tạm thời không?"
     ]
   },
   {
     "id": "ca2eee60-dc11-4a7a-8702-0b6236e4f00d",
     "questions": [
-      "Thời gian tối đa mà sinh viên có thể nghỉ học tạm thời là bao lâu?"
+      "Thời gian tối đa mà sinh viên có thể nghỉ học tạm thời là bao lâu?",
+      "Quy định nào xác định về thời gian tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào để biết về thời hạn tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Có nguyên tắc cụ thể nào về thời gian tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Nguyên tắc nào quy định về thời gian tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào quy trình xử lý về thời gian tối đa cho nghỉ học tạm thời của sinh viên được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thời gian tối đa cho nghỉ học tạm thời của mình?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời gian tối đa cho nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định thời gian tối đa cho nghỉ học tạm thời của sinh viên không?"
     ]
   },
   {
     "id": "6fab4604-21c7-4b4b-84cf-21a0b56a97f6",
     "questions": [
-      "Sinh viên phải thực hiện thủ tục gì sau thời hạn nghỉ học tạm thời?"
+      "Sinh viên phải thực hiện thủ tục gì sau thời hạn nghỉ học tạm thời?",
+      "Quy định nào mô tả về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào để biết về thủ tục cần thực hiện sau thời hạn nghỉ học tạm thời?",
+      "Có nguyên tắc cụ thể nào về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên?",
+      "Nguyên tắc nào quy định về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào quy trình xử lý về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thủ tục cần thực hiện sau thời hạn nghỉ học tạm thời?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thủ tục sau thời hạn nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định thủ tục sau thời hạn nghỉ học tạm thời của sinh viên không?"
     ]
   },
   {
     "id": "3b9a91ac-ca5f-47cf-8b6e-3f59d7905e52",
     "questions": [
-      "Khi nào sinh viên có thể xin thôi học?"
+      "Khi nào sinh viên có thể xin thôi học?",
+      "Quy định nào mô tả về thời điểm sinh viên có thể xin thôi học?",
+      "Làm thế nào để biết về thời điểm sinh viên có thể xin thôi học?",
+      "Có nguyên tắc cụ thể nào về việc xác định thời điểm sinh viên có thể xin thôi học?",
+      "Nguyên tắc nào quy định về thời điểm sinh viên có thể xin thôi học?",
+      "Làm thế nào quy trình xử lý về việc xác định thời điểm sinh viên có thể xin thôi học được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thời điểm họ có thể xin thôi học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời điểm họ có thể xin thôi học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định thời điểm sinh viên có thể xin thôi học không?"
     ]
   },
   {
     "id": "b1736967-14bc-4289-a9bb-13bc0203bac6",
     "questions": [
-      "Sinh viên đã thôi học vì lý do cá nhân phải làm gì nếu muốn quay trở lại học?"
+      "Sinh viên đã thôi học vì lý do cá nhân phải làm gì nếu muốn quay trở lại học?",
+      "Quy định nào mô tả về thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học?",
+      "Làm thế nào để biết về thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học?",
+      "Có nguyên tắc cụ thể nào về thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học?",
+      "Nguyên tắc nào quy định về thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học?",
+      "Làm thế nào quy trình xử lý về thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc thủ tục cho sinh viên đã thôi học vì lý do cá nhân muốn quay trở lại học không?"
     ]
   },
   {
     "id": "6f911682-084e-4860-9c7b-e5b5b323cb00",
     "questions": [
-      "Khi nào sinh viên có thể xin nghỉ học tạm thời?"
+      "Khi nào sinh viên có thể xin nghỉ học tạm thời?",
+      "Quy định nào mô tả về các trường hợp khi sinh viên có thể xin nghỉ học tạm thời?",
+      "Làm thế nào để biết về các điều kiện khi sinh viên có thể xin nghỉ học tạm thời?",
+      "Có nguyên tắc cụ thể nào về việc xác định khi nào sinh viên có thể xin nghỉ học tạm thời?",
+      "Nguyên tắc nào quy định về các trường hợp khi nào sinh viên có thể xin nghỉ học tạm thời?",
+      "Làm thế nào quy trình xử lý về việc xác định khi nào sinh viên có thể xin nghỉ học tạm thời được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về các điều kiện khi nào họ có thể xin nghỉ học tạm thời?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến khi nào họ có thể xin nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định khi nào sinh viên có thể xin nghỉ học tạm thời không?"
     ]
   },
   {
     "id": "f1409a14-6f84-4de5-adb9-ce5ea25748a8",
     "questions": [
-      "Có bao nhiêu lý do khiến sinh viên có thể nghỉ học tạm thời?"
+      "Có bao nhiêu lý do khiến sinh viên có thể nghỉ học tạm thời?",
+      "Quy định nào mô tả về số lượng lý do khiến sinh viên có thể xin nghỉ học tạm thời?",
+      "Làm thế nào để biết về số lượng lý do khiến sinh viên có thể xin nghỉ học tạm thời?",
+      "Có nguyên tắc cụ thể nào về số lượng lý do khiến sinh viên có thể xin nghỉ học tạm thời?",
+      "Nguyên tắc nào quy định về số lượng lý do khiến sinh viên có thể xin nghỉ học tạm thời?",
+      "Làm thế nào quy trình xử lý về số lượng lý do khiến sinh viên có thể xin nghỉ học tạm thời được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về số lượng lý do khiến họ có thể xin nghỉ học tạm thời?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến số lượng lý do khiến họ có thể xin nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định số lượng lý do khiến sinh viên có thể xin nghỉ học tạm thời không?"
     ]
   },
   {
     "id": "08e4065b-7827-4b8b-a378-1f8c323b2cd7",
     "questions": [
-      "Thời gian tối đa mà sinh viên có thể nghỉ học tạm thời là bao lâu?"
+      "Thời gian tối đa mà sinh viên có thể nghỉ học tạm thời là bao lâu?",
+      "Quy định nào xác định về thời gian tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào để biết về thời gian tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Có nguyên tắc cụ thể nào về thời gian tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Nguyên tắc nào quy định về thời gian tối đa cho nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào quy trình xử lý về thời gian tối đa cho nghỉ học tạm thời của sinh viên được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thời gian tối đa cho nghỉ học tạm thời của mình?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời gian tối đa cho nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xác định thời gian tối đa cho nghỉ học tạm thời của sinh viên không?"
     ]
   },
   {
     "id": "e57266b2-cf29-429b-8c5d-285a69fd6580",
     "questions": [
-      "Sinh viên phải thực hiện thủ tục gì sau thời hạn nghỉ học tạm thời?"
+      "Sinh viên phải thực hiện thủ tục gì sau thời hạn nghỉ học tạm thời?",
+      "Quy định nào mô tả về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào để biết về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên?",
+      "Có nguyên tắc cụ thể nào về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên?",
+      "Nguyên tắc nào quy định về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên?",
+      "Làm thế nào quy trình xử lý về thủ tục sau thời hạn nghỉ học tạm thời của sinh viên được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thủ tục sau thời hạn nghỉ học tạm thời của mình?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thủ tục sau thời hạn nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc thủ tục sau thời hạn nghỉ học tạm thời của sinh viên không?"
     ]
   },
   {
     "id": "ccbb0c59-a9bc-4fa7-af41-083b22296db0",
     "questions": [
-      "Sinh viên sẽ bị xoá tên khi nào?"
+      "Sinh viên sẽ bị xoá tên khi nào?",
+      "Quy định nào mô tả về trường hợp khi sinh viên sẽ bị xoá tên?",
+      "Làm thế nào để biết về trường hợp khi sinh viên sẽ bị xoá tên?",
+      "Có nguyên tắc cụ thể nào về việc xoá tên của sinh viên?",
+      "Nguyên tắc nào quy định về trường hợp khi nào sinh viên sẽ bị xoá tên?",
+      "Làm thế nào quy trình xử lý về trường hợp khi sinh viên sẽ bị xoá tên được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về trường hợp khi họ sẽ bị xoá tên?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến trường hợp khi sinh viên sẽ bị xoá tên không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc xoá tên của sinh viên không?"
     ]
   },
   {
     "id": "cb2dac25-f146-481d-b1f0-5341d74d3f36",
     "questions": [
-      "Sinh viên thôi học vì lý do cá nhân có thể quay trở lại học như thế nào?"
+      "Sinh viên thôi học vì lý do cá nhân có thể quay trở lại học như thế nào?",
+      "Quy định nào mô tả về quá trình sinh viên thôi học vì lý do cá nhân quay trở lại học?",
+      "Làm thế nào để biết về quy trình khi sinh viên thôi học vì lý do cá nhân muốn quay trở lại học?",
+      "Có nguyên tắc cụ thể nào về việc sinh viên thôi học vì lý do cá nhân quay trở lại học?",
+      "Nguyên tắc nào quy định về quy trình khi sinh viên thôi học vì lý do cá nhân quay trở lại học?",
+      "Làm thế nào quy trình xử lý về việc sinh viên thôi học vì lý do cá nhân quay trở lại học được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về quy trình khi họ thôi học vì lý do cá nhân và muốn quay trở lại học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến quy trình khi sinh viên thôi học vì lý do cá nhân quay trở lại học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc sinh viên thôi học vì lý do cá nhân quay trở lại học không?"
     ]
   },
   {
     "id": "86f229cc-e9a9-4c7b-9419-20072cbbda2e",
     "questions": [
-      "Khi nào nộp hồ sơ nghỉ học tạm thời?"
+      "Khi nào nộp hồ sơ nghỉ học tạm thời?",
+      "Quy định nào mô tả về thời điểm nộp hồ sơ nghỉ học tạm thời?",
+      "Làm thế nào để biết về thời điểm nộp hồ sơ nghỉ học tạm thời?",
+      "Có nguyên tắc cụ thể nào về việc nộp hồ sơ nghỉ học tạm thời?",
+      "Nguyên tắc nào quy định về thời điểm nộp hồ sơ nghỉ học tạm thời?",
+      "Làm thế nào quy trình xử lý về thời điểm nộp hồ sơ nghỉ học tạm thời được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về thời điểm nộp hồ sơ nghỉ học tạm thời?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời điểm nộp hồ sơ nghỉ học tạm thời không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc thời điểm nộp hồ sơ nghỉ học tạm thời không?"
     ]
   },
   {
     "id": "b99a2c01-a0ea-407c-b820-bf2453f97a9e",
     "questions": [
-      "Có cần đóng học phí trong kì nghỉ học học?"
+      "Có cần đóng học phí trong kì nghỉ học học?",
+      "Quy định nào mô tả về việc cần hay không cần đóng học phí trong kì nghỉ học học?",
+      "Làm thế nào để biết liệu cần hay không cần đóng học phí trong kì nghỉ học học?",
+      "Có nguyên tắc cụ thể nào về việc đóng học phí trong kì nghỉ học học?",
+      "Nguyên tắc nào quy định về việc cần hay không cần đóng học phí trong kì nghỉ học học?",
+      "Làm thế nào quy trình xử lý về việc đóng học phí trong kì nghỉ học học được thiết lập và thực hiện?",
+      "Làm thế nào để sinh viên biết về quy định liên quan đến việc cần hay không cần đóng học phí trong kì nghỉ học học?",
+      "Có cơ hội nào để sinh viên bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc cần hay không cần đóng học phí trong kì nghỉ học học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc cần hay không cần đóng học phí trong kì nghỉ học học không?"
     ]
   },
   {
     "id": "c5fcf75a-d749-49a9-9680-69da3e545b7a",
     "questions": [
-      "Tôi học được 1 thời gian sau đó nghỉ học thì có đóng học phí không?"
+      "Tôi học được 1 thời gian sau đó nghỉ học thì có đóng học phí không?",
+      "Quy định nào mô tả về việc đóng học phí khi tôi học được 1 thời gian sau đó nghỉ học?",
+      "Làm thế nào để biết liệu tôi cần đóng học phí khi học được 1 thời gian sau đó nghỉ học?",
+      "Có nguyên tắc cụ thể nào về việc đóng học phí khi tôi học được 1 thời gian sau đó nghỉ học?",
+      "Nguyên tắc nào quy định về việc tôi cần đóng học phí khi học được 1 thời gian sau đó nghỉ học?",
+      "Làm thế nào quy trình xử lý về việc đóng học phí khi tôi học được 1 thời gian sau đó nghỉ học được thiết lập và thực hiện?",
+      "Làm thế nào để tôi biết về quy định liên quan đến việc tôi cần đóng học phí khi học được 1 thời gian sau đó nghỉ học?",
+      "Có cơ hội nào để tôi bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến việc tôi cần đóng học phí khi học được 1 thời gian sau đó nghỉ học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc tôi cần đóng học phí khi học được 1 thời gian sau đó nghỉ học không?",
+      "Tôi cần đóng học phí nếu học lại sau một thời gian nghỉ học đúng không?"
     ]
   },
   {
     "id": "6802ab08-2fd0-48b2-aa08-6266fb932641",
     "questions": [
-      "Sau bao lâu phải đi học lại từ khi xin nghỉ tạm thời?"
+      "Sau bao lâu phải đi học lại từ khi xin nghỉ tạm thời?",
+      "Quy định nào mô tả về thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại?",
+      "Làm thế nào để biết về thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại?",
+      "Có nguyên tắc cụ thể nào về thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại?",
+      "Nguyên tắc nào quy định về thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại?",
+      "Làm thế nào quy trình xử lý về thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc thời gian chờ đợi khi tôi xin nghỉ tạm thời và sau đó phải đi học lại không?",
+      "Sau bao lâu tôi có thể quay lại học nếu xin nghỉ tạm thời?"
     ]
   },
   {
     "id": "afcd4008-21a2-4a93-a617-04dace326afd",
     "questions": [
-      "Thôi học khác gì nghỉ học?"
+      "Thôi học khác gì nghỉ học?",
+      "Quy định nào mô tả sự khác biệt giữa việc thôi học và nghỉ học?",
+      "Làm thế nào để hiểu rõ sự khác biệt giữa việc thôi học và nghỉ học?",
+      "Có nguyên tắc cụ thể nào về sự khác biệt giữa việc thôi học và nghỉ học?",
+      "Nguyên tắc nào quy định về sự khác biệt giữa việc thôi học và nghỉ học?",
+      "Làm thế nào quy trình xử lý về sự khác biệt giữa việc thôi học và nghỉ học được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến sự khác biệt giữa việc thôi học và nghỉ học?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến sự khác biệt giữa việc thôi học và nghỉ học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc sự khác biệt giữa việc thôi học và nghỉ học không?",
+      "Khi nào nên thôi học và khi nào nên xin nghỉ học?"
     ]
   },
   {
     "id": "1454443b-0086-4e63-9fb4-61f5e02af489",
     "questions": [
-      "Có trường hợp nào không được xin thôi học không?"
+      "Có trường hợp nào không được xin thôi học không?",
+      "Quy định nào mô tả về các trường hợp không được xin thôi học?",
+      "Làm thế nào để biết về các trường hợp không được xin thôi học?",
+      "Có nguyên tắc cụ thể nào về các trường hợp không được xin thôi học?",
+      "Nguyên tắc nào quy định về các trường hợp không được xin thôi học?",
+      "Làm thế nào quy trình xử lý về các trường hợp không được xin thôi học được thiết lập và thực hiện?",
+      "Làm thế nào để biết về quy định liên quan đến các trường hợp không được xin thôi học?",
+      "Có cơ hội nào để bày tỏ quan điểm hoặc có đối thoại về quyết định liên quan đến các trường hợp không được xin thôi học không?",
+      "Có quy định nào về quy trình xem xét lại quyết định cho việc các trường hợp không được xin thôi học không?",
+      "Khi nào không nên xin thôi học trong quá trình đào tạo?"
     ]
   }
 ]

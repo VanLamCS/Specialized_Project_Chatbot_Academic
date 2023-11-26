@@ -2,73 +2,193 @@
   {
     "id": "45b077bb-d647-4b57-b08e-816828abddb0",
     "questions": [
-      "Sinh viên được tham gia trao đổi và tích lũy tín chỉ ở đâu?"
+      "Sinh viên được tham gia trao đổi và tích lũy tín chỉ ở đâu?",
+      "Sinh viên có thể được tham gia trao đổi và tích lũy tín chỉ ở đâu?",
+      "Cơ hội trao đổi và tích lũy tín chỉ dành cho sinh viên ở đâu?",
+      "Có chương trình trao đổi nào cho phép sinh viên tích lũy tín chỉ không?",
+      "Ở đâu sinh viên có thể tham gia các hoạt động trao đổi và tích lũy tín chỉ?",
+      "Làm thế nào để biết về cơ hội trao đổi và tích lũy tín chỉ cho sinh viên?",
+      "Có tổ chức nào quản lý chương trình trao đổi và tích lũy tín chỉ không?",
+      "Làm thế nào để đăng ký để tham gia chương trình trao đổi và tích lũy tín chỉ?",
+      "Có những điều kiện gì cần đáp ứng để tham gia trao đổi và tích lũy tín chỉ?",
+      "Sinh viên cần liên hệ với ai để biết thêm về cơ hội trao đổi và tích lũy tín chỉ?",
+      "Có nguồn thông tin nào về các chương trình trao đổi và tích lũy tín chỉ không?"
     ]
   },
   {
     "id": "ef3b3f92-9b9b-4341-817d-be25a4694a67",
     "questions": [
-      "Trường quyết định công nhận chuyển đổi tín chỉ cho sinh viên dựa trên điều gì?"
+      "Trường quyết định công nhận chuyển đổi tín chỉ cho sinh viên dựa trên điều gì?",
+      "Trường quyết định công nhận chuyển đổi tín chỉ cho sinh viên dựa trên tiêu chí gì?",
+      "Tiêu chí nào mà trường sử dụng để quyết định công nhận chuyển đổi tín chỉ cho sinh viên?",
+      "Các yếu tố nào ảnh hưởng đến quyết định của trường về chuyển đổi tín chỉ cho sinh viên?",
+      "Làm thế nào để biết về tiêu chí cụ thể mà trường sử dụng trong việc công nhận chuyển đổi tín chỉ?",
+      "Có các nguyên tắc hay quy định nào mà trường tuân theo khi xem xét chuyển đổi tín chỉ không?",
+      "Liệu có sự linh hoạt nào trong quyết định về chuyển đổi tín chỉ tùy thuộc vào từng trường hợp không?",
+      "Các đánh giá hay bảng điểm nào được xem xét khi quyết định chuyển đổi tín chỉ cho sinh viên?",
+      "Có những hạn chế nào trong việc chuyển đổi tín chỉ mà sinh viên cần biết?",
+      "Làm thế nào để hiểu rõ hơn về quy trình xem xét và quyết định chuyển đổi tín chỉ?",
+      "Có chính sách hay thông báo nào về việc công nhận chuyển đổi tín chỉ mà sinh viên cần biết không?"
     ]
   },
   {
     "id": "67f77f41-166e-439c-8def-a473206f7f94",
     "questions": [
-      "Sinh viên phải đăng ký học phần cho các học phần tương ứng nào khi tham gia trao đổi?"
+      "Sinh viên phải đăng ký học phần cho các học phần tương ứng nào khi tham gia trao đổi?",
+      "Sinh viên khi tham gia trao đổi phải đăng ký học phần cho các học phần tương ứng nào?",
+      "Làm thế nào để sinh viên đăng ký học phần cho chương trình trao đổi?",
+      "Các học phần nào mà sinh viên cần đăng ký khi tham gia trao đổi?",
+      "Ở đâu sinh viên có thể tìm hiểu về danh sách học phần cần đăng ký khi tham gia trao đổi?",
+      "Làm thế nào để biết về quy trình đăng ký học phần khi tham gia chương trình trao đổi?",
+      "Có hướng dẫn cụ thể nào về cách đăng ký học phần khi tham gia trao đổi không?",
+      "Tính năng đăng ký học phần có thay đổi khi tham gia trao đổi không?",
+      "Có các quy tắc hay hạn chế nào trong việc đăng ký học phần khi tham gia trao đổi không?",
+      "Làm thế nào để biết về ngày hạn chót đăng ký học phần khi tham gia chương trình trao đổi?",
+      "Có nguồn thông tin nào về việc đăng ký học phần khi tham gia trao đổi mà sinh viên cần biết không?"
     ]
   },
   {
     "id": "2e9cb265-de25-4204-a016-637d99a3f7c3",
     "questions": [
-      "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?"
+      "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?",
+      "Sinh viên khi tham gia trao đổi không có được miễn hoạt động rèn luyện sinh viên của trường?",
+      "Chính sách nào mà trường áp dụng đối với hoạt động rèn luyện sinh viên khi sinh viên tham gia trao đổi?",
+      "Có sự linh hoạt nào trong việc miễn hoạt động rèn luyện sinh viên cho sinh viên tham gia chương trình trao đổi không?",
+      "Làm thế nào để biết liệu sinh viên sẽ được miễn hoạt động rèn luyện sinh viên khi tham gia trao đổi hay không?",
+      "Có các điều kiện nào mà sinh viên cần đáp ứng để được miễn hoạt động rèn luyện sinh viên khi tham gia trao đổi không?",
+      "Nguyên tắc nào định rõ về việc miễn hoạt động rèn luyện sinh viên cho sinh viên tham gia chương trình trao đổi?",
+      "Có thông tin chi tiết nào về loại hoạt động rèn luyện sinh viên có thể được miễn khi tham gia trao đổi không?",
+      "Có những hạn chế nào khi miễn hoạt động rèn luyện sinh viên cho sinh viên tham gia chương trình trao đổi không?",
+      "Làm thế nào để biết về các điều khoản và điều kiện liên quan đến việc miễn hoạt động rèn luyện sinh viên?",
+      "Có nguồn thông tin nào về chính sách miễn hoạt động rèn luyện sinh viên khi tham gia chương trình trao đổi không?"
     ]
   },
   {
     "id": "4901d69e-677a-4cc6-bebc-8a2d689256b9",
     "questions": [
-      "Nếu trao đổi ra nước ngoài, sinh viên phải tuân thủ điều gì?"
+      "Nếu trao đổi ra nước ngoài, sinh viên phải tuân thủ điều gì?",
+      "Sinh viên phải tuân thủ điều gì nếu trao đổi ra nước ngoài?",
+      "Các yêu cầu nào mà sinh viên cần tuân thủ khi tham gia chương trình trao đổi quốc tế?",
+      "Quy định nào mà sinh viên phải chấp hành khi tham gia trao đổi ra nước ngoài?",
+      "Làm thế nào để biết về các nguyên tắc và quy tắc mà sinh viên phải tuân thủ khi tham gia chương trình trao đổi?",
+      "Có các hạn chế hay rủi ro nào mà sinh viên cần biết khi tham gia trao đổi ra nước ngoài không?",
+      "Có các quy định an ninh hay sức khỏe nào mà sinh viên cần tuân thủ khi tham gia chương trình trao đổi quốc tế không?",
+      "Làm thế nào để hiểu rõ về các thủ tục và quy định liên quan đến việc tham gia chương trình trao đổi ra nước ngoài?",
+      "Có nguồn thông tin nào về các luật lệ và quy định mà sinh viên phải tuân thủ khi trao đổi ra nước ngoài không?",
+      "Các điều khoản nào định rõ về trách nhiệm và hành vi của sinh viên khi tham gia chương trình trao đổi quốc tế?",
+      "Có hướng dẫn cụ thể nào về việc tuân thủ các nguyên tắc và quy định khi tham gia trao đổi quốc tế không?"
     ]
   },
   {
     "id": "0c3791a9-8484-4d53-95d0-11120cf84d9a",
     "questions": [
-      "Học phí các học phần đăng ký trong trao đổi được miễn hoặc giảm dựa trên điều gì?"
+      "Học phí các học phần đăng ký trong trao đổi được miễn hoặc giảm dựa trên điều gì?",
+      "Dựa trên điều gì mà học phí các học phần đăng ký trong trao đổi được miễn hoặc giảm?",
+      "Cơ hội nào để miễn hoặc giảm học phí cho các học phần trong chương trình trao đổi?",
+      "Làm thế nào để biết về các chính sách miễn giảm học phí cho sinh viên tham gia trao đổi?",
+      "Các yếu tố nào quyết định việc miễn hoặc giảm học phí cho học phần trong trao đổi?",
+      "Có những nguồn tài trợ nào mà sinh viên có thể tận dụng để giảm học phí khi tham gia chương trình trao đổi không?",
+      "Làm thế nào để xác định xem học phí của các học phần trong trao đổi có được miễn hay giảm không?",
+      "Có những điều kiện cụ thể nào sinh viên cần đáp ứng để được miễn hoặc giảm học phí khi tham gia trao đổi?",
+      "Các học phần nào trong chương trình trao đổi được ưu tiên để được miễn hoặc giảm học phí?",
+      "Làm thế nào để biết về các ưu đãi hay chiết khấu đặc biệt liên quan đến học phí trong chương trình trao đổi?",
+      "Có nguồn thông tin nào về chính sách miễn hoặc giảm học phí cho học phần trong trao đổi mà sinh viên cần biết không?"
     ]
   },
   {
     "id": "4a84bb9a-360a-42f6-a0ab-491adc0105ed",
     "questions": [
-      "Thời gian trao đổi được tính vào thời gian nào?"
+      "Thời gian trao đổi được tính vào thời gian nào?",
+      "Thời gian nào được tính vào thời gian trao đổi?",
+      "Làm thế nào để xác định thời gian trao đổi được tính vào thời gian học tập?",
+      "Có ngày bắt đầu và kết thúc cụ thể nào cho thời gian trao đổi không?",
+      "Thời gian nào được tính là thời kỳ tham gia chương trình trao đổi?",
+      "Làm thế nào để biết khi nào bắt đầu và kết thúc thời gian trao đổi?",
+      "Có thời gian nào khác ngoài thời kỳ học tập được tính vào thời gian trao đổi không?",
+      "Thời gian diễn ra các hoạt động ngoại khóa có được tính vào thời gian trao đổi không?",
+      "Làm thế nào để biết thời gian nghỉ lễ hay kỳ nghỉ được tính vào thời gian trao đổi hay không?",
+      "Có ngày bắt buộc nào mà sinh viên phải tham gia trong thời gian trao đổi không?",
+      "Có sự linh hoạt nào về thời gian trao đổi mà sinh viên cần biết không?"
     ]
   },
   {
     "id": "a2b56e96-c8f7-4cd9-b657-d6f7b3466124",
     "questions": [
-      "Sinh viên tham gia trao đổi có được miễn học phí không?"
+      "Sinh viên tham gia trao đổi có được miễn học phí không?",
+      "Sinh viên khi tham gia trao đổi có được miễn học phí không?",
+      "Chính sách nào áp dụng đối với việc miễn học phí cho sinh viên tham gia chương trình trao đổi?",
+      "Có những điều kiện cụ thể nào mà sinh viên cần đáp ứng để được miễn học phí khi tham gia trao đổi không?",
+      "Làm thế nào để biết về các cơ hội miễn học phí cho sinh viên tham gia chương trình trao đổi?",
+      "Có các loại học phí nào mà sinh viên có thể được miễn khi tham gia chương trình trao đổi không?",
+      "Làm thế nào để xác định xem mình có đủ điều kiện để được miễn học phí hay không khi tham gia trao đổi?",
+      "Có các quy định hay nguyên tắc cụ thể nào về việc miễn học phí cho sinh viên tham gia chương trình trao đổi không?",
+      "Có nguồn thông tin nào về các học phí cụ thể được miễn khi tham gia trao đổi mà sinh viên cần biết không?",
+      "Có các chiết khấu hay ưu đãi nào khác liên quan đến học phí cho sinh viên tham gia trao đổi không?",
+      "Làm thế nào để hiểu rõ hơn về các điều khoản và điều kiện miễn học phí khi tham gia chương trình trao đổi?"
     ]
   },
   {
     "id": "ac8a8050-5bf8-4c70-9d1d-a1344a4a3576",
     "questions": [
-      "Trong trường hợp trao đổi ra nước ngoài, có quy định cụ thể nào mà sinh viên cần tuân theo?"
+      "Trong trường hợp trao đổi ra nước ngoài, có quy định cụ thể nào mà sinh viên cần tuân theo?",
+      "Có quy định cụ thể nào mà sinh viên cần tuân theo trong trường hợp trao đổi ra nước ngoài?",
+      "Có những nguyên tắc và quy định nào áp dụng cho sinh viên khi tham gia chương trình trao đổi quốc tế?",
+      "Làm thế nào để biết về các quy định cụ thể mà sinh viên cần tuân theo khi tham gia trao đổi ra nước ngoài?",
+      "Có các hạn chế hay điều kiện nào mà sinh viên cần lưu ý khi tham gia chương trình trao đổi quốc tế không?",
+      "Quy định nào về an ninh hay sức khỏe mà sinh viên cần chú ý khi tham gia chương trình trao đổi quốc tế?",
+      "Có các hướng dẫn cụ thể nào về việc tuân theo quy định khi tham gia trao đổi ra nước ngoài không?",
+      "Làm thế nào để biết về các thủ tục và quy định liên quan đến việc tham gia chương trình trao đổi quốc tế?",
+      "Có ngày bắt buộc nào mà sinh viên phải thực hiện khi tham gia chương trình trao đổi quốc tế không?",
+      "Có sự linh hoạt nào trong việc tuân theo quy định khi tham gia chương trình trao đổi quốc tế không?",
+      "Làm thế nào để biết về các rủi ro hay trách nhiệm của sinh viên khi tham gia chương trình trao đổi quốc tế?"
     ]
   },
   {
     "id": "24950be8-5009-42b4-baae-2b898ab3c50d",
     "questions": [
-      "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?"
+      "Sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?",
+      "Liệu sinh viên có được miễn hoạt động rèn luyện sinh viên của trường khi tham gia trao đổi không?",
+      "Chính sách nào áp dụng đối với hoạt động rèn luyện sinh viên khi sinh viên tham gia chương trình trao đổi?",
+      "Có sự linh hoạt nào trong việc miễn hoạt động rèn luyện sinh viên cho sinh viên tham gia chương trình trao đổi không?",
+      "Làm thế nào để biết liệu sinh viên sẽ được miễn hoạt động rèn luyện sinh viên khi tham gia trao đổi hay không?",
+      "Có các điều kiện nào mà sinh viên cần đáp ứng để được miễn hoạt động rèn luyện sinh viên khi tham gia trao đổi không?",
+      "Nguyên tắc nào định rõ về việc miễn hoạt động rèn luyện sinh viên cho sinh viên tham gia chương trình trao đổi?",
+      "Có thông tin chi tiết nào về loại hoạt động rèn luyện sinh viên có thể được miễn khi tham gia trao đổi không?",
+      "Có những hạn chế nào khi miễn hoạt động rèn luyện sinh viên cho sinh viên tham gia chương trình trao đổi không?",
+      "Làm thế nào để biết về các điều khoản và điều kiện liên quan đến việc miễn hoạt động rèn luyện sinh viên?",
+      "Có nguồn thông tin nào về chính sách miễn hoạt động rèn luyện sinh viên khi tham gia chương trình trao đổi không?"
     ]
   },
   {
     "id": "9fc69f7d-0b65-47a0-960a-4490bc0fed44",
     "questions": [
-      "Sinh viên có được miễn học phí khi tham gia trao đổi?"
+      "Liệu sinh viên có được miễn học phí khi tham gia trao đổi?",
+      "Sinh viên có được miễn học phí khi tham gia trao đổi không?",
+      "Chính sách miễn học phí nào áp dụng cho sinh viên tham gia chương trình trao đổi?",
+      "Làm thế nào để biết về các cơ hội miễn học phí cho sinh viên tham gia chương trình trao đổi?",
+      "Các yếu tố nào quyết định việc miễn học phí cho học phần trong trao đổi?",
+      "Có những nguồn tài trợ nào mà sinh viên có thể tận dụng để giảm học phí khi tham gia chương trình trao đổi không?",
+      "Làm thế nào để xác định xem học phí của các học phần trong trao đổi có được miễn hay giảm không?",
+      "Có những điều kiện cụ thể nào sinh viên cần đáp ứng để được miễn học phí khi tham gia trao đổi không?",
+      "Các học phần nào trong chương trình trao đổi được ưu tiên để được miễn học phí?",
+      "Làm thế nào để biết về các ưu đãi hay chiết khấu đặc biệt liên quan đến học phí trong chương trình trao đổi?",
+      "Có nguồn thông tin nào về chính sách miễn học phí cho học phần trong trao đổi mà sinh viên cần biết không?"
     ]
   },
   {
     "id": "6ca5dbdf-b8cf-4ed8-8f1f-f8d138b719f3",
     "questions": [
-      "Thời gian trao đổi có tính vào thời gian đào tạo không?"
+      "Thời gian trao đổi có tính vào thời gian đào tạo không?",
+      "Liệu thời gian trao đổi có tính vào thời gian đào tạo không?",
+      "Làm thế nào để xác định xem thời gian trao đổi có được tính vào thời gian đào tạo không?",
+      "Có ngày bắt đầu và kết thúc cụ thể nào cho thời gian trao đổi được tính vào thời gian đào tạo không?",
+      "Thời gian nào được tính là thời kỳ tham gia chương trình trao đổi?",
+      "Làm thế nào để biết khi nào bắt đầu và kết thúc thời gian trao đổi?",
+      "Có thời gian nào khác ngoài thời kỳ học tập được tính vào thời gian trao đổi không?",
+      "Thời gian diễn ra các hoạt động ngoại khóa có được tính vào thời gian trao đổi không?",
+      "Làm thế nào để biết thời gian nghỉ lễ hay kỳ nghỉ được tính vào thời gian trao đổi hay không?",
+      "Có ngày bắt buộc nào mà sinh viên phải tham gia trong thời gian trao đổi không?",
+      "Có sự linh hoạt nào về thời gian trao đổi mà sinh viên cần biết không?"
     ]
   }
 ]

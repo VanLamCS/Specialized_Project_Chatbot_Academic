@@ -2,109 +2,198 @@
   {
     "id": "f441c532-2899-4883-8ab4-7d324cab03ac",
     "questions": [
-      "Xem chi tiết lịch đăng ký môn học?"
+      "Xem chi tiết lịch đăng ký môn học?",
+      "Làm thế nào để xem thông tin chi tiết về lịch đăng ký môn học?",
+      "Cách để xem chi tiết lịch đăng ký các môn học là gì?",
+      "Làm thế nào để xem chi tiết về lịch đăng ký các môn học?",
+      "Thông tin chi tiết về lịch đăng ký môn học có thể được xem ở đâu?",
+      "Làm sao để xem chi tiết về lịch đăng ký các môn học của mình?"
     ]
   },
   {
     "id": "88d0dcd3-5f0f-453f-90bd-78ed27a22f1a",
     "questions": [
-      "Xem quy chế đào tạo và học vụ tại đâu?"
+      "Xem quy chế đào tạo và học vụ tại đâu?",
+      "Thông tin về quy chế đào tạo và học vụ có thể xem ở đâu?",
+      "Làm thế nào để xem quy chế đào tạo và học vụ?",
+      "Cách để tìm quy chế đào tạo và học vụ là gì?",
+      "Thông tin chi tiết về quy chế đào tạo và học vụ có thể được xem ở đâu?",
+      "Làm sao để tìm hiểu về quy chế đào tạo và học vụ của trường?"
     ]
   },
   {
     "id": "333b9195-22f2-4bb3-88dd-b5d404a1f6ff",
     "questions": [
-      "Thực hiện đăng ký môn học tại đâu?"
+      "Thực hiện đăng ký môn học tại đâu?",
+      "Nơi thực hiện việc đăng ký môn học là ở đâu?",
+      "Làm thế nào để thực hiện đăng ký môn học?",
+      "Cách để đăng ký môn học là gì?",
+      "Thông tin chi tiết về việc đăng ký môn học có thể thực hiện ở đâu?",
+      "Làm sao để đăng ký môn học trong hệ thống giáo dục?"
     ]
   },
   {
     "id": "84068658-c907-4bab-8d20-094bc358757a",
     "questions": [
-      "Không đăng ký được môn học do nộp học phí trễ thì phải làm sao?"
+      "Không đăng ký được môn học do nộp học phí trễ thì phải làm sao?",
+      "Nếu không đăng ký được môn học do nộp học phí trễ, phải thực hiện thủ tục gì?",
+      "Làm thế nào khi không đăng ký được môn học do nộp học phí muộn?",
+      "Nếu bị trễ nộp học phí và không đăng ký được môn học, phải làm gì?",
+      "Thủ tục nào cần thực hiện khi không thể đăng ký môn học do nộp học phí trễ?",
+      "Khi bị trễ nộp học phí và không đăng ký được môn học, phải làm sao?"
     ]
   },
   {
     "id": "ab93b3e4-a3b6-46c2-97d3-1b7ee2df9081",
     "questions": [
-      "Không đăng ký được môn học do tình trạng \"Tạm dừng\""
+      "Nếu không đăng ký được môn học do tình trạng \"Tạm dừng\", phải làm thế nào?",
+      "Làm sao khi không thể đăng ký môn học do tình trạng \"Tạm dừng\"?",
+      "Nếu bị tình trạng \"Tạm dừng\" và không đăng ký được môn học, phải làm gì?",
+      "Thủ tục nào cần thực hiện khi không thể đăng ký môn học do tình trạng \"Tạm dừng\"?",
+      "Khi bị tình trạng \"Tạm dừng\" và không đăng ký được môn học, phải làm sao?"
     ]
   },
   {
     "id": "97105418-cc9b-41e4-9502-8b6d0ae1fee0",
     "questions": [
-      "Không đăng ký được môn học do vi phạm quy định của P.CTCT-SV, thư viện?"
+      "Không đăng ký được môn học do vi phạm quy định của P.CTCT-SV, thư viện?",
+      "Nếu không đăng ký được môn học do vi phạm quy định của P.CTCT-SV hoặc thư viện, phải làm thế nào?",
+      "Làm sao khi không thể đăng ký môn học do vi phạm quy định của P.CTCT-SV hoặc thư viện?",
+      "Nếu vi phạm quy định của P.CTCT-SV hoặc thư viện mà không đăng ký được môn học, phải làm gì?",
+      "Thủ tục nào cần thực hiện khi không thể đăng ký môn học do vi phạm quy định của P.CTCT-SV hoặc thư viện?",
+      "Khi vi phạm quy định của P.CTCT-SV hoặc thư viện và không đăng ký được môn học, phải làm sao?"
     ]
   },
   {
     "id": "9d8c4cb3-14eb-4d88-bf3b-5a8bae638c04",
     "questions": [
-      "Không đăng ký môn học thành công do chưa hoàn thành đăng ký thông tin văn bằng?"
+      "Không đăng ký môn học thành công do chưa hoàn thành đăng ký thông tin văn bằng?",
+      "Nếu không đăng ký môn học thành công do chưa hoàn thành việc đăng ký thông tin văn bằng, phải làm thế nào?",
+      "Làm sao khi không thể đăng ký môn học thành công do chưa hoàn thành việc đăng ký thông tin văn bằng?",
+      "Nếu chưa hoàn thành việc đăng ký thông tin văn bằng mà không đăng ký được môn học, phải làm gì?",
+      "Thủ tục nào cần thực hiện khi không thể đăng ký môn học do chưa hoàn thành đăng ký thông tin văn bằng?",
+      "Khi chưa hoàn thành việc đăng ký thông tin văn bằng và không đăng ký được môn học, phải làm sao?"
     ]
   },
   {
     "id": "76fae100-57be-4b92-b5fa-45e653d31c02",
     "questions": [
-      "Sinh viên bị gì nếu không có thời khóa biểu chính thức vào các học kỳ chính?"
+      "Sinh viên bị gì nếu không có thời khóa biểu chính thức vào các học kỳ chính?",
+      "Sinh viên sẽ bị hậu quả gì nếu thiếu thời khóa biểu chính thức vào các học kỳ chính?",
+      "Hậu quả gì sẽ xảy ra nếu sinh viên không có thời khóa biểu chính thức vào các học kỳ chính?",
+      "Nếu thiếu thời khóa biểu chính thức vào các học kỳ chính, sinh viên sẽ bị điều gì?",
+      "Có hậu quả gì đối với sinh viên nếu không có thời khóa biểu chính thức vào các học kỳ chính?",
+      "Sinh viên bị gì nếu thiếu thời khóa biểu chính thức vào các học kỳ chính?"
     ]
   },
   {
     "id": "c4748fe4-fa6e-4eeb-8c0d-0a46695ac918",
     "questions": [
-      "Thanh toán học phí tại đâu?"
+      "Thanh toán học phí tại đâu?",
+      "Nơi thanh toán học phí là ở đâu?",
+      "Làm thế nào để thanh toán học phí?",
+      "Cách để thanh toán học phí là gì?",
+      "Thông tin chi tiết về việc thanh toán học phí có thể được thực hiện ở đâu?",
+      "Làm sao để thanh toán học phí trong hệ thống giáo dục?"
     ]
   },
   {
     "id": "cc9a8e51-2f15-4c16-8dac-6e5b6fc7ab4f",
     "questions": [
-      "Làm thế nào để biết lý do đăng ký môn học không thành công?"
+      "Làm thế nào để biết lý do đăng ký môn học không thành công?",
+      "Làm sao để xác định lý do khi đăng ký môn học không thành công?",
+      "Cách nào để biết được lý do không đăng ký môn học thành công?",
+      "Thông tin về việc xác định lý do khi đăng ký môn học không thành công có thể được lấy ở đâu?",
+      "Làm thế nào để biết được lý do khi đăng ký môn học không thành công?",
+      "Khi đăng ký môn học không thành công, làm thế nào để xác định lý do?"
     ]
   },
   {
     "id": "32f22d27-632b-4deb-a586-401adfedf47d",
     "questions": [
-      "Có quy định nào về giới hạn sĩ số lớp trong các lớp học phần?"
+      "Có quy định nào về giới hạn sĩ số lớp trong các lớp học phần?",
+      "Trong hệ thống giáo dục, có quy định nào về giới hạn số lượng sinh viên trong các lớp học phần không?",
+      "Có quy tắc gì về giới hạn số lượng sinh viên trong các lớp học phần không?",
+      "Thông tin về việc giới hạn số lượng sinh viên trong các lớp học phần được quy định như thế nào?",
+      "Trong các lớp học phần, có quy định cụ thể về giới hạn số lượng sinh viên không?",
+      "Có những quy định nào liên quan đến việc hạn chế số lượng sinh viên trong các lớp học phần không?"
     ]
   },
   {
     "id": "e4988412-276d-4768-935d-434f943f8038",
     "questions": [
-      "Điểm trung bình học kỳ bằng 0 sẽ dẫn đến điều gì?"
+      "Điểm trung bình học kỳ bằng 0 sẽ dẫn đến điều gì?",
+      "Nếu điểm trung bình học kỳ bằng 0, điều gì sẽ xảy ra?",
+      "Hậu quả của việc có điểm trung bình học kỳ bằng 0 là gì?",
+      "Nếu có điểm trung bình học kỳ là 0, điều gì sẽ diễn ra?",
+      "Có hậu quả gì khi điểm trung bình học kỳ bằng 0?",
+      "Điểm trung bình học kỳ bằng 0 có dẫn đến điều gì không?"
     ]
   },
   {
     "id": "1013f3df-23df-4090-93d2-ae098e68c821",
     "questions": [
-      "Sinh viên tạm dừng học quá 2 học kỳ liên tiếp sẽ như thế nào?"
+      "Sinh viên tạm dừng học quá 2 học kỳ liên tiếp sẽ như thế nào?",
+      "Nếu sinh viên tạm dừng học quá 2 học kỳ liên tiếp, hậu quả sẽ như thế nào?",
+      "Sinh viên tạm dừng học liên tục 2 học kỳ, điều gì sẽ xảy ra?",
+      "Hậu quả của việc tạm dừng học liên tiếp 2 học kỳ là gì?",
+      "Nếu tạm dừng học quá 2 học kỳ liên tiếp, điều gì sẽ diễn ra?",
+      "Tạm dừng học liên tục 2 học kỳ sẽ gây ra hậu quả gì?"
     ]
   },
   {
     "id": "f8a7d06b-6e49-4b52-9c4a-3cce5d17c6f5",
     "questions": [
-      "Làm thế nào để tiếp tục học sau khi điểm trung bình học kỳ bằng 0?"
+      "Làm thế nào để tiếp tục học sau khi điểm trung bình học kỳ bằng 0?",
+      "Sau khi có điểm trung bình học kỳ bằng 0, làm thế nào để tiếp tục học?",
+      "Cách nào để quay lại học sau khi có điểm trung bình học kỳ bằng 0?",
+      "Thông tin về việc tiếp tục học sau khi có điểm trung bình học kỳ bằng 0 có được không?",
+      "Làm thế nào để tiếp tục học khi điểm trung bình học kỳ là 0?",
+      "Sau khi có điểm trung bình học kỳ bằng 0, làm sao để tiếp tục học?"
     ]
   },
   {
     "id": "573f5819-398c-41df-abee-bc96781008b2",
     "questions": [
-      "Nơi nào cung cấp quy chế đào tạo và học vụ?"
+      "Nơi nào cung cấp quy chế đào tạo và học vụ?",
+      "Quy chế đào tạo và học vụ có thể được cung cấp ở đâu?",
+      "Làm sao để có được quy chế đào tạo và học vụ?",
+      "Thông tin chi tiết về quy chế đào tạo và học vụ có thể được tìm ở đâu?",
+      "Nơi nào cung cấp thông tin về quy chế đào tạo và học vụ?",
+      "Làm thế nào để tìm hiểu về quy chế đào tạo và học vụ?"
     ]
   },
   {
     "id": "167d01a4-1ce9-4a4b-ae51-1410fcde05f9",
     "questions": [
-      "Cách để đăng ký môn học trong đợt 1?"
+      "Cách để đăng ký môn học trong đợt 1?",
+      "Làm thế nào để đăng ký môn học trong đợt 1?",
+      "Cách đăng ký môn học trong đợt 1 là gì?",
+      "Thông tin chi tiết về việc đăng ký môn học trong đợt 1 có thể được thực hiện như thế nào?",
+      "Nên làm thế nào để đăng ký môn học trong đợt 1?",
+      "Làm sao để thực hiện đăng ký môn học trong đợt 1?"
     ]
   },
   {
     "id": "714b6651-c234-4f5c-b1c4-24a64936c7a7",
     "questions": [
-      "Khó khăn gì khi không đăng ký môn học trong đợt 1?"
+      "Khó khăn gì khi không đăng ký môn học trong đợt 1?",
+      "Nếu không đăng ký môn học trong đợt 1, có những khó khăn gì?",
+      "Hậu quả của việc không đăng ký môn học trong đợt 1 là gì?",
+      "Nếu bỏ lỡ việc đăng ký môn học trong đợt 1, điều gì sẽ gây khó khăn?",
+      "Có những vấn đề gì phát sinh khi không đăng ký môn học trong đợt 1?",
+      "Hậu quả của việc bỏ lỡ đăng ký môn học trong đợt 1 là như thế nào?"
     ]
   },
   {
     "id": "b3564405-cd91-42f4-b3bb-2b332a5fe7c6",
     "questions": [
-      "Lịch đăng ký môn học xem ở đâu?"
+      "Lịch đăng ký môn học xem ở đâu?",
+      "Thông tin về lịch đăng ký môn học có thể xem ở đâu?",
+      "Nơi cung cấp thông tin về lịch đăng ký môn học là ở đâu?",
+      "Lịch đăng ký môn học có thể được kiểm tra ở đâu?",
+      "Xem chi tiết về lịch đăng ký môn học được thực hiện ở đâu?",
+      "Thông tin về lịch đăng ký môn học có thể xem được tại đâu?"
     ]
   },
   {
@@ -116,55 +205,100 @@
   {
     "id": "bbcfc4b5-c0a4-4aab-bb59-d0c89dfa3dbe",
     "questions": [
-      "Sinh viên đăng ký môn học ở đâu?"
+      "Sinh viên đăng ký môn học ở đâu?",
+      "Làm thế nào để xem quy chế đào tạo và học vụ?",
+      "Cách thức để xem quy chế đào tạo và học vụ là gì?",
+      "Thông tin chi tiết về cách xem quy chế đào tạo và học vụ có thể là gì?",
+      "Nên làm thế nào để xem quy chế đào tạo và học vụ?",
+      "Làm sao để thực hiện xem quy chế đào tạo và học vụ?"
     ]
   },
   {
     "id": "def7e05b-873d-4efd-ad91-843c8ccdfcab",
     "questions": [
-      "Vì nộp học phí trễn nên không đăng ký môn học được phải làm sao?"
+      "Vì nộp học phí trễn nên không đăng ký môn học được phải làm sao?",
+      "Nếu vì nộp học phí trễ mà không đăng ký được môn học, phải làm thế nào?",
+      "Làm sao để giải quyết việc không đăng ký môn học vì nộp học phí trễ?",
+      "Thông tin chi tiết về cách xử lý khi không đăng ký được môn học do nộp học phí trễ có thể là gì?",
+      "Nên thực hiện thế nào khi bị không đăng ký môn học vì nộp học phí trễ?",
+      "Làm sao để giải quyết tình trạng không đăng ký môn học do nộp học phí trễ?"
     ]
   },
   {
     "id": "c54e02e8-f7b6-4443-838f-212ffd369eac",
     "questions": [
-      "Sinh viên vi phạm quy định của phòng công tác chính trị - sinh viên, thư viện nên khoopng đăng ký được môn học phải làm sao?"
+      "Sinh viên vi phạm quy định của phòng công tác chính trị - sinh viên, thư viện nên không đăng ký được môn học phải làm sao?",
+      "Nếu sinh viên vi phạm quy định của P.CTCT-SV hoặc thư viện mà không đăng ký được môn học, phải làm thế nào?",
+      "Làm sao để giải quyết tình trạng không đăng ký môn học do vi phạm quy định của P.CTCT-SV hoặc thư viện?",
+      "Thông tin chi tiết về cách xử lý khi không đăng ký được môn học do vi phạm quy định của P.CTCT-SV hoặc thư viện có thể là gì?",
+      "Nên thực hiện thế nào khi bị không đăng ký môn học do vi phạm quy định của P.CTCT-SV hoặc thư viện?",
+      "Làm sao để giải quyết tình trạng không đăng ký môn học do vi phạm quy định của P.CTCT-SV hoặc thư viện?"
     ]
   },
   {
     "id": "7272afed-aa40-4977-8cda-ebd197c89bc2",
     "questions": [
-      "Chưa hoàn thành đăng ký thông tin văn bằng nên không đăng ký được môn học?"
+      "Chưa hoàn thành đăng ký thông tin văn bằng nên không đăng ký được môn học?",
+      "Nếu chưa hoàn thành đăng ký thông tin văn bằng, có thể không đăng ký được môn học?",
+      "Làm thế nào để giải quyết việc không đăng ký được môn học do chưa hoàn thành đăng ký thông tin văn bằng?",
+      "Thông tin chi tiết về cách xử lý khi không đăng ký được môn học do chưa hoàn thành đăng ký thông tin văn bằng có thể là gì?",
+      "Nên thực hiện thế nào khi không đăng ký được môn học do chưa hoàn thành đăng ký thông tin văn bằng?",
+      "Làm sao để giải quyết tình trạng không đăng ký được môn học do chưa hoàn thành đăng ký thông tin văn bằng?"
     ]
   },
   {
     "id": "c41c43c2-98de-4189-a600-6dae6519c869",
     "questions": [
-      "Sinh viên không có thời khóa biểu trong học kỳ chính sẽ bị gì?"
+      "Sinh viên không có thời khóa biểu trong học kỳ chính sẽ bị gì?",
+      "Nếu sinh viên không có thời khóa biểu trong học kỳ chính, hậu quả sẽ như thế nào?",
+      "Sinh viên không có thời khóa biểu trong học kỳ chính sẽ gây ra hậu quả gì?",
+      "Hậu quả của việc thiếu thời khóa biểu trong học kỳ chính là gì?",
+      "Nếu không có thời khóa biểu trong học kỳ chính, điều gì sẽ xảy ra?",
+      "Sinh viên không có thời khóa biểu trong học kỳ chính có thể gặp những vấn đề gì?"
     ]
   },
   {
     "id": "1bce8787-3cdb-4cd0-b814-c94d56b0a04f",
     "questions": [
-      "Điều gì xảy ra nếu điểm trung bình học kỳ bằng 0?"
+      "Điều gì xảy ra nếu điểm trung bình học kỳ bằng 0?",
+      "Nếu điểm trung bình học kỳ bằng 0, điều gì sẽ xảy ra?",
+      "Hậu quả của việc có điểm trung bình học kỳ bằng 0 là gì?",
+      "Nếu có điểm trung bình học kỳ là 0, điều gì sẽ diễn ra?",
+      "Có hậu quả gì khi điểm trung bình học kỳ bằng 0?",
+      "Điểm trung bình học kỳ bằng 0 có dẫn đến điều gì không?"
     ]
   },
   {
     "id": "c3dcc758-0763-427a-b8c7-04966df2ee6c",
     "questions": [
-      "Sẽ như thế nào nếu tạm dừng học quá 2 học kỳ liện tiếp?"
+      "Sẽ như thế nào nếu tạm dừng học quá 2 học kỳ liện tiếp?",
+      "Nếu tạm dừng học quá 2 học kỳ liên tiếp, hậu quả sẽ như thế nào?",
+      "Hậu quả của việc tạm dừng học liên tục 2 học kỳ là gì?",
+      "Nếu tạm dừng học quá 2 học kỳ liên tiếp, điều gì sẽ xảy ra?",
+      "Tạm dừng học liên tục 2 học kỳ sẽ gây ra hậu quả gì?",
+      "Nếu tạm dừng học quá 2 học kỳ liên tiếp, hậu quả sẽ như thế nào?"
     ]
   },
   {
     "id": "cb5a4707-4e56-49e5-8c6f-f636929648f4",
     "questions": [
-      "Sau khi điểm trung bình học kỳ bằng 0, để tiếp tục học sinh viên phải làm gì?"
+      "Sau khi điểm trung bình học kỳ bằng 0, để tiếp tục học sinh viên phải làm gì?",
+      "Sau khi có điểm trung bình học kỳ bằng 0, để tiếp tục học, sinh viên cần thực hiện những gì?",
+      "Để tiếp tục học sau khi có điểm trung bình học kỳ bằng 0, sinh viên phải làm thế nào?",
+      "Thông tin chi tiết về cách tiếp tục học khi có điểm trung bình học kỳ bằng 0 có thể là gì?",
+      "Nên làm gì để tiếp tục học sau khi có điểm trung bình học kỳ bằng 0?",
+      "Sau khi có điểm trung bình học kỳ bằng 0, để tiếp tục học, sinh viên cần làm những việc gì?"
     ]
   },
   {
     "id": "901a95fa-ced8-492c-be9f-767840c07135",
     "questions": [
-      "Xem quy chế đào tạo và học vụ ở đâu?"
+      "Xem quy chế đào tạo và học vụ ở đâu?",
+      "Thông tin về việc xem quy chế đào tạo và học vụ có thể được tìm ở đâu?",
+      "Nơi cung cấp thông tin về quy chế đào tạo và học vụ là ở đâu?",
+      "Quy chế đào tạo và học vụ có thể được xem ở đâu?",
+      "Xem chi tiết về quy chế đào tạo và học vụ được thực hiện ở đâu?",
+      "Thông tin về quy chế đào tạo và học vụ có thể xem được tại đâu?"
     ]
   }
 ]

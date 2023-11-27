@@ -1,9 +1,12 @@
-
 import argparse
 from utils.metric import *
 from datasets import load_dataset
 from transformers.models.bartpho.tokenization_bartpho_fast import BartphoTokenizerFast
-from transformers import AutoModelForQuestionAnswering, default_data_collator, get_scheduler
+from transformers import (
+    AutoModelForQuestionAnswering,
+    default_data_collator,
+    get_scheduler,
+)
 from torch import nn
 import evaluate
 import numpy as np
@@ -69,6 +72,7 @@ def preprocess_training_dataset(examples):
     inputs["end_positions"] = end_positions
     return inputs
 
+
 def preprocess_validation_dataset(examples):
     questions = [q.strip() for q in examples["question"]]
     inputs = tokenizer(
@@ -98,8 +102,8 @@ def preprocess_validation_dataset(examples):
     inputs["example_id"] = example_ids
     return inputs
 
-def main(raw_datasets, args):
 
+def main(raw_datasets, args):
     train_dataset = raw_datasets["train"].map(
         preprocess_training_dataset,
         batched=True,
@@ -111,7 +115,7 @@ def main(raw_datasets, args):
         batched=True,
         remove_columns=raw_datasets["validation"].column_names,
     )
-   
+
     metric = evaluate.load(args.metric)
 
     train_dataset.set_format("torch")
@@ -125,18 +129,16 @@ def main(raw_datasets, args):
         batch_size=args.batch_size,
     )
     eval_dataloader = DataLoader(
-        validation_set,
-        collate_fn=default_data_collator,
-        batch_size=args.batch_size
+        validation_set, collate_fn=default_data_collator, batch_size=args.batch_size
     )
 
     device = torch.device(args.device)
     model = AutoModelForQuestionAnswering.from_pretrained(args.pretrained_model)
-    
+
     # Utilize 2 or more GPUs for training
     if device is torch.device("cuda"):
-        model = nn.DataParallel(model) 
-    
+        model = nn.DataParallel(model)
+
     model.to(device)
 
     optimizer = AdamW(model.parameters(), lr=args.lr)
@@ -157,7 +159,10 @@ def main(raw_datasets, args):
     for epoch in range(args.epochs):
         # Training
         model.train()
-        for _, batch in enumerate(train_dataloader): # Evaluate after each epoch, not after a number of steps!
+        for _, batch in enumerate(
+            train_dataloader
+        ):  # Evaluate after each epoch, not after a number of steps!
+            batch = {k: batch[k].to("cuda") for k in batch.keys()}
             outputs = model(**batch)
             loss = outputs.loss
 
@@ -176,6 +181,7 @@ def main(raw_datasets, args):
         print("Evaluation!")
         for batch in tqdm(eval_dataloader):
             with torch.no_grad():
+                batch = {k: batch[k].to("cuda") for k in batch.keys()}
                 outputs = model(**batch)
 
             start_logits.append(outputs.start_logits.cpu().numpy())
@@ -187,44 +193,57 @@ def main(raw_datasets, args):
         end_logits = end_logits[: len(validation_dataset)]
 
         metrics = compute_metrics(
-            args, metric, start_logits, end_logits, validation_dataset, raw_datasets["validation"]
+            args,
+            metric,
+            start_logits,
+            end_logits,
+            validation_dataset,
+            raw_datasets["validation"],
         )
         print(f"Epoch {epoch}:", metrics)
 
         if epoch == 0:
             prev_metrics = metrics
-        elif metrics['f1'] > prev_metrics['f1']:
+        elif metrics["f1"] > prev_metrics["f1"]:
             print(f"Saving model to {args.output_dir}...")
-            model.module.save_pretrained(args.output_dir)
+            if isinstance(model, torch.nn.DataParallel):
+                model.module.save_pretrained(args.output_dir)
+            else:
+                model.save_pretrained(args.output_dir)
             print("Finished.")
             prev_metrics = metrics
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('-metric', type=str, default="squad")
-    parser.add_argument('-device', type=str, default=DEVICE)
-    parser.add_argument('-output_dir', type=str, default="checkpoints")
-    parser.add_argument('-scheduler', type=str, default="linear")
-    parser.add_argument('-pretrained_model', type=str, default=PRETRAIN_MODEL)
+    parser.add_argument("-metric", type=str, default="squad")
+    parser.add_argument("-device", type=str, default=DEVICE)
+    parser.add_argument("-output_dir", type=str, default="checkpoints")
+    parser.add_argument("-scheduler", type=str, default="linear")
+    parser.add_argument("-pretrained_model", type=str, default=PRETRAIN_MODEL)
 
-    parser.add_argument('-batch_size', type=int, default=BATCH_SIZE)
-    parser.add_argument('-epochs', type=int, default=EPOCHS)
-    parser.add_argument('-lr', type=int, default=LR)
+    parser.add_argument("-batch_size", type=int, default=BATCH_SIZE)
+    parser.add_argument("-epochs", type=int, default=EPOCHS)
+    parser.add_argument("-lr", type=int, default=LR)
 
-    parser.add_argument('-max_length', type=int, default=MAX_LENGTH)
-    parser.add_argument('-stride', type=int, default=STRIDE)
+    parser.add_argument("-max_length", type=int, default=MAX_LENGTH)
+    parser.add_argument("-stride", type=int, default=STRIDE)
 
-    parser.add_argument('-n_best', type=int, default=N_BEST)
-    parser.add_argument('-max_answer_length', type=int, default=MAX_ANSWER_LENGTH)
+    parser.add_argument("-n_best", type=int, default=N_BEST)
+    parser.add_argument("-max_answer_length", type=int, default=MAX_ANSWER_LENGTH)
 
     args = parser.parse_args()
-    
+
     raw_datasets = load_dataset("./src/utils/BKViQuAD.py")
 
     # Filter examples which have just 1 element in list of 'text' answer
-    raw_datasets["validation"] = raw_datasets["validation"].filter(lambda x: len(x["answers"]["text"]) == 1)
-    raw_datasets["train"] = raw_datasets["train"].filter(lambda x: len(x["answers"]["text"]) == 1)
+    raw_datasets["validation"] = raw_datasets["validation"].filter(
+        lambda x: len(x["answers"]["text"]) == 1
+    )
+    raw_datasets["train"] = raw_datasets["train"].filter(
+        lambda x: len(x["answers"]["text"]) == 1
+    )
 
     tokenizer = BartphoTokenizerFast.from_pretrained(args.pretrained_model)
     max_length = args.max_length

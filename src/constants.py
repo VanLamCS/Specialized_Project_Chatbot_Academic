@@ -1,5 +1,5 @@
 DATASET_FOLDER = "./test/data"
-PRETRAIN_MODEL = "hoang14/viettel-phobert-finetune-viquad"
+PRETRAIN_MODEL = "vinai/phobert-base-v2"
 EPOCHS = 15
 LR = 2e-5
 BATCH_SIZE = 2

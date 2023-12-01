@@ -16,6 +16,9 @@ import torch
 from torch.utils.data import DataLoader
 from constants import *
 
+import matplotlib.pyplot as plt
+import os
+
 
 def preprocess_training_dataset(examples):
     questions = [q.strip() for q in examples["question"]]
@@ -104,6 +107,12 @@ def preprocess_validation_dataset(examples):
 
 
 def main(raw_datasets, args):
+    os.makedirs(args.metric_dir, exist_ok=True)
+
+    f1_scores = []
+    exact_matches = []
+    epoch_losses = []
+
     train_dataset = raw_datasets["train"].map(
         preprocess_training_dataset,
         batched=True,
@@ -162,10 +171,12 @@ def main(raw_datasets, args):
         for _, batch in enumerate(
             train_dataloader
         ):  # Evaluate after each epoch, not after a number of steps!
+            total_loss = 0.0  # loss per each epoch
             batch = {k: batch[k].to("cuda") for k in batch.keys()}
             outputs = model(**batch)
             loss = outputs.loss
 
+            total_loss += loss.mean().item()
             # backpropagation in 2 GPUs so we need to calculate mean of loss
             loss.mean().backward()
 
@@ -174,11 +185,13 @@ def main(raw_datasets, args):
             optimizer.zero_grad()
             progress_bar.update(1)
 
+        epoch_loss = total_loss / len(train_dataloader)
+        epoch_losses.append(epoch_loss)
         # Evaluation
         model.eval()
         start_logits = []
         end_logits = []
-        print("Evaluation!")
+        print("\nEvaluation!")
         for batch in tqdm(eval_dataloader):
             with torch.no_grad():
                 batch = {k: batch[k].to("cuda") for k in batch.keys()}
@@ -200,7 +213,12 @@ def main(raw_datasets, args):
             validation_dataset,
             raw_datasets["validation"],
         )
-        print(f"Epoch {epoch}:", metrics)
+
+        f1_scores.append(metrics["f1"])
+        exact_matches.append(metrics["exact_match"])
+
+        print(f"Epoch {epoch}:")
+        print(f" Training Loss: {epoch_loss:.10f} ||  Validation Loss: {metrics}")
 
         if epoch == 0:
             prev_metrics = metrics
@@ -212,6 +230,23 @@ def main(raw_datasets, args):
                 model.save_pretrained(args.output_dir)
             print("Finished.")
             prev_metrics = metrics
+
+    metric_file = os.path.join(args.metric_dir, "metrics.txt")
+    with open(metric_file, "w") as file:
+        file.write("Epoch\tF1-score\tExact Match\n")
+        for epoch, (f1, exact) in enumerate(zip(f1_scores, exact_matches), 1):
+            file.write(f"{epoch}\t{f1}\t{exact}\n")
+
+    epochs = range(1, args.epochs + 1)
+
+    plt.plot(epochs, f1_scores, marker="o", label="F1-score")
+    plt.plot(epochs, exact_matches, marker="x", label="Exact Match")
+    plt.xlabel("Epochs")
+    plt.ylabel("Metrics")
+    plt.title("Metrics per Epoch")
+    plt.legend()
+    plt.grid(True)
+    plt.show()
 
 
 if __name__ == "__main__":
@@ -232,6 +267,8 @@ if __name__ == "__main__":
 
     parser.add_argument("-n_best", type=int, default=N_BEST)
     parser.add_argument("-max_answer_length", type=int, default=MAX_ANSWER_LENGTH)
+
+    parser.add_argument("-metric_dir", type=str, default="metric")
 
     args = parser.parse_args()
 

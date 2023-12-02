@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "version": "1.0.1",
-=======
   "version": "1.1.1",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
   "data": [
     {
       "id": "5649fd4d-d7ae-499d-a51c-6b1d4a70ffd4",
@@ -458,11 +454,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "01a553cd-3d15-48c7-90e4-b2bf9a7d0eb4",
-=======
       "id": "5f341bf8-8215-4329-b4f9-83c15ef3792a",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Bao nhiêu tín chỉ là điều kiện cần để sinh viên có thể tốt nghiệp?",
@@ -479,11 +471,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "0e73332b-01bf-409a-a06e-f1775cb53db3",
-=======
       "id": "4266dad4-24ea-4c1f-869d-1f374f024eab",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy định về số tín chỉ cần tích lũy để đạt được bằng tốt nghiệp là gì?",
@@ -500,11 +488,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "9dc870a6-9c39-48d6-b49d-73e1a4fd6ca0",
-=======
       "id": "56899a87-ebcd-40b2-afbf-952180707f08",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để biết số lượng tín chỉ cần tích lũy để tốt nghiệp?",
@@ -521,11 +505,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "5a0b4581-1d07-4c4c-9207-4f5fce78a7b9",
-=======
       "id": "6ab3620c-94bd-438f-af19-bd4cb5fb3203",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có quy tắc cụ thể nào về việc tích lũy tín chỉ cho quá trình tốt nghiệp không?",
@@ -542,11 +522,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "473b68fd-acc6-4b59-b89d-783c093a7269",
-=======
       "id": "d369b696-0c0c-4f3e-99ac-d4e895077da5",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các yêu cầu cần đáp ứng để có thể tốt nghiệp là gì?",
@@ -563,11 +539,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ea9a17fd-b315-47a5-9b46-960d445cdad3",
-=======
       "id": "3ffd5821-3482-4723-bafa-4f65b5dd1276",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để đảm bảo đáp ứng các điều kiện tốt nghiệp?",
@@ -584,11 +556,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "c7c87af8-1c43-44f1-8e42-3bcb79d7f894",
-=======
       "id": "e8ed8032-0660-44ad-a0bd-f73424849bbc",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy định về các điều kiện cần thiết để tốt nghiệp là gì?",
@@ -605,11 +573,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "9c649401-7de3-4f20-9d4d-2877c1e52db4",
-=======
       "id": "4c0fbd25-f769-495b-b5c4-84971e194006",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên cần hoàn thành những gì để đạt đến điều kiện tốt nghiệp?",
@@ -626,11 +590,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "44c1db9b-d86b-456d-8218-f6f5bfc76f63",
-=======
       "id": "5a896f13-d9a0-4793-ba01-7dee22b9951d",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để đạt đến các điều kiện cần thiết để được công nhận tốt nghiệp?",
@@ -647,11 +607,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ebace578-e409-4e1e-b3a0-cfb168987a0b",
-=======
       "id": "35cdc7f8-88f3-4cbd-9ce3-9971e2f5ed84",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy định về các yêu cầu để được công nhận tốt nghiệp là gì?",
@@ -668,11 +624,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6562b8fc-9a92-49ee-83c3-0eb234f6b3e6",
-=======
       "id": "c7be3e3d-64ad-4316-8f24-304b2db28887",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên cần hoàn thành những điều gì để đáp ứng yêu cầu tốt nghiệp?",
@@ -689,11 +641,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ee9badeb-e590-420d-953b-e124dc85cb5e",
-=======
       "id": "0dcc8896-4718-4c21-a352-fd1b77451f26",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có những tiêu chí nào để đảm bảo công nhận tốt nghiệp?",
@@ -710,11 +658,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "37c9d69e-6e27-489a-bcb0-4c6ec475edbd",
-=======
       "id": "81314623-36f7-4f65-9d30-674959bb02f6",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các yếu tố nào khác quan trọng để đạt đến tình trạng tốt nghiệp?",
@@ -731,11 +675,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "c4970585-8ca5-485e-8df9-8b7c26738afe",
-=======
       "id": "68507139-2853-45c5-a0b3-7defbe88e61a",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để đảm bảo đáp ứng các yêu cầu ngoài tín chỉ để tốt nghiệp?",
@@ -752,11 +692,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "0e9b2435-d7fb-4a50-9aa8-ef5a1334c85b",
-=======
       "id": "b3f19fe1-860d-4771-973b-f4ab1bf85fb7",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy định về các yếu tố khác cần thiết để tốt nghiệp là gì?",
@@ -773,11 +709,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ed449a8c-4159-416c-93ac-404aea9d0c3e",
-=======
       "id": "f42f1d3a-116e-4285-b368-ae537800e0ea",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các điều kiện khác ngoài tín chỉ mà sinh viên cần thỏa mãn để tốt nghiệp là gì?",
@@ -794,11 +726,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "3ca83c32-0c34-45e7-88ec-51d63065d764",
-=======
       "id": "6191cfb9-c745-42c3-b763-6fe8f1155f61",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy trình đạt chuẩn ngoại ngữ tốt nghiệp là gì?",
@@ -815,11 +743,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "7e15a214-ce56-4ccc-9e3c-07cc9c7fee99",
-=======
       "id": "3aa38f89-f0dd-414d-841f-cfdee1d7b2b3",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các bước cụ thể để đáp ứng tiêu chí ngoại ngữ tốt nghiệp là gì?",
@@ -836,11 +760,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "9513cb06-2c68-462c-b4b8-391718c88fd4",
-=======
       "id": "7150e01c-51b3-4d14-839b-0591655d01cb",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có các bài kiểm tra hoặc khóa học cụ thể nào cho việc đạt chuẩn ngoại ngữ?",
@@ -857,11 +777,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "179d933e-fc80-403f-94aa-58a1e5e32760",
-=======
       "id": "ea823557-dca7-4256-8f48-0a4b65707c50",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để đảm bảo đạt chuẩn ngoại ngữ theo yêu cầu của trường?",
@@ -878,11 +794,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "93acea03-ea65-42d9-8299-a151652913a5",
-=======
       "id": "4ad0ba78-ba28-4f75-884b-d44c2a307fd4",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Khi nào là thời điểm chính để xét tốt nghiệp?",
@@ -899,11 +811,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "5af442d3-143c-498e-8b38-5a9430d2eaec",
-=======
       "id": "23891d83-39b1-4e2d-b815-2ebcf3aab9b5",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để biết khi nào trường thường xét tốt nghiệp?",
@@ -920,11 +828,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "d26fafb7-e139-47ee-809c-7b1dfe5a91b7",
-=======
       "id": "43bd5f53-2e9d-4e6f-b6f8-58d6bb09bd0b",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy định về thời gian xét tốt nghiệp là gì?",
@@ -941,11 +845,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "52472fce-d346-4226-9199-f04aa3c578c0",
-=======
       "id": "561f0ad1-a210-44f5-80a5-c282178f8a69",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có các kỳ xét tốt nghiệp cụ thể trong năm không?",
@@ -962,11 +862,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "0c893aa4-1f5a-4150-afe2-7f805bb6aacb",
-=======
       "id": "a1898c4a-ba41-49c8-8acd-66dedaa5668b",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Những yếu tố nào có thể gây ảnh hưởng đến khả năng tốt nghiệp của sinh viên?",
@@ -983,11 +879,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "5597ad4d-2e76-4ffb-a0fa-6afb1669dfb5",
-=======
       "id": "049121c1-00e4-46d3-903c-be84864e826f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có các điều kiện hoặc sự kiện nào có thể ngăn chặn quá trình tốt nghiệp?",
@@ -1004,11 +896,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "8f69fdcd-bd0c-4e9c-b676-f93fff50c791",
-=======
       "id": "07d779ae-d138-4e18-aa9f-2c8b8837b359",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các thách thức có thể làm trì hoãn việc tốt nghiệp là gì?",
@@ -1025,11 +913,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "d783f32d-8ac0-4e7f-a62c-43629e2087b8",
-=======
       "id": "c2ce66fc-799b-4589-8464-867e28b91780",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên gặp khó khăn gì trong quá trình tốt nghiệp không?",
@@ -1046,11 +930,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "48489abc-a07f-41b4-9eb8-b0afb79e6e0a",
-=======
       "id": "e76d67b4-2d91-44d0-88e5-fbda4efd7ccd",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Cần đạt được bao nhiêu tín chỉ để hoàn thành chương trình và tốt nghiệp?",
@@ -1067,11 +947,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "74216c35-f093-4715-845e-5c33f8951712",
-=======
       "id": "9f570f30-aa42-44fd-a338-71a60f76b906",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Số tín chỉ tối thiểu cần có để đáp ứng yêu cầu tốt nghiệp là bao nhiêu?",
@@ -1088,11 +964,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "a5b2ca14-7009-49d5-8c11-90f7cfe7f5d9",
-=======
       "id": "feff2a92-40ad-416d-8061-4208d65846ab",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Tín chỉ bắt buộc để tốt nghiệp là bao nhiêu?",
@@ -1109,11 +981,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "40a30d8a-e536-4c27-b9e1-a96be4294053",
-=======
       "id": "64715921-979e-4f51-a579-f8b205045b36",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để xác định số tín chỉ cần thiết để đạt tốt nghiệp?",
@@ -1130,11 +998,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "a56b0559-a4e8-437e-8368-c31b458d42db",
-=======
       "id": "f5244ade-35e3-4507-bbe6-cd5b5e6e486f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Điều gì cần thực hiện để có điểm trung bình tích lũy cao hơn trung bình?",
@@ -1151,11 +1015,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "88504ece-879c-4f01-990a-f79d12292713",
-=======
       "id": "97d50225-0f85-4c79-aad9-52644acc7bdb",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Cách nào để đảm bảo điểm trung bình tích lũy vượt qua mức trung bình?",
@@ -1172,11 +1032,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "0fc9cc1f-5a68-45e0-8f1d-866ec16dc338",
-=======
       "id": "d5bda0a1-3a9d-4cb9-a316-5488e11eef50",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để nâng cao điểm GPA lên trên trung bình?",
@@ -1193,11 +1049,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "8c4e13f2-9397-453b-876b-210d31611126",
-=======
       "id": "55b4467c-5a50-49ff-8488-3b0bb29e661e",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Điều gì cần làm để có GPA cao hơn so với trung bình?",
@@ -1214,11 +1066,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "57f51bbe-243d-49c5-be28-1898f8aac25f",
-=======
       "id": "e190794b-f05e-4d14-9f29-4ef18f0b657e",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để chuẩn bị cho quá trình tốt nghiệp?",
@@ -1235,11 +1083,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "51402403-4b58-4a9b-8809-f1bd579e517b",
-=======
       "id": "75b1c0ea-0edd-4f32-a311-e526bfa7718f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các bước nào cần phải hoàn tất trước khi đạt được bằng tốt nghiệp?",
@@ -1256,11 +1100,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "56b504f7-095f-40dc-8687-82d05a716c73",
-=======
       "id": "f8152dfa-f699-4ca6-9995-15c90f6b7bb7",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Điều gì là quan trọng trong quá trình chuẩn bị trước khi tốt nghiệp?",
@@ -1277,11 +1117,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "0a05cba8-6090-4835-a271-a9ca648d65aa",
-=======
       "id": "6980877a-5795-43d5-98f4-8bd8ecd1dbb0",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Cách nào để đảm bảo mình đã hoàn tất tất cả các bước cần thiết cho việc tốt nghiệp?",
@@ -1298,11 +1134,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "b336a83b-042d-49b2-a4d8-f96bfa16a2fa",
-=======
       "id": "571b43cf-8573-42cc-aca9-22851118f6eb",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các bước nào cần thiết để đạt được hoàn thành chương trình rèn luyện sinh viên?",
@@ -1319,11 +1151,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "0923097b-5775-4e90-9528-903feb78e201",
-=======
       "id": "5b43b008-27d7-4e69-8eb4-74fc276909fb",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Điều gì là quan trọng trong quá trình hoàn thành chương trình rèn luyện sinh viên?",
@@ -1340,11 +1168,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "23ef7090-313b-4c9e-9b37-317712e16fff",
-=======
       "id": "42d80bfd-13bb-4452-b399-bc2bcec86d35",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các hoạt động cần thực hiện để hoàn tất chương trình rèn luyện sinh viên?",
@@ -1361,11 +1185,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "34695227-c764-414a-bdbd-5bcec86736f5",
-=======
       "id": "c71d34f4-22c5-4d56-8a0b-9dd7c5b00d21",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để kiểm tra việc hoàn thành chương trình rèn luyện sinh viên?",
@@ -1382,11 +1202,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "8870328c-1f80-4d13-b062-f4d8468a4127",
-=======
       "id": "e4a39c71-1732-4602-a277-53732f495ae4",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào thời gian ảnh hưởng đến quá trình xét tốt nghiệp?",
@@ -1403,11 +1219,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ee20ed45-3425-4cc9-a4ac-f8d088346ae3",
-=======
       "id": "ca7b9d55-52c5-46eb-8752-48ed6a310621",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy định nào liên quan đến thời gian xét tốt nghiệp?",
@@ -1424,11 +1236,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "60ec6b55-e74d-49fd-9cad-80fb72127f5c",
-=======
       "id": "41899f1c-15d8-472a-8a4a-d50690bc2ac7",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có những điều cần biết về thời gian trong quá trình xét tốt nghiệp không?",
@@ -1445,11 +1253,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6f147730-973a-4021-8ae1-61da32231272",
-=======
       "id": "0730c743-f887-49b4-ab8c-d632770d61fe",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Thời gian cần để hoàn tất quá trình xét tốt nghiệp là bao lâu?",
@@ -1466,11 +1270,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "d09c060e-e77e-4305-88b4-5d9312c7cb4c",
-=======
       "id": "64c27b80-cb99-4312-8ff5-8b832cae6c1f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để xác định môn học cần hoàn thành để tích lũy đủ học phần?",
@@ -1487,11 +1287,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "d0d8808b-605b-4fc1-8fae-3066bf0144e9",
-=======
       "id": "0cbd2dae-562e-40cc-82c6-a5555a48afd2",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có danh sách cụ thể nào về các môn học cần hoàn thành để đạt đủ học phần?",
@@ -1508,11 +1304,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "1e7d08be-b704-4bb3-becc-c11bb45b3b6a",
-=======
       "id": "8f36bc12-5bbb-4454-a9cc-161db6e92265",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy trình nào áp dụng để kiểm tra môn học cần hoàn thành để tích lũy học phần?",
@@ -1529,11 +1321,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "043d504b-0808-4a50-b702-41d03ecb533c",
-=======
       "id": "200e3543-f9b5-44fb-866d-2e235df42c59",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Các môn học nào quan trọng nhất trong việc tích lũy đủ học phần để tốt nghiệp?",
@@ -1550,11 +1338,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6810ba9a-614f-46c3-985c-37b09433bca2",
-=======
       "id": "9e260929-6fc4-46fe-803a-deb0dac8902b",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để theo dõi tiến độ hoàn thành các môn học để đảm bảo tích lũy đủ học phần?",
@@ -1571,11 +1355,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "744a2311-4e29-40de-8507-abff6714f8c9",
-=======
       "id": "f05d30a9-be88-4746-a443-d14a35ee4d88",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy trình nào áp dụng để đảm bảo đáp ứng chuẩn đầu ra của chương trình đào tạo?",
@@ -1592,11 +1372,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "b6454dfb-1f53-4391-99cf-22145914fa14",
-=======
       "id": "e8f373e7-7cec-419e-9cb5-32b1d452c386",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để kiểm tra và đánh giá việc đáp ứng chuẩn đầu ra của chương trình học?",
@@ -1613,11 +1389,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "80a3f5e7-5a43-46d1-93c7-c43a342afc7a",
-=======
       "id": "5a72324c-64d4-4f57-b01a-0c862ea4727d",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có bước nào đặc biệt để cải thiện và đáp ứng các chuẩn đầu ra của chương trình?",
@@ -1634,11 +1406,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "4d8352a1-ccf7-41a7-8e3f-a3c563557485",
-=======
       "id": "b3c679dc-c626-44b6-8cd6-d5640e49777a",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Cách tích hợp phản hồi từ sinh viên vào quá trình đáp ứng chuẩn đầu ra của chương trình là gì?",
@@ -1655,11 +1423,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6bde36bd-1c6c-4d01-b383-f0c16634ccd8",
-=======
       "id": "373330a5-98d8-4fe5-bd45-1c9f6adf8b4f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có hệ thống theo dõi nào để đảm bảo liên tục và hiệu quả trong việc đáp ứng chuẩn đầu ra của chương trình?",
@@ -1676,11 +1440,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "e6d08d08-5b00-46a4-b007-f0f388827873",
-=======
       "id": "394acf12-8ab8-4f06-b2cc-31c35c18b46b",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Bao nhiêu khóa học Giáo dục Quốc phòng - An ninh sinh viên cần hoàn thành?",
@@ -1697,11 +1457,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "df06fc1f-76c7-45e6-8a4a-f23c09c02e25",
-=======
       "id": "038841d3-6c2c-4a80-b735-1056bdf2a2f3",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên phải đăng ký bao nhiêu khóa học Giáo dục Quốc phòng - An ninh?",
@@ -1718,11 +1474,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "07141709-6c2f-4d36-83bf-b7174805d457",
-=======
       "id": "628362e0-a69d-4e61-9bb1-8395593e048d",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có quy định cụ thể về số lượng khóa học Giáo dục Quốc phòng - An ninh sinh viên cần hoàn thành không?",
@@ -1739,11 +1491,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ae813451-0c5c-4a36-b5cf-1180ac50d6b9",
-=======
       "id": "25369567-500c-4c1c-bd9b-58f43039b923",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Cách tính số lượng khóa học Giáo dục Quốc phòng - An ninh mà sinh viên cần theo học là như thế nào?",
@@ -1760,11 +1508,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "e89a63de-9e2a-486f-a175-221779c3e071",
-=======
       "id": "7b691dd2-1397-45be-855e-985a298305e9",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để sinh viên biết thông tin chi tiết về việc hoàn thành khóa học Giáo dục Quốc phòng - An ninh?",
@@ -1781,11 +1525,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "32e34ef3-f8f6-470d-9566-6e49cb0d6198",
-=======
       "id": "2878938f-78ed-46ab-bfaa-4982d335c737",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có những mức đình chỉ học tập nào mà sinh viên không được phép xét tốt nghiệp?",
@@ -1802,11 +1542,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "05314a7a-bba0-46c4-9c79-4ba046ddca5c",
-=======
       "id": "3908cf64-70de-4ca2-b790-de38b9ce0d38",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Mức đình chỉ học tập nào làm sinh viên không đủ điều kiện xét tốt nghiệp?",
@@ -1823,11 +1559,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "d8be5271-3fa1-4398-bac7-4aeeaca54b00",
-=======
       "id": "d569c206-db01-49fe-9251-849caa0b55ca",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Đình chỉ học tập ở mức nào sẽ ảnh hưởng đến khả năng xét tốt nghiệp của sinh viên?",
@@ -1844,11 +1576,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "afebae8a-0459-43eb-9e17-90ffb43c4980",
-=======
       "id": "d1d7aa23-082f-4093-a3dc-9342f64140ea",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào mức đình chỉ học tập ảnh hưởng đến quá trình xét tốt nghiệp?",
@@ -1865,11 +1593,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6e3fef0a-1b7f-4993-b12b-8b423540f214",
-=======
       "id": "9df1827c-c910-4114-8d1d-f5653968a933",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có quy định cụ thể về mức đình chỉ học tập và tác động đến xét tốt nghiệp không?",
@@ -1886,11 +1610,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ec0d4694-f08f-408e-b7cb-2acc0b37d870",
-=======
       "id": "a174a55a-efab-4189-b6ee-9c8e0d90c7a9",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Để xét tốt nghiệp, sinh viên cần đạt điểm trung bình bao nhiêu?",
@@ -1907,11 +1627,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "c4de4120-96ec-4d63-98f8-bb445feb8b0c",
-=======
       "id": "5cecbaee-1768-49a0-85c0-1946937cb260",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có yêu cầu gì về điểm trung bình để được xét tốt nghiệp?",
@@ -1928,11 +1644,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "75dfbf74-d430-44e2-a485-2d4858c02264",
-=======
       "id": "26e3853c-9ecc-450e-846e-213b0b8e581f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào điểm trung bình ảnh hưởng đến quá trình xét tốt nghiệp?",
@@ -1949,11 +1661,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "b9e2df80-ab0f-4b79-8ac9-fa51b41316e3",
-=======
       "id": "ba836cf1-a7ea-4d72-a349-efa9ce716223",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên cần duy trì điểm trung bình ở mức nào để không bị ảnh hưởng đến việc xét tốt nghiệp?",
@@ -1970,11 +1678,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "4f12adae-451b-4532-b953-22071548bdd5",
-=======
       "id": "5b8a1c91-ed3d-4a1f-8185-d1a408253d51",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có quy định cụ thể về điểm trung bình để đảm bảo xét tốt nghiệp không?",
@@ -1991,11 +1695,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "95e3cfe9-9dd5-41e9-828f-ad73c928ae1f",
-=======
       "id": "022bbeed-49bf-41fa-b015-6698e6a3a34e",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Số tín chỉ bắt buộc để tốt nghiệp là bao nhiêu?",
@@ -2012,11 +1712,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "e9090809-2fc3-48e5-918f-e218bd750221",
-=======
       "id": "4ea56e53-5564-4770-81f3-a9a3d55334f1",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có quy định về số tín chỉ bắt buộc để đảm bảo tốt nghiệp không?",
@@ -2033,11 +1729,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "9b78a636-2d78-4347-a6c2-1a6ab46c0aee",
-=======
       "id": "10a32f5e-bba5-4fca-b3fd-60712a2d65f6",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để biết số tín chỉ bắt buộc cần hoàn thành để tốt nghiệp?",
@@ -2054,11 +1746,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "5a4f46bd-b8a4-47cc-8b50-3a44ab355332",
-=======
       "id": "48970a88-ec5a-4e7a-981e-24890e288b9f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có mức tối thiểu về số tín chỉ bắt buộc không thể giảm khi xét tốt nghiệp không?",
@@ -2075,11 +1763,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "a9223527-ed64-4016-be1b-352f672d102a",
-=======
       "id": "76296803-3370-46ee-a476-44d9792e3418",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên cần tích lũy bao nhiêu tín chỉ để đáp ứng yêu cầu tốt nghiệp?",
@@ -2096,11 +1780,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "565c2819-9591-4150-b2c9-1988718d5b91",
-=======
       "id": "6c44686a-509c-4475-b21c-2397b548deef",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên cần thực hiện những bước gì để đáp ứng chuẩn thể chất?",
@@ -2117,11 +1797,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "5e44d532-e56e-4502-bb63-a8c3271df68a",
-=======
       "id": "c8e542ed-242d-4910-8787-23e00439a325",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có quy định cụ thể nào về chuẩn thể chất mà sinh viên phải tuân thủ không?",
@@ -2138,11 +1814,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "b4804a1f-e814-41a5-bfe1-1d5fe7d6c033",
-=======
       "id": "7bd17442-8776-4492-9bd3-9ad63be492b6",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quá trình đáp ứng chuẩn thể chất bao gồm những yếu tố nào?",
@@ -2159,11 +1831,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "f22813e5-4705-41ff-9f4c-f1f9f813d82e",
-=======
       "id": "7d2c1b54-fb92-41a9-9e7d-030c9a1bfcaf",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để sinh viên có thể kiểm tra và đảm bảo rằng họ đáp ứng chuẩn thể chất?",
@@ -2180,11 +1848,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6da15799-9ed1-4b3d-abfc-ae37b9b1016b",
-=======
       "id": "c1d7c473-8cd8-44b5-8b83-9411d69b3f4b",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có những bài kiểm tra cụ thể nào đối với chuẩn thể chất của sinh viên?",
@@ -2201,11 +1865,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "36cd52f7-257f-435c-9f0a-edb6cf553b2a",
-=======
       "id": "b1c3ce1d-363e-4350-8ec8-09ce4ff420b1",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Hiệu trưởng cấp bằng tốt nghiệp cho sinh viên khi nào?",
@@ -2222,11 +1882,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "d10b8f85-e1bf-4f97-9fbe-8e79e1c15140",
-=======
       "id": "70796ab6-a70b-461d-b2c1-ea02acd2216a",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy trình xét tốt nghiệp bao gồm những bước nào trước khi hiệu trưởng cấp bằng?",
@@ -2243,11 +1899,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "da1a9ddb-e440-4290-8544-036be500ea32",
-=======
       "id": "34f5e2c0-7581-4983-b9fd-60775f7954d3",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để biết khi nào hiệu trưởng sẽ cấp bằng tốt nghiệp?",
@@ -2264,11 +1916,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "d7a24cf3-8c8c-4360-a7ca-a18750faf449",
-=======
       "id": "6e21f793-5d44-4f80-942d-6d94d2c1515a",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên phải thực hiện những thủ tục gì sau khi đủ điều kiện tốt nghiệp để nhận bằng?",
@@ -2285,11 +1933,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "818cdb20-0e4b-4f12-bab9-f4cec27ede0b",
-=======
       "id": "e0244f9a-e9e0-4a1c-8ede-3b6d57599a6a",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có quy định cụ thể nào về thời gian cấp bằng tốt nghiệp cho sinh viên không?",
@@ -2306,11 +1950,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "e0eee26f-ed50-401b-91e5-d832f552e4f4",
-=======
       "id": "b5ec211a-0047-411e-ad91-42f587782150",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy trình nhận bằng tốt nghiệp bao gồm những bước nào?",
@@ -2327,11 +1967,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6ee06e9d-92fc-4ed2-bfd5-1f824c951bfd",
-=======
       "id": "5152e31e-befb-4271-978d-3b988010b5a9",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên cần thực hiện những thủ tục gì để nhận bằng sau khi tốt nghiệp?",
@@ -2348,11 +1984,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "ba5fe323-e1e7-407a-9e6b-c7832af21169",
-=======
       "id": "6bab747f-e7ad-43a2-a9d2-c053dc794b87",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để đăng ký và đặt lịch nhận bằng tốt nghiệp?",
@@ -2369,11 +2001,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "b8f78498-3912-4c68-be03-5a6d83835ed8",
-=======
       "id": "5c19ede2-9c33-44a2-8311-4406511f258e",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có những giấy tờ và chứng minh cần thiết nào khi nhận bằng tốt nghiệp?",
@@ -2390,11 +2018,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "240bce86-9b81-40cf-abd6-bd573f32650b",
-=======
       "id": "d78e0df1-b664-496d-ade8-d24c32a2d159",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Cần phải chờ bao lâu sau khi hoàn thành các thủ tục để nhận được bằng tốt nghiệp?",
@@ -2411,11 +2035,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "800402b0-1d58-4230-a721-17e751e00d54",
-=======
       "id": "959ebc24-c26a-4493-bfd9-c46f67abddc6",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên có được cấp giấy chứng nhận tạm thời sau khi tốt nghiệp không?",
@@ -2432,11 +2052,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "61a4d39e-9319-4286-b3d5-857d280dfe2e",
-=======
       "id": "5bd1961d-536b-44cf-90e2-f8d08da9235f",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để đạt được giấy chứng nhận tạm thời sau khi hoàn thành các yêu cầu tốt nghiệp?",
@@ -2453,11 +2069,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "0b8f60ec-3852-4af0-b1ac-fd3a2eff7895",
-=======
       "id": "94ddb898-c6f7-40c7-b3f7-e01570bd5a05",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy trình nhận giấy chứng nhận tạm thời tốt nghiệp như thế nào?",
@@ -2474,11 +2086,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "eca3aa70-fbef-4000-a219-937530d7146d",
-=======
       "id": "d4472162-6e1b-4c5e-8e19-0558cc01ac92",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có những thông tin nào được in đầy đủ trên giấy chứng nhận tạm thời?",
@@ -2495,11 +2103,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "f5188e56-befe-4ae4-a7c6-53c161b025af",
-=======
       "id": "9976a844-fb52-4dc5-ac45-b258fc7683b5",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Giấy chứng nhận tạm thời có giá trị trong thời gian bao lâu sau khi tốt nghiệp?",
@@ -2516,11 +2120,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "efffde13-47f3-4f06-89d8-ca8040b94247",
-=======
       "id": "60abd774-f5c6-4894-b922-c0122e4c2fe1",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Sinh viên cần thực hiện những bước nào để nhận bằng tốt nghiệp?",
@@ -2537,11 +2137,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "5f5b399e-654e-46d6-8503-0037abaf5ca8",
-=======
       "id": "b8d1fd99-2c28-4d63-b862-fa12f56147a2",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Quy trình nhận bằng tốt nghiệp như thế nào?",
@@ -2558,11 +2154,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "1e2fc50e-f7e7-43f4-be54-6bc0340dc685",
-=======
       "id": "3caa11bd-d0ff-446e-80bb-568a71441961",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có những yêu cầu gì cần đáp ứng để nhận bằng tốt nghiệp?",
@@ -2579,11 +2171,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "5b52575c-696d-4679-8aaf-06c206f4b22f",
-=======
       "id": "f2eabfbf-e5b8-4a06-9cf0-d5172b188fd3",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Thời hạn nhận bằng tốt nghiệp là bao lâu sau khi đủ điều kiện tốt nghiệp?",
@@ -2600,11 +2188,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "6cecc253-7e62-4a8c-9095-f5833dbbbd93",
-=======
       "id": "47318722-54cd-4cef-8d88-c4a2b56d97c7",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có nguyên tắc cụ thể về thời hạn nhận bằng tốt nghiệp không?",
@@ -2621,11 +2205,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "f5905287-d8a4-4153-b6c6-633ae35f7b82",
-=======
       "id": "61e160df-0daf-4eab-97a5-cacc4cbedd38",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Làm thế nào để biết về thời hạn nhận bằng tốt nghiệp?",
@@ -2642,11 +2222,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "eb10a0cd-74b3-4dc6-b8cc-3e3f883b3d61",
-=======
       "id": "314b4691-272a-497e-be5c-30fefdbc30e2",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Có sự linh hoạt về thời hạn nhận bằng tốt nghiệp không?",
@@ -2663,11 +2239,7 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "9c6c8b85-3c4a-49e5-b972-c59dc0848507",
-=======
       "id": "858c7a02-d4f4-4b92-a48a-bfeea349864b",
->>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Tốt nghiệp",
       "context": "Công nhận tốt nghiệp Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện sau: a) Tích lũy đủ học phần, số tín chỉ của chương trình đào tạo, đạt chuẩn đầu ra của chương trình đào tạo; b) Hoàn thành chương trình Giáo dục Quốc phòng - An ninh và chương trình Giáo dục Thể chất; c) Hoàn thành chương trình rèn luyện sinh viên theo quy định của nhà trường; d) Đạt chuẩn ngoại ngữ tốt nghiệp và các chuẩn khác của nhà trường; e) Điểm trung bình tích lũy của toàn khóa học đạt từ trung bình trở lên; f) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập. Trường xét và công nhận tốt nghiệp trong các học kỳ chính, vào khoảng cuối mỗi tháng. Những sinh viên đủ điều kiện tốt nghiệp được hiệu trưởng nhà trường ra quyết định công nhận tốt nghiệp và cấp bằng tốt nghiệp trong thời hạn 03 tháng tính từ thời điểm sinh viên đáp ứng đầy đủ điều kiện tốt nghiệp và hoàn thành nghĩa vụ với nhà trường. Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
       "question": "Nếu vượt quá thời hạn, sinh viên có thể làm gì để nhận bằng tốt nghiệp?",

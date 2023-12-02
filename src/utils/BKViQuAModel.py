@@ -6,6 +6,14 @@ from datasets import Dataset, DatasetDict
 import uuid
 from get_contexts import get_all_contexts, get_contexts_by_key
 
+# import sys
+# import os
+
+# current_dir = os.path.dirname(os.path.abspath(__file__))
+# checkpoints_dir = os.path.abspath(os.path.join(current_dir, "../checkpoints"))
+
+# sys.path.append(checkpoints_dir)
+
 
 class ViQuADModel:
     def __init__(
@@ -13,6 +21,7 @@ class ViQuADModel:
         device="cuda",
         checkpoints="checkpoints",
         n_best=20,
+        max_length=256,
         max_answer_length=200,
         stride=128,
         mode_limit=700,
@@ -21,16 +30,17 @@ class ViQuADModel:
         self.checkpoints = checkpoints
 
         self.n_best = n_best
+        self.max_length = max_length
         self.max_answer_length = max_answer_length
         self.stride = stride
 
         self.model = AutoModelForQuestionAnswering.from_pretrained(self.checkpoints)
         self.model = nn.DataParallel(self.model)
+        self.tokenizer = BartphoTokenizerFast.from_pretrained("vinai/phobert-base-v2")
         self.model.to(self.device)
         self.mode_limit = mode_limit
 
-    def createDataset(self, context_key):
-        contexts = get_contexts_by_key("context_key")
+    def create_dataset(self, contexts):
         context_length = len(contexts)
         context_ids = []
         for i in contexts:
@@ -44,7 +54,7 @@ class ViQuADModel:
         qa_dataset = contexts.add_column("question", new_column)
         return qa_dataset
 
-    def pre_map_dataset(dataset, preprocess_dataset):
+    def pre_map_dataset(self, dataset, preprocess_dataset):
         return dataset.map(
             preprocess_dataset,
             batched=True,
@@ -52,9 +62,9 @@ class ViQuADModel:
             load_from_cache_file=False,
         )
 
-    def preprocess_dataset(examples):
+    def preprocess_dataset(self, examples):
         questions = [q.strip() for q in examples["question"]]
-        inputs = tokenizer(
+        inputs = self.tokenizer(
             questions,
             examples["context"],
             max_length=self.max_length,
@@ -82,14 +92,14 @@ class ViQuADModel:
         inputs["overflow_to_sample_mapping"] = sample_map
         return inputs
 
-    def query_model(eval_set_for_model, length):
+    def query_model(self, eval_set_for_model, length):
         i = 0
 
         start_logits = []
         end_logits = []
         while i <= length:
             start = i
-            i += self.limit
+            i += self.mode_limit
             if i < length:
                 end = i
             else:
@@ -102,7 +112,7 @@ class ViQuADModel:
             }
 
             with torch.no_grad():
-                outputs = model(**batch)
+                outputs = self.model(**batch)
                 start_logits.append(outputs["start_logits"])
                 end_logits.append(outputs["end_logits"])
 
@@ -114,6 +124,7 @@ class ViQuADModel:
         return start_logits, end_logits
 
     def exact_answer(
+        self,
         all_contexts,
         start_logits,
         end_logits,
@@ -125,8 +136,10 @@ class ViQuADModel:
         for index in range(len(start_logits)):
             start_logit = start_logits[index]
             end_logit = end_logits[index]
+
             offsets = eval_mapped_dataset["offset_mapping"][index]
             context = all_contexts[overflow_to_sample_mapping[index]]["context"]
+
             start_indexes = np.argsort(start_logit)[-1 : -self.n_best - 1 : -1].tolist()
             end_indexes = np.argsort(end_logit)[-1 : -self.n_best - 1 : -1].tolist()
 
@@ -157,14 +170,14 @@ class ViQuADModel:
         return best_answer
 
     def forward(self, question, context_key):
-        context_dataset = self.createDataset(createDataset)
-        dataset = self.pre_dataset(question, context_dataset)
-        eval_mapped_dataset = pre_map_dataset(dataset, preprocess_dataset)
+        contexts = get_contexts_by_key(context_key)
+        context_dataset = self.create_dataset(contexts)
 
-        overflow_to_sample_mapping = self.eval_mapped_dataset[
-            "overflow_to_sample_mapping"
-        ]
-        eval_set_for_model = self.eval_mapped_dataset.remove_columns(
+        dataset = self.pre_dataset(question, context_dataset)
+        eval_mapped_dataset = self.pre_map_dataset(dataset, self.preprocess_dataset)
+
+        overflow_to_sample_mapping = eval_mapped_dataset["overflow_to_sample_mapping"]
+        eval_set_for_model = eval_mapped_dataset.remove_columns(
             ["example_id", "offset_mapping", "overflow_to_sample_mapping"]
         )
 
@@ -173,7 +186,7 @@ class ViQuADModel:
 
         start_logits, end_logits = self.query_model(eval_set_for_model, length)
         answer = self.exact_answer(
-            all_contexts,
+            context_dataset,
             start_logits,
             end_logits,
             overflow_to_sample_mapping,

@@ -1,6 +1,7 @@
 from read_folder_data import *
 import sys
-sys.path.append('src/')
+
+sys.path.append("src/")
 from config import context_config
 import constants
 
@@ -19,23 +20,24 @@ import constants
 #             seen_contexts[context] = True
 #     return unique_objects
 
-def get_all_contexts(file_path = constants.ALL_CONTEXT_FILE):
+
+def get_all_contexts(file_path=constants.ALL_CONTEXT_FILE):
     with open(file_path, "rb") as f:
         data = json.load(f)
-    all_contexts = data['contexts']
+    all_contexts = data["contexts"]
     return all_contexts
 
 
 def get_contexts_by_key(filter_key: int):
     all_contexts = get_all_contexts()
     context_types = context_config.context_types
-    title = ''
+    title = ""
     for item in context_types:
-        if filter_key == item['context_key']:
-            title = item['title']
+        if filter_key == item["context_key"]:
+            title = item["title"]
             break
     res_contexts = []
-    for item in all_contexts: 
-        if item['title'] == title:
-            res_contexts.append(item['context'])
+    for item in all_contexts:
+        if item["title"] == title:
+            res_contexts.append(item["context"])
     return res_contexts

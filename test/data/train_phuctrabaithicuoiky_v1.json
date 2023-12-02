@@ -3,253 +3,359 @@
   "data": [
     {
       "id": "e339e8a2-3ef1-4933-ae62-240fd04d10c7",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Trường hợp nào sinh viên không được phúc tra bài thi?",
       "answers": {
         "text": [
           "ôn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp."
         ],
-        "answer_start": [372],
-        "answer_end": [479]
+        "answer_start": [
+          372
+        ],
+        "answer_end": [
+          479
+        ]
       }
     },
     {
       "id": "273e51b7-4d68-4a24-a16d-2056a6643108",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Cách đăng ký phúc tra bài thi cuối kỳ như thế nào?",
       "answers": {
         "text": [
           "+ Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm."
         ],
-        "answer_start": [713],
-        "answer_end": [1491]
+        "answer_start": [
+          713
+        ],
+        "answer_end": [
+          1491
+        ]
       }
     },
     {
       "id": "7b9b159e-ed89-4402-a6f8-87d6a000a41b",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Thời hạn để đăng ký phúc tra bài thi là bao lâu?",
       "answers": {
         "text": [
           "Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo."
         ],
-        "answer_start": [488],
-        "answer_end": [587]
+        "answer_start": [
+          488
+        ],
+        "answer_end": [
+          587
+        ]
       }
     },
     {
       "id": "cd6d2e27-310e-4551-8f8b-73dc5a54674a",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Mỗi môn học chỉ được phúc tra mấy lần?",
       "answers": {
-        "text": ["Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần,"],
-        "answer_start": [588],
-        "answer_end": [642]
+        "text": [
+          "Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần,"
+        ],
+        "answer_start": [
+          588
+        ],
+        "answer_end": [
+          642
+        ]
       }
     },
     {
       "id": "eff22e6b-80ee-4690-a619-79e5ee059932",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Sau khi phúc tra xong, giảng viên phải làm gì?",
       "answers": {
-        "text": ["gửi kết quả đến Phòng Đào tạo."],
-        "answer_start": [159],
-        "answer_end": [189]
+        "text": [
+          "gửi kết quả đến Phòng Đào tạo."
+        ],
+        "answer_start": [
+          159
+        ],
+        "answer_end": [
+          189
+        ]
       }
     },
     {
       "id": "4ef72710-a8ea-451f-b626-0e56989d92df",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Trường hợp nào giảng viên phải cập nhật điểm mới sau khi phúc tra?",
       "answers": {
         "text": [
           "Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm"
         ],
-        "answer_start": [1012],
-        "answer_end": [1083]
+        "answer_start": [
+          1012
+        ],
+        "answer_end": [
+          1083
+        ]
       }
     },
     {
       "id": "d96613e2-049e-403a-a57e-ef88a29f073a",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Thời hạn phúc tra được tính từ bao lâu?",
       "answers": {
         "text": [
           "tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo."
         ],
-        "answer_start": [517],
-        "answer_end": [587]
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          587
+        ]
       }
     },
     {
       "id": "8d34dfc8-4638-454f-b236-61c076ae8050",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Ai sẽ chuyển yêu cầu phúc tra đến giảng viên?",
       "answers": {
         "text": [
           "PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn"
         ],
-        "answer_start": [38],
-        "answer_end": [98]
+        "answer_start": [
+          38
+        ],
+        "answer_end": [
+          98
+        ]
       }
     },
     {
       "id": "0d0812a2-2d6c-4382-b98b-25fe944cbcc4",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Giảng viên có phải nộp lại bảng điểm mới sau khi sửa điểm không?",
       "answers": {
         "text": [
           "Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO"
         ],
-        "answer_start": [1286],
-        "answer_end": [1351]
+        "answer_start": [
+          1286
+        ],
+        "answer_end": [
+          1351
+        ]
       }
     },
     {
       "id": "9b04d7cc-def7-4205-9a76-761d072f2782",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Có giới hạn số lần phúc tra một môn học không?",
       "answers": {
-        "text": ["Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần,"],
-        "answer_start": [588],
-        "answer_end": [642]
+        "text": [
+          "Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần,"
+        ],
+        "answer_start": [
+          588
+        ],
+        "answer_end": [
+          642
+        ]
       }
     },
     {
       "id": "f6dae594-9b35-4a3f-ae93-ab4050c61963",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Phúc tra bài thi cuối kỳ Quy trình: - PHÒNG ĐÀO TẠO sẽ chuyển yêu cầu phúc tra đến các Khoa/Bộ môn để chuyển đến Giảng viên. Sau khi chấm phúc tra, Giảng viên gửi kết quả đến Phòng Đào tạo. Nếu có thay đổi, Giảng viên sẽ cập nhật trên hệ thống nhập điểm và nộp bảng điểm sau khi phúc tra đến PHÒNG ĐÀO TẠO để cập nhật điểm cho sinh viên. - Những môn không được phúc tra: môn thi trắc nghiệm, môn thí nghiệm, môn thực hành, thực tập, đồ án, đề cương luận văn, luận văn tốt nghiệp.  Lưu ý: Thời hạn phúc tra là 30 ngày tính từ ngày Giảng viên chuyển bảng điểm chính thức lên Phòng đào tạo. Mỗi môn học chỉ được phúc tra bài thi cuối kỳ một lần, không giới hạn số môn đăng ký. Cách đăng ký phúc tra bài thi cuối kỳ: + Đăng ký và theo dõi tình trạng tại trang mybk.hcmut.edu.vn>> Đăng ký phúc tra điểm, bài thi cuối kỳ. + Nhập môn học và mã số môn học >> Xác nhận đăng ký + Theo dõi tình trạng chấm phúc tra (Đã đăng ký; Đang xử lý; Phiếu đăng ký đã xử lý) và kết quả phúc tra (Không có điều chỉnh; Có điều chỉnh) + Nếu kết quả phúc tra là “Có điều chỉnh” & Giảng viên giảng dạy sửa điểm theo Quy trình sửa điểm: Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO Sau khi được mở khóa, Giảng viên sửa điểm Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PHÒNG ĐÀO TẠO thì điểm lúc đó mới chính thức được cập nhật thì SV xem điểm cập nhật mới tại trang mybk.hcmut.edu.vn >> Thông tin sinh viên >>  Bảng điểm. Sinh viên vui lòng xem chi tiết tại Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất Điều 28 Phúc tra.",
       "question": "Nếu kết quả phúc tra có điều chỉnh điểm, giảng viên cần làm gì để chính thức sửa điểm?",
       "answers": {
         "text": [
           "Giảng viên phải tải mẫu “Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ” tại trang web aao.hcmut.edu.vn nộp lại PHÒNG ĐÀO TẠO"
         ],
-        "answer_start": [1109],
-        "answer_end": [1233]
+        "answer_start": [
+          1109
+        ],
+        "answer_end": [
+          1233
+        ]
       }
     },
     {
       "id": "44c7232d-4a95-4f94-9602-a1cf65ce17a3",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Thời hạn yêu cầu sửa điểm là bao lâu?",
       "answers": {
         "text": [
           "Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. "
         ],
-        "answer_start": [648],
-        "answer_end": [768]
+        "answer_start": [
+          648
+        ],
+        "answer_end": [
+          768
+        ]
       }
     },
     {
       "id": "d9dcdcf4-d8b8-44b8-85b8-a70f245186f6",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận trong trường hợp nào?",
       "answers": {
-        "text": ["Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận."],
-        "answer_start": [353],
-        "answer_end": [408]
+        "text": [
+          "Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận."
+        ],
+        "answer_start": [
+          353
+        ],
+        "answer_end": [
+          408
+        ]
       }
     },
     {
       "id": "572829b8-c9e0-465a-8127-c54493f5d853",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Giảng viên có thể đề nghị sửa điểm sau khi nộp điểm không?",
       "answers": {
         "text": [
           "Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng."
         ],
-        "answer_start": [556],
-        "answer_end": [767]
+        "answer_start": [
+          556
+        ],
+        "answer_end": [
+          767
+        ]
       }
     },
     {
       "id": "1063c012-2c8e-43e7-8eea-42b8f2451103",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Thời hạn để yêu cầu chấm phúc tra bài thi là bao lâu?",
       "answers": {
-        "text": ["tối đa 01 tháng sau ngày công bố kết quả"],
-        "answer_start": [443],
-        "answer_end": [483]
+        "text": [
+          "tối đa 01 tháng sau ngày công bố kết quả"
+        ],
+        "answer_start": [
+          443
+        ],
+        "answer_end": [
+          483
+        ]
       }
     },
     {
       "id": "147ae121-c331-47f1-84ad-48f7dc272719",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Giảng viên có thể đề nghị sửa điểm bài thi khi nào?",
       "answers": {
-        "text": ["sau khi nộp điểm nếu phát hiện có sai sót."],
-        "answer_start": [605],
-        "answer_end": [647]
+        "text": [
+          "sau khi nộp điểm nếu phát hiện có sai sót."
+        ],
+        "answer_start": [
+          605
+        ],
+        "answer_end": [
+          647
+        ]
       }
     },
     {
       "id": "f09beca5-2cee-4cfb-a45b-22148f62a213",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Thời hạn để giảng viên đề nghị sửa điểm là bao lâu?",
       "answers": {
-        "text": ["tối đa 01 tháng sau ngày nộp điểm."],
-        "answer_start": [674],
-        "answer_end": [708]
+        "text": [
+          "tối đa 01 tháng sau ngày nộp điểm."
+        ],
+        "answer_start": [
+          674
+        ],
+        "answer_end": [
+          708
+        ]
       }
     },
     {
       "id": "410ef502-1181-48a8-a0e6-2b173fcb818e",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Kết quả chấm phúc tra có phải là kết quả cuối cùng không?",
       "answers": {
-        "text": ["Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng."],
-        "answer_start": [709],
-        "answer_end": [767]
+        "text": [
+          "Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng."
+        ],
+        "answer_start": [
+          709
+        ],
+        "answer_end": [
+          767
+        ]
       }
     },
     {
       "id": "15874d12-9488-49b4-ac29-a90056a838c0",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Việc chấm lại bài thi có thể bao gồm những hình thức nào?",
       "answers": {
-        "text": ["tổ chức lại vấn đáp hay bảo vệ hội đồng."],
-        "answer_start": [160],
-        "answer_end": [200]
+        "text": [
+          "tổ chức lại vấn đáp hay bảo vệ hội đồng."
+        ],
+        "answer_start": [
+          160
+        ],
+        "answer_end": [
+          200
+        ]
       }
     },
     {
       "id": "954d1f70-6c98-4358-9468-30b24952edfe",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Ai quy định quy trình đề nghị chấm phúc tra, sửa điểm?",
       "answers": {
-        "text": ["Các phòng đào tạo"],
-        "answer_start": [768],
-        "answer_end": [785]
+        "text": [
+          "Các phòng đào tạo"
+        ],
+        "answer_start": [
+          768
+        ],
+        "answer_end": [
+          785
+        ]
       }
     },
     {
       "id": "134a3437-8064-4580-accd-0254f81dd7ff",
-      "title": "",
+      "title": "Phúc tra bài thi cuối kỳ",
       "context": "Trong trường hợp cần thiết, khi có dấu hiệu bất thường, Khoa, nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi. Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng. Trong các trường hợp này, phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng. Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi. Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận. Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ. Giảng viên có thể đề nghị sửa điểm, bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót. Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm. Kết quả chấm lại, phúc tra, sửa điểm là kết quả cuối cùng. Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra, sửa điểm.",
       "question": "Ai có thể yêu cầu chấm kiểm tra lại bài thi?",
       "answers": {
-        "text": ["Khoa, nhà trường"],
-        "answer_start": [56],
-        "answer_end": [72]
+        "text": [
+          "Khoa, nhà trường"
+        ],
+        "answer_start": [
+          56
+        ],
+        "answer_end": [
+          72
+        ]
       }
     }
   ]

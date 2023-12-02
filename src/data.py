@@ -1,7 +1,7 @@
 import os
 import json
 from sklearn.model_selection import train_test_split
-from utils import read_folder_data
+from utils import read_folder_data, get_contexts
 from constants import *
 import random
 

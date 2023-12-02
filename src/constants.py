@@ -1,4 +1,5 @@
 DATASET_FOLDER = "./test/data"
+ALL_CONTEXT_FILE = './test/data/contexts/all_contexts.json'
 PRETRAIN_MODEL = "vinai/phobert-base-v2"
 EPOCHS = 15
 LR = 2e-5

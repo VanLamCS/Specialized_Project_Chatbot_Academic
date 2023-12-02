@@ -3,7 +3,7 @@ from countTokenPosition import countTokenPosition
 
 
 def main():
-    datasetBase = "./dataset/"
+    datasetBase = "./test/data"
     print("Input file name: ")
     fileName = input()
     if fileName == "":

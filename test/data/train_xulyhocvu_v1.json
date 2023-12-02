@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": "1.0.1",
+=======
+  "version": "1.1.1",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
   "data": [
     {
       "id": "2a4905b1-073f-42eb-b7c2-d0c3b6b6a3a6",
@@ -342,7 +346,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "2fdade6f-4abb-457f-a13e-e5f4ab95ef29",
+=======
+      "id": "bf09d374-2d12-42dd-9cb6-2f03d69f3c56",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điều kiện nào khiến cho sinh viên bị cảnh báo về học tập?",
@@ -359,7 +367,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "1ce76f91-8b91-4528-b8ee-d48fe47391d3",
+=======
+      "id": "95dc2446-5e7a-43dd-a63c-e392787c3656",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Làm thế nào để biết khi nào sinh viên sẽ nhận được cảnh báo về học tập?",
@@ -376,7 +388,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "2af192fb-bfb1-4f2f-8765-5c1fb1194fa0",
+=======
+      "id": "2c683308-457c-44e8-a57c-e9b82a5ee5f9",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có quy tắc cụ thể nào áp dụng khi sinh viên bị cảnh báo học tập?",
@@ -393,7 +409,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "bcf1217d-d234-42df-967d-e14e9d1b4f0c",
+=======
+      "id": "4f4aab62-65b1-4811-be5b-712843754c39",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điều kiện nào khiến cho sinh viên bị buộc tạm dừng học?",
@@ -410,7 +430,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "e9c2b1f2-a0ac-45a4-bd11-2999d3794d7f",
+=======
+      "id": "c549635e-1882-4c95-abaf-9bab9f64b898",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Làm thế nào để biết khi nào sinh viên sẽ bị buộc tạm dừng học?",
@@ -427,7 +451,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "218e6433-e459-49b5-b093-380c57414dbf",
+=======
+      "id": "26911c97-45ed-4d70-afb1-0a88834d3331",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Khi số tín chỉ trong 1 kỳ học dưới mức nào thì sinh viên sẽ bị cảnh cáo về học vụ?",
@@ -444,7 +472,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "fac2e82a-0af2-49ea-a714-bb705edcc01b",
+=======
+      "id": "0771ab08-a7f5-4a54-a0fc-c61eb00e9756",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Cần phải có ít nhất bao nhiêu tín chỉ trong một học kỳ để không bị cảnh cáo học vụ?",
@@ -461,7 +493,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "1cbdc9c3-4dcf-47a4-ac4a-0a3d77d51bbf",
+=======
+      "id": "c85a865d-55d7-43df-afea-2eb7a316f521",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Giới hạn tối thiểu của tín chỉ trong 1 kỳ học để tránh bị cảnh cáo là bao nhiêu?",
@@ -478,7 +514,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "a6c55d78-1918-4e4b-8cb7-f52ba40fec7c",
+=======
+      "id": "34c9676f-c9e9-48cb-b24d-cb1c994d056d",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Bao nhiêu tín chỉ là tiêu chuẩn để tránh việc bị cảnh cáo học vụ trong 1 kỳ học?",
@@ -495,7 +535,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "047b343f-504e-408e-8f4a-ebb5d038bef8",
+=======
+      "id": "2f55a9cb-a634-4356-b5ad-11ddecda7fd3",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình bao nhiêu thì sinh viên bị cảnh cáo về học vụ?",
@@ -512,7 +556,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "07fff7d1-71ac-41c0-a268-f6a06681bd4b",
+=======
+      "id": "0ca1be92-47be-40f1-a55e-ade2673ea8d2",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Khi điểm trung bình xuống dưới mức nào thì sinh viên sẽ bị cảnh cáo học vụ?",
@@ -529,7 +577,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "2c92a09b-64f4-4d42-9645-fdfec32c6ae2",
+=======
+      "id": "d2984905-77a0-4491-bbbc-8f3492a947da",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có điểm trung bình là bao nhiêu thì sinh viên có thể bị cảnh cáo về học vụ?",
@@ -546,7 +598,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "33746789-ed37-4042-acf4-d4a019d2ee83",
+=======
+      "id": "f99ec30b-07e2-4b63-b93c-91695070b256",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Giới hạn tối thiểu của điểm trung bình để tránh bị cảnh cáo học vụ là bao nhiêu?",
@@ -563,7 +619,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "62599df4-1d28-4afb-b254-8974b1cb00ac",
+=======
+      "id": "8bfbc262-c293-4db0-b96d-f59656d55bc7",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Bao nhiêu điểm trung bình là tiêu chuẩn để tránh việc bị cảnh cáo học vụ?",
@@ -580,7 +640,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "3c3fc406-0dad-467b-9d59-94036fea9f39",
+=======
+      "id": "3ce1498d-3072-418d-94c0-e98a33b020fe",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Mức điểm cảnh cáo học vụ có thể khác nhau giữa các năm học không?",
@@ -597,7 +661,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "d29b85e5-0d95-41db-8dd9-ce6a5b617a10",
+=======
+      "id": "b928050c-6415-4c65-b504-c29a84b7b23e",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có sự biến đổi về mức điểm cảnh cáo học vụ qua các năm học không?",
@@ -614,7 +682,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "d3fd7147-90f4-444a-92df-33f341460f2e",
+=======
+      "id": "b48819c4-ef81-4f75-b427-379d8be1029c",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có thay đổi về chuẩn điểm cảnh cáo học vụ qua từng năm học không?",
@@ -631,7 +703,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "3e8d1018-4e7f-426c-9862-1d803b098ef1",
+=======
+      "id": "4c47926d-e43e-4c1c-be4d-9a618de53148",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Mức điểm cảnh cáo học vụ có thể thay đổi tùy theo năm học không?",
@@ -648,7 +724,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "31f03cc1-dc83-4270-99ef-0391168defd2",
+=======
+      "id": "deff6694-1c40-49cc-9b3e-0f268178b1d9",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có sự khác biệt về mức điểm cảnh cáo học vụ giữa các năm không?",
@@ -665,7 +745,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "c1116b6a-e6fc-4655-b6a8-dbaad572c0f0",
+=======
+      "id": "7ad1f3ec-407f-409c-bcc5-4edafe4aa4d3",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Mức điểm trung bình của sinh viên năm nhất khi nào sẽ bị cảnh cáo học vụ?",
@@ -682,7 +766,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "4a9749e0-65bf-4662-b415-d846fe840209",
+=======
+      "id": "8719817b-e011-457a-a54a-de252f0a26b1",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình tối thiểu của sinh viên năm nhất để không bị cảnh cáo học vụ là bao nhiêu?",
@@ -699,7 +787,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "956aed7c-e69d-446c-bf77-79bd37e71efe",
+=======
+      "id": "ee338ac6-b28b-481b-b3ab-3edb274e7a49",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Cần có điểm trung bình là bao nhiêu để sinh viên năm nhất không bị cảnh cáo học vụ?",
@@ -716,7 +808,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "56832c11-2c5f-4e93-8c15-905ef0f0d859",
+=======
+      "id": "86ac10f6-b9eb-49ae-ba86-1c4930a76924",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Giới hạn điểm trung bình của sinh viên năm nhất để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
@@ -733,7 +829,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "54b31c5a-a714-4060-acd2-75b68e8d39ec",
+=======
+      "id": "5e850f07-cfaa-4331-bc52-017e8f5c0d89",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình của sinh viên năm nhất dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?",
@@ -750,7 +850,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "4cd23b8f-76c9-4c8c-9732-d75ca82b2c7e",
+=======
+      "id": "6e450429-755a-4da0-bff4-f28f76b857bd",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Mức điểm trung bình của sinh viên năm hai khi nào sẽ bị cảnh cáo học vụ?",
@@ -767,7 +871,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "2581ffdb-379e-4be8-aae7-119df6863e70",
+=======
+      "id": "0929f5a9-156c-4fe8-b2c7-0d3101176da5",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình tối thiểu của sinh viên năm hai để không bị cảnh cáo học vụ là bao nhiêu?",
@@ -784,7 +892,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "ac00ee34-6c3e-4bd7-a14a-db434a01c31c",
+=======
+      "id": "9f7d533e-a829-49a3-91ba-0a6d3ef15616",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Cần có điểm trung bình là bao nhiêu để sinh viên năm hai không bị cảnh cáo học vụ?",
@@ -801,7 +913,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "166af3b0-358e-4ace-b50f-b33cabcbe606",
+=======
+      "id": "ae30d248-ad09-4779-8b6b-26250ea17598",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Giới hạn điểm trung bình của sinh viên năm hai để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
@@ -818,7 +934,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "5cbdfc9c-48cf-4c85-a924-22e05a149d55",
+=======
+      "id": "cd460e83-bb76-40d8-a258-a9a577d483e0",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình của sinh viên năm hai dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?",
@@ -835,7 +955,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "2bc6e955-b5e1-4e8f-876f-5ca48ccb2c90",
+=======
+      "id": "e1edfe24-f602-4ff8-bde7-e88de9807317",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Mức điểm trung bình của sinh viên năm ba khi nào sẽ bị cảnh cáo học vụ?",
@@ -852,7 +976,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "97f64b55-af7b-4d37-8ca6-94904e544ccd",
+=======
+      "id": "36111dbd-20dd-4e36-9d40-03c36575465a",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình tối thiểu của sinh viên năm ba để không bị cảnh cáo học vụ là bao nhiêu?",
@@ -869,7 +997,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "650af588-3bc8-4b49-ae0c-a2b97a61e583",
+=======
+      "id": "35053a62-a16b-48d6-82ad-9a72c99ef0c9",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Cần có điểm trung bình là bao nhiêu để sinh viên năm ba không bị cảnh cáo học vụ?",
@@ -886,7 +1018,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "e1f5b6c3-c8da-49e0-bb25-2ff80dbece59",
+=======
+      "id": "bb8896ee-3d1c-4e12-88fd-92d488ebb61d",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Giới hạn điểm trung bình của sinh viên năm ba để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
@@ -903,7 +1039,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "ea797a7a-4e15-475e-9076-afcd2dbb78fe",
+=======
+      "id": "68f41f63-d38e-41d9-bfc4-8a86d802f040",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình của sinh viên năm ba dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?",
@@ -920,7 +1060,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "01a818f3-9868-4e2c-bafa-2d6bd3b1b008",
+=======
+      "id": "f1c45b3e-c913-4b5d-b294-9f6eb55c6f1c",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Mức điểm trung bình của sinh viên năm cuối khi nào sẽ bị cảnh cáo học vụ?",
@@ -937,7 +1081,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "3e6fb93f-dab7-4c72-bacb-3ff39c028203",
+=======
+      "id": "d82c77f7-0628-4f03-b253-82c815d4657d",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình tối thiểu của sinh viên năm cuối để không bị cảnh cáo học vụ là bao nhiêu?",
@@ -954,7 +1102,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "d63ca000-446f-4beb-a0f1-41d16278cfa4",
+=======
+      "id": "f34fcf58-1a7b-4025-8980-058b08412bd1",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Cần có điểm trung bình là bao nhiêu để sinh viên năm cuối không bị cảnh cáo học vụ?",
@@ -971,7 +1123,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "ebb139c6-0040-42a4-83d8-cbe93d20db15",
+=======
+      "id": "71a13dc1-390f-42c6-9c27-de166e8c533c",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Giới hạn điểm trung bình của sinh viên năm cuối để tránh việc bị cảnh cáo học vụ là bao nhiêu?",
@@ -988,7 +1144,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "cb538b65-771b-473c-b509-9d7283b0c84e",
+=======
+      "id": "acbee4ca-dae0-4e7a-a47d-785b6eb1051b",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điểm trung bình của sinh viên năm cuối dưới mức bao nhiêu thì sẽ bị cảnh cáo học vụ?",
@@ -1005,7 +1165,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "4f2b81ca-3964-4d43-aa29-29c6a59fea3e",
+=======
+      "id": "9a617f68-e8bc-407c-86c9-299c8707d318",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điều gì làm cho sinh viên bị buộc tạm dừng học?",
@@ -1022,7 +1186,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "ae0798d6-82d9-4b43-81a9-fc91af6a9f98",
+=======
+      "id": "956c8a47-4474-41a2-b13c-03219da1fc13",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có những tình huống nào khiến sinh viên phải buộc tạm dừng học?",
@@ -1039,7 +1207,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "52a37e92-d636-4334-8b2c-a938b34cce90",
+=======
+      "id": "40079ee4-52cc-4e9b-9963-4647a4d08bdc",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Khi nào mà sinh viên phải tạm dừng việc học tập?",
@@ -1056,7 +1228,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "65ed488a-77b2-4733-b362-9cd52aaede15",
+=======
+      "id": "302f0c16-0ffa-45cc-b934-d297b7601d14",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điều kiện nào dẫn đến việc buộc tạm dừng học của sinh viên?",
@@ -1073,7 +1249,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "86dd1742-d73b-447d-a9ea-78aedc9edd3c",
+=======
+      "id": "218ff576-41ec-4f79-8725-55dc10bad4cd",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có những trường hợp nào khiến sinh viên bị buộc tạm dừng học?",
@@ -1090,7 +1270,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "c097dfde-df00-4306-9b4b-8c7fd65268d5",
+=======
+      "id": "1fc87c7b-6862-4d0d-b806-66a91d8216f4",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có những tình huống gì khiến sinh viên bị buộc thôi học?",
@@ -1107,7 +1291,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "9bb14746-151c-4c9d-9e0f-f2c605fe87d9",
+=======
+      "id": "854ca442-bc86-4924-8427-54cbf03095ed",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Khi nào mà sinh viên bị buộc thôi học?",
@@ -1124,7 +1312,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "9aa064d3-a406-4c30-ac53-54e5d6dfe326",
+=======
+      "id": "eb9c517b-6b72-4cf4-9518-7229faedaf8b",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Trong trường hợp nào sinh viên sẽ phải ngừng việc học?",
@@ -1141,7 +1333,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "b28d72a3-1bb3-49ea-be4c-25459e180318",
+=======
+      "id": "3f2b329a-1dfc-45fa-a7bc-77c696b3ba61",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Điều kiện nào dẫn đến việc buộc thôi học của sinh viên?",
@@ -1158,7 +1354,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "1d9feca8-9ceb-477a-8bef-e42d0fbae084",
+=======
+      "id": "5a04595b-a3ed-4c54-9858-504fd458ed1f",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có những lý do gì khiến sinh viên bị buộc thôi học?",
@@ -1175,7 +1375,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "b7524278-a788-4fd1-ba0a-b2ff68e58ed8",
+=======
+      "id": "49b70605-27da-4811-8294-416e0ea40439",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Vi phạm kỷ luật có thể dẫn đến việc buộc thôi học không?",
@@ -1192,7 +1396,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "d6240a6d-b403-4d76-87cd-b89897dbaad1",
+=======
+      "id": "392b4b9d-eba3-4eaf-884e-7f804e55ef7c",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có thể bị buộc thôi học khi vi phạm các quy định kỷ luật không?",
@@ -1209,7 +1417,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "cea34f60-379a-41af-9ef1-f8c9c8b9bd1d",
+=======
+      "id": "f68b4df1-5ee4-43b1-a561-f819d0a772e5",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Tình huống vi phạm kỷ luật có thể gây ra việc buộc thôi học không?",
@@ -1226,7 +1438,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "96e1135b-bedd-42b4-afc8-2d7375fd35a9",
+=======
+      "id": "c9ed01d9-c781-45b7-9483-56cd23b939ee",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Việc vi phạm các quy tắc kỷ luật có thể dẫn đến kết quả buộc thôi học không?",
@@ -1243,7 +1459,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "ea3cde0b-b519-49c5-9c67-092a143aedb4",
+=======
+      "id": "0c4ea5d7-ac85-4d47-8dec-f8d837af63e2",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Liên quan đến việc vi phạm kỷ luật, có thể xảy ra tình trạng buộc thôi học không?",
@@ -1260,7 +1480,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "4fb302ac-aa09-4d61-a13c-de1615814924",
+=======
+      "id": "d4f8afee-9834-44ad-b35b-c5e2f43a2fbf",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Bị cảnh cáo học tập có thể dẫn đến việc bị buộc thôi học không?",
@@ -1277,7 +1501,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "53fee7cb-1f5d-4229-84ee-d8814ffe57b2",
+=======
+      "id": "67181168-c530-4a97-9c03-6f0ef3682dd2",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Cảnh cáo học vụ có liên quan đến việc buộc thôi học không?",
@@ -1294,7 +1522,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "d8f3db09-5418-440e-aa65-942ddda32de4",
+=======
+      "id": "8c413397-101a-4849-860c-d2a3e33f6f30",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Tình trạng bị cảnh cáo học tập có thể gây ra việc buộc thôi học không?",
@@ -1311,7 +1543,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "5f46d3a2-d8c0-4227-aa07-39f75ac54eaf",
+=======
+      "id": "76122fbc-d8e4-49bd-972b-c7b87ecf78d4",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Liên quan đến việc bị cảnh cáo học vụ, có thể có kết quả buộc thôi học không?",
@@ -1328,7 +1564,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "bf85c85c-2437-4909-b8ac-d3804669831b",
+=======
+      "id": "2ed69b82-4417-433b-bb59-77b8d33ad73a",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Bị cảnh cáo về học tập có thể dẫn đến tình trạng buộc thôi học không?",
@@ -1345,7 +1585,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "c47be25e-d5f8-4209-b939-fff489d05c2e",
+=======
+      "id": "e02ef7ae-083b-4a98-a0f5-dc2ed5f2a2fe",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Hành động bỏ học có thể dẫn đến việc bị buộc thôi học không?",
@@ -1362,7 +1606,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "5fb90b23-5b5e-4811-9608-7bbf18365394",
+=======
+      "id": "8a5c8bec-f129-449b-b548-1751e32d998a",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có thể bị buộc thôi học khi quyết định bỏ học không?",
@@ -1379,7 +1627,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "d758b62f-f376-43f1-b0b2-b0b5ce3a9f10",
+=======
+      "id": "315ff728-28ef-49a9-a96c-233e2a84acc3",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Tình trạng bỏ học có thể gây ra việc buộc thôi học không?",
@@ -1396,7 +1648,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "3438781b-b6a1-4f6d-9f98-c90320b6a624",
+=======
+      "id": "0ba67b38-5934-4687-97cd-f03b6be6368e",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Liên quan đến việc bỏ học, có thể có kết quả buộc thôi học không?",
@@ -1413,7 +1669,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "e83967b7-64af-474a-8f31-f8a9b84db1d0",
+=======
+      "id": "dd057b8c-1dbb-49d1-afa1-6a8aafb8704b",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Việc quyết định bỏ học có thể dẫn đến tình trạng buộc thôi học không?",
@@ -1430,7 +1690,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "789a53e2-5386-4eba-89f7-026b0aa45137",
+=======
+      "id": "ccb27a9d-c3ba-4547-a47d-3264b768cf67",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Hành động tạm dừng học có thể dẫn đến việc bị buộc thôi học không?",
@@ -1447,7 +1711,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "aca6ac7c-5796-4487-a5c8-a195517b692c",
+=======
+      "id": "5045746f-6bb3-4be6-9403-a9c54b5bd350",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có thể bị buộc thôi học khi quyết định tạm dừng học không?",
@@ -1464,7 +1732,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "b23f12ed-1260-4483-bedd-cb1383550178",
+=======
+      "id": "144e8fb1-e995-4fda-ab3b-7a943ec1c79c",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Tình trạng tạm dừng học có thể gây ra việc buộc thôi học không?",
@@ -1481,7 +1753,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "8d48c687-974e-46f9-a60f-4e6cfad7382a",
+=======
+      "id": "ef0cf976-24ce-45bd-8e47-a5b651ce6380",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Liên quan đến việc tạm dừng học, có thể có kết quả buộc thôi học không?",
@@ -1498,7 +1774,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "f37b0530-4ec7-4788-8cc7-74bd4457f349",
+=======
+      "id": "600fabfb-c8ac-48f5-81a6-457b442fa14c",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Việc quyết định tạm dừng học có thể dẫn đến tình trạng buộc thôi học không?",
@@ -1515,7 +1795,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "586c6bc5-47f2-4026-ab05-2f3e1d926888",
+=======
+      "id": "7bbe8ebe-58c1-476e-8b54-038126f61ee8",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Hành động nghỉ học tạm thời có thể dẫn đến việc bị buộc thôi học không?",
@@ -1532,7 +1816,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "f3b95353-bb41-4cfd-ad4a-cb89200be093",
+=======
+      "id": "cdf05172-6174-4788-ad41-27d7ebc30a9e",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có thể bị buộc thôi học khi quyết định nghỉ học tạm thời không?",
@@ -1549,7 +1837,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "4a354c29-71ad-4967-ab48-dce0eb5b7b3b",
+=======
+      "id": "303ded39-187e-421b-a192-153db533e371",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Tình trạng nghỉ học tạm thời có thể gây ra việc buộc thôi học không?",
@@ -1566,7 +1858,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "4a088697-34ff-4bf6-8039-18c3e34aff0d",
+=======
+      "id": "c108fdb4-f5ac-4b00-99d5-909f3ea883d9",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Liên quan đến việc nghỉ học tạm thời, có thể có kết quả buộc thôi học không?",
@@ -1583,7 +1879,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "c535d477-3ba3-4652-ad10-c8e9f1f5de59",
+=======
+      "id": "be52fa8e-2c09-4bf6-a1d0-660d7423c2ca",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Việc quyết định nghỉ học tạm thời có thể dẫn đến tình trạng buộc thôi học không?",
@@ -1600,7 +1900,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "581ebe82-945b-44cd-82ad-87edced9411f",
+=======
+      "id": "1fb1fdbf-3f84-46d2-be35-270793d91309",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Việc học quá thời gian đào tạo có thể dẫn đến việc bị buộc thôi học không?",
@@ -1617,7 +1921,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "5e38908c-307b-400e-b9da-f870243bd562",
+=======
+      "id": "983163ba-ac1e-4ce1-a3f8-8f0d29ab25f4",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có thể bị buộc thôi học khi học quá thời gian đào tạo không?",
@@ -1634,7 +1942,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "2c4ec421-4dbc-4da6-a536-ce5f147a2941",
+=======
+      "id": "40cebd28-034c-4019-95e0-7a73aa2127fd",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Tình trạng học lâu hơn thời gian đào tạo có thể gây ra việc buộc thôi học không?",
@@ -1651,7 +1963,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "4406f45d-1965-4e28-bf2b-60c53219e6e0",
+=======
+      "id": "e1d1e42a-8331-4922-ba2a-695222c33a5d",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Liên quan đến việc học quá thời gian đào tạo, có thể có kết quả buộc thôi học không?",
@@ -1668,7 +1984,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "93e30d98-d1c2-4ea9-81ca-bbf9a66a020b",
+=======
+      "id": "1300d68f-f05e-4fc1-8903-a6724da9a56e",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Việc học quá thời gian đào tạo có thể dẫn đến tình trạng buộc thôi học không?",
@@ -1685,7 +2005,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "042d1726-82b5-4bdb-a35c-9afff3debfba",
+=======
+      "id": "73f40c0a-cfa9-4776-9cda-d3d662d8fb11",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có những trường hợp nào vi phạm nhưng không được xem xét để buộc thôi học không?",
@@ -1702,7 +2026,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "7e9006b4-6f35-4ee2-bccf-eb19ec710cbe",
+=======
+      "id": "af004a13-8cd1-4bf6-a3f9-886eb4959ea5",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Khi nào vi phạm không được xem xét để buộc thôi học?",
@@ -1719,7 +2047,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "bfdd00d1-7f6d-42cc-b51a-ba1dad367f17",
+=======
+      "id": "6e8f0ead-6c6b-4d66-97f3-c1111f78a586",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có tình huống nào vi phạm không bị xem xét để buộc thôi học không?",
@@ -1736,7 +2068,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "d27fb2d0-738f-4e62-b6c8-5bb6ed7ed046",
+=======
+      "id": "63612ba5-4ff0-468e-b8fa-1b08efc5f9ec",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Liên quan đến việc vi phạm, có thể có trường hợp không xem xét để buộc thôi học không?",
@@ -1753,7 +2089,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "1236dddc-90af-481f-a536-dc9990b13cb1",
+=======
+      "id": "a84f0ec7-1f27-4f82-a4c0-3af9655d4a7e",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có trường hợp nào vi phạm nhưng không được xem xét để buộc thôi học không?",
@@ -1770,7 +2110,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "72050875-0465-4ece-9508-3e773959026f",
+=======
+      "id": "dfd8ffcc-afbb-4c74-af98-c0fdf490f5aa",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Số lần được hoãn buộc thôi học tối đa là bao nhiêu?",
@@ -1787,7 +2131,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "b0759620-5fe7-4b24-bf97-ce30cb582f1d",
+=======
+      "id": "b26df1bf-994f-4705-bbba-7cf19bba35d8",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Có bao nhiêu lần có thể hoãn việc buộc thôi học?",
@@ -1804,7 +2152,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "a9bdf477-30f3-43e7-a58f-e12583779e00",
+=======
+      "id": "fb0eea24-f46e-4f2b-b316-d0ad305de727",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Số lần tối đa có thể được hoãn buộc thôi học là bao nhiêu?",
@@ -1821,7 +2173,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "94e52a4d-ad16-4831-bb56-7524d1620b06",
+=======
+      "id": "a65bd4ce-5cfe-4b13-86b8-8106dbc25db2",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Giới hạn về số lần hoãn buộc thôi học là bao nhiêu?",
@@ -1838,7 +2194,11 @@
       }
     },
     {
+<<<<<<< HEAD
       "id": "18b63f65-0367-4ea7-8ae2-e9981efcae0f",
+=======
+      "id": "f4d32cbb-03b2-4f5f-b97e-5387377b22c8",
+>>>>>>> aa3f465cc5251670fb8f7fb19a038c1952dc3524
       "title": "Xử lý học vụ",
       "context": "Điều 37.Xử lý học vụ 37.1 Cảnh báo học tập Cuối mỗi học kỳ chính, sinh viên được cảnh báo học tập dựa trên một số điều kiện như sau: - Tổng số tín chỉ không đạt trong học kỳ vượt quá 50% khối lượng đã đăng ký học trong học kỳ, hoặc tổng số tín chỉ nợ đọng từ đầu khóa học vượt quá 24; - Hoặc điểm trung bình học kỳ đạt dưới 0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo; - Hoặc điểm trung bình tích lũy đạt dưới 1,2 đối với sinh viên trình độ năm thứ nhất, dưới 1,4 đối với sinh viên trình độ năm thứ hai, dưới 1,6 đối với sinh viên trình độ năm thứ ba hoặc dưới 1,8 đối với sinh viên các năm tiếp theo. 37.2 Buộc tạm dừng học Sinh viên bị buộc tạm dừng việc học trong 01 học kỳ chính trong các trường hợp sau: - Bị kỷ luật đến mức buộc tạm dừng học; - Có số tín chỉ đăng ký học tập của học kỳ chính dưới chuẩn quy định. Các trường hợp sinh viên bị huỷ đăng ký một cách bất khả kháng sẽ được xem xét cụ thể. Sau thời hạn bị tạm dừng việc học, sinh viên phải làm thủ tục thu nhận lại để tiếp tục việc học. 37.3 Buộc thôi học Sinh viên bị buộc thôi học trong các trường hợp sau: - Vi phạm kỷ luật ở mức buộc thôi học; - Đã bị cảnh báo học tập quá 02 học kỳ chính liên tiếp; - Bỏ học trong 01 học kỳ chính (vắng thi tất cả các học phần trong học kỳ); - Tạm dừng quá 02 học kỳ chính liên tiếp; - Nghỉ học tạm thời quá thời hạn cho phép; - Hết thời gian đào tạo tối đa, kể cả thời gian kéo dài. Trường hợp đặc biệt, khi có lý do chính đáng, ngoại trừ trường hợp bị vi phạm ở mức buộc thôi học hoặc hết thời gian đào tạo tối đa, Hiệu trưởng xem xét cho phép tạm hoãn buộc thôi học trong tối đa 01 lần. Ngoại trừ trường hợp bị kỷ luật ở mức buộc thôi học, sinh viên chính quy bị buộc thôi học có thể được xem xét thu nhận lại để chuyển sang hình thức đào tạo vừa làm vừa học, đào tạo từ xa.",
       "question": "Lượng hoãn buộc thôi học tối đa được cho là bao nhiêu lần?",

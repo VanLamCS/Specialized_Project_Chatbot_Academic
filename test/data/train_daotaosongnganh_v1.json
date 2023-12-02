@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.1",
   "data": [
     {
       "id": "6f173c6b-f359-4eec-87a0-770936417545",
@@ -10,8 +10,12 @@
         "text": [
           "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
         ],
-        "answer_start": [0],
-        "answer_end": [274]
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
       }
     },
     {
@@ -23,8 +27,12 @@
         "text": [
           "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
         ],
-        "answer_start": [275],
-        "answer_end": [516]
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
       }
     },
     {
@@ -36,8 +44,12 @@
         "text": [
           "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất."
         ],
-        "answer_start": [517],
-        "answer_end": [739]
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          739
+        ]
       }
     },
     {
@@ -49,8 +61,12 @@
         "text": [
           "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
         ],
-        "answer_start": [740],
-        "answer_end": [920]
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
       }
     },
     {
@@ -62,8 +78,12 @@
         "text": [
           "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
         ],
-        "answer_start": [113],
-        "answer_end": [174]
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
       }
     },
     {
@@ -72,9 +92,15 @@
       "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
       "question": "Nếu đủ điều kiện tốt nghiệp cả hai ngành, sinh viên sẽ được cấp gì?",
       "answers": {
-        "text": ["được xét cấp hai bằng cùng lúc."],
-        "answer_start": [608],
-        "answer_end": [639]
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
       }
     },
     {
@@ -83,9 +109,15 @@
       "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
       "question": "Sinh viên có thể xin thôi học song ngành không?",
       "answers": {
-        "text": ["Sinh viên có thể xin thôi học song ngành"],
-        "answer_start": [640],
-        "answer_end": [680]
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
       }
     },
     {
@@ -97,8 +129,12 @@
         "text": [
           "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
         ],
-        "answer_start": [782],
-        "answer_end": [844]
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
       }
     },
     {
@@ -110,8 +146,12 @@
         "text": [
           "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
         ],
-        "answer_start": [433],
-        "answer_end": [516]
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
       }
     },
     {
@@ -123,8 +163,12 @@
         "text": [
           "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
         ],
-        "answer_start": [517],
-        "answer_end": [639]
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
       }
     },
     {
@@ -136,8 +180,1780 @@
         "text": [
           "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
         ],
-        "answer_start": [58],
-        "answer_end": [346]
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "116b4d4b-ee90-4c9d-9932-6b3f8c27f34f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện gì cần thiết để đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "a6b62d46-0689-457c-b025-eb90aa00609f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Yêu cầu gì cần có để đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "c47ad7ef-cb07-4076-94cb-b02cf83ea000",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có những điều kiện gì áp dụng khi muốn đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "c8cfa0c0-a327-4bb6-9c01-cfb7300491df",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Những điều kiện gì quy định việc đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "a9e85f70-92a9-4b2e-a247-7e11452c9ea2",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện cần thiết nào để đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "f8e75686-abce-4808-b9c1-a58c591f567a",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định nào liên quan đến việc đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "b2f7a792-4e5b-4ec2-9899-10ca6363c39d",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Yêu cầu cụ thể nào cần đáp ứng để đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "d58043aa-9388-4920-b2cf-aac758d6dc97",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có những quy tắc nào áp dụng cho việc đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "69f06317-90da-4833-bbc7-698aae4652a4",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện cần thiết nào áp dụng khi đăng ký học ngành thứ hai trong chương trình đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp."
+        ],
+        "answer_start": [
+          0
+        ],
+        "answer_end": [
+          274
+        ]
+      }
+    },
+    {
+      "id": "8d708543-cd73-4747-8143-6f314d4bb610",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện nào cần thiết để hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "1725cd65-f177-4b81-8b46-b2df0d464927",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Yêu cầu gì phải đáp ứng để hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "7b4cfb89-0634-42a9-a7b4-20b417bb94fc",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Học phần tốt nghiệp dạng song ngành yêu cầu điều gì để hoàn thành và được bảo vệ?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "021bfb89-4fff-469d-9dec-33c14be10e63",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện gì áp dụng khi hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "90d81638-29a4-4622-a2e8-c75ebdb8dc44",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Những yêu cầu cụ thể nào phải được đáp ứng để hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "d7568415-b984-4f1f-b620-147081682488",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định nào liên quan đến việc hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "8708f8cc-f91d-4d1f-bb9c-8e679a448b60",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Các điều kiện gì cần thiết để hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "a67b319e-9793-4f11-91ea-fcd3c01028f2",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Yêu cầu cụ thể nào áp dụng khi hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "6cc00d0c-f670-4ab1-a5b4-d81055cf252e",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện nào quy định việc hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "603f5bf4-96a1-4f88-8fec-9643e9483a82",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Những quy định nào áp dụng cho việc hoàn thành và bảo vệ học phần tốt nghiệp dạng song ngành?",
+      "answers": {
+        "text": [
+          "Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          275
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "58794aaf-b4ef-439b-85cb-70168c777343",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Nếu đủ điều kiện tốt nghiệp cả hai ngành, sinh viên có thể làm gì để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          739
+        ]
+      }
+    },
+    {
+      "id": "0991aa69-0143-42a9-af2c-abb086d365ee",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên đáp ứng điều kiện tốt nghiệp cả hai ngành có thể thực hiện thủ tục gì để chỉ được xét tốt nghiệp và cấp bằng cho ngành chính?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          739
+        ]
+      }
+    },
+    {
+      "id": "1b6429dd-2b46-4aef-9d2c-042a74a07f7f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều gì sinh viên cần làm nếu đủ điều kiện tốt nghiệp cả hai ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành học chính?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          739
+        ]
+      }
+    },
+    {
+      "id": "b14cf625-d375-4405-8732-8a0fdab29879",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Nếu đủ điều kiện tốt nghiệp cả hai ngành, sinh viên có thể thực hiện thủ tục gì để chỉ được xét tốt nghiệp và cấp bằng cho ngành học chính?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          739
+        ]
+      }
+    },
+    {
+      "id": "e0e34932-ed82-44ec-b05e-8c26ca3a2545",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Học viên đáp ứng các điều kiện tốt nghiệp cả hai ngành có thể thực hiện thủ tục gì để chỉ được xét tốt nghiệp và cấp bằng cho ngành học chính?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          739
+        ]
+      }
+    },
+    {
+      "id": "3057e765-16fd-4d54-8977-c6e4d663fe1f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định nào cần tuân thủ khi sinh viên học song ngành?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "52b53e69-b3c3-4cd1-be86-59e38842de65",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Những quy định gì cần được sinh viên chú ý khi tham gia học song ngành?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "7b557685-2baa-4824-9a6c-50c8ae8a095b",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Trong quá trình học song ngành, điều gì cần phải tuân thủ theo quy định?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "94f8319d-b6cc-4b7a-aa38-d439674aebc7",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định cụ thể nào được áp dụng cho sinh viên khi học song ngành?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "0d961bf4-7fea-4637-87d1-7aed3a1fc226",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Các quy tắc nào là quan trọng cho sinh viên học song ngành?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "d80d6390-bd4f-4b8f-8202-4b5d26be3cb5",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên cần chú ý những quy định nào khi tham gia học song ngành?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "8b33a752-610a-436b-9a0f-2f78d8fb1087",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định nào liên quan đến việc học song ngành mà sinh viên cần phải biết?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "72011f80-bdc6-4990-91af-6c3e323b75df",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Những điều cần phải theo đuổi khi học song ngành là gì?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "f9ef26b1-bf47-49b2-b1ef-306cd5d21856",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Trong quá trình học song ngành, quy định nào cần được tuân thủ chặt chẽ?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "eccdc30e-ffd9-4706-aa63-897ca250abe5",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Cần tuân thủ những quy định nào để thực hiện học song ngành?",
+      "answers": {
+        "text": [
+          "Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành."
+        ],
+        "answer_start": [
+          740
+        ],
+        "answer_end": [
+          920
+        ]
+      }
+    },
+    {
+      "id": "4416a021-2b5d-4a19-ab62-0fc3660ce8e4",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Khi nào sinh viên song ngành có thể đăng ký học phần tốt nghiệp của ngành thứ hai?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "1915c093-c167-4c78-8438-fbc2463a30e1",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên song ngành được phép đăng ký học phần tốt nghiệp của ngành thứ hai khi nào?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "c249fbf5-795e-4fe6-8d2e-96dbf457499e",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định nào liên quan đến việc đăng ký học phần tốt nghiệp cho sinh viên song ngành?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "82ca7cd0-6cb7-4a54-abf8-d8ee5df2e1d8",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện nào cần thiết để sinh viên song ngành đăng ký học phần tốt nghiệp của ngành thứ hai?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "ca75688f-71e2-44ae-a8af-cbe76d058a6f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Học phần tốt nghiệp của ngành thứ hai có thể được đăng ký khi nào cho sinh viên song ngành?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "ab45a05c-09c0-4b88-ad99-f7a42b258652",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên song ngành được phép đăng ký học phần tốt nghiệp của ngành thứ hai theo điều kiện nào?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "02f90cc1-3090-41e8-b4bc-9492825b7124",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Những quy định nào áp dụng đối với việc đăng ký học phần tốt nghiệp cho sinh viên song ngành?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "683754ad-3f3a-42fc-a137-ca8ed14d4ec4",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Trong quá trình học song ngành, điều gì cần phải chú ý khi đăng ký học phần tốt nghiệp của ngành thứ hai?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "a5ccdcfd-021e-41be-97cb-594d17a9e448",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên song ngành có thể đăng ký học phần tốt nghiệp của ngành thứ hai như thế nào?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "fd2300d2-d892-4570-9026-46f178efb6b7",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Khi nào là thời điểm phù hợp để sinh viên song ngành đăng ký học phần tốt nghiệp của ngành thứ hai?",
+      "answers": {
+        "text": [
+          "sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất;"
+        ],
+        "answer_start": [
+          113
+        ],
+        "answer_end": [
+          174
+        ]
+      }
+    },
+    {
+      "id": "e5111c5a-3e1f-4454-9e21-9bfb0104bd1b",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều gì sẽ xảy ra nếu sinh viên đủ điều kiện tốt nghiệp cả hai ngành?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "f380b29f-bdb5-4203-8941-72a4c879da30",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên đủ điều kiện tốt nghiệp cả hai ngành sẽ nhận được gì?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "fbef8ce4-385f-4859-a949-31e9d470d1f4",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Khi đáp ứng đủ điều kiện tốt nghiệp cả hai ngành, sinh viên có được cấp gì?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "95ce878c-7411-461a-ae9f-606edc7506b2",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Nếu tốt nghiệp cả hai ngành, sinh viên sẽ được nhận điều gì?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "caf48619-2070-4674-8e5d-37269199948c",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Khi đủ điều kiện tốt nghiệp cả hai ngành, sinh viên có quyền lợi gì?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "db280547-5a37-42dc-b4e2-4319c670c69a",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên đủ điều kiện tốt nghiệp cả hai ngành sẽ được hưởng những gì?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "0da1b20b-6b12-4c05-8b76-df48140c51cf",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều gì sẽ xảy ra nếu sinh viên đáp ứng được điều kiện tốt nghiệp cả hai ngành?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "709c4534-6d88-43a6-8e7d-8c00045c5880",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Khi đủ điều kiện tốt nghiệp cả hai ngành, sinh viên sẽ thu được những gì?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "7f59d4de-e04b-4898-b2d5-1f58eeed2be7",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Nếu đáp ứng đủ điều kiện tốt nghiệp cả hai ngành, sinh viên sẽ nhận quyền lợi gì?",
+      "answers": {
+        "text": [
+          "được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          608
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "f681d93d-a44b-4e21-8a6d-eb76e28223f3",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên có quyền xin thôi học song ngành không?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "b82b0fe1-7399-4fba-838e-37c9f7915053",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có thể xin thôi học song ngành được không?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "48d90787-b149-4d76-9b8e-dbfed73ea384",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên có thể nộp đơn xin thôi học song ngành không?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "486e77a1-f189-424f-8351-eb3d93d931f1",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có quy định nào về việc xin thôi học song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "329852bf-cc72-45fc-8dd2-a3075170bf40",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định gì về việc xin thôi học song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "df6d2b12-6149-4e1f-bb46-cbaa3b87a46a",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên được phép xin thôi học song ngành không?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "7b4c041f-c0e7-4ef5-8ba2-0b15a2dd8294",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có quy định gì về việc từ bỏ học song ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "a1afd239-4fdd-40fd-a5f0-51f4c921c6d5",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có chính sách nào cho phép sinh viên từ bỏ học song ngành không?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "fe3035dd-a190-482f-b260-cd2fed834942",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên có được phép dừng học song ngành không?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "dffc7bfb-fdd4-4a70-b13f-b4515a835b62",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có quy định nào về việc chuyển từ học song ngành sang một ngành?",
+      "answers": {
+        "text": [
+          "Sinh viên có thể xin thôi học song ngành"
+        ],
+        "answer_start": [
+          640
+        ],
+        "answer_end": [
+          680
+        ]
+      }
+    },
+    {
+      "id": "02babf0b-7a52-49ef-a6a0-558b5365506c",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên song ngành có bị ràng buộc về học lực không?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "a8966951-4ef1-4d55-90d4-2d9aa183047a",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định gì về học lực đối với sinh viên song ngành?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "7762aadc-4bc1-4165-b600-e77a0d0a3ab3",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có yêu cầu gì về học lực đối với sinh viên học song ngành không?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "270cb343-84f1-44ad-889c-e3de764b2895",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Học lực có ảnh hưởng đến việc học song ngành không?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "8d1fbcde-0117-4107-9527-78588a6d8dda",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có quy định nào về điều kiện học lực cho sinh viên song ngành?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "157aee3c-e3b2-4166-a652-bd5ab603bd86",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên cần đạt điều kiện gì về học lực khi học song ngành?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "f898f7b2-6147-403e-b1c7-630a8520f4d5",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có quy tắc nào về việc đánh giá học lực của sinh viên song ngành không?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "bc2f7289-57d9-4810-9b16-b1cacac8b12c",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Học lực có ảnh hưởng đến việc đăng ký học song ngành không?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "2c4bbb94-38bd-4e50-99a5-7f460fe7ea80",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Điều kiện học lực nào áp dụng cho sinh viên học song ngành?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "f09f776f-e7a1-4f32-bb0f-56ac952cf469",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Có quy định cụ thể nào về học lực đối với sinh viên song ngành không?",
+      "answers": {
+        "text": [
+          "phải thoả mãn các điều kiện về học lực theo quy định hiện hành"
+        ],
+        "answer_start": [
+          782
+        ],
+        "answer_end": [
+          844
+        ]
+      }
+    },
+    {
+      "id": "0fe522bf-19a9-4307-a6dc-24e051028773",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy trình bảo vệ luận văn tốt nghiệp ở hệ thống đào tạo song ngành như thế nào?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "5cc3252d-053a-45a3-a1eb-141f9464f90f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Luận văn tốt nghiệp ở hệ thống đào tạo song ngành được bảo vệ như thế nào?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "e1db77c5-453f-45ac-88f2-f55dc5d25fd7",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quá trình bảo vệ luận văn tốt nghiệp song ngành diễn ra ra sao?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "20c84cad-11c8-4893-975a-faea80c57510",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Bảo vệ luận văn tốt nghiệp trong chương trình đào tạo song ngành có gì đặc biệt?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "a7746e03-229d-456b-8202-934ca68ae269",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Cách thức tổ chức bảo vệ luận văn tốt nghiệp ở hệ thống đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "cae31db4-f441-49b9-a33a-3ed288c6e710",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy trình bảo vệ luận văn tốt nghiệp song ngành thường như thế nào?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "8008f138-e336-41d5-a2e8-bb55c83f6fe1",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Bảo vệ luận văn tốt nghiệp ở hệ thống đào tạo song ngành có điểm gì khác biệt?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "4c77fd43-9c27-4e80-9213-3742c57ddd81",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Bảo vệ luận văn tốt nghiệp song ngành có cần tuân theo quy trình nào?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "c128d6e5-0b3b-4b36-add9-39b1e4164394",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy trình bảo vệ luận văn tốt nghiệp song ngành ở trường đại học như thế nào?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "4ae088a4-ca59-4ec9-a5cb-b3b8df223718",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Cách thức tổ chức và tiến hành bảo vệ luận văn tốt nghiệp ở hệ thống đào tạo song ngành?",
+      "answers": {
+        "text": [
+          "phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành."
+        ],
+        "answer_start": [
+          433
+        ],
+        "answer_end": [
+          516
+        ]
+      }
+    },
+    {
+      "id": "ca75b204-453c-4167-b856-35439c985c87",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định nào xác định việc cấp hai bằng tốt nghiệp cho sinh viên?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "3dc205ad-318d-4ed2-ab07-6a6e080b2234",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên được cấp hai bằng tốt nghiệp khi nào?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "9b58bd85-4c21-468c-b817-9de63783a25f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Các điều kiện nào được yêu cầu để sinh viên nhận được hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "aec030a9-8e2a-4389-8281-9bd4e25d7a58",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Làm thế nào để đạt được việc cấp hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "8545a1dc-3d47-49d7-b5ce-6c57195ae00b",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy trình như thế nào để sinh viên có thể nhận được hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "0f6535f7-0013-44b9-9b03-9a09f293081d",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên cần đáp ứng những yêu cầu gì để được cấp hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "24ff6a6a-8e95-4003-954b-0d1335a715ed",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Khi nào thì sinh viên được cấp hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "acc0e072-7a73-4707-a429-9e384b7599a3",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Quy định nào quy định về việc sinh viên nhận được hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "77b6785f-5e9d-4435-b722-b845a841ba1d",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Sinh viên làm thế nào để có được hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "a243f150-0d8d-44a5-8590-e4d57adaf19f",
+      "title": "",
+      "context": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất; hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp. Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài, phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành. Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc. Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất. Trong quá trình học song ngành, sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành/hai Khoa quản lý ngành.",
+      "question": "Hồ sơ nào cần thiết để sinh viên nhận được hai bằng tốt nghiệp?",
+      "answers": {
+        "text": [
+          "Khi đủ điều kiện tốt nghiệp của cả hai ngành, sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc."
+        ],
+        "answer_start": [
+          517
+        ],
+        "answer_end": [
+          639
+        ]
+      }
+    },
+    {
+      "id": "9c28dcac-7461-4532-b187-f1d4d2d2fdbc",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2 như thế nào?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "9901479b-b441-414f-8ce0-284c570bdc23",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Quy trình đào tạo song ngành với hướng bằng thứ 2 diễn ra như thế nào?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "3d8b476b-f6de-4e01-b1df-5ba507c53c93",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Hồ sơ đào tạo song ngành theo hướng bằng thứ 2 được xử lý ra sao?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "c3ad51d8-d240-4dfe-9d56-6061608163e7",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Quy định về hồ sơ đào tạo song ngành với hướng bằng thứ 2 là gì?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "081de840-7d8f-46b6-989b-6d70ab4be065",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Cách thức xử lý hồ sơ đào tạo song ngành theo hướng bằng thứ 2?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "602053b6-0401-461d-b5b0-513ca9d54065",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Quy trình nộp và xử lý hồ sơ đào tạo song ngành theo hướng bằng thứ 2 như thế nào?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "70ca5b99-bad0-44b1-b614-d1d377329dc2",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Hồ sơ đào tạo song ngành với hướng bằng thứ 2 được thực hiện theo quy trình nào?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "6ae8f12c-3394-423b-b490-ea44eae6acb5",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Quy trình chuẩn bị và nộp hồ sơ đào tạo song ngành hướng bằng thứ 2 diễn ra như thế nào?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "181a73bd-4b7d-4d20-9a28-6fe4ddf73ad8",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Cách thức duyệt và xử lý hồ sơ đào tạo song ngành theo hướng bằng thứ 2 là gì?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "1c31b576-b593-43d1-8bc2-3dd3de791308",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Hồ sơ đào tạo song ngành có hướng bằng thứ 2 được xử lý theo thủ tục nào?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
+      }
+    },
+    {
+      "id": "79bb1645-89c6-4e48-9c33-b629f7e84353",
+      "title": "",
+      "context": "Quy trình Hồ sơ Đào tạo song ngành theo hướng bằng thứ 2: - Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO.",
+      "question": "Quy trình tiếp nhận và xử lý hồ sơ đào tạo song ngành theo hướng bằng thứ 2 là gì?",
+      "answers": {
+        "text": [
+          "- Đầu tiên SV tư vấn về chương trình đào tạo song ngành theo hướng bằng thứ 2 tại Thầy Trưởng Khoa quản lý ngành thứ 2. - Sau khi hoàn thành học phần tốt nghiệp của ngành thứ nhất, SV sẽ nộp đơn học ngành thứ 2 (đơn có xác nhận của Thầy Trưởng Khoa quản lý ngành thứ 2) tại PHÒNG ĐÀO TẠO."
+        ],
+        "answer_start": [
+          58
+        ],
+        "answer_end": [
+          346
+        ]
       }
     }
   ]

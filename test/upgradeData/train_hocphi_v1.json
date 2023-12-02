@@ -2,181 +2,804 @@
   {
     "id": "a5342672-321f-40d9-b989-51c951248105",
     "questions": [
-      "Làm cách nào để thanh toán học phí và các khoản tiền khác?",
-      "Có phương thức thanh toán nào để thanh toán học phí và các khoản tiền khác?",
-      "Làm thế nào để có thể thanh toán học phí và các chi phí khác?",
-      "Có cách thanh toán nào được chấp nhận cho học phí và các khoản nợ khác?",
-      "Phương thức thanh toán nào có sẵn để thanh toán học phí và các khoản chi phí khác?",
-      "Làm sao để thanh toán học phí và các khoản tiền khác một cách hiệu quả?",
-      "Có cách nào tiện lợi để thanh toán học phí và các khoản phí khác không?",
-      "Làm thế nào để xử lý thanh toán học phí và các khoản tiền nợ khác?",
-      "Có phương thức thanh toán nào dễ dàng cho học phí và các chi phí khác?",
-      "Làm sao để thanh toán học phí và các khoản tiền khác một cách an toàn?",
-      "Có cách thanh toán nào tiện lợi cho học phí và các khoản chi phí khác không?"
+      "Làm cách nào để thanh toán học phí và các khoản tiền khác?"
     ]
   },
   {
     "id": "43568c45-cb6c-4dd2-938d-1b2716a0675a",
     "questions": [
-      "Trường có chấp nhận các hình thức thanh toán học phí khác không?",
-      "Trường có chấp nhận các phương thức thanh toán học phí khác không?",
-      "Có những hình thức thanh toán học phí nào được trường chấp nhận?",
-      "Có các lựa chọn thanh toán học phí khác mà trường chấp nhận không?",
-      "Trường có chấp nhận các phương án thanh toán học phí khác nhau không?",
-      "Có những phương thức thanh toán học phí nào được chấp nhận tại trường?",
-      "Có hình thức thanh toán nào khác mà trường sử dụng cho học phí không?",
-      "Trường có chấp nhận các lựa chọn thanh toán học phí đa dạng không?",
-      "Có những hình thức thanh toán nào khác được trường chấp nhận?",
-      "Trường có chấp nhận các hình thức thanh toán học phí linh hoạt không?",
-      "Có các lựa chọn thanh toán học phí khác mà trường hỗ trợ không?"
+      "Trường có chấp nhận các hình thức thanh toán học phí khác không?"
     ]
   },
   {
     "id": "cc833c63-4be7-4b29-a2ea-b2ce4bb2f76b",
     "questions": [
-      "Nếu tôi không thanh toán học phí, quy định nào sẽ áp dụng?",
-      "Nếu tôi không thanh toán học phí, quy định nào sẽ được áp dụng?",
-      "Hậu quả gì sẽ xảy ra nếu tôi không thanh toán học phí?",
-      "Nếu không thanh toán học phí, có quy tắc hay chính sách nào sẽ được áp dụng?",
-      "Có hậu quả gì nếu tôi không thực hiện thanh toán học phí?",
-      "Quy định nào sẽ được áp dụng nếu tôi không thanh toán học phí?",
-      "Nếu tôi không thanh toán học phí, chính sách nào sẽ được thực hiện?",
-      "Hậu quả nào sẽ xảy ra nếu tôi không thanh toán đúng hạn học phí?",
-      "Nếu không thanh toán học phí, có quy định cụ thể nào tôi cần biết?",
-      "Nếu tôi không thanh toán học phí đúng hạn, có chính sách gì áp dụng?",
-      "Quy định nào được thiết lập nếu không thanh toán học phí đúng hạn?"
+      "Nếu tôi không thanh toán học phí, quy định nào sẽ áp dụng?"
     ]
   },
   {
     "id": "a4d75518-b406-44b8-977e-3723f7569b32",
     "questions": [
-      "Tôi cần hỗ trợ hoặc có sự cố khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?",
-      "Nếu tôi cần hỗ trợ hoặc gặp sự cố khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?",
-      "Làm thế nào để liên hệ với ngân hàng OCB nếu tôi gặp vấn đề khi thanh toán?",
-      "Cách nào để liên lạc với ngân hàng OCB nếu tôi cần hỗ trợ trong quá trình thanh toán?",
-      "Nếu gặp sự cố khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?",
-      "Có cách nào để tôi liên hệ với ngân hàng OCB nếu gặp khó khăn trong việc thanh toán không?",
-      "Nếu tôi cần sự giúp đỡ hoặc gặp vấn đề khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?",
-      "Làm sao để tôi có thể liên lạc với ngân hàng OCB nếu gặp sự cố khi thanh toán?",
-      "Nếu tôi cần hỗ trợ khi thanh toán, làm thế nào để tôi liên hệ với ngân hàng OCB?",
-      "Cách nào là tốt nhất để liên hệ với ngân hàng OCB nếu tôi gặp vấn đề khi thanh toán?",
-      "Nếu có vấn đề khi thanh toán, làm thế nào để tôi liên hệ với ngân hàng OCB?"
+      "Tôi cần hỗ trợ hoặc có sự cố khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?"
     ]
   },
   {
     "id": "cbd71d0b-1172-4661-b55f-eada7b319083",
     "questions": [
-      "Làm thế nào để truy cập trang BKPay trên myBK?",
-      "Cách nào để vào trang BKPay trên myBK?",
-      "Tôi phải làm gì để truy cập trang BKPay trên myBK?",
-      "Làm sao để đến trang BKPay khi sử dụng myBK?",
-      "Cách nào để truy cập vào trang BKPay thông qua myBK?",
-      "Làm thế nào để vào trang BKPay từ myBK?",
-      "Tôi phải thực hiện những bước nào để truy cập trang BKPay trên myBK?",
-      "Cách nào là tốt nhất để truy cập trang BKPay thông qua myBK?",
-      "Làm thế nào để vào trang BKPay khi đang sử dụng myBK?",
-      "Tôi cần làm gì để truy cập trang BKPay trên myBK?"
+      "Làm thế nào để truy cập trang BKPay trên myBK?"
     ]
   },
   {
     "id": "472f454c-1ebd-43c9-91b4-b7915909233c",
     "questions": [
-      "Sau khi thanh toán xong cần lưu ý gì không?",
-      "Có điều gì cần chú ý sau khi đã hoàn thành thanh toán?",
-      "Sau khi thanh toán, cần nhớ điều gì không?",
-      "Sau khi thanh toán, cần chú ý tới điều gì?",
-      "Cần quan tâm đến điều gì sau khi đã hoàn tất thanh toán?",
-      "Sau khi thanh toán, cần phải chú ý đến điều gì?",
-      "Cần lưu ý tới điều gì sau khi đã thanh toán?",
-      "Sau khi thanh toán, cần xem xét điều gì?",
-      "Sau khi hoàn thành thanh toán, cần nhớ điều gì?",
-      "Sau khi thanh toán xong, có điều gì cần chú ý không?"
+      "Sau khi thanh toán xong cần lưu ý gì không?"
     ]
   },
   {
     "id": "c2b0ac10-252c-4d9f-a30a-134f18c8ee4a",
     "questions": [
-      "Thời gian đăng ký Rút môn học thường được thông báo khi nào?",
-      "Thời gian thông báo về việc đăng ký Rút môn học thường được thông báo khi nào?",
-      "Thông tin về thời gian đăng ký Rút môn học thường được thông báo vào thời điểm nào?",
-      "Thông báo về thời hạn đăng ký Rút môn học thường được công bố khi nào?",
-      "Khi nào thông tin về thời gian đăng ký Rút môn học thường được thông báo?",
-      "Thông tin về thời gian đăng ký Rút môn học thường được cung cấp vào thời gian nào?",
-      "Khi nào thường có thông báo về thời gian đăng ký Rút môn học?",
-      "Thông tin về thời gian đăng ký Rút môn học thường được thông báo vào thời điểm nào trong năm học?",
-      "Thời gian thông báo về việc đăng ký Rút môn học thường được công bố khi nào trong kỳ học?",
-      "Thông tin về thời hạn đăng ký Rút môn học thường được thông báo vào thời gian nào trong học kỳ?",
-      "Khi nào thông tin về thời gian đăng ký Rút môn học thường được thông báo trong học kỳ?"
+      "Thời gian đăng ký Rút môn học thường được thông báo khi nào?"
     ]
   },
   {
     "id": "f170ba15-f524-44b8-ae9d-cac6954e23ef",
     "questions": [
-      "Khi nào cần thanh toán học phí kỳ chính?",
-      "Khi nào là thời điểm thanh toán học phí cho kỳ chính?",
-      "Hạn chót thanh toán học phí kỳ chính là khi nào?",
-      "Ngày nào là deadline thanh toán học phí cho kỳ học chính?",
-      "Cần phải thanh toán học phí kỳ chính vào thời điểm nào?",
-      "Làm thế nào để biết khi nào cần thanh toán học phí cho kỳ học chính?",
-      "Có ngày cụ thể nào mà phải thanh toán học phí không?",
-      "Khi nào là thời điểm phải thanh toán học phí cho kỳ chính nhất?",
-      "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học chính là khi nào?",
-      "Có quy định thời gian nào cho việc thanh toán học phí kỳ chính không?",
-      "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ chính?"
+      "Khi nào cần thanh toán học phí kỳ chính?"
     ]
   },
   {
     "id": "82be233b-1d06-4345-b190-c9db8d16d9ff",
     "questions": [
-      "Khi nào cần thanh toán học phí kỳ dự thính",
-      "Khi nào cần thanh toán học phí cho kỳ dự thính?",
-      "Hạn chót thanh toán học phí kỳ dự thính là khi nào?",
-      "Ngày nào là deadline thanh toán học phí cho kỳ học dự thính?",
-      "Cần phải thanh toán học phí kỳ dự thính vào thời điểm nào?",
-      "Làm thế nào để biết khi nào cần thanh toán học phí cho kỳ học dự thính?",
-      "Có ngày cụ thể nào mà phải thanh toán học phí không cho kỳ dự thính?",
-      "Khi nào là thời điểm phải thanh toán học phí cho kỳ dự thính nhất?",
-      "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học dự thính là khi nào?",
-      "Có quy định thời gian nào cho việc thanh toán học phí kỳ dự thính không?",
-      "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ dự thính?"
+      "Khi nào cần thanh toán học phí kỳ dự thính"
     ]
   },
   {
     "id": "0309c6f1-ce8d-4a2b-9f06-8d4eb3138a7b",
     "questions": [
-      "Khi nào cần thanh toán học phí kỳ hè và dự thính hè",
-      "Khi nào cần thanh toán học phí cho kỳ hè và dự thính hè?",
-      "Hạn chót thanh toán học phí kỳ hè và dự thính hè là khi nào?",
-      "Ngày nào là deadline thanh toán học phí cho kỳ học hè và dự thính hè?",
-      "Cần phải thanh toán học phí kỳ hè và dự thính hè vào thời điểm nào?",
-      "Làm thế nào để biết khi nào cần thanh toán học phí cho kỳ học hè và dự thính hè?",
-      "Có ngày cụ thể nào mà phải thanh toán học phí không cho kỳ hè và dự thính hè?",
-      "Khi nào là thời điểm phải thanh toán học phí cho kỳ hè và dự thính hè nhất?",
-      "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học hè và dự thính hè là khi nào?",
-      "Có quy định thời gian nào cho việc thanh toán học phí kỳ hè và dự thính hè không?",
-      "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ hè và dự thính hè?"
+      "Khi nào cần thanh toán học phí kỳ hè và dự thính hè"
     ]
   },
   {
     "id": "4681e9e1-b60f-4724-a443-99daab71dbb3",
     "questions": [
-      "Tôi có thể xem thời gian nộp học phí ở đâu",
-      "Tôi có thể coi thời gian nộp học phí ở đâu?",
-      "Nơi nào cung cấp thông tin về thời hạn nộp học phí?",
-      "Cách nào để kiểm tra thời gian thanh toán học phí?",
-      "Ở đâu có thông tin về ngày đáo hạn nộp học phí?",
-      "Làm thế nào để biết thời gian thanh toán học phí hiện tại?",
-      "Tại đâu tôi có thể tìm thấy thông tin về hạn chót nộp học phí?",
-      "Website nào cung cấp thông tin về thời gian thanh toán học phí?",
-      "Làm thế nào để truy cập lịch thanh toán học phí?",
-      "Có nguồn thông tin nào cho thời gian nộp học phí không?",
-      "Tôi cần kiểm tra thời gian nộp học phí ở đâu trực tuyến?"
+      "Tôi có thể xem thời gian nộp học phí ở đâu"
     ]
   },
   {
     "id": "22588a11-64a3-4d24-ab27-5de95c61a3a6",
     "questions": [
-      "Xem thông tin mức học phí ở đâu?",
+      "Xem thông tin mức học phí ở đâu?"
+    ]
+  },
+  {
+    "id": "2da262b7-850d-4ca9-a523-ef49b24269e6",
+    "questions": [
+      "Tôi có thể vay để nộp học phí không"
+    ]
+  },
+  {
+    "id": "340c90f5-7896-4e1d-a3af-951240220d05",
+    "questions": [
+      "Tôi có thể hoãn nộp học phí không"
+    ]
+  },
+  {
+    "id": "f3598d2f-e61e-4492-b6a7-f6eee7a7fd0d",
+    "questions": [
+      "Tôi có thể miễn nộp học phí không"
+    ]
+  },
+  {
+    "id": "06cebe7c-6b26-459b-a34a-764d421af40e",
+    "questions": [
+      "Tôi có thể xin giảm học phí không"
+    ]
+  },
+  {
+    "id": "a3ed5926-1212-4b2c-ab12-66e4d082f401",
+    "questions": [
+      "Học phí của sinh viên vừa học vừa làm được tính như thế nào?"
+    ]
+  },
+  {
+    "id": "299ecb49-9703-4ca2-9815-cf2d7b6bc5ec",
+    "questions": [
+      "Sinh viên VLVH có học chung với sinh viên CQ không?"
+    ]
+  },
+  {
+    "id": "61dc43ef-ce17-49e2-a338-17359aae1bed",
+    "questions": [
+      "SV VLVH học chung với SV chính quy theo lịch như thế nào?"
+    ]
+  },
+  {
+    "id": "9d866a87-473d-4d0f-a901-c90cbc9e88ff",
+    "questions": [
+      "Tại sao Học kỳ dự thính hè có đơn giá học phí khác so với các Học kỳ chính?"
+    ]
+  },
+  {
+    "id": "8ad0d2de-a60d-42f1-b51c-ee1c089e33af",
+    "questions": [
+      "Cách tính học kỳ dự thính hè"
+    ]
+  },
+  {
+    "id": "aeee5a08-8400-432d-9373-938f5eeddb9a",
+    "questions": [
+      "Cách tính học kỳ dự thính hè đối với khóa tính học phí trọn gói"
+    ]
+  },
+  {
+    "id": "4cc95280-6ab1-4f32-9be2-dc02368dface",
+    "questions": [
+      "Cách tính học kỳ dự thính hè đối với khóa tính học phí theo tín chỉ"
+    ]
+  },
+  {
+    "id": "8975e9e3-cc28-476e-90f3-776cfc1e0dec",
+    "questions": [
+      "Các môn hướng dẫn được tính như thế nào ở học kỳ hè"
+    ]
+  },
+  {
+    "id": "6a0393d6-c6d5-41d3-86c2-c694088225e5",
+    "questions": [
+      "Đồ án được tính như thế nào ở học kỳ hè"
+    ]
+  },
+  {
+    "id": "47a9575e-c12a-4715-8303-cebfda404a0d",
+    "questions": [
+      "Có phương thức thanh toán nào để thanh toán học phí và các khoản tiền khác?"
+    ]
+  },
+  {
+    "id": "47718106-9de5-4634-b783-a34da1ed0506",
+    "questions": [
+      "Làm thế nào để có thể thanh toán học phí và các chi phí khác?"
+    ]
+  },
+  {
+    "id": "632fc4d5-90ad-4c9a-bd4b-3c5f89bb144e",
+    "questions": [
+      "Có cách thanh toán nào được chấp nhận cho học phí và các khoản nợ khác?"
+    ]
+  },
+  {
+    "id": "ea68a6e3-06bd-417c-ba9f-f978511c04b8",
+    "questions": [
+      "Phương thức thanh toán nào có sẵn để thanh toán học phí và các khoản chi phí khác?"
+    ]
+  },
+  {
+    "id": "a1d8856f-aac0-42fa-9aed-da5abef1f374",
+    "questions": [
+      "Làm sao để thanh toán học phí và các khoản tiền khác một cách hiệu quả?"
+    ]
+  },
+  {
+    "id": "eace342d-35f0-4933-aaad-fb29859cd754",
+    "questions": [
+      "Có cách nào tiện lợi để thanh toán học phí và các khoản phí khác không?"
+    ]
+  },
+  {
+    "id": "c1660733-89b9-4c0e-8399-4a6dd0c10860",
+    "questions": [
+      "Làm thế nào để xử lý thanh toán học phí và các khoản tiền nợ khác?"
+    ]
+  },
+  {
+    "id": "d34d506e-5d3e-432d-a531-f6fdc9740ed2",
+    "questions": [
+      "Có phương thức thanh toán nào dễ dàng cho học phí và các chi phí khác?"
+    ]
+  },
+  {
+    "id": "5bef3bb8-aaf0-4c05-92f4-5eda3f7cf49b",
+    "questions": [
+      "Làm sao để thanh toán học phí và các khoản tiền khác một cách an toàn?"
+    ]
+  },
+  {
+    "id": "06630692-cc7c-4039-9599-199f6df1ba00",
+    "questions": [
+      "Có cách thanh toán nào tiện lợi cho học phí và các khoản chi phí khác không?"
+    ]
+  },
+  {
+    "id": "adfc3d79-140d-4fe3-b6a9-4cf5d6143856",
+    "questions": [
+      "Trường có chấp nhận các phương thức thanh toán học phí khác không?"
+    ]
+  },
+  {
+    "id": "d5f6db47-5121-45b1-a465-e55d8cd98d30",
+    "questions": [
+      "Có những hình thức thanh toán học phí nào được trường chấp nhận?"
+    ]
+  },
+  {
+    "id": "532d7141-ca69-40a1-b1b8-40b1bb21e415",
+    "questions": [
+      "Có các lựa chọn thanh toán học phí khác mà trường chấp nhận không?"
+    ]
+  },
+  {
+    "id": "5facfafd-b592-499f-8036-736f73c403c9",
+    "questions": [
+      "Trường có chấp nhận các phương án thanh toán học phí khác nhau không?"
+    ]
+  },
+  {
+    "id": "998b5946-7984-4115-9861-cec1bf8738c2",
+    "questions": [
+      "Có những phương thức thanh toán học phí nào được chấp nhận tại trường?"
+    ]
+  },
+  {
+    "id": "0e7ec174-dd4d-4edc-829b-2ea0e81d2ea2",
+    "questions": [
+      "Có hình thức thanh toán nào khác mà trường sử dụng cho học phí không?"
+    ]
+  },
+  {
+    "id": "c4ec54a0-e137-4b75-83e6-c870adbf58e0",
+    "questions": [
+      "Trường có chấp nhận các lựa chọn thanh toán học phí đa dạng không?"
+    ]
+  },
+  {
+    "id": "b9962913-7aef-4c11-87c2-876da499ce87",
+    "questions": [
+      "Có những hình thức thanh toán nào khác được trường chấp nhận?"
+    ]
+  },
+  {
+    "id": "6d67bebc-a4bd-44fe-86f3-74e50ddbd2ea",
+    "questions": [
+      "Trường có chấp nhận các hình thức thanh toán học phí linh hoạt không?"
+    ]
+  },
+  {
+    "id": "0572c39a-6d47-4eb7-841f-5a439fb4c7dd",
+    "questions": [
+      "Có các lựa chọn thanh toán học phí khác mà trường hỗ trợ không?"
+    ]
+  },
+  {
+    "id": "95e5f8b3-aebe-44e3-b688-43de49c50327",
+    "questions": [
+      "Nếu tôi không thanh toán học phí, quy định nào sẽ được áp dụng?"
+    ]
+  },
+  {
+    "id": "5ab6b23f-6f64-48be-8848-7356099dba10",
+    "questions": [
+      "Hậu quả gì sẽ xảy ra nếu tôi không thanh toán học phí?"
+    ]
+  },
+  {
+    "id": "4820fdf9-1c39-4a7e-a22c-5c78f5395405",
+    "questions": [
+      "Nếu không thanh toán học phí, có quy tắc hay chính sách nào sẽ được áp dụng?"
+    ]
+  },
+  {
+    "id": "0eb93193-1fc2-4342-a317-4fa5b149a497",
+    "questions": [
+      "Có hậu quả gì nếu tôi không thực hiện thanh toán học phí?"
+    ]
+  },
+  {
+    "id": "9dab40e3-2c99-4b5d-b61b-a88a9d1732e9",
+    "questions": [
+      "Quy định nào sẽ được áp dụng nếu tôi không thanh toán học phí?"
+    ]
+  },
+  {
+    "id": "3505119b-215b-4ef0-b9bb-9a15b707423f",
+    "questions": [
+      "Nếu tôi không thanh toán học phí, chính sách nào sẽ được thực hiện?"
+    ]
+  },
+  {
+    "id": "40649386-0d2c-4382-bbbf-add59c68fa9b",
+    "questions": [
+      "Hậu quả nào sẽ xảy ra nếu tôi không thanh toán đúng hạn học phí?"
+    ]
+  },
+  {
+    "id": "188d97a9-db57-47e3-afd3-c17e0d00d456",
+    "questions": [
+      "Nếu không thanh toán học phí, có quy định cụ thể nào tôi cần biết?"
+    ]
+  },
+  {
+    "id": "31756538-0fea-46df-9ee9-2b7177c0bde2",
+    "questions": [
+      "Nếu tôi không thanh toán học phí đúng hạn, có chính sách gì áp dụng?"
+    ]
+  },
+  {
+    "id": "8fe90238-c1f4-492f-997f-238c1e5240c8",
+    "questions": [
+      "Quy định nào được thiết lập nếu không thanh toán học phí đúng hạn?"
+    ]
+  },
+  {
+    "id": "6178c3f6-eee4-404c-a09c-b11248066cfc",
+    "questions": [
+      "Nếu tôi cần hỗ trợ hoặc gặp sự cố khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?"
+    ]
+  },
+  {
+    "id": "5dc51112-6e6b-4b42-9624-83679c9f9481",
+    "questions": [
+      "Làm thế nào để liên hệ với ngân hàng OCB nếu tôi gặp vấn đề khi thanh toán?"
+    ]
+  },
+  {
+    "id": "c8ce2bc5-fba4-49bd-b39a-1cc84e9891f6",
+    "questions": [
+      "Cách nào để liên lạc với ngân hàng OCB nếu tôi cần hỗ trợ trong quá trình thanh toán?"
+    ]
+  },
+  {
+    "id": "1e7d6ee5-7bc6-407a-8a37-80cca9f2a842",
+    "questions": [
+      "Nếu gặp sự cố khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?"
+    ]
+  },
+  {
+    "id": "67555801-9893-472c-aa2b-c0a12544201f",
+    "questions": [
+      "Có cách nào để tôi liên hệ với ngân hàng OCB nếu gặp khó khăn trong việc thanh toán không?"
+    ]
+  },
+  {
+    "id": "c1227543-f7a0-42c4-a50d-0cb93d449ede",
+    "questions": [
+      "Nếu tôi cần sự giúp đỡ hoặc gặp vấn đề khi thanh toán, làm thế nào để liên hệ với ngân hàng OCB?"
+    ]
+  },
+  {
+    "id": "15d9fcc5-48b5-4cdf-998e-96ab24a462c3",
+    "questions": [
+      "Làm sao để tôi có thể liên lạc với ngân hàng OCB nếu gặp sự cố khi thanh toán?"
+    ]
+  },
+  {
+    "id": "d7fa64d0-8701-4e96-85a0-4f4b9cc02088",
+    "questions": [
+      "Nếu tôi cần hỗ trợ khi thanh toán, làm thế nào để tôi liên hệ với ngân hàng OCB?"
+    ]
+  },
+  {
+    "id": "5ea7cb7c-c6bf-4234-9679-c197f029683c",
+    "questions": [
+      "Cách nào là tốt nhất để liên hệ với ngân hàng OCB nếu tôi gặp vấn đề khi thanh toán?"
+    ]
+  },
+  {
+    "id": "80aa687f-ea10-401b-9ad6-0ae294b88c80",
+    "questions": [
+      "Nếu có vấn đề khi thanh toán, làm thế nào để tôi liên hệ với ngân hàng OCB?"
+    ]
+  },
+  {
+    "id": "fd6bae9e-a60f-4e9d-b4a2-5f9f4487bb5a",
+    "questions": [
+      "Cách nào để vào trang BKPay trên myBK?"
+    ]
+  },
+  {
+    "id": "0e71d9d7-5b3d-4407-89bc-410cb3fd4946",
+    "questions": [
+      "Tôi phải làm gì để truy cập trang BKPay trên myBK?"
+    ]
+  },
+  {
+    "id": "060a3063-d2b9-4454-a99a-aba04c24dbc8",
+    "questions": [
+      "Làm sao để đến trang BKPay khi sử dụng myBK?"
+    ]
+  },
+  {
+    "id": "25a9051c-bc89-4699-9ad1-84e27df0896a",
+    "questions": [
+      "Cách nào để truy cập vào trang BKPay thông qua myBK?"
+    ]
+  },
+  {
+    "id": "d231a676-1c1f-469c-a837-b5df260b4076",
+    "questions": [
+      "Làm thế nào để vào trang BKPay từ myBK?"
+    ]
+  },
+  {
+    "id": "b398af4c-4661-4a3c-8914-1b2b7eb213d8",
+    "questions": [
+      "Tôi phải thực hiện những bước nào để truy cập trang BKPay trên myBK?"
+    ]
+  },
+  {
+    "id": "1ff066ea-4281-4940-b254-aa20bee6201b",
+    "questions": [
+      "Cách nào là tốt nhất để truy cập trang BKPay thông qua myBK?"
+    ]
+  },
+  {
+    "id": "9a4acf43-02a6-42c0-86b1-aec957cf7571",
+    "questions": [
+      "Làm thế nào để vào trang BKPay khi đang sử dụng myBK?"
+    ]
+  },
+  {
+    "id": "b2f47a83-8974-4b83-834b-6fab13f76c54",
+    "questions": [
+      "Tôi cần làm gì để truy cập trang BKPay trên myBK?"
+    ]
+  },
+  {
+    "id": "b3d48a10-aa45-4d28-8d57-96f86de484b8",
+    "questions": [
+      "Có điều gì cần chú ý sau khi đã hoàn thành thanh toán?"
+    ]
+  },
+  {
+    "id": "a18cac95-c156-450b-957a-c9c0280fe283",
+    "questions": [
+      "Sau khi thanh toán, cần nhớ điều gì không?"
+    ]
+  },
+  {
+    "id": "e42f07a9-81ba-46ef-b899-d251b532f4af",
+    "questions": [
+      "Sau khi thanh toán, cần chú ý tới điều gì?"
+    ]
+  },
+  {
+    "id": "4f655098-b7f6-41b3-9837-cabee7a75884",
+    "questions": [
+      "Cần quan tâm đến điều gì sau khi đã hoàn tất thanh toán?"
+    ]
+  },
+  {
+    "id": "cc9f7d17-9953-472c-bdb0-d6a8166c6648",
+    "questions": [
+      "Sau khi thanh toán, cần phải chú ý đến điều gì?"
+    ]
+  },
+  {
+    "id": "0bcae00c-f1ca-4b6e-aeb2-106f48310d0e",
+    "questions": [
+      "Cần lưu ý tới điều gì sau khi đã thanh toán?"
+    ]
+  },
+  {
+    "id": "6736b945-dd85-4909-8860-59a12506c96e",
+    "questions": [
+      "Sau khi thanh toán, cần xem xét điều gì?"
+    ]
+  },
+  {
+    "id": "71ee0882-274f-4f98-9d89-12a614707313",
+    "questions": [
+      "Sau khi hoàn thành thanh toán, cần nhớ điều gì?"
+    ]
+  },
+  {
+    "id": "7af3766d-9845-46c6-b42c-0f32428f06af",
+    "questions": [
+      "Sau khi thanh toán xong, có điều gì cần chú ý không?"
+    ]
+  },
+  {
+    "id": "87d146ea-9f64-40bc-b874-f7a44644f0a3",
+    "questions": [
+      "Thời gian thông báo về việc đăng ký Rút môn học thường được thông báo khi nào?"
+    ]
+  },
+  {
+    "id": "db98f248-a26b-435c-a94b-2f59cd474cf4",
+    "questions": [
+      "Thông tin về thời gian đăng ký Rút môn học thường được thông báo vào thời điểm nào?"
+    ]
+  },
+  {
+    "id": "725f0345-24c2-4b75-9f0d-5b830016c4b4",
+    "questions": [
+      "Thông báo về thời hạn đăng ký Rút môn học thường được công bố khi nào?"
+    ]
+  },
+  {
+    "id": "223a69b0-2b8a-47f5-8f69-5c9d8bec3931",
+    "questions": [
+      "Khi nào thông tin về thời gian đăng ký Rút môn học thường được thông báo?"
+    ]
+  },
+  {
+    "id": "6a20de6c-d480-4b55-bf69-1474356c1202",
+    "questions": [
+      "Thông tin về thời gian đăng ký Rút môn học thường được cung cấp vào thời gian nào?"
+    ]
+  },
+  {
+    "id": "223b1129-9847-4845-984b-217524fae332",
+    "questions": [
+      "Khi nào thường có thông báo về thời gian đăng ký Rút môn học?"
+    ]
+  },
+  {
+    "id": "276a78ce-382e-4256-b2a6-c12e6af05446",
+    "questions": [
+      "Thông tin về thời gian đăng ký Rút môn học thường được thông báo vào thời điểm nào trong năm học?"
+    ]
+  },
+  {
+    "id": "9b62d201-42f9-4853-9463-e89313bcac79",
+    "questions": [
+      "Thời gian thông báo về việc đăng ký Rút môn học thường được công bố khi nào trong kỳ học?"
+    ]
+  },
+  {
+    "id": "726b08b0-cb25-457b-bf5c-0ccab6d74c8c",
+    "questions": [
+      "Thông tin về thời hạn đăng ký Rút môn học thường được thông báo vào thời gian nào trong học kỳ?"
+    ]
+  },
+  {
+    "id": "29059d0a-d24a-483b-a6aa-b2a6c51ae8d9",
+    "questions": [
+      "Khi nào thông tin về thời gian đăng ký Rút môn học thường được thông báo trong học kỳ?"
+    ]
+  },
+  {
+    "id": "d1ee135a-5f56-47fb-a067-4e8b17b59236",
+    "questions": [
+      "Khi nào là thời điểm thanh toán học phí cho kỳ chính?"
+    ]
+  },
+  {
+    "id": "2ac4dfdb-b241-40e4-928e-273f7f0accdf",
+    "questions": [
+      "Hạn chót thanh toán học phí kỳ chính là khi nào?"
+    ]
+  },
+  {
+    "id": "4af9ebcb-24c7-4af5-9529-fcd59de54660",
+    "questions": [
+      "Ngày nào là deadline thanh toán học phí cho kỳ học chính?"
+    ]
+  },
+  {
+    "id": "e0d90280-75e1-4a20-adb2-3a2fa0ab67f5",
+    "questions": [
+      "Cần phải thanh toán học phí kỳ chính vào thời điểm nào?"
+    ]
+  },
+  {
+    "id": "c18eee6a-e82f-4910-a6cb-f5ad4fe91d76",
+    "questions": [
+      "Làm thế nào để biết khi nào cần thanh toán học phí cho kỳ học chính?"
+    ]
+  },
+  {
+    "id": "b8885408-0baf-4947-bd40-3aeb894227e0",
+    "questions": [
+      "Có ngày cụ thể nào mà phải thanh toán học phí không?"
+    ]
+  },
+  {
+    "id": "b96f2de2-4011-433a-8cb0-9fd956d41f16",
+    "questions": [
+      "Khi nào là thời điểm phải thanh toán học phí cho kỳ chính nhất?"
+    ]
+  },
+  {
+    "id": "33d4dcab-656b-47bf-8838-8227345308a6",
+    "questions": [
+      "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học chính là khi nào?"
+    ]
+  },
+  {
+    "id": "653419ca-aa09-411c-84bb-ac7134bf5fae",
+    "questions": [
+      "Có quy định thời gian nào cho việc thanh toán học phí kỳ chính không?"
+    ]
+  },
+  {
+    "id": "3e912c0b-7f9d-4160-9690-06f4b3eb0357",
+    "questions": [
+      "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ chính?"
+    ]
+  },
+  {
+    "id": "80b390f4-1395-4b9f-abd8-6dff85e54952",
+    "questions": [
+      "Khi nào cần thanh toán học phí cho kỳ dự thính?"
+    ]
+  },
+  {
+    "id": "4b88dea7-8866-4997-9607-276b676437f2",
+    "questions": [
+      "Hạn chót thanh toán học phí kỳ dự thính là khi nào?"
+    ]
+  },
+  {
+    "id": "e51c1bd6-352a-4982-9924-6e2c3e40f346",
+    "questions": [
+      "Ngày nào là deadline thanh toán học phí cho kỳ học dự thính?"
+    ]
+  },
+  {
+    "id": "730109cb-694e-4537-8ecc-5bb3c1dba8c3",
+    "questions": [
+      "Cần phải thanh toán học phí kỳ dự thính vào thời điểm nào?"
+    ]
+  },
+  {
+    "id": "a3bca8ff-2f25-478f-a44a-3f26cbdc9a99",
+    "questions": [
+      "Làm thế nào để biết khi nào cần thanh toán học phí cho kỳ học dự thính?"
+    ]
+  },
+  {
+    "id": "25f8512e-6e4a-442a-8b0c-e2c25017bce0",
+    "questions": [
+      "Có ngày cụ thể nào mà phải thanh toán học phí không cho kỳ dự thính?"
+    ]
+  },
+  {
+    "id": "993240d0-f65a-4418-a6f3-5ce98e1a1fb7",
+    "questions": [
+      "Khi nào là thời điểm phải thanh toán học phí cho kỳ dự thính nhất?"
+    ]
+  },
+  {
+    "id": "54b1f702-8f93-4ee9-a5c8-608d40393ffa",
+    "questions": [
+      "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học dự thính là khi nào?"
+    ]
+  },
+  {
+    "id": "9e67e790-8d0e-4fa0-a99c-f99a098ef801",
+    "questions": [
+      "Có quy định thời gian nào cho việc thanh toán học phí kỳ dự thính không?"
+    ]
+  },
+  {
+    "id": "301abef6-8e97-4c93-9cbd-8232d2f404d6",
+    "questions": [
+      "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ dự thính?"
+    ]
+  },
+  {
+    "id": "4004f68e-5903-4d68-9759-3df640fde535",
+    "questions": [
+      "Khi nào cần thanh toán học phí cho kỳ hè và dự thính hè?"
+    ]
+  },
+  {
+    "id": "ca5b1387-a3fa-459e-96ef-9d73f4d473fa",
+    "questions": [
+      "Hạn chót thanh toán học phí kỳ hè và dự thính hè là khi nào?"
+    ]
+  },
+  {
+    "id": "8491ccf7-3379-4069-a380-638bc1ee2713",
+    "questions": [
+      "Ngày nào là deadline thanh toán học phí cho kỳ học hè và dự thính hè?"
+    ]
+  },
+  {
+    "id": "c8a9ec10-abe0-4067-a447-9a3259619c79",
+    "questions": [
+      "Cần phải thanh toán học phí kỳ hè và dự thính hè vào thời điểm nào?"
+    ]
+  },
+  {
+    "id": "58388d8e-545a-4ba8-8fc8-15f9eb524ed0",
+    "questions": [
+      "Làm thế nào để biết khi nào cần thanh toán học phí cho kỳ học hè và dự thính hè?"
+    ]
+  },
+  {
+    "id": "b747dbce-a5a8-4910-9639-25c7f4ed7f2f",
+    "questions": [
+      "Có ngày cụ thể nào mà phải thanh toán học phí không cho kỳ hè và dự thính hè?"
+    ]
+  },
+  {
+    "id": "f266a38b-d64a-4905-a6ca-9e94aad868f2",
+    "questions": [
+      "Khi nào là thời điểm phải thanh toán học phí cho kỳ hè và dự thính hè nhất?"
+    ]
+  },
+  {
+    "id": "e79da967-ff28-4e57-89fe-bc4350125ec9",
+    "questions": [
+      "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học hè và dự thính hè là khi nào?"
+    ]
+  },
+  {
+    "id": "66a65fb0-2cd0-4d86-990c-7d53821f8757",
+    "questions": [
+      "Có quy định thời gian nào cho việc thanh toán học phí kỳ hè và dự thính hè không?"
+    ]
+  },
+  {
+    "id": "eb936fd0-9bf3-4d82-9b0a-748a0529b09c",
+    "questions": [
+      "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ hè và dự thính hè?"
+    ]
+  },
+  {
+    "id": "67c651db-fac9-4b16-8ca6-eedf9f785967",
+    "questions": [
+      "Tôi có thể coi thời gian nộp học phí ở đâu?"
+    ]
+  },
+  {
+    "id": "c31cc7a6-14ed-4bc4-aacb-1072ea2f4518",
+    "questions": [
+      "Nơi nào cung cấp thông tin về thời hạn nộp học phí?"
+    ]
+  },
+  {
+    "id": "71226322-9dac-4cc2-b3b9-01b371a78838",
+    "questions": [
+      "Cách nào để kiểm tra thời gian thanh toán học phí?"
+    ]
+  },
+  {
+    "id": "24cd6de8-9b71-4fad-9072-0eb34b3653dd",
+    "questions": [
+      "Ở đâu có thông tin về ngày đáo hạn nộp học phí?"
+    ]
+  },
+  {
+    "id": "1257e1f8-65f4-4067-80d3-65df15ca1b03",
+    "questions": [
+      "Làm thế nào để biết thời gian thanh toán học phí hiện tại?"
+    ]
+  },
+  {
+    "id": "68bbc06f-07dd-4f29-bb63-7b682683ca71",
+    "questions": [
+      "Tại đâu tôi có thể tìm thấy thông tin về hạn chót nộp học phí?"
+    ]
+  },
+  {
+    "id": "6e0c6ba9-4795-41b2-938a-9977a5ba1e40",
+    "questions": [
+      "Website nào cung cấp thông tin về thời gian thanh toán học phí?"
+    ]
+  },
+  {
+    "id": "96ffc60d-5cc3-4d31-881d-e10ba22cc81d",
+    "questions": [
+      "Làm thế nào để truy cập lịch thanh toán học phí?"
+    ]
+  },
+  {
+    "id": "2f2e062e-eb2c-4081-811c-bae0a5f5c17b",
+    "questions": [
+      "Có nguồn thông tin nào cho thời gian nộp học phí không?"
+    ]
+  },
+  {
+    "id": "76fe7079-c102-43ee-ab98-c6bb4fa4533d",
+    "questions": [
+      "Tôi cần kiểm tra thời gian nộp học phí ở đâu trực tuyến?"
+    ]
+  },
+  {
+    "id": "0143079b-6a1c-4255-8a1d-108178a6b5bb",
+    "questions": [
       [
         "Xem thông tin mức học phí ở đâu?",
         "Nơi nào cung cấp thông tin về mức học phí?",
@@ -192,211 +815,794 @@
     ]
   },
   {
-    "id": "2da262b7-850d-4ca9-a523-ef49b24269e6",
+    "id": "a9382a9e-85a6-4d08-838b-dd0e11f3d703",
     "questions": [
-      "Tôi có thể vay để nộp học phí không",
-      "Tôi có thể vay tiền để nộp học phí không?",
-      "Làm thế nào để đăng ký vay tiền để thanh toán học phí?",
-      "Có chương trình vay học phí nào mà tôi có thể tham gia không?",
-      "Ở đâu có thông tin về việc vay tiền để nộp học phí?",
-      "Có tổ chức nào cung cấp dịch vụ vay học phí không?",
-      "Làm thế nào để biết liệu tôi có đủ điều kiện để vay học phí hay không?",
-      "Có quy định cụ thể nào khi vay tiền để thanh toán học phí không?",
-      "Tôi cần liên hệ với ai để biết thêm về việc vay học phí?",
-      "Có nguồn thông tin nào về các tùy chọn vay học phí không?",
+      "Tôi có thể vay tiền để nộp học phí không?"
+    ]
+  },
+  {
+    "id": "447b59cc-14cd-4e39-a7f8-ff4a60d5fda9",
+    "questions": [
+      "Làm thế nào để đăng ký vay tiền để thanh toán học phí?"
+    ]
+  },
+  {
+    "id": "943e1009-56ef-4be5-b18c-0993fd54ac2f",
+    "questions": [
+      "Có chương trình vay học phí nào mà tôi có thể tham gia không?"
+    ]
+  },
+  {
+    "id": "11db9ce1-b2d1-432d-b523-82b9454b2766",
+    "questions": [
+      "Ở đâu có thông tin về việc vay tiền để nộp học phí?"
+    ]
+  },
+  {
+    "id": "e4a99d3d-1be9-4cfd-b99d-682159c5a5f2",
+    "questions": [
+      "Có tổ chức nào cung cấp dịch vụ vay học phí không?"
+    ]
+  },
+  {
+    "id": "80a3f79e-430f-4419-bb3f-3b62ef0b4ba6",
+    "questions": [
+      "Làm thế nào để biết liệu tôi có đủ điều kiện để vay học phí hay không?"
+    ]
+  },
+  {
+    "id": "24a72728-3865-47cf-b9e9-0f8da1a84ec5",
+    "questions": [
+      "Có quy định cụ thể nào khi vay tiền để thanh toán học phí không?"
+    ]
+  },
+  {
+    "id": "aee55754-d504-43fa-aa30-baec528059e8",
+    "questions": [
+      "Tôi cần liên hệ với ai để biết thêm về việc vay học phí?"
+    ]
+  },
+  {
+    "id": "fff6a1f5-a53e-4321-a340-397a6251577b",
+    "questions": [
+      "Có nguồn thông tin nào về các tùy chọn vay học phí không?"
+    ]
+  },
+  {
+    "id": "87319fb4-fdbe-487c-8fbb-81a94bf7633f",
+    "questions": [
       "Tôi cần làm gì để bắt đầu quá trình vay tiền để nộp học phí?"
     ]
   },
   {
-    "id": "340c90f5-7896-4e1d-a3af-951240220d05",
+    "id": "a1b16fe8-9f90-47d0-b1fb-c240d1f6a57c",
     "questions": [
-      "Tôi có thể hoãn nộp học phí không",
-      "Tôi có thể hoãn nộp học phí không?",
-      "Làm thế nào để đề xuất việc hoãn nộp học phí?",
-      "Có chính sách nào cho việc hoãn nộp học phí không?",
-      "Ở đâu có thông tin về quy định hoãn nộp học phí?",
-      "Có thủ tục cụ thể nào để yêu cầu hoãn nộp học phí?",
-      "Làm thế nào để biết liệu tôi đủ điều kiện để hoãn nộp học phí hay không?",
-      "Có quy tắc hay điều kiện nào khiến việc hoãn nộp học phí không được chấp nhận?",
-      "Tôi cần liên hệ với ai để thảo luận về việc hoãn nộp học phí?",
-      "Có nguồn thông tin nào về quy trình hoãn nộp học phí không?",
+      "Tôi có thể hoãn nộp học phí không?"
+    ]
+  },
+  {
+    "id": "93ee54eb-8df5-4954-ab13-3e93ffd43215",
+    "questions": [
+      "Làm thế nào để đề xuất việc hoãn nộp học phí?"
+    ]
+  },
+  {
+    "id": "3e0d024a-464f-4d3d-a08e-8ad03d3eea64",
+    "questions": [
+      "Có chính sách nào cho việc hoãn nộp học phí không?"
+    ]
+  },
+  {
+    "id": "019f4b95-d139-4ade-ae36-3de7c185c694",
+    "questions": [
+      "Ở đâu có thông tin về quy định hoãn nộp học phí?"
+    ]
+  },
+  {
+    "id": "7fbd161e-dc5f-4fb8-8d9d-23f46659aeab",
+    "questions": [
+      "Có thủ tục cụ thể nào để yêu cầu hoãn nộp học phí?"
+    ]
+  },
+  {
+    "id": "34b93ec3-38dc-4d59-bff9-0f44624e85c0",
+    "questions": [
+      "Làm thế nào để biết liệu tôi đủ điều kiện để hoãn nộp học phí hay không?"
+    ]
+  },
+  {
+    "id": "840bcb9a-e9a8-4628-b313-0e44282f98ef",
+    "questions": [
+      "Có quy tắc hay điều kiện nào khiến việc hoãn nộp học phí không được chấp nhận?"
+    ]
+  },
+  {
+    "id": "debc1e73-c485-4dc0-8905-b4aee0326d44",
+    "questions": [
+      "Tôi cần liên hệ với ai để thảo luận về việc hoãn nộp học phí?"
+    ]
+  },
+  {
+    "id": "8b02c9ba-e8dc-4e9f-b04d-deec77c34ac1",
+    "questions": [
+      "Có nguồn thông tin nào về quy trình hoãn nộp học phí không?"
+    ]
+  },
+  {
+    "id": "120cbb36-b070-42d9-ac1c-9aa82aeba21c",
+    "questions": [
       "Tôi cần làm gì để bắt đầu quá trình đề xuất hoãn nộp học phí?"
     ]
   },
   {
-    "id": "f3598d2f-e61e-4492-b6a7-f6eee7a7fd0d",
+    "id": "5a356747-0384-455a-b9cc-b168e61b61bd",
     "questions": [
-      "Tôi có thể miễn nộp học phí không",
-      "Tôi có thể miễn việc nộp học phí không?",
-      "Làm thế nào để đề xuất việc miễn nộp học phí?",
-      "Có chính sách nào cho việc miễn nộp học phí không?",
-      "Ở đâu có thông tin về quy định miễn nộp học phí?",
-      "Có thủ tục cụ thể nào để yêu cầu miễn nộp học phí?",
-      "Làm thế nào để biết liệu tôi đủ điều kiện để miễn nộp học phí hay không?",
-      "Có quy tắc hay điều kiện nào khiến việc miễn nộp học phí không được chấp nhận?",
-      "Tôi cần liên hệ với ai để thảo luận về việc miễn nộp học phí?",
-      "Có nguồn thông tin nào về quy trình miễn nộp học phí không?",
+      "Tôi có thể miễn việc nộp học phí không?"
+    ]
+  },
+  {
+    "id": "4960a7cc-d258-496a-a6e9-294532c5e7f8",
+    "questions": [
+      "Làm thế nào để đề xuất việc miễn nộp học phí?"
+    ]
+  },
+  {
+    "id": "e931c907-fd27-4862-9503-f1ab304df2e6",
+    "questions": [
+      "Có chính sách nào cho việc miễn nộp học phí không?"
+    ]
+  },
+  {
+    "id": "5370a0f9-5f42-4ecc-8650-c7e7135322e3",
+    "questions": [
+      "Ở đâu có thông tin về quy định miễn nộp học phí?"
+    ]
+  },
+  {
+    "id": "01e78d06-a22d-4e9d-9de5-2966a311a620",
+    "questions": [
+      "Có thủ tục cụ thể nào để yêu cầu miễn nộp học phí?"
+    ]
+  },
+  {
+    "id": "09bda020-668f-47e7-b03f-82dbfbb8d29e",
+    "questions": [
+      "Làm thế nào để biết liệu tôi đủ điều kiện để miễn nộp học phí hay không?"
+    ]
+  },
+  {
+    "id": "6f68be95-bfe2-4f21-a38c-12b209bc6aef",
+    "questions": [
+      "Có quy tắc hay điều kiện nào khiến việc miễn nộp học phí không được chấp nhận?"
+    ]
+  },
+  {
+    "id": "53d17e54-5287-4751-b09c-3d10eb940b3c",
+    "questions": [
+      "Tôi cần liên hệ với ai để thảo luận về việc miễn nộp học phí?"
+    ]
+  },
+  {
+    "id": "6be1d54f-a254-47af-b700-b49eedf75aad",
+    "questions": [
+      "Có nguồn thông tin nào về quy trình miễn nộp học phí không?"
+    ]
+  },
+  {
+    "id": "f82ecc63-08ee-48b5-b2a6-8475a8818325",
+    "questions": [
       "Tôi cần làm gì để bắt đầu quá trình đề xuất miễn nộp học phí?"
     ]
   },
   {
-    "id": "06cebe7c-6b26-459b-a34a-764d421af40e",
+    "id": "438d7fb5-a5fa-4bfb-9e2f-c41b5a31c918",
     "questions": [
-      "Tôi có thể xin giảm học phí không?",
-      "Tôi có thể xin nhà trường giảm học phí không?",
-      "Làm thế nào để đề xuất việc giảm học phí?",
-      "Có chính sách nào cho việc giảm học phí không?",
-      "Ở đâu có thông tin về quy định giảm học phí?",
-      "Có thủ tục cụ thể nào để yêu cầu giảm học phí?",
-      "Làm thế nào để biết liệu tôi đủ điều kiện để xin giảm học phí hay không?",
-      "Có quy tắc hay điều kiện nào khiến việc xin giảm học phí không được chấp nhận?",
-      "Tôi cần liên hệ với ai để thảo luận về việc xin giảm học phí?",
-      "Có nguồn thông tin nào về quy trình xin giảm học phí không?",
+      "Tôi có thể xin giảm học phí không?"
+    ]
+  },
+  {
+    "id": "5d2602d2-a536-4ce6-b521-05713704f707",
+    "questions": [
+      "Tôi có thể xin nhà trường giảm học phí không?"
+    ]
+  },
+  {
+    "id": "b0a54082-54da-414e-b4ab-ddbf994a44da",
+    "questions": [
+      "Làm thế nào để đề xuất việc giảm học phí?"
+    ]
+  },
+  {
+    "id": "16927173-75e0-43f5-a7c3-e4254c7651df",
+    "questions": [
+      "Có chính sách nào cho việc giảm học phí không?"
+    ]
+  },
+  {
+    "id": "1c9124d8-3d90-4971-88e3-ce24a36ed0e4",
+    "questions": [
+      "Ở đâu có thông tin về quy định giảm học phí?"
+    ]
+  },
+  {
+    "id": "820149cd-6c78-4a31-a353-314517caab79",
+    "questions": [
+      "Có thủ tục cụ thể nào để yêu cầu giảm học phí?"
+    ]
+  },
+  {
+    "id": "e1278562-d618-4819-a630-dcb5e609eb1f",
+    "questions": [
+      "Làm thế nào để biết liệu tôi đủ điều kiện để xin giảm học phí hay không?"
+    ]
+  },
+  {
+    "id": "bbd06395-c0f9-49a7-a02c-c195188af8ca",
+    "questions": [
+      "Có quy tắc hay điều kiện nào khiến việc xin giảm học phí không được chấp nhận?"
+    ]
+  },
+  {
+    "id": "ddd1c755-0368-4342-9217-ca255b0a2891",
+    "questions": [
+      "Tôi cần liên hệ với ai để thảo luận về việc xin giảm học phí?"
+    ]
+  },
+  {
+    "id": "821a4c6a-2a5d-466a-b85c-b2c00a8e45fc",
+    "questions": [
+      "Có nguồn thông tin nào về quy trình xin giảm học phí không?"
+    ]
+  },
+  {
+    "id": "45f333d0-a5c8-4779-95f1-1753a10fce48",
+    "questions": [
       "Tôi cần làm gì để bắt đầu quá trình đề xuất xin giảm học phí?"
     ]
   },
   {
-    "id": "a3ed5926-1212-4b2c-ab12-66e4d082f401",
+    "id": "2631db7e-025a-4233-ada7-34007d34e76b",
     "questions": [
-      "Học phí của sinh viên vừa học vừa làm được tính như thế nào?",
-      "Học phí của sinh viên vừa học vừa làm được tính toán như thế nào?",
-      "Quy tắc tính học phí đối với sinh viên học và làm việc là gì?",
-      "Làm thế nào để xác định chi phí học phí cho sinh viên học và làm việc?",
-      "Có chương trình học phí đặc biệt cho sinh viên học và làm việc không?",
-      "Tính toán học phí như thế nào đối với sinh viên có lịch trình học và làm việc linh hoạt?",
-      "Có ưu đãi nào về học phí cho sinh viên cả ngày làm và học không?",
-      "Làm thế nào để biết chi phí học phí cho sinh viên học và làm việc có thể được giảm?",
-      "Có chính sách hỗ trợ tài chính nào dành cho sinh viên học và làm việc không?",
-      "Nguyên tắc tính học phí có thay đổi khi học và làm việc không?",
+      "Học phí của sinh viên vừa học vừa làm được tính toán như thế nào?"
+    ]
+  },
+  {
+    "id": "7d75161a-4044-4370-ad04-2a0ac051e590",
+    "questions": [
+      "Quy tắc tính học phí đối với sinh viên học và làm việc là gì?"
+    ]
+  },
+  {
+    "id": "6d472ef0-2161-47b7-9bb0-7921d257f1b7",
+    "questions": [
+      "Làm thế nào để xác định chi phí học phí cho sinh viên học và làm việc?"
+    ]
+  },
+  {
+    "id": "7bc958fe-a3d4-44fa-a845-0dbe97142b4e",
+    "questions": [
+      "Có chương trình học phí đặc biệt cho sinh viên học và làm việc không?"
+    ]
+  },
+  {
+    "id": "251c17be-2b95-4cd3-8060-c007f49d9f6c",
+    "questions": [
+      "Tính toán học phí như thế nào đối với sinh viên có lịch trình học và làm việc linh hoạt?"
+    ]
+  },
+  {
+    "id": "a904d109-80a5-48a5-be1e-f4c65a788732",
+    "questions": [
+      "Có ưu đãi nào về học phí cho sinh viên cả ngày làm và học không?"
+    ]
+  },
+  {
+    "id": "5268213b-8e71-4b15-a4b0-ccae092cf3c3",
+    "questions": [
+      "Làm thế nào để biết chi phí học phí cho sinh viên học và làm việc có thể được giảm?"
+    ]
+  },
+  {
+    "id": "df66c326-4955-4097-a81f-c2390c151aaa",
+    "questions": [
+      "Có chính sách hỗ trợ tài chính nào dành cho sinh viên học và làm việc không?"
+    ]
+  },
+  {
+    "id": "c16a3fbd-9afc-4c3d-a286-f045b2452177",
+    "questions": [
+      "Nguyên tắc tính học phí có thay đổi khi học và làm việc không?"
+    ]
+  },
+  {
+    "id": "a736bd99-f975-4ec7-990f-f8c6c6202879",
+    "questions": [
       "Có cơ hội nhận học bổng hay hỗ trợ tài chính nào cho sinh viên học và làm việc không?"
     ]
   },
   {
-    "id": "299ecb49-9703-4ca2-9815-cf2d7b6bc5ec",
+    "id": "ff813c24-d776-44f9-9f9e-074aca36d628",
     "questions": [
-      "Sinh viên VLVH có học chung với sinh viên CQ không?",
-      "Sinh viên VLVH có được học chung với sinh viên CQ không?",
-      "Liệu sinh viên học từ xa và sinh viên chính quy có thể học chung không?",
-      "Có cơ hội học chung giữa sinh viên VLVH và sinh viên CQ không?",
-      "Tồn tại chương trình học nào cho phép sinh viên VLVH học chung với sinh viên CQ không?",
-      "Làm thế nào để biết liệu có khả năng học chung giữa hai nhóm sinh viên này hay không?",
-      "Có lớp học hoặc khóa học nào mà cả hai loại sinh viên này có thể tham gia không?",
-      "Có quy định nào về việc học chung giữa sinh viên VLVH và sinh viên CQ không?",
-      "Làm thế nào để tìm hiểu về cơ hội học chung giữa hai nhóm sinh viên này?",
-      "Tính năng học chung là một phần quan trọng của chương trình học không?",
+      "Sinh viên VLVH có được học chung với sinh viên CQ không?"
+    ]
+  },
+  {
+    "id": "1006975d-d386-4fc7-8dad-f2e09b6d59eb",
+    "questions": [
+      "Liệu sinh viên học từ xa và sinh viên chính quy có thể học chung không?"
+    ]
+  },
+  {
+    "id": "32cbfd06-0431-4efa-9310-04b3e96c6a1b",
+    "questions": [
+      "Có cơ hội học chung giữa sinh viên VLVH và sinh viên CQ không?"
+    ]
+  },
+  {
+    "id": "e887dddf-3faa-4ea2-9f29-3764ae2cca5a",
+    "questions": [
+      "Tồn tại chương trình học nào cho phép sinh viên VLVH học chung với sinh viên CQ không?"
+    ]
+  },
+  {
+    "id": "13d2916e-4242-487b-b42d-a05bc78d0e18",
+    "questions": [
+      "Làm thế nào để biết liệu có khả năng học chung giữa hai nhóm sinh viên này hay không?"
+    ]
+  },
+  {
+    "id": "b93785a3-0842-4bac-8a26-d335efd0dddc",
+    "questions": [
+      "Có lớp học hoặc khóa học nào mà cả hai loại sinh viên này có thể tham gia không?"
+    ]
+  },
+  {
+    "id": "99cc4434-c70f-4685-9d70-1c52c1274cc2",
+    "questions": [
+      "Có quy định nào về việc học chung giữa sinh viên VLVH và sinh viên CQ không?"
+    ]
+  },
+  {
+    "id": "0cd40d3b-4ff7-4288-b3d9-c4427e8f1cef",
+    "questions": [
+      "Làm thế nào để tìm hiểu về cơ hội học chung giữa hai nhóm sinh viên này?"
+    ]
+  },
+  {
+    "id": "10decf72-cd93-4c45-aa4d-3836ce322d14",
+    "questions": [
+      "Tính năng học chung là một phần quan trọng của chương trình học không?"
+    ]
+  },
+  {
+    "id": "78fe3d9d-1e75-403f-bca0-a20fd7718433",
+    "questions": [
       "Có sự tương tác nào giữa sinh viên VLVH và sinh viên CQ trong quá trình học không?"
     ]
   },
   {
-    "id": "61dc43ef-ce17-49e2-a338-17359aae1bed",
+    "id": "3aab41d5-8485-4176-8edb-ebd02d7f0d77",
     "questions": [
-      "SV VLVH học chung với SV chính quy theo lịch như thế nào?",
-      "SV VLVH được học chung với SV chính quy theo lịch như thế nào?",
-      "Lịch học chung giữa SV VLVH và SV chính quy như thế nào?",
-      "Có kế hoạch lịch trình cụ thể nào cho việc học chung giữa hai nhóm sinh viên này không?",
-      "Sinh viên VLVH và sinh viên chính quy có lịch học chung đều đặn không?",
-      "Làm thế nào để biết về thời gian học chung giữa SV VLVH và SV chính quy?",
-      "Có khung giờ cố định nào cho việc học chung giữa hai nhóm sinh viên này không?",
-      "Có sự linh hoạt nào trong lịch học chung giữa SV VLVH và SV chính quy không?",
-      "Lịch trình học chung có thay đổi theo từng kỳ học không?",
-      "Làm thế nào để xác định lịch học chung giữa SV VLVH và SV chính quy?",
+      "SV VLVH được học chung với SV chính quy theo lịch như thế nào?"
+    ]
+  },
+  {
+    "id": "3182287f-3a17-4258-a730-f9b17519ec86",
+    "questions": [
+      "Lịch học chung giữa SV VLVH và SV chính quy như thế nào?"
+    ]
+  },
+  {
+    "id": "2979fc4e-6ef3-424d-93af-3617ef7fc3cd",
+    "questions": [
+      "Có kế hoạch lịch trình cụ thể nào cho việc học chung giữa hai nhóm sinh viên này không?"
+    ]
+  },
+  {
+    "id": "50599ac8-d95e-465c-9398-e95e1b479339",
+    "questions": [
+      "Sinh viên VLVH và sinh viên chính quy có lịch học chung đều đặn không?"
+    ]
+  },
+  {
+    "id": "50d5dce8-532b-4c31-a542-3699d6f4cb32",
+    "questions": [
+      "Làm thế nào để biết về thời gian học chung giữa SV VLVH và SV chính quy?"
+    ]
+  },
+  {
+    "id": "6f5979d5-eb6a-4fb2-a131-fafd8b512f63",
+    "questions": [
+      "Có khung giờ cố định nào cho việc học chung giữa hai nhóm sinh viên này không?"
+    ]
+  },
+  {
+    "id": "343c7d4e-aa50-4c64-85af-a588038bc6f1",
+    "questions": [
+      "Có sự linh hoạt nào trong lịch học chung giữa SV VLVH và SV chính quy không?"
+    ]
+  },
+  {
+    "id": "4fa46618-21d4-4d18-aa90-21815f952f30",
+    "questions": [
+      "Lịch trình học chung có thay đổi theo từng kỳ học không?"
+    ]
+  },
+  {
+    "id": "7a7dba99-8de7-4b9f-907a-bbd2518e6401",
+    "questions": [
+      "Làm thế nào để xác định lịch học chung giữa SV VLVH và SV chính quy?"
+    ]
+  },
+  {
+    "id": "0a2c50fd-932d-4c3f-9eb8-a3d91d5cf1ef",
+    "questions": [
       "Có thông tin chi tiết về lịch học chung như thế nào giữa hai nhóm sinh viên này không?"
     ]
   },
   {
-    "id": "9d866a87-473d-4d0f-a901-c90cbc9e88ff",
+    "id": "550c926a-56d6-4dda-93dd-01cc2ae8ad1f",
     "questions": [
-      "Tại sao Học kỳ dự thính hè có đơn giá học phí khác so với các Học kỳ chính?",
-      "Tại sao Học kỳ dự thính hè có đơn giá học phí không giống so với các Học kỳ chính?",
-      "Lý do gì khiến đơn giá học phí của Học kỳ dự thính hè khác biệt so với các Học kỳ chính?",
-      "Có chính sách cụ thể nào làm cho học phí của Học kỳ dự thính hè khác nhau không?",
-      "Ở đâu có thông tin chi tiết về sự chênh lệch về học phí giữa Học kỳ dự thính hè và các Học kỳ chính?",
-      "Có những ưu đãi hay chiết khấu nào được áp dụng cho học phí của Học kỳ dự thính hè?",
-      "Làm thế nào để biết về chính sách đặc biệt liên quan đến học phí của Học kỳ dự thính hè?",
-      "Tại sao chi phí đào tạo trong Học kỳ dự thính hè có thể khác nhau so với Học kỳ chính?",
-      "Có những yếu tố nào ảnh hưởng đến việc xác định đơn giá học phí cho Học kỳ dự thính hè?",
-      "Liệu có sự thay đổi trong nội dung giảng dạy hay cơ hội học vụ nào làm cho học phí khác biệt?",
+      "Tại sao Học kỳ dự thính hè có đơn giá học phí không giống so với các Học kỳ chính?"
+    ]
+  },
+  {
+    "id": "467d682d-b8a4-467a-be4b-caaac43e4bbd",
+    "questions": [
+      "Lý do gì khiến đơn giá học phí của Học kỳ dự thính hè khác biệt so với các Học kỳ chính?"
+    ]
+  },
+  {
+    "id": "1d8b34b6-5226-4baf-9aaf-82aab7430533",
+    "questions": [
+      "Có chính sách cụ thể nào làm cho học phí của Học kỳ dự thính hè khác nhau không?"
+    ]
+  },
+  {
+    "id": "1431f996-9a35-44ce-b524-1d176c38c1bf",
+    "questions": [
+      "Ở đâu có thông tin chi tiết về sự chênh lệch về học phí giữa Học kỳ dự thính hè và các Học kỳ chính?"
+    ]
+  },
+  {
+    "id": "6b110010-e517-447b-a429-1d6b183abb33",
+    "questions": [
+      "Có những ưu đãi hay chiết khấu nào được áp dụng cho học phí của Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "66039260-2f29-4dfc-906a-c98764c30d39",
+    "questions": [
+      "Làm thế nào để biết về chính sách đặc biệt liên quan đến học phí của Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "592df5e7-1d36-40a1-a5c5-6c9420102458",
+    "questions": [
+      "Tại sao chi phí đào tạo trong Học kỳ dự thính hè có thể khác nhau so với Học kỳ chính?"
+    ]
+  },
+  {
+    "id": "f3c047d0-251a-4f44-a4ef-a0ad34f368e4",
+    "questions": [
+      "Có những yếu tố nào ảnh hưởng đến việc xác định đơn giá học phí cho Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "75407145-df97-4961-9960-43c6486c255d",
+    "questions": [
+      "Liệu có sự thay đổi trong nội dung giảng dạy hay cơ hội học vụ nào làm cho học phí khác biệt?"
+    ]
+  },
+  {
+    "id": "f601787f-4c38-41b7-99e3-bda096c66cee",
+    "questions": [
       "Làm thế nào để hiểu rõ hơn về lý do chi phí học phí trong Học kỳ dự thính hè khác nhau?"
     ]
   },
   {
-    "id": "8ad0d2de-a60d-42f1-b51c-ee1c089e33af",
+    "id": "4d1abe9c-ce73-4730-8194-8b16ac1b63f7",
     "questions": [
-      "Cách tính học kỳ dự thính hè",
-      "Cách tính học kỳ dự thính hè là gì?",
-      "Cách tính học kỳ dự thính hè như thế nào?",
-      "Làm thế nào để tính chi phí học kỳ dự thính hè?",
-      "Có quy tắc cụ thể nào cho việc tính học phí trong Học kỳ dự thính hè không?",
-      "Các yếu tố nào ảnh hưởng đến cách tính học phí cho Học kỳ dự thính hè?",
-      "Làm thế nào để biết đơn giá học phí cho Học kỳ dự thính hè được xác định?",
-      "Có sự chênh lệch trong cách tính học phí giữa Học kỳ dự thính hè và các Học kỳ chính không?",
-      "Tính toán học phí cho Học kỳ dự thính hè có dựa trên số tín chỉ hay không?",
-      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán trong Học kỳ dự thính hè?",
-      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho Học kỳ dự thính hè?",
+      "Cách tính học kỳ dự thính hè là gì?"
+    ]
+  },
+  {
+    "id": "f0499819-222f-4e98-9c8b-49569c5bd2d9",
+    "questions": [
+      "Cách tính học kỳ dự thính hè như thế nào?"
+    ]
+  },
+  {
+    "id": "aabd98dd-85f3-45c3-8e2f-b1fb4d5b74cc",
+    "questions": [
+      "Làm thế nào để tính chi phí học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "c6429add-119a-402c-a813-a1ef1518dc6f",
+    "questions": [
+      "Có quy tắc cụ thể nào cho việc tính học phí trong Học kỳ dự thính hè không?"
+    ]
+  },
+  {
+    "id": "80e31c66-e999-4115-955a-6f0ab6d894b1",
+    "questions": [
+      "Các yếu tố nào ảnh hưởng đến cách tính học phí cho Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "7b63644d-d4c2-49be-95b4-2eb966da5252",
+    "questions": [
+      "Làm thế nào để biết đơn giá học phí cho Học kỳ dự thính hè được xác định?"
+    ]
+  },
+  {
+    "id": "16cd3a7e-76ba-493b-b35c-b86fb0981cb5",
+    "questions": [
+      "Có sự chênh lệch trong cách tính học phí giữa Học kỳ dự thính hè và các Học kỳ chính không?"
+    ]
+  },
+  {
+    "id": "49866769-2d94-4e8e-8d21-81a9729f724b",
+    "questions": [
+      "Tính toán học phí cho Học kỳ dự thính hè có dựa trên số tín chỉ hay không?"
+    ]
+  },
+  {
+    "id": "0758ec0a-ecd8-49c1-893f-d34df85a92e2",
+    "questions": [
+      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán trong Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "7c1fbb52-bad9-4e05-ba41-338c3b8bcac9",
+    "questions": [
+      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "d49b36e0-457a-4600-b353-f486c029c840",
+    "questions": [
       "Có chính sách hay chiết khấu nào được áp dụng khi tính học phí cho Học kỳ dự thính hè không?"
     ]
   },
   {
-    "id": "aeee5a08-8400-432d-9373-938f5eeddb9a",
+    "id": "28bfa5b2-e467-4459-a984-5b72408330e4",
     "questions": [
-      "Cách tính học kỳ dự thính hè đối với khóa tính học phí trọn gói",
-      "Cách tính học kỳ dự thính hè đối với khóa tính học phí trọn gói là gì?",
-      "Làm thế nào để tính chi phí học kỳ dự thính hè khi sử dụng khóa tính học phí trọn gói?",
-      "Có quy tắc cụ thể nào cho việc tính học phí trọn gói trong Học kỳ dự thính hè không?",
-      "Các yếu tố nào ảnh hưởng đến cách tính học phí khi sử dụng khóa tính học phí trọn gói cho Học kỳ dự thính hè?",
-      "Làm thế nào để biết đơn giá học phí khi sử dụng khóa tính học phí trọn gói cho Học kỳ dự thính hè được xác định?",
-      "Có sự chênh lệch trong cách tính học phí giữa Học kỳ dự thính hè và các Học kỳ chính khi sử dụng khóa tính học phí trọn gói không?",
-      "Tính toán học phí cho Học kỳ dự thính hè có dựa trên số tín chỉ hay không khi sử dụng khóa tính học phí trọn gói?",
-      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán trong Học kỳ dự thính hè khi sử dụng khóa tính học phí trọn gói?",
-      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho Học kỳ dự thính hè khi sử dụng khóa tính học phí trọn gói?",
+      "Cách tính học kỳ dự thính hè đối với khóa tính học phí trọn gói là gì?"
+    ]
+  },
+  {
+    "id": "6eb75da0-0cd8-4b68-b333-b037509193ac",
+    "questions": [
+      "Làm thế nào để tính chi phí học kỳ dự thính hè khi sử dụng khóa tính học phí trọn gói?"
+    ]
+  },
+  {
+    "id": "3aefe04a-2bd7-4ff6-93bd-91a49fc70cde",
+    "questions": [
+      "Có quy tắc cụ thể nào cho việc tính học phí trọn gói trong Học kỳ dự thính hè không?"
+    ]
+  },
+  {
+    "id": "9bde2e93-983b-4661-ab21-c20314afa79b",
+    "questions": [
+      "Các yếu tố nào ảnh hưởng đến cách tính học phí khi sử dụng khóa tính học phí trọn gói cho Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "5fda0fbd-71bd-4fa2-aff8-d9160dbc5f16",
+    "questions": [
+      "Làm thế nào để biết đơn giá học phí khi sử dụng khóa tính học phí trọn gói cho Học kỳ dự thính hè được xác định?"
+    ]
+  },
+  {
+    "id": "ea7c447e-82d9-4919-a2ea-a22b5641faf4",
+    "questions": [
+      "Có sự chênh lệch trong cách tính học phí giữa Học kỳ dự thính hè và các Học kỳ chính khi sử dụng khóa tính học phí trọn gói không?"
+    ]
+  },
+  {
+    "id": "bfa49431-698c-45ea-8494-a339d870b2ce",
+    "questions": [
+      "Tính toán học phí cho Học kỳ dự thính hè có dựa trên số tín chỉ hay không khi sử dụng khóa tính học phí trọn gói?"
+    ]
+  },
+  {
+    "id": "90f451a3-36d3-459a-9749-6fe8a4273b66",
+    "questions": [
+      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán trong Học kỳ dự thính hè khi sử dụng khóa tính học phí trọn gói?"
+    ]
+  },
+  {
+    "id": "56f52fe6-274c-4c16-a791-6945bc9d1bd7",
+    "questions": [
+      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho Học kỳ dự thính hè khi sử dụng khóa tính học phí trọn gói?"
+    ]
+  },
+  {
+    "id": "df4447be-4b16-41e9-881c-c7388cc7d3d3",
+    "questions": [
       "Có chính sách hay chiết khấu nào được áp dụng khi tính học phí cho Học kỳ dự thính hè với khóa tính học phí trọn gói không?"
     ]
   },
   {
-    "id": "4cc95280-6ab1-4f32-9be2-dc02368dface",
+    "id": "01ee3561-25b0-466d-8099-ad182920751b",
     "questions": [
-      "Cách tính học kỳ dự thính hè đối với khóa tính học phí theo tín chỉ",
-      "Cách tính học kỳ dự thính hè đối với khóa tính học phí theo tín chỉ là gì?",
-      "Làm thế nào để tính chi phí học kỳ dự thính hè khi sử dụng khóa tính học phí theo tín chỉ?",
-      "Có quy tắc cụ thể nào cho việc tính học phí theo tín chỉ trong Học kỳ dự thính hè không?",
-      "Các yếu tố nào ảnh hưởng đến cách tính học phí khi sử dụng khóa tính học phí theo tín chỉ cho Học kỳ dự thính hè?",
-      "Làm thế nào để biết đơn giá học phí khi sử dụng khóa tính học phí theo tín chỉ cho Học kỳ dự thính hè được xác định?",
-      "Có sự chênh lệch trong cách tính học phí giữa Học kỳ dự thính hè và các Học kỳ chính khi sử dụng khóa tính học phí theo tín chỉ không?",
-      "Tính toán học phí cho Học kỳ dự thính hè có dựa trên số tín chỉ hay không khi sử dụng khóa tính học phí theo tín chỉ?",
-      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán trong Học kỳ dự thính hè khi sử dụng khóa tính học phí theo tín chỉ?",
-      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho Học kỳ dự thính hè khi sử dụng khóa tính học phí theo tín chỉ?",
+      "Cách tính học kỳ dự thính hè đối với khóa tính học phí theo tín chỉ là gì?"
+    ]
+  },
+  {
+    "id": "d9a57a6f-d224-4799-aa82-8b2daf71f9b4",
+    "questions": [
+      "Làm thế nào để tính chi phí học kỳ dự thính hè khi sử dụng khóa tính học phí theo tín chỉ?"
+    ]
+  },
+  {
+    "id": "fce06ad9-5f7b-4c5e-ac85-b5e6abf663fd",
+    "questions": [
+      "Có quy tắc cụ thể nào cho việc tính học phí theo tín chỉ trong Học kỳ dự thính hè không?"
+    ]
+  },
+  {
+    "id": "1c724f00-6048-4833-9259-57873d401837",
+    "questions": [
+      "Các yếu tố nào ảnh hưởng đến cách tính học phí khi sử dụng khóa tính học phí theo tín chỉ cho Học kỳ dự thính hè?"
+    ]
+  },
+  {
+    "id": "3726fb10-3ea8-4b0a-a2e8-81dd606cb26d",
+    "questions": [
+      "Làm thế nào để biết đơn giá học phí khi sử dụng khóa tính học phí theo tín chỉ cho Học kỳ dự thính hè được xác định?"
+    ]
+  },
+  {
+    "id": "27ebbeb5-2458-4da7-8642-4da5388b557b",
+    "questions": [
+      "Có sự chênh lệch trong cách tính học phí giữa Học kỳ dự thính hè và các Học kỳ chính khi sử dụng khóa tính học phí theo tín chỉ không?"
+    ]
+  },
+  {
+    "id": "fcf0fd8f-bcd2-4f5b-a1db-a15a9cadb306",
+    "questions": [
+      "Tính toán học phí cho Học kỳ dự thính hè có dựa trên số tín chỉ hay không khi sử dụng khóa tính học phí theo tín chỉ?"
+    ]
+  },
+  {
+    "id": "b4b07e3a-f8f1-450e-91c0-b7343b59f758",
+    "questions": [
+      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán trong Học kỳ dự thính hè khi sử dụng khóa tính học phí theo tín chỉ?"
+    ]
+  },
+  {
+    "id": "0da2b322-1b15-42bc-a691-ef9d23ef3e69",
+    "questions": [
+      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho Học kỳ dự thính hè khi sử dụng khóa tính học phí theo tín chỉ?"
+    ]
+  },
+  {
+    "id": "345a7d2b-b8c7-48c1-9a02-da492dc076cf",
+    "questions": [
       "Có chính sách hay chiết khấu nào được áp dụng khi tính học phí cho Học kỳ dự thính hè với khóa tính học phí theo tín chỉ không?"
     ]
   },
   {
-    "id": "8975e9e3-cc28-476e-90f3-776cfc1e0dec",
+    "id": "f968ab79-c5fa-410b-bafe-af379726b80b",
     "questions": [
-      "Các môn hướng dẫn được tính như thế nào ở học kỳ hè",
-      "Các môn hướng dẫn được tính học kỳ hè như thế nào?",
-      "Làm thế nào để tính chi phí các môn hướng dẫn trong học kỳ hè?",
-      "Có quy tắc cụ thể nào cho việc tính học phí các môn hướng dẫn ở học kỳ hè không?",
-      "Các yếu tố nào ảnh hưởng đến cách tính học phí của các môn hướng dẫn trong học kỳ hè?",
-      "Làm thế nào để biết đơn giá học phí của các môn hướng dẫn ở học kỳ hè được xác định?",
-      "Có sự chênh lệch trong cách tính học phí của các môn hướng dẫn giữa học kỳ hè và các học kỳ chính không?",
-      "Tính toán học phí cho các môn hướng dẫn ở học kỳ hè có dựa trên số tín chỉ hay không?",
-      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán cho các môn hướng dẫn trong học kỳ hè?",
-      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho các môn hướng dẫn ở học kỳ hè?",
+      "Các môn hướng dẫn được tính học kỳ hè như thế nào?"
+    ]
+  },
+  {
+    "id": "1065e97a-7047-42ae-bd43-fee8f827d2eb",
+    "questions": [
+      "Làm thế nào để tính chi phí các môn hướng dẫn trong học kỳ hè?"
+    ]
+  },
+  {
+    "id": "90a8eb95-5bae-409c-8e15-ffa95395ae80",
+    "questions": [
+      "Có quy tắc cụ thể nào cho việc tính học phí các môn hướng dẫn ở học kỳ hè không?"
+    ]
+  },
+  {
+    "id": "2a2f6651-bc36-4d0f-b906-122a2c02fd43",
+    "questions": [
+      "Các yếu tố nào ảnh hưởng đến cách tính học phí của các môn hướng dẫn trong học kỳ hè?"
+    ]
+  },
+  {
+    "id": "18bf72a2-64d3-4dd8-90b0-f1f36146eb9b",
+    "questions": [
+      "Làm thế nào để biết đơn giá học phí của các môn hướng dẫn ở học kỳ hè được xác định?"
+    ]
+  },
+  {
+    "id": "9f88e327-0805-4d9c-9ef4-8a9448606391",
+    "questions": [
+      "Có sự chênh lệch trong cách tính học phí của các môn hướng dẫn giữa học kỳ hè và các học kỳ chính không?"
+    ]
+  },
+  {
+    "id": "0d61b247-5c24-4af3-aaa0-7bdbf1c5afda",
+    "questions": [
+      "Tính toán học phí cho các môn hướng dẫn ở học kỳ hè có dựa trên số tín chỉ hay không?"
+    ]
+  },
+  {
+    "id": "6d369406-52cb-47c3-8753-67503bf41501",
+    "questions": [
+      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán cho các môn hướng dẫn trong học kỳ hè?"
+    ]
+  },
+  {
+    "id": "13f72390-a2bd-40b1-af66-0729954c7e35",
+    "questions": [
+      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho các môn hướng dẫn ở học kỳ hè?"
+    ]
+  },
+  {
+    "id": "3af5975e-8552-44d9-8a8a-b69c545aa358",
+    "questions": [
       "Có chính sách hay chiết khấu nào được áp dụng khi tính học phí cho các môn hướng dẫn ở học kỳ hè không?"
     ]
   },
   {
-    "id": "6a0393d6-c6d5-41d3-86c2-c694088225e5",
+    "id": "c58e97e1-9e26-419e-9dd9-a888705b05dd",
     "questions": [
-      "Đồ án được tính như thế nào ở học kỳ hè",
-      "Đồ án ở học kỳ hè được tính như thế nào?",
-      "Làm thế nào để tính chi phí cho đồ án ở học kỳ hè?",
-      "Có quy tắc cụ thể nào cho việc tính học phí đồ án ở học kỳ hè không?",
-      "Các yếu tố nào ảnh hưởng đến cách tính học phí của đồ án trong học kỳ hè?",
-      "Làm thế nào để biết đơn giá học phí cho đồ án ở học kỳ hè được xác định?",
-      "Có sự chênh lệch trong cách tính học phí của đồ án giữa học kỳ hè và các học kỳ chính không?",
-      "Tính toán học phí cho đồ án ở học kỳ hè có dựa trên số tín chỉ hay không?",
-      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán cho đồ án ở học kỳ hè?",
-      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho đồ án ở học kỳ hè?",
+      "Đồ án ở học kỳ hè được tính như thế nào?"
+    ]
+  },
+  {
+    "id": "4e618d1f-c726-446c-80f5-b1f1c21bfaac",
+    "questions": [
+      "Làm thế nào để tính chi phí cho đồ án ở học kỳ hè?"
+    ]
+  },
+  {
+    "id": "8fa70bf2-7fdb-4ee3-94cd-4e8bdeade43f",
+    "questions": [
+      "Có quy tắc cụ thể nào cho việc tính học phí đồ án ở học kỳ hè không?"
+    ]
+  },
+  {
+    "id": "968c1425-31d0-4c6b-9f2f-5e30ccdb615c",
+    "questions": [
+      "Các yếu tố nào ảnh hưởng đến cách tính học phí của đồ án trong học kỳ hè?"
+    ]
+  },
+  {
+    "id": "312a030c-9ee4-48a5-8146-2c5813f9370f",
+    "questions": [
+      "Làm thế nào để biết đơn giá học phí cho đồ án ở học kỳ hè được xác định?"
+    ]
+  },
+  {
+    "id": "72fbadd2-e535-4ba1-a099-174b541b61c3",
+    "questions": [
+      "Có sự chênh lệch trong cách tính học phí của đồ án giữa học kỳ hè và các học kỳ chính không?"
+    ]
+  },
+  {
+    "id": "a991d960-f628-4b5c-a9fa-722f1e4065de",
+    "questions": [
+      "Tính toán học phí cho đồ án ở học kỳ hè có dựa trên số tín chỉ hay không?"
+    ]
+  },
+  {
+    "id": "eaceaf05-d857-41e7-bef2-709e810bba18",
+    "questions": [
+      "Có những khoản phí nào khác ngoài học phí cần phải thanh toán cho đồ án ở học kỳ hè?"
+    ]
+  },
+  {
+    "id": "f894a656-1471-4395-ab09-3eb36ff2bb06",
+    "questions": [
+      "Làm thế nào để hiểu rõ hơn về quy trình tính học phí cho đồ án ở học kỳ hè?"
+    ]
+  },
+  {
+    "id": "55dedcdc-43b5-4696-923e-9e1ba717288b",
+    "questions": [
       "Có chính sách hay chiết khấu nào được áp dụng khi tính học phí cho đồ án ở học kỳ hè không?"
     ]
   }

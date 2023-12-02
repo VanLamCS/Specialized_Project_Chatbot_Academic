@@ -11,7 +11,7 @@ def is_valid_uuid(value):
 
 
 def main():
-    datasetBase = "./dataset/"
+    datasetBase = "./test/data/"
     print("Input file name: ")
     fileName = input()
     if fileName == "":
@@ -22,14 +22,14 @@ def main():
     try:
         with open(fileName, "rb") as f:
             trainObj = json.load(f)
-        dataTrains = trainObj["train"]["data"]
+        dataTrains = trainObj["data"]
 
         uniqueId = ""
 
         for i in range(len(dataTrains)):
             if not is_valid_uuid(dataTrains[i]["id"]):
                 uniqueId = str(uuid.uuid4())
-                trainObj["train"]["data"][i]["id"] = uniqueId
+                trainObj["data"][i]["id"] = uniqueId
 
         with open(fileName, "w", encoding="utf-8") as f:
             json.dump(trainObj, f, ensure_ascii=False, indent=2)

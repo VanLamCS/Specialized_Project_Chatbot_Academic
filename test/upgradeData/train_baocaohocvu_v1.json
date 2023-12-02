@@ -2,220 +2,660 @@
   {
     "id": "fcc0e896-2eaf-4204-9296-45bad7ec089b",
     "questions": [
-      "Hồ sơ học phần bao gồm những thành phần nào?",
-      "Hồ sơ học phần bao gồm những gì?",
-      "Các phần tử nào thường được tích hợp vào hồ sơ học phần?",
-      "Những thành phần cụ thể nào thường có trong hồ sơ học phần?",
-      "Hồ sơ học phần bao gồm những cái gì?",
-      "Có những phần nào tạo thành hồ sơ học phần?",
-      "Bên trong hồ sơ học phần có chứa đề cương học phần và bảng điểm không?",
-      "Những phần tử cơ bản nào thường xuất hiện trong hồ sơ học phần?",
-      "Điều gì cấu thành hồ sơ học phần?",
-      "Có gì được tổng hợp lại để tạo thành hồ sơ học phần?",
-      "Hồ sơ học phần thường bao gồm những gì trong quá trình học vụ?"
+      "Hồ sơ học phần bao gồm những thành phần nào?"
     ]
   },
   {
     "id": "df1c2bdc-695d-4e80-af73-661ab77c4864",
     "questions": [
-      "Hồ sơ học phần được lập bởi ai và trong trường hợp nào?",
-      "Ai thường là người lập hồ sơ học phần?",
-      "Ai chịu trách nhiệm tạo ra hồ sơ học phần?",
-      "Ai phụ trách việc chuẩn bị hồ sơ học phần?",
-      "Khi nào thì việc lập hồ sơ học phần thường diễn ra?",
-      "Đối tượng nào thường thực hiện việc tạo hồ sơ học phần?",
-      "Ai là người thường tham gia vào việc cung cấp thông tin cho hồ sơ học phần?"
+      "Hồ sơ học phần được lập bởi ai và trong trường hợp nào?"
     ]
   },
   {
     "id": "aab8952f-6642-4fe0-9d77-0e2d74f4f58f",
     "questions": [
-      "Nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?",
-      "Hồ sơ học phần của mỗi học phần được lưu trữ ở đâu?",
-      "Ở đâu thông thường lưu giữ hồ sơ học phần của từng học phần?",
-      "Nơi để lưu trữ hồ sơ học phần của mỗi môn học là gì?",
-      "Hồ sơ học phần của từng học phần thường được lưu ở đâu?",
-      "Ở đâu thường xuyên đựng hồ sơ học phần của mỗi môn học?"
+      "Nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?"
     ]
   },
   {
     "id": "3adb6a1f-7456-406e-b5eb-8dd1b941529b",
     "questions": [
-      "Hồ sơ học phần bao gồm các bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu và theo điều kiện nào?",
-      "Theo tiêu chuẩn nào, số lượng bài làm tiêu biểu trong hồ sơ học phần được xác định là bao nhiêu?",
-      "Theo quy định cụ thể, hồ sơ học phần yêu cầu bao nhiêu bài làm của sinh viên?",
-      "Theo các hướng dẫn, số bài làm cần thiết cho hồ sơ học phần là bao nhiêu?",
-      "Theo quy định của trường, số lượng bài làm đại diện được yêu cầu trong hồ sơ học phần là bao nhiêu?",
-      "Theo điều kiện đặc biệt nào, số bài làm trong hồ sơ học phần có thể được quy định là bao nhiêu?",
       "Hồ sơ học phần bao gồm các bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu và theo điều kiện nào?"
     ]
   },
   {
     "id": "e8a1b764-c816-4800-8339-17a69a55d7cf",
     "questions": [
-      "Nội dung ghi chú của các giảng viên trong hồ sơ học phần liên quan đến điều gì?",
-      "Trong hồ sơ học phần, thông tin ghi chú từ giảng viên thường tập trung vào điều gì?",
-      "Nội dung ghi chú mà giảng viên thêm vào hồ sơ học phần thường nhắc đến những khía cạnh nào?",
-      "Theo bạn, ghi chú từ giảng viên trong hồ sơ học phần thường đề cập đến điều gì?",
-      "Trong hồ sơ học phần, nội dung ghi chú của giảng viên thường liên quan đến các khía cạnh nào của học phần?"
+      "Nội dung ghi chú của các giảng viên trong hồ sơ học phần liên quan đến điều gì?"
     ]
   },
   {
     "id": "28f870ac-818e-4ea4-bec1-779d0eb1ee86",
     "questions": [
-      "Theo quy định, tài liệu và loại tài liệu nào liên quan đến học vụ phải được lưu trữ trong khoảng thời gian bao lâu?",
-      "Theo quy định, tài liệu học vụ cần được lưu trữ trong khoảng thời gian nào?",
-      "Quy định về lưu trữ tài liệu liên quan đến học vụ yêu cầu thời gian bảo quản là bao lâu?",
-      "Theo quy định hiện hành, loại tài liệu nào phải được lưu trữ trong một khoảng thời gian cụ thể?",
-      "Theo quy định, thời gian bảo quản tài liệu liên quan đến học vụ được xác định như thế nào?",
       "Theo quy định, các tài liệu và loại tài liệu liên quan đến học vụ phải được lưu trữ trong khoảng thời gian nào?"
     ]
   },
   {
     "id": "c9479b80-01ef-4dc0-aa04-19da71b7ff8b",
     "questions": [
-      "Hồ sơ học phần bao gồm đề cương học phần. Đề cương học phần được phụ trách bởi ai?",
-      "Ai là người chịu trách nhiệm quản lý đề cương học phần trong hồ sơ học phần?",
-      "Trách nhiệm chính của ai trong việc quản lý đề cương học phần trong hồ sơ học phần?",
-      "Đơn vị hoặc cá nhân nào phụ trách việc xây dựng đề cương học phần trong hồ sơ học phần?",
-      "Người nào có trách nhiệm cung cấp và duy trì thông tin đề cương học phần trong hồ sơ học phần?",
-      "Ai là người quyết định về nội dung của đề cương học phần trong hồ sơ học phần?",
       "Hồ sơ học phần bao gồm đề cương học phần. Đề cương học phần được phụ trách bởi ai?"
     ]
   },
   {
     "id": "46f3e09e-0d51-4200-bb69-c442145b49bd",
     "questions": [
-      "Hồ sơ học phần bao gồm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Đánh giá này được thực hiện bởi ai?",
-      "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên nhỏ hơn 15?",
-      "Trường hợp số lượng sinh viên nhỏ hơn 15, số lượng bài làm tiêu biểu được chọn trong hồ sơ học phần là bao nhiêu?",
-      "Nếu có ít hơn 15 sinh viên, số lượng bài làm tiêu biểu được chọn để đưa vào hồ sơ học phần là bao nhiêu?",
-      "Số lượng bài làm đại diện được lựa chọn cho hồ sơ học phần nếu số sinh viên ít hơn 15 là bao nhiêu?",
-      "Trong trường hợp ít hơn 15 sinh viên, số bài làm đại diện được chọn để đưa vào hồ sơ học phần là bao nhiêu?",
-      "Khi có ít hơn 15 sinh viên, số lượng bài làm đại diện được lựa chọn cho hồ sơ học phần là bao nhiêu?"
+      "Hồ sơ học phần bao gồm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Đánh giá này được thực hiện bởi ai?"
     ]
   },
   {
     "id": "45e393c0-c15c-4932-b37c-9a3f7c5a2a54",
     "questions": [
-      "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên nhỏ hơn 15?",
-      "Trường hợp số lượng sinh viên nhỏ hơn 15, số lượng bài làm tiêu biểu được chọn trong hồ sơ học phần là bao nhiêu?",
-      "Nếu có ít hơn 15 sinh viên, số lượng bài làm tiêu biểu được chọn để đưa vào hồ sơ học phần là bao nhiêu?",
-      "Số lượng bài làm đại diện được lựa chọn cho hồ sơ học phần nếu số sinh viên ít hơn 15 là bao nhiêu?",
-      "Trong trường hợp ít hơn 15 sinh viên, số bài làm đại diện được chọn để đưa vào hồ sơ học phần là bao nhiêu?",
-      "Khi có ít hơn 15 sinh viên, số lượng bài làm đại diện được lựa chọn cho hồ sơ học phần là bao nhiêu?"
+      "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên nhỏ hơn 15?"
     ]
   },
   {
     "id": "0eb0a9aa-01b3-4835-8136-2ec6fb6ad3b1",
     "questions": [
-      "Hồ sơ học phần bao gồm bài làm của sinh viên ở các mức xấu, trung bình, tốt. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?",
-      "Nếu có đúng 15 sinh viên, số lượng bài làm tiêu biểu được chọn cho mỗi mức xấu, trung bình và tốt là bao nhiêu trong hồ sơ học phần?",
-      "Trong trường hợp có chính xác 15 sinh viên, số lượng bài làm tiêu biểu được lựa chọn cho mỗi mức đánh giá xấu, trung bình và tốt là bao nhiêu?",
-      "Khi số lượng sinh viên là chính xác 15, số bài làm tiêu biểu được chọn cho mỗi mức độ (xấu, trung bình, tốt) là bao nhiêu trong hồ sơ học phần?"
+      "Hồ sơ học phần bao gồm bài làm của sinh viên ở các mức xấu, trung bình, tốt. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?"
     ]
   },
   {
     "id": "d5ccfdd8-9b9c-42d7-9161-7f99feea1169",
     "questions": [
-      "Hồ sơ học phần bao gồm bảng điểm. Bản gốc của bảng điểm được lưu trữ theo quy định của ai?",
-      "Theo quy định, bản gốc của bảng điểm trong hồ sơ học phần được lưu trữ theo nguyên tắc của ai?",
-      "Ai định rõ quy định về việc lưu trữ bản gốc của bảng điểm trong hồ sơ học phần?",
-      "Quy định của ai đảm bảo việc lưu trữ bản gốc của bảng điểm trong hồ sơ học phần?",
-      "Ai quy định về việc lưu trữ bản gốc của bảng điểm trong hồ sơ học phần?"
+      "Hồ sơ học phần bao gồm bảng điểm. Bản gốc của bảng điểm được lưu trữ theo quy định của ai?"
     ]
   },
   {
     "id": "cf094a4c-9255-40c5-bfed-e0fb2f83b0d9",
     "questions": [
-      "Hồ sơ học phần bao gồm các đề và đáp án của bài tập, thực hành, thí nghiệm. Các đề và đáp án này phải được lưu trữ theo quy định nào?",
-      "Quy định nào quy định việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?",
-      "Theo nguyên tắc của ai, các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần phải được lưu trữ?",
-      "Ai quy định về việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?",
-      "Theo quy định nào, các đề và đáp án của bài tập, thực hành, thí nghiệm được lưu trữ trong hồ sơ học phần?"
+      "Hồ sơ học phần bao gồm các đề và đáp án của bài tập, thực hành, thí nghiệm. Các đề và đáp án này phải được lưu trữ theo quy định nào?"
     ]
   },
   {
     "id": "9a083ec4-2b95-47b5-81c0-d4cf47ddede9",
     "questions": [
-      "Nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?",
-      "Hồ sơ học phần của mỗi học phần được lưu trữ ở đâu?",
-      "Theo quy định, nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?",
-      "Nơi lưu giữ hồ sơ học phần của từng học phần được xác định như thế nào?",
-      "Ai quy định về nơi lưu trữ hồ sơ học phần của từng học phần?",
-      "Theo quy định hiện hành, hồ sơ học phần của mỗi học phần được lưu trữ tại đâu?"
+      "Nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?"
     ]
   },
   {
     "id": "e1c4e146-6c2c-45bf-a2ed-0fb6467ff722",
     "questions": [
-      "Theo quy định, các tài liệu và loại tài liệu liên quan đến học vụ phải được lưu trữ theo quy định của ai?",
-      "Theo nguyên tắc, ai quy định về việc lưu trữ các tài liệu và loại tài liệu liên quan đến học vụ?",
-      "Nội dung quy định về việc lưu giữ các tài liệu và loại tài liệu liên quan đến học vụ do ai xác định?",
-      "Quy định về việc lưu trữ tài liệu và các loại tài liệu liên quan đến học vụ thuộc trách nhiệm của ai?",
-      "Ai là người đảm nhận việc quy định lưu trữ các tài liệu và loại tài liệu liên quan đến học vụ?",
-      "Theo nguyên tắc của trường, ai có trách nhiệm quy định việc lưu trữ các tài liệu và loại tài liệu liên quan đến học vụ?"
+      "Theo quy định, các tài liệu và loại tài liệu liên quan đến học vụ phải được lưu trữ theo quy định của ai?"
     ]
   },
   {
     "id": "537ec5b5-e403-430e-9e22-641e9af6ec32",
     "questions": [
-      "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?",
-      "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu khi số sinh viên là 15?",
-      "Trong trường hợp có 15 sinh viên, hồ sơ học phần sẽ bao gồm bao nhiêu bài làm của họ?",
-      "Khi số lượng sinh viên đạt 15, số bài làm tiêu biểu được chọn để đưa vào hồ sơ học phần là bao nhiêu?",
-      "Nếu có 15 sinh viên, hồ sơ học phần sẽ chứa bao nhiêu bài làm đại diện của họ?",
-      "Hồ sơ học phần bao gồm các bài làm của sinh viên. Trường hợp có 15 sinh viên, số lượng bài làm được chọn là bao nhiêu?"
+      "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?"
     ]
   },
   {
     "id": "79572d62-b33b-4c05-b9ff-2f9e806947fc",
     "questions": [
-      "Hồ sơ học phần bao gồm bài làm của sinh viên ở các mức xấu, trung bình, tốt. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên ít hơn 15?",
-      "Trong trường hợp số sinh viên ít hơn 15, số lượng bài làm của sinh viên ở các mức xấu, trung bình, tốt được chọn là bao nhiêu để đưa vào hồ sơ học phần?",
-      "Hồ sơ học phần sẽ bao gồm bao nhiêu bài làm của sinh viên ở các mức xấu, trung bình, tốt khi số lượng sinh viên ít hơn 15?",
-      "Khi số sinh viên ít hơn 15, số bài làm đại diện được lựa chọn để điều chỉnh hồ sơ học phần là bao nhiêu?",
-      "Hồ sơ học phần sẽ chứa bao nhiêu bài làm của sinh viên ở các mức xấu, trung bình, tốt khi số lượng sinh viên ít hơn 15?",
-      "Trong trường hợp ít hơn 15 sinh viên, số lượng bài làm của sinh viên ở các mức xấu, trung bình, tốt sẽ được chọn là bao nhiêu?"
+      "Hồ sơ học phần bao gồm bài làm của sinh viên ở các mức xấu, trung bình, tốt. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên ít hơn 15?"
     ]
   },
   {
     "id": "cb66dc59-3ad6-48a0-98cf-bee17a8e3bcf",
     "questions": [
-      "Hồ sơ học phần bao gồm các bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?",
-      "Trong hồ sơ học phần, số lượng bài làm sinh viên được lựa chọn là bao nhiêu khi có 15 sinh viên?",
-      "Khi số lượng sinh viên là 15, bao nhiêu bài làm của họ được chọn để đưa vào hồ sơ học phần?",
-      "Nếu có 15 sinh viên, số bài làm đại diện sẽ được lựa chọn cho hồ sơ học phần là bao nhiêu?",
-      "Hồ sơ học phần sẽ bao gồm bao nhiêu bài làm của sinh viên khi số lượng sinh viên là 15?"
+      "Hồ sơ học phần bao gồm các bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu trong trường hợp số sinh viên là 15?"
     ]
   },
   {
     "id": "5177550d-e302-42f0-9677-54a0481fa520",
     "questions": [
-      "Hồ sơ học phần bao gồm các đề và đáp án của bài tập, thực hành, thí nghiệm. Các đề và đáp án này phải được lưu trữ theo quy định của ai?",
-      "Theo nguyên tắc nào, các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần phải được lưu trữ?",
-      "Ai quy định việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?",
-      "Cơ quan nào đề ra quy định về việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?",
-      "Theo quy định của ai, các đề và đáp án của bài tập, thực hành, thí nghiệm phải được lưu trữ trong hồ sơ học phần?"
+      "Hồ sơ học phần bao gồm các đề và đáp án của bài tập, thực hành, thí nghiệm. Các đề và đáp án này phải được lưu trữ theo quy định của ai?"
     ]
   },
   {
     "id": "bd7b63ef-6cc3-455f-a77d-4057f1429426",
     "questions": [
-      "Hồ sơ học phần bao gồm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Đánh giá này được thực hiện bởi ai?",
-      "Ai thực hiện đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần?",
-      "Theo quy định, việc đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần do ai thực hiện?",
-      "Đối tượng nào chịu trách nhiệm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần?",
-      "Quy định nào quy định về việc ai thực hiện đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần?"
+      "Hồ sơ học phần bao gồm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần. Đánh giá này được thực hiện bởi ai?"
     ]
   },
   {
     "id": "065fe3d7-357b-418a-8e6e-c31c54a7d74a",
     "questions": [
-      "Hồ sơ học phần bao được lưu trữ ở đâu?",
-      "Nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?",
-      "Theo quy định, hồ sơ học phần được lưu trữ ở đâu?",
-      "Ai chịu trách nhiệm về việc lưu trữ hồ sơ học phần của từng học phần?",
+      "Hồ sơ học phần bao được lưu trữ ở đâu?"
+    ]
+  },
+  {
+    "id": "866fb199-6007-424f-a7ba-e8e9ae9352bf",
+    "questions": [
+      "Hồ sơ học phần bao gồm những gì?"
+    ]
+  },
+  {
+    "id": "c414ea63-30a1-4e2d-a490-0d94829004c7",
+    "questions": [
+      "Các phần tử nào thường được tích hợp vào hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "50d7d2ff-504a-4966-b49e-284bca12bdc2",
+    "questions": [
+      "Những thành phần cụ thể nào thường có trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "37c59c9f-de6e-451c-b34d-c4f221996a8b",
+    "questions": [
+      "Hồ sơ học phần bao gồm những cái gì?"
+    ]
+  },
+  {
+    "id": "44fd9e9d-a135-49e2-b830-319d1796fa94",
+    "questions": [
+      "Có những phần nào tạo thành hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "f2642add-4d63-4371-8925-bb94a4788665",
+    "questions": [
+      "Bên trong hồ sơ học phần có chứa đề cương học phần và bảng điểm không?"
+    ]
+  },
+  {
+    "id": "543ad704-6a2f-4059-9c55-fd038e12384c",
+    "questions": [
+      "Những phần tử cơ bản nào thường xuất hiện trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "cd52d2bb-3cf9-4756-bfff-02f849c673f7",
+    "questions": [
+      "Điều gì cấu thành hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "d06be2e6-237d-4f06-ada1-b05f34a6b615",
+    "questions": [
+      "Có gì được tổng hợp lại để tạo thành hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "5411e20f-a533-45cc-b842-09192ec446db",
+    "questions": [
+      "Hồ sơ học phần thường bao gồm những gì trong quá trình học vụ?"
+    ]
+  },
+  {
+    "id": "fe637a3d-f4c6-4c42-9fe9-02cde93e454a",
+    "questions": [
+      "Ai thường là người lập hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "84ac0db1-3b45-402c-adbd-0be5f70326ea",
+    "questions": [
+      "Ai chịu trách nhiệm tạo ra hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "b3a85714-3840-40b4-bb96-4c9282216107",
+    "questions": [
+      "Ai phụ trách việc chuẩn bị hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "2e7a04b7-13a3-4507-88e3-553675f9e527",
+    "questions": [
+      "Khi nào thì việc lập hồ sơ học phần thường diễn ra?"
+    ]
+  },
+  {
+    "id": "58cd5986-a60b-4308-af1f-1d5c270b3cc0",
+    "questions": [
+      "Đối tượng nào thường thực hiện việc tạo hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "5e1120c2-f0b6-40f8-9829-2be603ea55b1",
+    "questions": [
+      "Ai là người thường tham gia vào việc cung cấp thông tin cho hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "024a0f36-6728-4334-a827-5dd5efa0ac9f",
+    "questions": [
+      "Hồ sơ học phần của mỗi học phần được lưu trữ ở đâu?"
+    ]
+  },
+  {
+    "id": "8f06aa30-ca08-4c11-9752-757596c2d6dc",
+    "questions": [
+      "Ở đâu thông thường lưu giữ hồ sơ học phần của từng học phần?"
+    ]
+  },
+  {
+    "id": "308c30a9-d7a2-4d83-834a-d22aa82c6dd5",
+    "questions": [
+      "Nơi để lưu trữ hồ sơ học phần của mỗi môn học là gì?"
+    ]
+  },
+  {
+    "id": "401b8a37-1223-4a72-9aad-8a02089793dd",
+    "questions": [
+      "Hồ sơ học phần của từng học phần thường được lưu ở đâu?"
+    ]
+  },
+  {
+    "id": "dd416cb6-c3db-4a0d-8af4-52bf3b593e9d",
+    "questions": [
+      "Ở đâu thường xuyên đựng hồ sơ học phần của mỗi môn học?"
+    ]
+  },
+  {
+    "id": "5587a68c-264e-4db9-826a-94562c1e589b",
+    "questions": [
+      "Theo tiêu chuẩn nào, số lượng bài làm tiêu biểu trong hồ sơ học phần được xác định là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "5556dcad-08b5-497d-a673-e3f14735d81a",
+    "questions": [
+      "Theo quy định cụ thể, hồ sơ học phần yêu cầu bao nhiêu bài làm của sinh viên?"
+    ]
+  },
+  {
+    "id": "f989a8be-da99-4898-96d0-08a7c16c8b5a",
+    "questions": [
+      "Theo các hướng dẫn, số bài làm cần thiết cho hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "3aafb57a-3848-4892-b2df-b1a9fc57c5da",
+    "questions": [
+      "Theo quy định của trường, số lượng bài làm đại diện được yêu cầu trong hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "65045422-f4a3-4185-9f70-fefcf32e78d4",
+    "questions": [
+      "Theo điều kiện đặc biệt nào, số bài làm trong hồ sơ học phần có thể được quy định là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "8ab4a566-b6f2-4bc4-88c9-12870d0673e1",
+    "questions": [
+      "Trong hồ sơ học phần, thông tin ghi chú từ giảng viên thường tập trung vào điều gì?"
+    ]
+  },
+  {
+    "id": "855999dd-bea7-46fa-addd-169bd7f08b93",
+    "questions": [
+      "Nội dung ghi chú mà giảng viên thêm vào hồ sơ học phần thường nhắc đến những khía cạnh nào?"
+    ]
+  },
+  {
+    "id": "be74bdc0-8333-40f7-b984-1259b73e4c9c",
+    "questions": [
+      "Theo bạn, ghi chú từ giảng viên trong hồ sơ học phần thường đề cập đến điều gì?"
+    ]
+  },
+  {
+    "id": "cae6f957-8a4c-46ce-877f-6a18f92a7e7c",
+    "questions": [
+      "Trong hồ sơ học phần, nội dung ghi chú của giảng viên thường liên quan đến các khía cạnh nào của học phần?"
+    ]
+  },
+  {
+    "id": "a0bc0efa-6de0-4a8a-af16-756f12fe1629",
+    "questions": [
+      "Theo quy định, tài liệu và loại tài liệu nào liên quan đến học vụ phải được lưu trữ trong khoảng thời gian bao lâu?"
+    ]
+  },
+  {
+    "id": "e49a8995-aacd-4a27-80b5-00cdb9b599a3",
+    "questions": [
+      "Theo quy định, tài liệu học vụ cần được lưu trữ trong khoảng thời gian nào?"
+    ]
+  },
+  {
+    "id": "b222eb58-bf16-4fe6-8523-8908a387ee5b",
+    "questions": [
+      "Quy định về lưu trữ tài liệu liên quan đến học vụ yêu cầu thời gian bảo quản là bao lâu?"
+    ]
+  },
+  {
+    "id": "b28b12e7-20c3-4dcd-a232-c07a7283e3e0",
+    "questions": [
+      "Theo quy định hiện hành, loại tài liệu nào phải được lưu trữ trong một khoảng thời gian cụ thể?"
+    ]
+  },
+  {
+    "id": "776a4cb5-2045-41d1-ba26-234358ab7411",
+    "questions": [
+      "Theo quy định, thời gian bảo quản tài liệu liên quan đến học vụ được xác định như thế nào?"
+    ]
+  },
+  {
+    "id": "d18ef0c1-70f7-47c2-9f0a-4af195b8bfa4",
+    "questions": [
+      "Ai là người chịu trách nhiệm quản lý đề cương học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "6a3f12ae-e199-4d5d-add4-77901260710e",
+    "questions": [
+      "Trách nhiệm chính của ai trong việc quản lý đề cương học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "cd6bc3bd-bf40-4980-b313-219078070e79",
+    "questions": [
+      "Đơn vị hoặc cá nhân nào phụ trách việc xây dựng đề cương học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "e3316ec7-55c7-43a8-9a6e-7fab7a6125fd",
+    "questions": [
+      "Người nào có trách nhiệm cung cấp và duy trì thông tin đề cương học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "a0da61fa-4079-4ef6-835c-19c9ef104c0a",
+    "questions": [
+      "Ai là người quyết định về nội dung của đề cương học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "bca11054-ba2f-41de-9ff1-60957d2a1134",
+    "questions": [
+      "Trường hợp số lượng sinh viên nhỏ hơn 15, số lượng bài làm tiêu biểu được chọn trong hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "820de6cc-83c6-4a3c-866e-56411d0acd85",
+    "questions": [
+      "Nếu có ít hơn 15 sinh viên, số lượng bài làm tiêu biểu được chọn để đưa vào hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "5be0bb05-f97a-45e1-8c25-45291d8435bc",
+    "questions": [
+      "Số lượng bài làm đại diện được lựa chọn cho hồ sơ học phần nếu số sinh viên ít hơn 15 là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "68edc5ab-693c-4f5e-ba91-c975882fb2e3",
+    "questions": [
+      "Trong trường hợp ít hơn 15 sinh viên, số bài làm đại diện được chọn để đưa vào hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "00acb5d1-96fb-407e-8acd-cc5d4475bb76",
+    "questions": [
+      "Khi có ít hơn 15 sinh viên, số lượng bài làm đại diện được lựa chọn cho hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "6cac9d88-5458-43d9-b888-12bd81bc563a",
+    "questions": [
+      "Nếu có đúng 15 sinh viên, số lượng bài làm tiêu biểu được chọn cho mỗi mức xấu, trung bình và tốt là bao nhiêu trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "d01d79c4-267a-4551-8972-61740a72dd98",
+    "questions": [
+      "Trong trường hợp có chính xác 15 sinh viên, số lượng bài làm tiêu biểu được lựa chọn cho mỗi mức đánh giá xấu, trung bình và tốt là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "d05ba1f6-7b39-4030-b16d-a9df9e60951a",
+    "questions": [
+      "Khi số lượng sinh viên là chính xác 15, số bài làm tiêu biểu được chọn cho mỗi mức độ (xấu, trung bình, tốt) là bao nhiêu trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "e1419b6e-5f6b-4f0e-8fdd-5927d2e583fb",
+    "questions": [
+      "Theo quy định, bản gốc của bảng điểm trong hồ sơ học phần được lưu trữ theo nguyên tắc của ai?"
+    ]
+  },
+  {
+    "id": "eef1485c-75d9-4839-a1d8-37a10be2a123",
+    "questions": [
+      "Ai định rõ quy định về việc lưu trữ bản gốc của bảng điểm trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "1f4883f7-bf41-405f-b9eb-5e126252d276",
+    "questions": [
+      "Quy định của ai đảm bảo việc lưu trữ bản gốc của bảng điểm trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "b2e4355b-3c29-407c-b9dd-eccc479cac4f",
+    "questions": [
+      "Ai quy định về việc lưu trữ bản gốc của bảng điểm trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "bc92adbf-19a3-49c6-a9a1-51606d0ba6cb",
+    "questions": [
+      "Quy định nào quy định việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "1b7a644e-d884-42c5-b101-1782f001c075",
+    "questions": [
+      "Theo nguyên tắc của ai, các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần phải được lưu trữ?"
+    ]
+  },
+  {
+    "id": "e9289e24-a5a6-4aea-9d2f-41b0923aba84",
+    "questions": [
+      "Ai quy định về việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "ba915bdd-ddfa-4744-9534-8fc7ce5a2381",
+    "questions": [
+      "Theo quy định nào, các đề và đáp án của bài tập, thực hành, thí nghiệm được lưu trữ trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "71c9979c-a866-4578-bf3b-6fe0465c1183",
+    "questions": [
+      "Theo quy định, nơi lưu trữ hồ sơ học phần của mỗi học phần là gì?"
+    ]
+  },
+  {
+    "id": "2cd750a9-dfdf-4623-8815-0600d5866de8",
+    "questions": [
+      "Nơi lưu giữ hồ sơ học phần của từng học phần được xác định như thế nào?"
+    ]
+  },
+  {
+    "id": "c83af2d1-4629-4737-aba5-259628734474",
+    "questions": [
+      "Ai quy định về nơi lưu trữ hồ sơ học phần của từng học phần?"
+    ]
+  },
+  {
+    "id": "149fc557-fc12-424a-bc78-3bf42229888b",
+    "questions": [
+      "Theo quy định hiện hành, hồ sơ học phần của mỗi học phần được lưu trữ tại đâu?"
+    ]
+  },
+  {
+    "id": "75359a32-8b68-431c-8501-a2818138fe47",
+    "questions": [
+      "Theo nguyên tắc, ai quy định về việc lưu trữ các tài liệu và loại tài liệu liên quan đến học vụ?"
+    ]
+  },
+  {
+    "id": "4697b28c-5df3-480b-b368-360dfac78a46",
+    "questions": [
+      "Nội dung quy định về việc lưu giữ các tài liệu và loại tài liệu liên quan đến học vụ do ai xác định?"
+    ]
+  },
+  {
+    "id": "f6e99d9d-1aef-4b83-b3e8-26b6f2f09578",
+    "questions": [
+      "Quy định về việc lưu trữ tài liệu và các loại tài liệu liên quan đến học vụ thuộc trách nhiệm của ai?"
+    ]
+  },
+  {
+    "id": "028d39bb-4cc2-4454-8566-60934243e5fc",
+    "questions": [
+      "Ai là người đảm nhận việc quy định lưu trữ các tài liệu và loại tài liệu liên quan đến học vụ?"
+    ]
+  },
+  {
+    "id": "1d06f06e-420e-4087-adfd-970711005bab",
+    "questions": [
+      "Theo nguyên tắc của trường, ai có trách nhiệm quy định việc lưu trữ các tài liệu và loại tài liệu liên quan đến học vụ?"
+    ]
+  },
+  {
+    "id": "5dbd1852-8dd2-4942-9c90-5e76fb8b1df6",
+    "questions": [
+      "Hồ sơ học phần bao gồm bài làm của sinh viên. Số lượng bài làm tiêu biểu lựa chọn là bao nhiêu khi số sinh viên là 15?"
+    ]
+  },
+  {
+    "id": "de16c60b-b50b-4fae-9caf-74ed34aac05a",
+    "questions": [
+      "Trong trường hợp có 15 sinh viên, hồ sơ học phần sẽ bao gồm bao nhiêu bài làm của họ?"
+    ]
+  },
+  {
+    "id": "a832f8d0-cccc-47d6-8664-864b9f2fab63",
+    "questions": [
+      "Khi số lượng sinh viên đạt 15, số bài làm tiêu biểu được chọn để đưa vào hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "e95a1b7e-4f80-43ec-8f45-2932fc9aca7a",
+    "questions": [
+      "Nếu có 15 sinh viên, hồ sơ học phần sẽ chứa bao nhiêu bài làm đại diện của họ?"
+    ]
+  },
+  {
+    "id": "e152ef6c-4eeb-4ae2-aca3-4224d97b4a3a",
+    "questions": [
+      "Hồ sơ học phần bao gồm các bài làm của sinh viên. Trường hợp có 15 sinh viên, số lượng bài làm được chọn là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "06116402-3b79-494e-b8ff-d2aef007d2d6",
+    "questions": [
+      "Trong trường hợp số sinh viên ít hơn 15, số lượng bài làm của sinh viên ở các mức xấu, trung bình, tốt được chọn là bao nhiêu để đưa vào hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "e25aa897-3789-416a-a13d-4d1735bd7ad7",
+    "questions": [
+      "Hồ sơ học phần sẽ bao gồm bao nhiêu bài làm của sinh viên ở các mức xấu, trung bình, tốt khi số lượng sinh viên ít hơn 15?"
+    ]
+  },
+  {
+    "id": "a8e46728-1393-4cfc-8658-ea5074102cd9",
+    "questions": [
+      "Khi số sinh viên ít hơn 15, số bài làm đại diện được lựa chọn để điều chỉnh hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "e4d57903-3f98-48c1-ada8-8af71beaee28",
+    "questions": [
+      "Hồ sơ học phần sẽ chứa bao nhiêu bài làm của sinh viên ở các mức xấu, trung bình, tốt khi số lượng sinh viên ít hơn 15?"
+    ]
+  },
+  {
+    "id": "1b50523c-2dbc-4d88-a064-2d6be873d65b",
+    "questions": [
+      "Trong trường hợp ít hơn 15 sinh viên, số lượng bài làm của sinh viên ở các mức xấu, trung bình, tốt sẽ được chọn là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "50a20950-1af6-4de7-a012-1a9eb707b32a",
+    "questions": [
+      "Trong hồ sơ học phần, số lượng bài làm sinh viên được lựa chọn là bao nhiêu khi có 15 sinh viên?"
+    ]
+  },
+  {
+    "id": "afe6b23b-79fd-4639-b52f-16755f02e5a9",
+    "questions": [
+      "Khi số lượng sinh viên là 15, bao nhiêu bài làm của họ được chọn để đưa vào hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "469a722c-5011-4191-9de3-e1663d9323b9",
+    "questions": [
+      "Nếu có 15 sinh viên, số bài làm đại diện sẽ được lựa chọn cho hồ sơ học phần là bao nhiêu?"
+    ]
+  },
+  {
+    "id": "72bad61b-2267-484f-b650-af4da2bbdfe2",
+    "questions": [
+      "Hồ sơ học phần sẽ bao gồm bao nhiêu bài làm của sinh viên khi số lượng sinh viên là 15?"
+    ]
+  },
+  {
+    "id": "8dd8ce12-6d14-4bb3-9afa-f14d6f0fd2ed",
+    "questions": [
+      "Theo nguyên tắc nào, các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần phải được lưu trữ?"
+    ]
+  },
+  {
+    "id": "832b2ed8-1d12-48e5-8b52-18884c3be392",
+    "questions": [
+      "Ai quy định việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "3f7310f8-e94a-41b8-b62b-ef124f7af0c0",
+    "questions": [
+      "Cơ quan nào đề ra quy định về việc lưu trữ các đề và đáp án của bài tập, thực hành, thí nghiệm trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "94bbd2c0-5516-4812-862d-66b804785481",
+    "questions": [
+      "Theo quy định của ai, các đề và đáp án của bài tập, thực hành, thí nghiệm phải được lưu trữ trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "b0799839-920d-4782-a0ae-f2b65f339145",
+    "questions": [
+      "Ai thực hiện đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "f3fe5972-52e0-4bf0-ba97-2603d01a95f6",
+    "questions": [
+      "Theo quy định, việc đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần do ai thực hiện?"
+    ]
+  },
+  {
+    "id": "f512693a-0b97-4c31-a653-a24a58bca656",
+    "questions": [
+      "Đối tượng nào chịu trách nhiệm đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "22aeb494-729c-41fc-a4fa-14c8c93fd49c",
+    "questions": [
+      "Quy định nào quy định về việc ai thực hiện đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần trong hồ sơ học phần?"
+    ]
+  },
+  {
+    "id": "b403e75b-3bef-4bd2-ba51-9a7c18521196",
+    "questions": [
+      "Theo quy định, hồ sơ học phần được lưu trữ ở đâu?"
+    ]
+  },
+  {
+    "id": "e98d8095-d71c-4070-99b4-f74fdc8cd26d",
+    "questions": [
+      "Ai chịu trách nhiệm về việc lưu trữ hồ sơ học phần của từng học phần?"
+    ]
+  },
+  {
+    "id": "69adf6c5-5ea7-4be7-94cf-dbb1bcd18995",
+    "questions": [
       "Quy định nào quy định về nơi lưu trữ hồ sơ học phần của từng học phần?"
     ]
   }

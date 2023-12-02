@@ -3,7 +3,7 @@ from countTokenPosition import countTokenPosition
 
 
 def main():
-    datasetBase = "./dataset/"
+    datasetBase = "./test/data/"
     print("Input file name: ")
     fileName = input()
     if fileName == "":
@@ -14,7 +14,7 @@ def main():
     try:
         with open(fileName, "rb") as f:
             trainObj = json.load(f)
-        dataTrains = trainObj["train"]["data"]
+        dataTrains = trainObj["data"]
 
         for i in range(len(dataTrains)):
             answerStart = []
@@ -27,7 +27,7 @@ def main():
             dataTrains[i]["answers"]["answer_start"] = answerStart
             dataTrains[i]["answers"]["answer_end"] = answerEnd
 
-        trainObj["train"]["data"] = dataTrains
+        trainObj["data"] = dataTrains
         with open(fileName, "w", encoding="utf-8") as f:
             json.dump(trainObj, f, ensure_ascii=False, indent=2)
 

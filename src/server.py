@@ -3,6 +3,8 @@ from config import context_config
 from utils.BKViQuAModel import ViQuADModel
 import constants
 
+BKViQuA = ViQuADModel()
+
 app = Quart(__name__)
 
 class BadRequestException(Exception):
@@ -39,10 +41,7 @@ async def ask_question():
             raise BadRequestException('Question type is invalid')
         if not isinstance(question, str):
             raise BadRequestException('Datatype of question is invalid')
-        
-        bkViQuA = ViQuADModel()
-        answer =  bkViQuA.forward(question, question_type)
-
+        answer = BKViQuA.forward(question, question_type)
         return jsonify({
             'status': 'success',
             'data': {

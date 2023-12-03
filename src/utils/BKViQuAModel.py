@@ -28,7 +28,7 @@ class ViQuADModel:
         self.stride = stride
 
         self.model = AutoModelForQuestionAnswering.from_pretrained(self.checkpoints)
-        self.model = nn.DataParallel(self.model)
+        self.model = nn.DataParallel(self.model) if self.device == 'cuda' else self.model
         self.tokenizer = BartphoTokenizerFast.from_pretrained(constants.PRETRAIN_MODEL)
         self.model.to(self.device)
         self.mode_limit = mode_limit

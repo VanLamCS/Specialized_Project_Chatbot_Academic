@@ -4,6 +4,8 @@ from torch import nn
 from transformers import AutoModelForQuestionAnswering, BartphoTokenizerFast
 from datasets import Dataset, DatasetDict
 import uuid
+from tqdm.auto import tqdm
+
 from get_contexts import get_all_contexts, get_contexts_by_key
 
 # import sys
@@ -107,7 +109,7 @@ class ViQuADModel:
             print("Batched at %s index to %s index, all: %s" % (start, end - 1, length))
 
             batch = {
-                k: eval_set_for_model[k][start:end].to("cuda")
+                k: eval_set_for_model[k][start:end].to(self.device)
                 for k in eval_set_for_model.column_names
             }
 
@@ -133,7 +135,7 @@ class ViQuADModel:
     ):
         answers = []
 
-        for index in range(len(start_logits)):
+        for index in tqdm(range(len(start_logits)), desc="Sentence"):
             start_logit = start_logits[index]
             end_logit = end_logits[index]
 

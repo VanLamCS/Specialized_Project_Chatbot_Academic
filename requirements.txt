@@ -7,7 +7,6 @@ torch==2.1.0+cu118
 torchaudio==2.1.0+cu118
 torchvision==0.16.0+cu118
 matplotlib
-Flask==3.0.0
 Quart==0.19.4
 # transformers==4.22.0.dev0
 

@@ -1,6 +1,7 @@
 DATASET_FOLDER = "./test/data"
 ALL_CONTEXT_FILE = './test/data/contexts/all_contexts.json'
 PRETRAIN_MODEL = "vinai/phobert-base-v2"
+SERVER_PORT = 5000
 EPOCHS = 15
 LR = 2e-5
 BATCH_SIZE = 8
@@ -8,4 +9,5 @@ MAX_ANSWER_LENGTH = 200
 MAX_LENGTH = 256  # Goc 356
 STRIDE = 128
 N_BEST = 20
+MODEL_LIMIT = 700
 DEVICE = "cuda"

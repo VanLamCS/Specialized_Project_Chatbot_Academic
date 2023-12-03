@@ -2,31 +2,22 @@ import numpy as np
 import torch
 from torch import nn
 from transformers import AutoModelForQuestionAnswering, BartphoTokenizerFast
-from datasets import Dataset, DatasetDict
+from datasets import Dataset
 import uuid
 from tqdm.auto import tqdm
 
-from get_contexts import get_all_contexts, get_contexts_by_key
-
-# import sys
-# import os
-
-# current_dir = os.path.dirname(os.path.abspath(__file__))
-# checkpoints_dir = os.path.abspath(os.path.join(current_dir, "../checkpoints"))
-
-# sys.path.append(checkpoints_dir)
-
-
+from . import get_contexts
+import constants
 class ViQuADModel:
     def __init__(
         self,
-        device="cuda",
-        checkpoints="checkpoints",
-        n_best=20,
-        max_length=256,
-        max_answer_length=200,
-        stride=128,
-        mode_limit=700,
+        device=constants.DEVICE,
+        checkpoints='checkpoints',
+        n_best=constants.N_BEST,
+        max_length=constants.MAX_LENGTH,
+        max_answer_length=constants.MAX_ANSWER_LENGTH,
+        stride=constants.STRIDE,
+        mode_limit=constants.MODEL_LIMIT,
     ):
         self.device = torch.device(device)
         self.checkpoints = checkpoints
@@ -38,7 +29,7 @@ class ViQuADModel:
 
         self.model = AutoModelForQuestionAnswering.from_pretrained(self.checkpoints)
         self.model = nn.DataParallel(self.model)
-        self.tokenizer = BartphoTokenizerFast.from_pretrained("vinai/phobert-base-v2")
+        self.tokenizer = BartphoTokenizerFast.from_pretrained(constants.PRETRAIN_MODEL)
         self.model.to(self.device)
         self.mode_limit = mode_limit
 
@@ -172,7 +163,7 @@ class ViQuADModel:
         return best_answer
 
     def forward(self, question, context_key):
-        contexts = get_contexts_by_key(context_key)
+        contexts = get_contexts.get_contexts_by_key(context_key)
         context_dataset = self.create_dataset(contexts)
 
         dataset = self.pre_dataset(question, context_dataset)

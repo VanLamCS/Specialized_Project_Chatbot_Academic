@@ -1,4 +1,5 @@
-from read_folder_data import *
+from . import read_folder_data
+import json
 import sys
 
 sys.path.append("src/")
@@ -6,7 +7,7 @@ from config import context_config
 import constants
 
 # def get_all_contexts_from_train_files(path_to_data = constants.DATASET_FOLDER):
-#     list_of_objects = read_folder_data(path_to_data)
+#     list_of_objects = read_folder_data.read_folder_data(path_to_data)
 #     seen_contexts = {}
 #     unique_objects = []
 

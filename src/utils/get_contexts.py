@@ -38,7 +38,9 @@ def get_contexts_by_key(filter_key: int):
             title = item["title"]
             break
     res_contexts = []
+    all = []
     for item in all_contexts:
         if item["title"] == title:
             res_contexts.append(item["context"])
-    return res_contexts
+        all.append(item['context'])
+    return all if filter_key == -1 else res_contexts

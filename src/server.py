@@ -11,6 +11,8 @@ class BadRequestException(Exception):
     pass
 
 def _check_question_type(c_key: int):
+    if c_key == -1:
+        return True
     context_types = context_config.context_types
     for item in context_types:
         item['context_key'] == c_key
@@ -20,6 +22,10 @@ def _check_question_type(c_key: int):
 @app.route('/api/question-types', methods=['GET'])
 def get_question_types():
     question_types = context_config.context_types
+    question_types.append({
+            'context_key': -1,
+            'title': 'Tất cả',
+        })
     return jsonify({
         'status': 'success',
         'data': {

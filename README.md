@@ -72,10 +72,10 @@ Bên cạnh đó, install thêm transformers như hướng dẫn trên.
 #### Bước 3: Chuẩn bị data (train data, validation data) bằng cách chạy file `data.py` trong `src`
 
 ```bash
-python src\data.py
+python src/data.py
 ```
 
-#### Bước 4: Cấu hình các thông số train trong file `src\constants.py`
+#### Bước 4: Cấu hình các thông số train trong file `src/constants.py`
 
 ```python
 PRETRAIN_MODEL = "vinai/phobert-base-v2"
@@ -88,20 +88,20 @@ MODEL_LIMIT = 700
 DEVICE = "cuda"
 ```
 
-#### Bước 5: Thực thi `src\train.py`
+#### Bước 5: Thực thi `src/train.py`
 
 ```bash
-python src\train.py
+python src/train.py
 ```
 
 ### Cách run server
 
 #### Bước 1: Đảm bảo đã train và có mô hình `pytorch_model.bin` và file `config.json` trong `checkpoints`
 
-#### Bước 2: Thực thi `src\server.py`
+#### Bước 2: Thực thi `src/server.py`
 
 ```bash
-python src\server.py
+python src/server.py
 ```
 
 ## Thành viên nhóm

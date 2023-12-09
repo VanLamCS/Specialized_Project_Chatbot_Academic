@@ -10,6 +10,7 @@
       2. [Cách cài torch](#cách-cài-torch)
    2. [Cách train mô hình](#cách-train-mô-hình)
    3. [Cách run server](#cách-run-server)
+   4. [Cách run client](#cách-run-client)
 4. [Thành viên nhóm](#thành-viên-nhóm)
 5. [Giảng viên hướng dẫn](#giảng-viên-hướng-dẫn)
 
@@ -20,6 +21,8 @@ Những năm gần đây số lượng sinh viên nhập học Trươ
 ## Các liên kết
 
 - [Confluence](https://chatbotacademic.atlassian.net/l/cp/4DYmj5mV)
+
+- [Source code Front-end](https://github.com/hoan7902/FE_Chatbot_Academic.git)
 
 ## Cách thực thi code
 
@@ -103,6 +106,10 @@ python src/train.py
 ```bash
 python src/server.py
 ```
+
+### Cách run client
+
+Đọc `README.md` tại [repository này](https://github.com/hoan7902/FE_Chatbot_Academic.git)
 
 ## Thành viên nhóm
 

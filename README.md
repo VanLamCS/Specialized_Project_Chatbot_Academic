@@ -39,7 +39,7 @@ git clone --single-branch --branch fast_tokenizers_BARTpho_PhoBERT_BERTweet http
 - Bước 2: Chạy câu lệnh:
 
 ```bash
-pip install transformers
+pip install -e transformers
 ```
 
 #### Cách cài torch
@@ -54,7 +54,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 Cài torch không cuda:
 
 ```bash
-pip3 install torch torchvision torchaudio
+pip install torch torchvision torchaudio
 ```
 
 ### Cách train mô hình

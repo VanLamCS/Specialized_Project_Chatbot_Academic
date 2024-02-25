@@ -52,7 +52,7 @@ class HandleContext:
         return cleanedStr
 
     def addSpacesAround(self):
-        charactersToSurround = r'\.\,\(\)\-\/\:\;\{\}\`\^\&\<\=\>\*\+\!\#\$\%\@\~\_\|\[\]'
+        charactersToSurround = r'\.\,\(\)\-\/\:\;\{\}\`\^\&\<\=\>\*\+\!\#\$\%\@\~\_\|\[\]\"\'\n\t\?'
         modifiedStr = re.sub(f'([{charactersToSurround}])', r' \1 ', self.data)
         self.data = modifiedStr
         return modifiedStr

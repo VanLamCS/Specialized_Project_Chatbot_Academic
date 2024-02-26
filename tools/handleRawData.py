@@ -52,7 +52,7 @@ class HandleContext:
         return cleanedStr
 
     def addSpacesAround(self):
-        charactersToSurround = r'\.\,\(\)\-\/\:\;\{\}\`\^\&\<\=\>\*\+\!\#\$\%\@\~\_\|\[\]\"\'\n\t\?'
+        charactersToSurround = r'\.\,\(\)\-\/\:\;\{\}\`\^\&\<\=\>\*\+\!\#\$\%\@\~\_\|\[\]\"\'\n\t\?\“\”'
         modifiedStr = re.sub(f'([{charactersToSurround}])', r' \1 ', self.data)
         self.data = modifiedStr
         return modifiedStr
@@ -67,6 +67,8 @@ class HandleContext:
         self.data = self.data.replace('\'', r'\'')
         self.data = self.data.replace('\"', r'\"')
         self.data = self.data.replace('\n', r'\n')
+        # self.data = self.data.replace('”', r'\”') -> wrong
+        # self.data = self.data.replace('“', r'\“') -> wrong
         return self.data
     
     def replaceSomeSpecial(self):

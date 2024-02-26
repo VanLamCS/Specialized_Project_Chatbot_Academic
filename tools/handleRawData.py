@@ -59,7 +59,8 @@ class HandleContext:
 
     def removeSpaceAroundNumber(self):
         modifiedStr = re.sub(r'\s+(\d+)\s+\.\s+(\d+)\s+', r' \1.\2 ', self.data)
-        self.data = modifiedStr
+        modifiedStr2 = re.sub(r'\s+(\d+)\s+\,\s+(\d+)\s+', r' \1,\2 ', modifiedStr)
+        self.data = modifiedStr2
         return modifiedStr
     
     def escapeSomeCharacters(self):

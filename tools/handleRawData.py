@@ -77,8 +77,8 @@ class HandleContext:
         self.removeDoubleEnter()
         self.removeUnnecessaryLineBreaks()
         self.addSpacesAround()
-        self.removeSpaceAroundNumber()
         self.escapeSomeCharacters()
+        self.removeSpaceAroundNumber()
         self.removeDoubleSpace()
         self.replaceSomeSpecial()
     

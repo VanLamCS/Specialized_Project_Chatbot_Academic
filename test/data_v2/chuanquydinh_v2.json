@@ -15,7 +15,7 @@
           "answer": {
             "text": "Ký hiệu chuẩn : CNTTCB",
             "answer_start": 0,
-            "answer_end": 0
+            "answer_end": 22
           }
         },
         {
@@ -27,8 +27,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : CNTTNC",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 696,
+            "answer_end": 718
           }
         },
         {
@@ -42,8 +42,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : CCAS_0",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 1538,
+            "answer_end": 1560
           }
         },
         {
@@ -57,8 +57,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : CCAS_1",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 1710,
+            "answer_end": 1732
           }
         },
         {
@@ -72,8 +72,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : CCAS_2",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 1904,
+            "answer_end": 1926
           }
         },
         {
@@ -87,8 +87,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : CCAS_3",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 2109,
+            "answer_end": 2131
           }
         },
         {
@@ -103,8 +103,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : CCAV_1",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 2328,
+            "answer_end": 2350
           }
         },
         {
@@ -117,8 +117,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : SV_N1",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 3186,
+            "answer_end": 3207
           }
         },
         {
@@ -131,8 +131,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : SV_N2",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 3331,
+            "answer_end": 3352
           }
         },
         {
@@ -145,8 +145,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : SV_N3",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 3637,
+            "answer_end": 3658
           }
         },
         {
@@ -159,8 +159,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : SV_N5_V",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 4059,
+            "answer_end": 4082
           }
         },
         {
@@ -175,8 +175,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : DH_THS",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 4542,
+            "answer_end": 4564
           }
         },
         {
@@ -189,8 +189,8 @@
           ],
           "answer": {
             "text": "Ký hiệu chuẩn : CTXHoi",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 8954,
+            "answer_end": 8976
           }
         },
         {
@@ -216,8 +216,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : \n • Kiểm tra Kỹ năng ứng dụng Công nghệ thông tin cơ bản nội bộ . Tổ chức 1 lần ( miễn phí ) cho SV năm nhất , thường vào khoảng tuần thứ 4 của Học kỳ 1 năm thứ nhất . Kết quả có sau kỳ kiểm tra khoảng 2 tuần ( dự kiến ) . \n • Hoặc nộp Chứng Chỉ Kỹ năng ứng dụng Công nghệ thông tin cơ bản hoặc Chứng chỉ IC3 . Đăng ký nộp tại : myBK ( mybk . hcmut . edu . vn ) > > Ứng dụng cho sinh viên > > Đăng ký nộp Chứng chỉ Công nghệ thông tin . PĐT sẽ hậu kiểm , kết quả sẽ có sau 4 tuần ( dự kiến ) .",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 172,
+            "answer_end": 684
           }
         },
         {
@@ -243,8 +243,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : • Nhà trường khuyến khích SV đạt chứng chỉ Microsoft Office - MOS hai kỹ năng Excel và Power Point . Tạm thời , chưa yêu cầu SV đạt chứng chỉ MOS để tốt nghiệp . \n • Kỳ thi Microsoft Office Specialist ( MOS ) gồm 02 bài thi là Excel và PowerPoint . Tổ chức 1 lần ( miễn phí ) cho SV năm hai , thường vào khoảng cuối năm hai . Kết quả có sau kỳ kiểm tra khoảng 2 tuần ( dự kiến ) . \n • Hoặc nộp Chứng Chỉ MOS ( gồm 02 bài thi là Excel và PowerPoint ) . Đăng ký nộp tại : myBK ( mybk . hcmut . edu . vn ) > > Ứng dụng cho sinh viên > > Đăng ký nộp Chứng chỉ Công nghệ thông tin . PĐT sẽ hậu kiểm , kết quả sẽ có sau 4 tuần ( dự kiến ) .",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 873,
+            "answer_end": 1526
           }
         },
         {
@@ -270,8 +270,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : Đạt Anh văn cơ bản",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 1661,
+            "answer_end": 1698
           }
         },
         {
@@ -297,8 +297,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : Phải đạt Anh văn 1",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 1855,
+            "answer_end": 1892
           }
         },
         {
@@ -324,8 +324,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : Phải đạt Anh văn 1 , 2 , 3",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 2052,
+            "answer_end": 2097
           }
         },
         {
@@ -351,8 +351,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : Phải đạt Anh văn 1 , 2 , 3 , 4",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 2267,
+            "answer_end": 2316
           }
         },
         {
@@ -371,8 +371,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : CCNN quốc tế Nghe - Đọc : \n 1 - Chính quy : - Chính quy đại trà : Khóa 2018 về trước : 500 , Khóa 2019 : 550 , Từ Khóa 2020 về sau : 600 ; \n - Chương trình CLC tăng cường tiếng Nhật từ khóa 2020 về sau : 600 ; \n - Chương trình tài năng : Khóa 2018 về trước : 600 , Khóa 2019 : 650 , Từ Khóa 2020 về sau : 700 ; \n - Chương trình Kỹ sư Việt - Pháp : Khóa 2018 về trước : 600 , Khóa 2019 : 650 , Từ Khóa 2020 về sau : 700 ; \n - Bằng thứ 2 : Học chương trình đào tạo chính quy của khóa nào thì áp dụng chuẩn của khóa đó ; \n 2 - Vừa làm vừa học : Khóa 2017 về trước : 400 , Khóa 2018 : 450 , Khóa 2019 : 500 , Từ Khóa 2020 về sau : 600 ;",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 2520,
+            "answer_end": 3171
           }
         },
         {
@@ -404,8 +404,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 28 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 2 ( CCAS_1 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ;",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 3450,
+            "answer_end": 3627
           }
         },
         {
@@ -437,8 +437,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 56 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 3 ( CCAS_2 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 4 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh 5 - Hoàn thành chương trình Giáo dục thể chất ;",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 3764,
+            "answer_end": 4049
           }
         },
         {
@@ -470,8 +470,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 112 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 4 ( CCAS_3 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 4 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh ; \n 5 - Hoàn thành chương trình Giáo dục thể chất ;",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 4242,
+            "answer_end": 4532
           }
         },
         {
@@ -503,8 +503,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 60 ; \n 2 - Điểm trung bình tích lũy > = 7.0 ; \n 3 - Đăng ký ngành thạc sĩ phù hợp với ngành đại học , và được công nhận là SV Chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ ( do P . ĐTSĐH phụ trách ) ; \n 4 - Đạt chuẩn ngoại ngữ năm thứ 4 ( CCAS_3 ) ; \n 5 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 6 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh ; \n 7 - Hoàn thành chương trình Giáo dục thể chất ;",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 4781,
+            "answer_end": 5333
           }
         },
         {
@@ -536,8 +536,8 @@
           ],
           "answer": {
             "text": "Điều kiện để đạt : Hoàn thành tối thiểu 70 % chương trình rèn luyện sinh viên ( 10 ngày CTXH ) ;",
-            "answer_start": 0,
-            "answer_end": 0
+            "answer_start": 9034,
+            "answer_end": 9130
           }
         }
       ]

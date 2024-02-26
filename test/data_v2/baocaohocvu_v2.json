@@ -1,0 +1,134 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "title": "Báo cáo học vụ",
+      "context": "Chương 9 . BÁO CÁO , LƯU TRỮ HỌC VỤ : \n Điều 40 . Hồ sơ học phần : \n Hồ sơ học phần bao gồm : \n 1 . Đề cương học phần . \n 2 . Bộ slide bài giảng . \n 3 . ( Bản sao ) Bảng điểm học phần . \n 4 . Các đề và đáp án của bài tập , thực hành , thí nghiệm được sử dụng trong học phần . \n 5 . Đầu bài và hướng dẫn chấm bài của các bài tập lớn . \n 6 . Bài làm các bài tập lớn của sinh viên . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu , trung bình , tốt ; mỗi loại ít nhất một bài . \n 7 . Đề kiểm tra , đề thi và đáp án đề kiểm tra , đề thi . \n 8 . ( Bảo sao ) Bài làm của sinh viên ( đối với các học phần có thi tự luận ) . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu , trung bình , tốt ; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15 . \n 9 . Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy , trong đó có phân tích về phổ điểm tổng kết của sinh viên . \n 10 . Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần . \n Lưu ý : Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm . \n Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần , cho từng lớp học phần giảng viên phụ trách . Ở các học kỳ có nhiều hơn một lớp học phần , hồ sơ học phần được lập chung cho một học phần , bao gồm đầy đủ các thành phần dùng chung ( như đề cương , bài giảng , đề thi ,... ) và các phần riêng cho từng nhóm lớp ( bảng điểm , bài làm của sinh viên , ghi chú ,... ) . Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ . \n Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa . \n Điều 41 . Lưu trữ học vụ Các tài liệu và loại tài liệu như hồ sơ học phần , bài làm , bảng điểm ,... phải lưu trữ theo thời hạn và quy định hiện hành của Đại học Quốc gia Thành phố Hồ Chí Minh và Bộ Giáo dục và Đào tạo . ",
+      "qas": [
+        {
+          "question": [
+            "Hồ sơ học phần bao gồm những thành phần nào?",
+            "Các phần cấu thành hồ sơ học phần là gì?",
+            "Thành phần nào được bao gồm trong hồ sơ học phần?",
+            "Những thành phần nào thường xuất hiện trong hồ sơ học phần?",
+            "Hồ sơ học phần đặc trưng bao gồm những phần nào?",
+            "Các yếu tố cơ bản nào thường có trong hồ sơ học phần?",
+            "Hồ sơ học phần thường chứa những thông tin gì?",
+            "Các thành phần cơ bản nào không thể thiếu trong một hồ sơ học phần?",
+            "Các mục nào thường được mô tả chi tiết trong hồ sơ học phần?",
+            "Thành phần nào trong hồ sơ học phần có tác động lớn đến quá trình học tập?",
+            "Đặc điểm nào nên có trong hồ sơ học phần để nó trở nên đầy đủ?",
+            "Thông tin nào quan trọng nhất cần có trong một hồ sơ học phần?",
+            "Các yếu tố nào tạo nên tính chất độc đáo của hồ sơ học phần?",
+            "Hồ sơ học phần bao gồm những mục nào?",
+            "Làm thế nào để xây dựng hồ sơ học phần cho sinh viên?",
+            "Các thành phần cơ bản của hồ sơ học phần là gì?"
+          ],
+          "answer": {
+            "text": "Hồ sơ học phần : \n Hồ sơ học phần bao gồm : \n 1 . Đề cương học phần . \n 2 . Bộ slide bài giảng . \n 3 . ( Bản sao ) Bảng điểm học phần . \n 4 . Các đề và đáp án của bài tập , thực hành , thí nghiệm được sử dụng trong học phần . \n 5 . Đầu bài và hướng dẫn chấm bài của các bài tập lớn . \n 6 . Bài làm các bài tập lớn của sinh viên . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu , trung bình , tốt ; mỗi loại ít nhất một bài . \n 7 . Đề kiểm tra , đề thi và đáp án đề kiểm tra , đề thi . \n 8 . ( Bảo sao ) Bài làm của sinh viên ( đối với các học phần có thi tự luận ) . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu , trung bình , tốt ; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15 . \n 9 . Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy , trong đó có phân tích về phổ điểm tổng kết của sinh viên . \n 10 . Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần .",
+            "answer_start": 50,
+            "answer_end": 1013
+          }
+        },
+        {
+          "question": [
+            "Hồ sơ học phần do ai lập ra?",
+            "Người nào thường là người lập hồ sơ học phần?",
+            "Ai đảm nhận trách nhiệm lập hồ sơ học phần?",
+            "Ai thường chịu trách nhiệm xây dựng hồ sơ học phần?",
+            "Cơ quan hoặc bộ phận nào thường có vai trò chính trong việc tạo ra hồ sơ học phần?",
+            "Ai là người tạo ra hồ sơ học phần?",
+            "Hồ sơ học phần được lập ra bởi ai?",
+            "Ai là người định nghĩa hồ sơ học phần?"
+          ],
+          "answer": {
+            "text": "Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần , cho từng lớp học phần giảng viên phụ trách .",
+            "answer_start": 1098,
+            "answer_end": 1213
+          }
+        },
+        {
+          "question": [
+            "Học kỳ có nhiều hơn một lớp học phần, hồ sơ được lập như thế nào?",
+            "Trong trường hợp có nhiều lớp học phần trong một học kỳ, quá trình lập hồ sơ như thế nào?",
+            "Làm thế nào để tổ chức hồ sơ học phần khi có nhiều lớp học phần trong cùng một kỳ học?",
+            "Hồ sơ học phần được xây dựng ra sao khi có sự chia nhỏ thành nhiều lớp học phần trong một học kỳ?",
+            "Trong trường hợp có nhiều lớp học phần, quy trình lập hồ sơ có thay đổi không?",
+            "Làm thế nào để đảm bảo tính đồng nhất và nhất quán của hồ sơ học phần khi có nhiều lớp học phần?",
+            "Hồ sơ học phần được tổ chức và lập ra sao trong trường hợp có nhiều lớp học phần cùng một học kỳ?",
+            "Có những điểm đặc biệt nào cần chú ý khi lập hồ sơ học phần trong tình huống có nhiều lớp học phần?",
+            "Làm thế nào để duy trì tính toàn vẹn và hiệu quả của hồ sơ học phần khi có nhiều lớp học phần đồng thời?",
+            "Trong môi trường học tập với nhiều lớp học phần, liệu có các biện pháp cụ thể để đảm bảo rằng hồ sơ học phần được lập đúng cách không?"
+          ],
+          "answer": {
+            "text": "Ở các học kỳ có nhiều hơn một lớp học phần , hồ sơ học phần được lập chung cho một học phần , bao gồm đầy đủ các thành phần dùng chung ( như đề cương , bài giảng , đề thi ,... ) và các phần riêng cho từng nhóm lớp ( bảng điểm , bài làm của sinh viên , ghi chú ,... ) .",
+            "answer_start": 1214,
+            "answer_end": 1482
+          }
+        },
+        {
+          "question": [
+            "Ngoài giảng viên giảng dạy học phần lập hồ sơ thì có ai khác có thể lập hồ sơ học phần không?",
+            "Ai ngoài giảng viên có thể tham gia vào quá trình lập hồ sơ học phần?",
+            "Ngoài giáo viên có giảng dạy học phần, ai còn tham gia vào việc xây dựng và quản lý hồ sơ học phần?"
+          ],
+          "answer": {
+            "text": "Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ .",
+            "answer_start": 1483,
+            "answer_end": 1546
+          }
+        },
+        {
+          "question": [
+            "Nơi lưu trữ hồ sơ học phần của mỗi học phần là ở đâu?",
+            "Hồ sơ học phần của mỗi học phần thường được lưu trữ ở đâu?",
+            "Trong hệ thống giáo dục, nơi nào thường chứa đựng hồ sơ học phần của các học phần khác nhau?",
+            "Hệ thống lưu trữ hồ sơ học phần của mỗi học phần thường nằm ở đâu trong trường học?",
+            "Liệu có một cơ sở dữ liệu hay hệ thống đặc biệt nào dành riêng cho việc lưu trữ hồ sơ học phần không?",
+            "Hồ sơ học phần thường được lưu trữ ở trung tâm thông tin học vụ hay bộ phận quản lý học vụ của trường không?",
+            "Nơi lưu trữ hồ sơ học phần của mỗi học phần có thể được truy cập từ đâu?",
+            "Liệu có các biện pháp đặc biệt nào để đảm bảo an toàn và bảo mật của nơi lưu trữ hồ sơ học phần không?"
+          ],
+          "answer": {
+            "text": "Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa .",
+            "answer_start": 1549,
+            "answer_end": 1672
+          }
+        },
+        {
+          "question": [
+            "Hồ sơ học phần có bao gồm bài làm của sinh viên, vậy tiêu chí lựa chọn các bài làm đó như thế nào?",
+            "Tiêu chí nào thường được sử dụng để lựa chọn bài làm của sinh viên để đưa vào hồ sơ học phần?",
+            "Làm thế nào để quyết định xem bài làm của sinh viên có nên được bao gồm trong hồ sơ học phần hay không?",
+            "Làm thế nào để đảm bảo tính đa dạng và đại diện trong việc chọn lọc các bài làm của sinh viên cho hồ sơ học phần?",
+            "Các tiêu chí chọn lọc bài làm của sinh viên cho hồ sơ học phần có thể bao gồm những yếu tố nào?",
+            "Các bài làm nào của sinh viên được ưu tiên khi chọn lọc để đưa vào hồ sơ học phần?",
+            "Các yếu tố nào quyết định sự chất lượng của một bài làm và ảnh hưởng đến quyết định lựa chọn nó vào hồ sơ học phần?"
+          ],
+          "answer": {
+            "text": "( Bảo sao ) Bài làm của sinh viên ( đối với các học phần có thi tự luận ) . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu , trung bình , tốt ; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15 .",
+            "answer_start": 551,
+            "answer_end": 790
+          }
+        },
+        {
+          "question": [
+            "Nội dung ghi chú của các giảng viên trong hồ sơ học phần liên quan đến điều gì?",
+            "Ghi chú của giảng viên trong hồ sơ học phần thường tập trung vào những khía cạnh nào của học tập sinh viên?",
+            "Nội dung ghi chú của giảng viên trong hồ sơ học phần thường phản ánh về điều gì trong quá trình học tập của sinh viên?",
+            "Các thông tin ghi chú của giảng viên trong hồ sơ học phần liên quan đến những khía cạnh nào của sinh viên?",
+            "Ghi chú của giáo viên trong hồ sơ học phần mang thông điệp gì về tiến trình học tập của sinh viên?",
+            "Các chi tiết nào thường được ghi chú và đánh giá trong hồ sơ học phần của sinh viên?",
+            "Nội dung ghi chú của giảng viên đối với học phần của sinh viên thường liên quan đến những yếu tố gì?",
+            "Trong hồ sơ học phần, giảng viên chú ý đến những khía cạnh cụ thể nào của học tập sinh viên?"
+          ],
+          "answer": {
+            "text": "Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy , trong đó có phân tích về phổ điểm tổng kết của sinh viên .",
+            "answer_start": 797,
+            "answer_end": 932
+          }
+        }
+      ]
+    }
+  ]
+}

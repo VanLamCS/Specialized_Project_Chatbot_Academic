@@ -1,0 +1,546 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "title": "Chuẩn quy định",
+      "context": "Ký hiệu chuẩn : CNTTCB ; \n Giải thích : Chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ; \n Mục đích : Để đạt chuẩn SV trình độ năm 2 ( áp dụng cho SV từ khóa 2021 ) ; \n Điều kiện để đạt : \n • Kiểm tra Kỹ năng ứng dụng Công nghệ thông tin cơ bản nội bộ . Tổ chức 1 lần ( miễn phí ) cho SV năm nhất , thường vào khoảng tuần thứ 4 của Học kỳ 1 năm thứ nhất . Kết quả có sau kỳ kiểm tra khoảng 2 tuần ( dự kiến ) . \n • Hoặc nộp Chứng Chỉ Kỹ năng ứng dụng Công nghệ thông tin cơ bản hoặc Chứng chỉ IC3 . Đăng ký nộp tại : myBK ( mybk . hcmut . edu . vn ) > > Ứng dụng cho sinh viên > > Đăng ký nộp Chứng chỉ Công nghệ thông tin . PĐT sẽ hậu kiểm , kết quả sẽ có sau 4 tuần ( dự kiến ) . ; Nhóm : ; Ký hiệu chuẩn : CNTTNC ; Giải thích : Chứng chỉ MOS ( Microsoft Office Specialist ) ; Mục đích : Để được đăng ký học phần Khóa luận tốt nghiệp ( áp dụng cho SV từ khóa 2021 ) ; Điều kiện để đạt : • Nhà trường khuyến khích SV đạt chứng chỉ Microsoft Office - MOS hai kỹ năng Excel và Power Point . Tạm thời , chưa yêu cầu SV đạt chứng chỉ MOS để tốt nghiệp . \n • Kỳ thi Microsoft Office Specialist ( MOS ) gồm 02 bài thi là Excel và PowerPoint . Tổ chức 1 lần ( miễn phí ) cho SV năm hai , thường vào khoảng cuối năm hai . Kết quả có sau kỳ kiểm tra khoảng 2 tuần ( dự kiến ) . \n • Hoặc nộp Chứng Chỉ MOS ( gồm 02 bài thi là Excel và PowerPoint ) . Đăng ký nộp tại : myBK ( mybk . hcmut . edu . vn ) > > Ứng dụng cho sinh viên > > Đăng ký nộp Chứng chỉ Công nghệ thông tin . PĐT sẽ hậu kiểm , kết quả sẽ có sau 4 tuần ( dự kiến ) . ; Nhóm : ; Ký hiệu chuẩn : CCAS_0 ; Giải thích : Chuẩn ngoại ngữ năm thứ nhất ( Đầu vào ) ; Mục đích : Để đăng ký môn học Anh văn 1 ; Điều kiện để đạt : Đạt Anh văn cơ bản ; Nhóm : ; Ký hiệu chuẩn : CCAS_1 ; Giải thích : Chuẩn ngoại ngữ năm thứ hai ( Cuối năm 1 ) ; Mục đích : SV chỉ được đăng ký môn trình độ thuộc năm 1 , 2 ; Điều kiện để đạt : Phải đạt Anh văn 1 ; Nhóm : ; Ký hiệu chuẩn : CCAS_2 ; Giải thích : Chuẩn ngoại ngữ năm thứ ba ( Cuối năm 2 ) ; Mục đích : SV chỉ được đăng ký môn trình độ thuộc năm 1 , 2 , 3 ; Điều kiện để đạt : Phải đạt Anh văn 1 , 2 , 3 ; Nhóm : ; Ký hiệu chuẩn : CCAS_3 ; Giải thích : Chuẩn ngoại ngữ năm thứ tư ( Cuối năm 3 ) ; Mục đích : SV được đăng ký môn trình độ thuộc năm 1 , 2 , 3 , 4 & trở lên ; Điều kiện để đạt : Phải đạt Anh văn 1 , 2 , 3 , 4 ; Nhóm : ; Ký hiệu chuẩn : CCAV_1 ; Giải thích : Chuẩn ngoại ngữ khi đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp ; Mục đích : Để được đăng ký học phần Luận văn tốt nghiệp / Khóa luận tốt nghiệp ; Điều kiện để đạt : CCNN quốc tế Nghe - Đọc : \n 1 - Chính quy : - Chính quy đại trà : Khóa 2018 về trước : 500 , Khóa 2019 : 550 , Từ Khóa 2020 về sau : 600 ; \n - Chương trình CLC tăng cường tiếng Nhật từ khóa 2020 về sau : 600 ; \n - Chương trình tài năng : Khóa 2018 về trước : 600 , Khóa 2019 : 650 , Từ Khóa 2020 về sau : 700 ; \n - Chương trình Kỹ sư Việt - Pháp : Khóa 2018 về trước : 600 , Khóa 2019 : 650 , Từ Khóa 2020 về sau : 700 ; \n - Bằng thứ 2 : Học chương trình đào tạo chính quy của khóa nào thì áp dụng chuẩn của khóa đó ; \n 2 - Vừa làm vừa học : Khóa 2017 về trước : 400 , Khóa 2018 : 450 , Khóa 2019 : 500 , Từ Khóa 2020 về sau : 600 ; Nhóm : LVTN ; Ký hiệu chuẩn : SV_N1 ; Giải thích : SV trình độ năm 1 ; Mục đích : SV chỉ được đăng ký môn trình độ thuộc năm 1 ; Điều kiện để đạt : ; Nhóm : ; Ký hiệu chuẩn : SV_N2 ; Giải thích : SV trình độ năm 2 ; Mục đích : SV chỉ được đăng ký môn trình độ thuộc năm 1 , 2 ; Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 28 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 2 ( CCAS_1 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; Nhóm : ; Ký hiệu chuẩn : SV_N3 ; Giải thích : SV trình độ năm 3 ; Mục đích : SV chỉ được đăng ký môn trình độ thuộc năm 1 , 2 , 3 , 4 ; Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 56 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 3 ( CCAS_2 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 4 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh 5 - Hoàn thành chương trình Giáo dục thể chất ; Nhóm : ; Ký hiệu chuẩn : SV_N5_V ; Giải thích : SV trình độ năm 5 ( Chương trình Việt Pháp ) ; Mục đích : SV được đăng ký môn trình độ thuộc năm 1 , 2 , 3 , 4 , 5 ( Chương trình Việt Pháp ) ; Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 112 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 4 ( CCAS_3 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 4 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh ; \n 5 - Hoàn thành chương trình Giáo dục thể chất ; Nhóm : ; Ký hiệu chuẩn : DH_THS ; Giải thích : Chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ ; Mục đích : SV đăng ký môn trình độ Kỹ sư / Thạc sỹ ( trình độ thuộc năm 5 trở lên ) ; Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 60 ; \n 2 - Điểm trung bình tích lũy > = 7.0 ; \n 3 - Đăng ký ngành thạc sĩ phù hợp với ngành đại học , và được công nhận là SV Chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ ( do P . ĐTSĐH phụ trách ) ; \n 4 - Đạt chuẩn ngoại ngữ năm thứ 4 ( CCAS_3 ) ; \n 5 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 6 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh ; \n 7 - Hoàn thành chương trình Giáo dục thể chất ; Nhóm : ; Ký hiệu chuẩn : C_TTNT ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Đăng ký thực tập ngoài trường / thực tập tốt nghiệp ; Điều kiện để đạt : - Thực tập ngoài trường / thực tập tốt nghiệp : tích luỹ đủ ít nhất 65 % số tín chỉ của chương trình đào tạo . Khi xét điều kiện số tín chỉ tích lũy ngành , các môn đang học trong học kỳ chính kế trước được tính vào số tín chỉ tích lũy ( dù chưa có điểm hay đã có điểm chưa đạt ) ; Nhóm : ; Ký hiệu chuẩn : C_TTNT ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Thực tập kỹ thuật ( PFIEV ) ( là TTNN của PFIEV ) và TTNT của chương trình song ngành ( Hàng Không - Tàu Thủy ) ; Điều kiện để đạt : Thực tập kỹ thuật ( PFIEV ) ( là TTNN của PFIEV ) và TTNT của chương trình song ngành ( Hàng Không - Tàu Thủy ) : tích luỹ đủ ít nhất 52 % số tín chỉ của chương trình đào tạo ; Nhóm : ; Ký hiệu chuẩn : C _ TTKS ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Thực tập kỹ sư ( PFIEV ) ; Điều kiện để đạt : Thực tập kỹ sư ( PFIEV ) : tích luỹ đủ ít nhất 72 % số tín chỉ của chương trình đào tạo ; Nhóm : ; Ký hiệu chuẩn : C_ĐACN / C_ĐCLV ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Đăng ký Đồ án chuyên ngành / Đề cương luận văn ; Điều kiện để đạt : - Đồ án chuyên ngành / Đề cương luận văn : tích luỹ đủ ít nhất 70 % số tín chỉ của chương trình đào tạo . Khi xét điều kiện số tín chỉ tích lũy ngành , các môn đang học trong học kỳ chính kế trước được tính vào số tín chỉ tích lũy ( dù chưa có điểm hay đã có điểm chưa đạt ) ; Nhóm : ; Ký hiệu chuẩn : C_ĐACN / C_ĐCLV ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Đồ án chuyên ngành / Đề cương luận văn của chương trình song ngành ( Hàng Không - Tàu Thủy ) ; Điều kiện để đạt : Đồ án chuyên ngành / Đề cương luận văn của chương trình song ngành ( Hàng Không - Tàu Thủy ) : tích luỹ đủ ít nhất 56 % số tín chỉ của chương trình đào tạo . Khi xét điều kiện số tín chỉ tích lũy ngành , các môn đang học trong học kỳ chính kế trước được tính vào số tín chỉ tích lũy ( dù chưa có điểm hay đã có điểm chưa đạt ) ; Nhóm : ; Ký hiệu chuẩn : C_ĐACN / C_ĐCLV ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Đồ án chuyên ngành / Đề cương luận văn của PFIEV ; Điều kiện để đạt : Đồ án chuyên ngành / Đề cương luận văn của PFIEV : tích luỹ đủ ít nhất 76 % số tín chỉ của chương trình đào tạo . Khi xét điều kiện số tín chỉ tích lũy ngành , các môn đang học trong học kỳ chính kế trước được tính vào số tín chỉ tích lũy ( dù chưa có điểm hay đã có điểm chưa đạt ) ; Nhóm : ; Ký hiệu chuẩn : C_LVTN ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp / Đồ án tốt nghiệp ; Điều kiện để đạt : - Tích luỹ số đủ ít nhất 82.5 % số tín chỉ của chương trình đào tạo . Khi xét điều kiện số tín chỉ tích lũy ngành , các môn đang học trong học kỳ chính kế trước được tính vào số tín chỉ tích lũy ( dù chưa có điểm hay đã có điểm chưa đạt ) ; Nhóm : LVTN ; Ký hiệu chuẩn : C_LVTN ; Giải thích : áp dụng chương trình đào tạo từ khóa 2019 trở về sau ; Mục đích : Đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp / Đồ án tốt nghiệp của PFIEV & chương trình song ngành ( Hàng Không - Tàu Thủy ) ; Điều kiện để đạt : - Tích luỹ số đủ ít nhất 86 % số tín chỉ của chương trình đào tạo . Khi xét điều kiện số tín chỉ tích lũy ngành , các môn đang học trong học kỳ chính kế trước được tính vào số tín chỉ tích lũy ( dù chưa có điểm hay đã có điểm chưa đạt ) ; Nhóm : LVTN ; Ký hiệu chuẩn : CTXHoi ; Giải thích : ; Mục đích : Chuẩn ngày công tác xã hội ; Điều kiện để đạt : Hoàn thành tối thiểu 70 % chương trình rèn luyện sinh viên ( 10 ngày CTXH ) ; Nhóm : LVTN ; Ký hiệu chuẩn : ; Giải thích : ; Mục đích : Cập nhật kết quả các Chuẩn ; Điều kiện để đạt : tại Mybk > > Thông tin sinh viên > > Điểm chuyển . ; Nhóm : ; Ký hiệu chuẩn : ; Giải thích : ; Mục đích : Bảng chuẩn tổng số tín chỉ tích lũy để đăng ký các học phần tốt nghiệp ; Điều kiện để đạt : tại hcmut . edu . vn > > Đào tạo > > Chương trình đào tạo > > Thực tập tốt nghiệp - Đề cương luận văn - Luận văn tốt nghiệp ; Nhóm : ; ",
+      "qas": [
+        {
+          "question": [
+            "Chuẩn công nghệ thông tin cơ bản ký hiệu là gì?",
+            "Ký hiệu nào được sử dụng để biểu thị chuẩn Công nghệ thông tin cơ bản?",
+            "Ký hiệu nào được sử dụng để biểu thị rõ ràng chuẩn công nghệ thông tin cơ bản?",
+            "Ký hiệu gì thường được áp dụng để đại diện cho các tiêu chuẩn trong lĩnh vực công nghệ thông tin cơ bản?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CNTTCB",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chuẩn công nghệ thông tin nâng cao ký hiệu là gì?",
+            "Khi đề cập đến chuẩn công nghệ thông tin nâng cao, ký hiệu cụ thể là gì?",
+            "Ký hiệu nào được sử dụng trong chuẩn công nghệ thông tin nâng cao?",
+            "Khi thảo luận về các tiêu chuẩn công nghệ thông tin nâng cao, ký hiệu cụ thể là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CNTTNC",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Ký hiệu của chuẩn ngoại ngữ năm thứ nhất là gì?",
+            "Chuẩn ngoại ngữ năm thứ nhất được biểu thị bằng ký hiệu gì?",
+            "Để biểu thị chuẩn ngoại ngữ năm thứ nhất, người ta sử dụng ký hiệu gì?",
+            "Ký hiệu cụ thể của chuẩn ngoại ngữ năm thứ nhất là gì?",
+            "Khi nói về chuẩn ngoại ngữ năm thứ nhất, người ta thường sử dụng ký hiệu gì?",
+            "Chuẩn ngoại ngữ ở mức độ thứ nhất có ký hiệu là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CCAS_0",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Ký hiệu của chuẩn ngoại ngữ năm thứ hai là gì?",
+            "Chuẩn ngoại ngữ năm thứ hai được biểu thị bằng ký hiệu gì?",
+            "Để biểu thị chuẩn ngoại ngữ năm thứ hai, người ta sử dụng ký hiệu gì?",
+            "Ký hiệu cụ thể của chuẩn ngoại ngữ năm thứ hai là gì?",
+            "Khi nói về chuẩn ngoại ngữ năm thứ hai, người ta thường sử dụng ký hiệu gì?",
+            "Chuẩn ngoại ngữ ở mức độ thứ hai có ký hiệu là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CCAS_1",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Ký hiệu của chuẩn ngoại ngữ năm thứ ba là gì?",
+            "Chuẩn ngoại ngữ năm thứ ba được biểu thị bằng ký hiệu gì?",
+            "Để biểu thị chuẩn ngoại ngữ năm thứ ba, người ta sử dụng ký hiệu gì?",
+            "Ký hiệu cụ thể của chuẩn ngoại ngữ năm thứ ba là gì?",
+            "Khi nói về chuẩn ngoại ngữ năm thứ ba, người ta thường sử dụng ký hiệu gì?",
+            "Chuẩn ngoại ngữ ở mức độ thứ ba có ký hiệu là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CCAS_2",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Ký hiệu của chuẩn ngoại ngữ năm thứ tư là gì?",
+            "Chuẩn ngoại ngữ năm thứ tư được biểu thị bằng ký hiệu gì?",
+            "Để biểu thị chuẩn ngoại ngữ năm thứ tư, người ta sử dụng ký hiệu gì?",
+            "Ký hiệu cụ thể của chuẩn ngoại ngữ năm thứ tư là gì?",
+            "Khi nói về chuẩn ngoại ngữ năm thứ tư, người ta thường sử dụng ký hiệu gì?",
+            "Chuẩn ngoại ngữ ở mức độ thứ tư có ký hiệu là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CCAS_3",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chuẩn ngoại ngữ khi đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp ký hiệu là gì?",
+            "Khi đăng ký luận văn tốt nghiệp hay khoá luận tốt nghiệp cần chuẩn ngoại ngữ, chuẩn đó ký hiệu là gì?",
+            "Ký hiệu của chuẩn ngoại ngữ khi đăng ký luận văn tốt nghiệp là gì?",
+            "Ký hiệu của chuẩn ngoại ngữ khi đăng ký khoá luận tốt nghiệp là gì?",
+            "Chuẩn ngoại ngữ cần thiết khi đăng ký luận văn tốt nghiệp thường được biểu thị bằng ký hiệu gì?",
+            "Khi đăng ký khoá luận tốt nghiệp, chuẩn ngoại ngữ đó có ký hiệu là gì?",
+            "Khi đăng ký luận văn tốt nghiệp, chuẩn ngoại ngữ đó được đại diện bằng ký hiệu gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CCAV_1",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chuẩn sinh viên trình độ năm 1 ký hiệu là gì?",
+            "Khi nói về chuẩn sinh viên ở trình độ năm 1, ký hiệu chính là gì?",
+            "Chuẩn sinh viên trình độ năm 1 được biểu thị bằng ký hiệu gì?",
+            "Ký hiệu của chuẩn sinh viên ở trình độ năm 1 là gì?",
+            "Ký hiệu của chuẩn sinh viên trong năm học đầu tiên là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : SV_N1",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chuẩn sinh viên trình độ năm 2 ký hiệu là gì?",
+            "Khi nói về chuẩn sinh viên ở trình độ năm 2, ký hiệu chính là gì?",
+            "Chuẩn sinh viên trình độ năm 2 được biểu thị bằng ký hiệu gì?",
+            "Ký hiệu của chuẩn sinh viên ở trình độ năm 2 là gì?",
+            "Ký hiệu của chuẩn sinh viên trong năm học thứ hai là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : SV_N2",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chuẩn sinh viên trình độ năm 3 ký hiệu là gì?",
+            "Khi nói về chuẩn sinh viên ở trình độ năm 3, ký hiệu chính là gì?",
+            "Chuẩn sinh viên trình độ năm 3 được biểu thị bằng ký hiệu gì?",
+            "Ký hiệu của chuẩn sinh viên ở trình độ năm 3 là gì?",
+            "Ký hiệu của chuẩn sinh viên trong năm học thứ ba là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : SV_N3",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chuẩn sinh viên trình độ năm 5 ký hiệu là gì?",
+            "Khi nói về chuẩn sinh viên ở trình độ năm 5, ký hiệu chính là gì?",
+            "Chuẩn sinh viên trình độ năm 5 được biểu thị bằng ký hiệu gì?",
+            "Ký hiệu của chuẩn sinh viên ở trình độ năm 5 là gì?",
+            "Ký hiệu của chuẩn sinh viên trong năm học thứ năm là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : SV_N5_V",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ ký hiệu chuẩn này là gì?",
+            "Chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ có ký hiệu chuẩn là gì?",
+            "Khi nói về chương trình liên thông từ Đại học đến Kỹ sư và Thạc sĩ, ký hiệu chính là gì?",
+            "hương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ được biểu thị bằng ký hiệu gì?",
+            "Ký hiệu của chương trình liên thông Đại học - Kỹ sư - Thạc sĩ khi đăng ký học là gì?",
+            "Chương trình đào tạo liên thông từ Đại học đến Kỹ sư và Thạc sĩ thường có ký hiệu là gì?",
+            "Ký hiệu của chương trình liên thông từ Đại học đến Kỹ sư và Thạc sĩ là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : DH_THS",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Chuẩn ngày công tác xã hội ký hiệu là gì?",
+            "Khi nói về chuẩn ngày công tác xã hội, ký hiệu chính là gì?",
+            "Chuẩn ngày công tác xã hội được biểu thị bằng ký hiệu gì?",
+            "Ký hiệu của chuẩn ngày công tác xã hội là gì?",
+            "Ký hiệu của chuẩn ngày công tác xã hội là gì?"
+          ],
+          "answer": {
+            "text": "Ký hiệu chuẩn : CTXHoi",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt chuẩn CNTTCB là gì?",
+            "Điều kiện cần để đạt chuẩn CNTTCB là gì?",
+            "Chuẩn CNTTCB yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn CNTTCB, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn CNTTCB là gì theo bạn?",
+            "Chuẩn CNTTCB đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn CNTTCB, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn CNTTCB?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn CNTTCB?",
+            "Điều kiện đạt chuẩn công nghệ thông tin cơ bản là gì?",
+            "Điều kiện cần để đạt chuẩn công nghệ thông tin cơ bản là gì?",
+            "Chuẩn công nghệ thông tin cơ bản yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn công nghệ thông tin cơ bản, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn công nghệ thông tin cơ bản là gì theo bạn?",
+            "Chuẩn công nghệ thông tin cơ bản đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn công nghệ thông tin cơ bản, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn công nghệ thông tin cơ bản?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn công nghệ thông tin cơ bản?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : \n • Kiểm tra Kỹ năng ứng dụng Công nghệ thông tin cơ bản nội bộ . Tổ chức 1 lần ( miễn phí ) cho SV năm nhất , thường vào khoảng tuần thứ 4 của Học kỳ 1 năm thứ nhất . Kết quả có sau kỳ kiểm tra khoảng 2 tuần ( dự kiến ) . \n • Hoặc nộp Chứng Chỉ Kỹ năng ứng dụng Công nghệ thông tin cơ bản hoặc Chứng chỉ IC3 . Đăng ký nộp tại : myBK ( mybk . hcmut . edu . vn ) > > Ứng dụng cho sinh viên > > Đăng ký nộp Chứng chỉ Công nghệ thông tin . PĐT sẽ hậu kiểm , kết quả sẽ có sau 4 tuần ( dự kiến ) .",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt chuẩn CNTTNC là gì?",
+            "Điều kiện cần để đạt chuẩn CNTTNC là gì?",
+            "Chuẩn CNTTNC yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn CNTTNC, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn CNTTNC là gì theo bạn?",
+            "Chuẩn CNTTNC đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn CNTTNC, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn CNTTNC?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn CNTTNC?",
+            "Điều kiện đạt chuẩn công nghệ thông tin nâng cao là gì?",
+            "Điều kiện cần để đạt chuẩn công nghệ thông tin nâng cao là gì?",
+            "Chuẩn công nghệ thông tin nâng cao yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn công nghệ thông tin nâng cao, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn công nghệ thông tin nâng cao là gì theo bạn?",
+            "Chuẩn công nghệ thông tin nâng cao đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn công nghệ thông tin nâng cao, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn công nghệ thông tin nâng cao?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn công nghệ thông tin nâng cao?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : • Nhà trường khuyến khích SV đạt chứng chỉ Microsoft Office - MOS hai kỹ năng Excel và Power Point . Tạm thời , chưa yêu cầu SV đạt chứng chỉ MOS để tốt nghiệp . \n • Kỳ thi Microsoft Office Specialist ( MOS ) gồm 02 bài thi là Excel và PowerPoint . Tổ chức 1 lần ( miễn phí ) cho SV năm hai , thường vào khoảng cuối năm hai . Kết quả có sau kỳ kiểm tra khoảng 2 tuần ( dự kiến ) . \n • Hoặc nộp Chứng Chỉ MOS ( gồm 02 bài thi là Excel và PowerPoint ) . Đăng ký nộp tại : myBK ( mybk . hcmut . edu . vn ) > > Ứng dụng cho sinh viên > > Đăng ký nộp Chứng chỉ Công nghệ thông tin . PĐT sẽ hậu kiểm , kết quả sẽ có sau 4 tuần ( dự kiến ) .",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt chuẩn CCAS_0 là gì?",
+            "Điều kiện cần để đạt chuẩn CCAS_0 là gì?",
+            "Chuẩn CCAS_0 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn CCAS_0, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn CCAS_0 là gì theo bạn?",
+            "Chuẩn CCAS_0 đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn CCAS_0, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn CCAS_0?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn CCAS_0?",
+            "Điều kiện đạt chuẩn ngoại ngữ năm thứ nhất là gì?",
+            "Điều kiện cần để đạt chuẩn ngoại ngữ năm thứ nhất là gì?",
+            "Chuẩn ngoại ngữ năm thứ nhất yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ nhất, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn ngoại ngữ năm thứ nhất là gì theo bạn?",
+            "Chuẩn ngoại ngữ năm thứ nhất đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ nhất, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn ngoại ngữ năm thứ nhất?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn ngoại ngữ năm thứ nhất?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : Đạt Anh văn cơ bản",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt chuẩn CCAS_1 là gì?",
+            "Điều kiện cần để đạt chuẩn CCAS_1 là gì?",
+            "Chuẩn CCAS_1 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn CCAS_1, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn CCAS_1 là gì theo bạn?",
+            "Chuẩn CCAS_1 đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn CCAS_1, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn CCAS_1?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn CCAS_1?",
+            "Điều kiện đạt chuẩn ngoại ngữ năm thứ hai là gì?",
+            "Điều kiện cần để đạt chuẩn ngoại ngữ năm thứ hai là gì?",
+            "Chuẩn ngoại ngữ năm thứ hai yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ hai, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn ngoại ngữ năm thứ hai là gì theo bạn?",
+            "Chuẩn ngoại ngữ năm thứ hai đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ hai, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn ngoại ngữ năm thứ hai?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn ngoại ngữ năm thứ hai?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : Phải đạt Anh văn 1",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt chuẩn CCAS_2 là gì?",
+            "Điều kiện cần để đạt chuẩn CCAS_2 là gì?",
+            "Chuẩn CCAS_2 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn CCAS_2, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn CCAS_2 là gì theo bạn?",
+            "Chuẩn CCAS_2 đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn CCAS_2, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn CCAS_2?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn CCAS_2?",
+            "Điều kiện đạt chuẩn ngoại ngữ năm thứ ba là gì?",
+            "Điều kiện cần để đạt chuẩn ngoại ngữ năm thứ ba là gì?",
+            "Chuẩn ngoại ngữ năm thứ ba yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ ba, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn ngoại ngữ năm thứ ba là gì theo bạn?",
+            "Chuẩn ngoại ngữ năm thứ ba đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ ba, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn ngoại ngữ năm thứ ba?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn ngoại ngữ năm thứ ba?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : Phải đạt Anh văn 1 , 2 , 3",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt chuẩn CCAS_3 là gì?",
+            "Điều kiện cần để đạt chuẩn CCAS_3 là gì?",
+            "Chuẩn CCAS_3 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn CCAS_3, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn CCAS_3 là gì theo bạn?",
+            "Chuẩn CCAS_3 đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn CCAS_3, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn CCAS_3?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn CCAS_3?",
+            "Điều kiện đạt chuẩn ngoại ngữ năm thứ tư là gì?",
+            "Điều kiện cần để đạt chuẩn ngoại ngữ năm thứ tư là gì?",
+            "Chuẩn ngoại ngữ năm thứ tư yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ tư, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Các điều kiện cần thiết để đạt chuẩn ngoại ngữ năm thứ tư là gì theo bạn?",
+            "Chuẩn ngoại ngữ năm thứ tư đặt ra những yêu cầu nào mà người thực hiện phải đáp ứng?",
+            "Khi nói về đạt chuẩn ngoại ngữ năm thứ tư, người tham gia cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn ngoại ngữ năm thứ tư?",
+            "Theo bạn, những tiêu chí gì là quan trọng để đạt chuẩn ngoại ngữ năm thứ tư?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : Phải đạt Anh văn 1 , 2 , 3 , 4",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt được Chuẩn ngoại ngữ khi đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp là gì?",
+            "Để đạt được Chuẩn ngoại ngữ khi đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp, điều kiện cần là gì?",
+            "Khi đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp, những điều kiện nào phải được đáp ứng để đạt được Chuẩn ngoại ngữ?",
+            "Chuẩn ngoại ngữ đối với việc đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp yêu cầu những điều gì?",
+            "Những điều kiện cụ thể nào cần thiết để đạt được Chuẩn ngoại ngữ khi đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp?",
+            "Khi nói về Chuẩn ngoại ngữ trong quá trình đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp, điều kiện chính là gì?",
+            "Điều kiện gì cần phải đáp ứng để đạt được Chuẩn ngoại ngữ trong quá trình thực hiện Luận văn tốt nghiệp / Khóa luận tốt nghiệp?",
+            "Chuẩn ngoại ngữ khi đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp yêu cầu những điều kiện nào?",
+            "Những yêu cầu cụ thể nào cần phải thỏa mãn để đạt được Chuẩn ngoại ngữ trong Luận văn tốt nghiệp / Khóa luận tốt nghiệp?",
+            "Khi thực hiện đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp, điều kiện gì được đặt ra để đạt được Chuẩn ngoại ngữ?",
+            "Chuẩn ngoại ngữ trong việc đăng ký Luận văn tốt nghiệp / Khóa luận tốt nghiệp đặt ra những điều kiện gì?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : CCNN quốc tế Nghe - Đọc : \n 1 - Chính quy : - Chính quy đại trà : Khóa 2018 về trước : 500 , Khóa 2019 : 550 , Từ Khóa 2020 về sau : 600 ; \n - Chương trình CLC tăng cường tiếng Nhật từ khóa 2020 về sau : 600 ; \n - Chương trình tài năng : Khóa 2018 về trước : 600 , Khóa 2019 : 650 , Từ Khóa 2020 về sau : 700 ; \n - Chương trình Kỹ sư Việt - Pháp : Khóa 2018 về trước : 600 , Khóa 2019 : 650 , Từ Khóa 2020 về sau : 700 ; \n - Bằng thứ 2 : Học chương trình đào tạo chính quy của khóa nào thì áp dụng chuẩn của khóa đó ; \n 2 - Vừa làm vừa học : Khóa 2017 về trước : 400 , Khóa 2018 : 450 , Khóa 2019 : 500 , Từ Khóa 2020 về sau : 600 ;",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt được chuẩn SV_N2 là gì?",
+            "Điều kiện cần để đạt chuẩn SV_N2 là gì?",
+            "Để đạt được chuẩn SV_N2, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn SV_N2 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn SV_N2, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn SV_N2?",
+            "Các điều kiện cần thiết để đạt chuẩn SV_N2 là gì theo bạn?",
+            "Để đạt được chuẩn SV_N2, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn SV_N2 đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn SV_N2, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn SV_N2?",
+            "Để được công nhận đạt chuẩn SV_N2, sinh viên cần phải thỏa mãn những yêu cầu nào?",
+            "Điều kiện đạt được chuẩn sinh viên năm 2 là gì?",
+            "Điều kiện cần để đạt chuẩn sinh viên năm 2 là gì?",
+            "Để đạt được chuẩn sinh viên năm 2, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn sinh viên năm 2 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn sinh viên năm 2, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn sinh viên năm 2?",
+            "Các điều kiện cần thiết để đạt chuẩn sinh viên năm 2 là gì theo bạn?",
+            "Để đạt được chuẩn sinh viên năm 2, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn sinh viên năm 2 đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn sinh viên năm 2, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn sinh viên năm 2?",
+            "Để được công nhận đạt chuẩn sinh viên năm 2, sinh viên cần phải thỏa mãn những yêu cầu nào?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 28 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 2 ( CCAS_1 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ;",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt được chuẩn SV_N3 là gì?",
+            "Điều kiện cần để đạt chuẩn SV_N3 là gì?",
+            "Để đạt được chuẩn SV_N3, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn SV_N3 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn SV_N3, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn SV_N3?",
+            "Các điều kiện cần thiết để đạt chuẩn SV_N3 là gì theo bạn?",
+            "Để đạt được chuẩn SV_N3, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn SV_N3 đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn SV_N3, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn SV_N3?",
+            "Để được công nhận đạt chuẩn SV_N3, sinh viên cần phải thỏa mãn những yêu cầu nào?",
+            "Điều kiện đạt được chuẩn sinh viên năm 3 là gì?",
+            "Điều kiện cần để đạt chuẩn sinh viên năm 3 là gì?",
+            "Để đạt được chuẩn sinh viên năm 3, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn sinh viên năm 3 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn sinh viên năm 3, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn sinh viên năm 3?",
+            "Các điều kiện cần thiết để đạt chuẩn sinh viên năm 3 là gì theo bạn?",
+            "Để đạt được chuẩn sinh viên năm 3, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn sinh viên năm 3 đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn sinh viên năm 3, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn sinh viên năm 3?",
+            "Để được công nhận đạt chuẩn sinh viên năm 3, sinh viên cần phải thỏa mãn những yêu cầu nào?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 56 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 3 ( CCAS_2 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 4 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh 5 - Hoàn thành chương trình Giáo dục thể chất ;",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt được chuẩn SV_N5_V là gì?",
+            "Điều kiện cần để đạt chuẩn SV_N5_V là gì?",
+            "Để đạt được chuẩn SV_N5_V, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn SV_N5_V yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn SV_N5_V, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn SV_N5_V?",
+            "Các điều kiện cần thiết để đạt chuẩn SV_N5_V là gì theo bạn?",
+            "Để đạt được chuẩn SV_N5_V, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn SV_N5_V đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn SV_N5_V, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn SV_N5_V?",
+            "Để được công nhận đạt chuẩn SV_N5_V, sinh viên cần phải thỏa mãn những yêu cầu nào?",
+            "Điều kiện đạt được chuẩn sinh viên năm 5 là gì?",
+            "Điều kiện cần để đạt chuẩn sinh viên năm 5 là gì?",
+            "Để đạt được chuẩn sinh viên năm 5, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn sinh viên năm 5 yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn sinh viên năm 5, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn sinh viên năm 5?",
+            "Các điều kiện cần thiết để đạt chuẩn sinh viên năm 5 là gì theo bạn?",
+            "Để đạt được chuẩn sinh viên năm 5, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn sinh viên năm 5 đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn sinh viên năm 5, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn sinh viên năm 5?",
+            "Để được công nhận đạt chuẩn sinh viên năm 5, sinh viên cần phải thỏa mãn những yêu cầu nào?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 112 ; \n 2 - Đạt chuẩn ngoại ngữ năm thứ 4 ( CCAS_3 ) ; \n 3 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 4 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh ; \n 5 - Hoàn thành chương trình Giáo dục thể chất ;",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt được chuẩn DH_THS là gì?",
+            "Điều kiện cần để đạt chuẩn DH_THS là gì?",
+            "Để đạt được chuẩn DH_THS, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn DH_THS yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn DH_THS, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn DH_THS?",
+            "Các điều kiện cần thiết để đạt chuẩn DH_THS là gì theo bạn?",
+            "Để đạt được chuẩn DH_THS, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn DH_THS đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn DH_THS, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn DH_THS?",
+            "Để được công nhận đạt chuẩn DH_THS, sinh viên cần phải thỏa mãn những yêu cầu nào?",
+            "Điều kiện đạt được chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ là gì?",
+            "Điều kiện cần để đạt chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ là gì?",
+            "Để đạt được chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ?",
+            "Các điều kiện cần thiết để đạt chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ là gì theo bạn?",
+            "Để đạt được chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ?",
+            "Để được công nhận đạt chuẩn chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ, sinh viên cần phải thỏa mãn những yêu cầu nào?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : 1 - Đạt số tín chỉ tích lũy > = 60 ; \n 2 - Điểm trung bình tích lũy > = 7.0 ; \n 3 - Đăng ký ngành thạc sĩ phù hợp với ngành đại học , và được công nhận là SV Chương trình đào tạo liên thông Đại học - Kỹ sư - Thạc sĩ hoặc Chương trình đào tạo liên thông Đại học - Thạc sĩ ( do P . ĐTSĐH phụ trách ) ; \n 4 - Đạt chuẩn ngoại ngữ năm thứ 4 ( CCAS_3 ) ; \n 5 - Đạt chuẩn kỹ năng ứng dụng Công nghệ thông tin cơ bản ( CNTTCB ) ; \n 6 - Hoàn thành chương trình Giáo dục quốc phòng - An ninh ; \n 7 - Hoàn thành chương trình Giáo dục thể chất ;",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        },
+        {
+          "question": [
+            "Điều kiện đạt được chuẩn CTXHoi là gì?",
+            "Điều kiện cần để đạt chuẩn CTXHoi là gì?",
+            "Để đạt được chuẩn CTXHoi, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn CTXHoi yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn CTXHoi, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn CTXHoi?",
+            "Các điều kiện cần thiết để đạt chuẩn CTXHoi là gì theo bạn?",
+            "Để đạt được chuẩn CTXHoi, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn CTXHoi đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn CTXHoi, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn CTXHoi?",
+            "Để được công nhận đạt chuẩn CTXHoi, sinh viên cần phải thỏa mãn những yêu cầu nào?",
+            "Điều kiện đạt được chuẩn ngày công tác xã hội là gì?",
+            "Điều kiện cần để đạt chuẩn ngày công tác xã hội là gì?",
+            "Để đạt được chuẩn ngày công tác xã hội, những điều kiện cụ thể nào cần phải được đáp ứng?",
+            "Chuẩn ngày công tác xã hội yêu cầu những điều gì để được coi là đạt chuẩn?",
+            "Khi nói về đạt chuẩn ngày công tác xã hội, những điều kiện cụ thể nào cần phải đáp ứng?",
+            "Làm sao để tôi đạt được chuẩn ngày công tác xã hội?",
+            "Các điều kiện cần thiết để đạt chuẩn ngày công tác xã hội là gì theo bạn?",
+            "Để đạt được chuẩn ngày công tác xã hội, sinh viên cần tuân theo những điều gì?",
+            "Chuẩn ngày công tác xã hội đặt ra những yêu cầu nào mà sinh viên phải đáp ứng?",
+            "Khi nói về đạt chuẩn ngày công tác xã hội, sinh viên cần phải đáp ứng những tiêu chí nào?",
+            "Những điều kiện gì được đặt ra để đảm bảo việc đạt chuẩn ngày công tác xã hội?",
+            "Để được công nhận đạt chuẩn ngày công tác xã hội, sinh viên cần phải thỏa mãn những yêu cầu nào?"
+          ],
+          "answer": {
+            "text": "Điều kiện để đạt : Hoàn thành tối thiểu 70 % chương trình rèn luyện sinh viên ( 10 ngày CTXH ) ;",
+            "answer_start": 0,
+            "answer_end": 0
+          }
+        }
+      ]
+    }
+  ]
+}

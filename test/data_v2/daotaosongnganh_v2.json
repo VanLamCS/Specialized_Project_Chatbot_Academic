@@ -1,0 +1,126 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "context": "Điều 34 . Đào tạo song ngành : \n 34.1 Quy định chung : \n Trong thời gian đào tạo ngành thứ nhất , sinh viên được đăng ký học và tích lũy các học phần của ngành thứ nhất và của ngành thứ hai . \n Ngoại trừ các chương trình đào tạo song ngành tuyển sinh ngay từ đầu , sinh viên được đăng ký học ngành thứ hai sớm nhất khi đã được xếp trình độ năm thứ hai của ngành thứ nhất và muộn nhất là 02 năm trước thời điểm tốt nghiệp ngành thứ hai . Tại thời điểm đăng ký , sinh viên phải đáp ứng các điều kiện sau : \n a ) Điểm trung bình tích lũy xếp loại khá trở lên và đáp ứng ngưỡng bảo đảm chất lượng của ngành thứ hai trong năm tuyển sinh , hoặc điểm trung bình tích lũy xếp loại trung bình và đáp ứng điều kiện trúng tuyển của ngành thứ hai trong năm tuyển sinh ; \n b ) Được sự đồng ý của Trưởng Khoa quản lý ngành thứ hai căn cứ trên các tiêu chí đánh giá về năng lực đào tạo của ngành thứ hai . \n 34.2 Đào tạo song ngành theo hướng bằng thứ hai : \n Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất ; \n hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp . Học phần tốt nghiệp dạng song ngành phải do các Khoa quản lý hai ngành sinh viên theo học cùng đồng ý giao đề tài , phân công các giảng viên đồng hướng dẫn và phải được bảo vệ bằng hội đồng đánh giá luận văn tốt nghiệp chung của cả hai ngành . \n Khi đủ điều kiện tốt nghiệp của cả hai ngành , sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc . Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất . \n Trong quá trình học song ngành , sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành / hai Khoa quản lý ngành . \n 34.3 Đào tạo song ngành theo hướng ngành phụ : \n Sinh viên học song ngành theo hướng ngành phụ không được phép đăng ký các học phần tốt nghiệp của ngành thứ hai . Khi đủ điều kiện tốt nghiệp ngành thứ nhất , đồng thời hoàn thành đủ điều kiện tốt nghiệp ngành phụ , sinh viên đăng ký tốt nghiệp ngành thứ nhất và ngành phụ và được xét cấp bằng cho ngành thứ nhất . Thông tin tốt nghiệp ngành phụ được nêu rõ trong bảng điểm , phụ lục bằng tốt nghiệp nhưng không được cấp thành một văn bằng riêng . \n 34.4 Đào tạo song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác : \n Sinh viên phải được sự đồng ý của nhà trường trước khi đăng ký tuyển sinh vào chương trình đào tạo song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác . \n Sinh viên cơ sở đào tạo khác khi trúng tuyển vào chương trình song ngành theo hướng bằng thứ hai của nhà trường thực hiện đúng quy định của nhà trường về đào tạo , học vụ và quản lý học sinh sinh viên . ",
+      "qas": [
+        {
+          "question": [
+            "Trong thời gian học ngành thứ nhất, sinh viên có thể đăng ký học phần cho ngành thứ hai không?",
+            "Quy định nào liên quan đến việc sinh viên học ngành thứ nhất có thể đăng ký học phần cho ngành thứ hai?",
+            "Làm thế nào quá trình đăng ký học phần cho ngành thứ hai trong thời gian học ngành thứ nhất được tổ chức?"
+          ],
+          "answer": {
+            "text": "Trong thời gian đào tạo ngành thứ nhất , sinh viên được đăng ký học và tích lũy các học phần của ngành thứ nhất và của ngành thứ hai .",
+            "answer_start": 57,
+            "answer_end": 191
+          }
+        },
+        {
+          "question": [
+            "Điều kiện cụ thể nào sinh viên cần đáp ứng khi muốn đăng ký học ngành thứ hai?",
+            "Những yêu cầu chi tiết nào mà sinh viên phải đáp ứng để đăng ký học ngành thứ hai?",
+            "Có những điểm chính nào sinh viên cần đạt khi muốn đăng ký học ngành thứ hai?",
+            "Điểm trung bình tích lũy và ngưỡng bảo đảm chất lượng là những yếu tố quan trọng nào khi sinh viên muốn đăng ký học ngành thứ hai?",
+            "Điều kiện cần thiết nào mà sinh viên cần thỏa mãn để đăng ký học ngành thứ hai?",
+            "Ngưỡng điểm bảo đảm chất lượng của ngành thứ hai là bao nhiêu và làm thế nào sinh viên có thể đảm bảo đạt được?"
+          ],
+          "answer": {
+            "text": "Ngoại trừ các chương trình đào tạo song ngành tuyển sinh ngay từ đầu , sinh viên được đăng ký học ngành thứ hai sớm nhất khi đã được xếp trình độ năm thứ hai của ngành thứ nhất và muộn nhất là 02 năm trước thời điểm tốt nghiệp ngành thứ hai . Tại thời điểm đăng ký , sinh viên phải đáp ứng các điều kiện sau : \n a ) Điểm trung bình tích lũy xếp loại khá trở lên và đáp ứng ngưỡng bảo đảm chất lượng của ngành thứ hai trong năm tuyển sinh , hoặc điểm trung bình tích lũy xếp loại trung bình và đáp ứng điều kiện trúng tuyển của ngành thứ hai trong năm tuyển sinh ; \n b ) Được sự đồng ý của Trưởng Khoa quản lý ngành thứ hai căn cứ trên các tiêu chí đánh giá về năng lực đào tạo của ngành thứ hai .",
+            "answer_start": 194,
+            "answer_end": 890
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì có thể đăng ký các học phần tốt nghiệp cho bằng thứ hai theo hướng song ngành bằng thứ hai?",
+            "Điều kiện gì cần đáp ứng khi muốn đăng ký học phần tốt nghiệp cho bằng thứ hai theo hướng song ngành bằng thứ hai?",
+            "Quy định cụ thể nào về việc đăng ký học phần tốt nghiệp cho bằng thứ hai theo hướng song ngành bằng thứ hai?",
+            "Có những yêu cầu gì đặt ra đối với sinh viên muốn đăng ký học phần tốt nghiệp cho bằng thứ hai theo hướng song ngành bằng thứ hai?",
+            "Làm thế nào để xác định xem sinh viên có đủ điều kiện để đăng ký học phần tốt nghiệp cho bằng thứ hai theo hướng song ngành bằng thứ hai hay không?",
+            "Có những quy định nào đặc biệt đối với sinh viên đăng ký học phần tốt nghiệp cho bằng thứ hai theo hướng song ngành bằng thứ hai không?",
+            "Sinh viên cần thực hiện để đăng ký học phần tốt nghiệp cho bằng thứ hai theo hướng song ngành bằng thứ hai cần đáp ứng điều kiện gì?"
+          ],
+          "answer": {
+            "text": "Sinh viên học song ngành theo hướng bằng thứ hai chỉ được phép đăng ký các học phần tốt nghiệp của ngành thứ hai sau khi đã hoàn thành học phần tốt nghiệp của ngành thứ nhất ; \n hoặc đăng ký học phần tốt nghiệp dạng song ngành để cùng lúc hoàn thành cả hai học phần tốt nghiệp .",
+            "answer_start": 945,
+            "answer_end": 1223
+          }
+        },
+        {
+          "question": [
+            "Sinh viên có thể xin thôi học song ngành hướng bằng thứ hai không?",
+            "Tôi muốn thôi học song ngành hướng bằng thứ hai để tốt nghiệp một ngành thôi được không?",
+            "Quy định liên quan đến thôi học song ngành theo hướng bằng thứ hai?",
+            "Có ràng buộc nào để xin thôi học song ngành hướng ngành thứ hai không?",
+            "Tôi muốn thôi học song ngành hướng ngành thứ hai có được không?"
+          ],
+          "answer": {
+            "text": "Sinh viên có thể xin thôi học song ngành để chỉ được xét tốt nghiệp và cấp bằng cho ngành thứ nhất .",
+            "answer_start": 1595,
+            "answer_end": 1695
+          }
+        },
+        {
+          "question": [
+            "Làm sao để tốt nghiệp cùng lúc 2 bằng?",
+            "Tôi đã đủ điều kiện tốt nghiệp 2 bằng, làm sao để nhận 2 bằng lúc tốt nghiệp?",
+            "Tôi muốn tốt nghiệp 2 ngành hướng ngành thứ 2 và đã đủ điều kiện hết rồi."
+          ],
+          "answer": {
+            "text": "Khi đủ điều kiện tốt nghiệp của cả hai ngành , sinh viên đăng ký tốt nghiệp cả hai ngành và được xét cấp hai bằng cùng lúc .",
+            "answer_start": 1470,
+            "answer_end": 1594
+          }
+        },
+        {
+          "question": [
+            "Trong quá trình học song ngành hướng bằng thứ hai, sinh viên có phải tuân thủ theo yêu cầu gì không?",
+            "Quy điện về học lục phải tuân theo khi học song ngành theo hướng bằng thứ hai là gì?"
+          ],
+          "answer": {
+            "text": "Trong quá trình học song ngành , sinh viên phải thoả mãn các điều kiện về học lực theo quy định hiện hành và phải tuân thủ các quy định khác của cả hai ngành / hai Khoa quản lý ngành .",
+            "answer_start": 1698,
+            "answer_end": 1882
+          }
+        },
+        {
+          "question": [
+            "Sinh viên học song ngành theo hướng ngành phụ có được phép đăng ký các học phần tốt nghiệp không?",
+            "Làm sao để đăng ký các học phần tốt nghiệp cho ngành thứ hai theo hướng ngành phụ?"
+          ],
+          "answer": {
+            "text": "Sinh viên học song ngành theo hướng ngành phụ không được phép đăng ký các học phần tốt nghiệp của ngành thứ hai .",
+            "answer_start": 1934,
+            "answer_end": 2047
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì tốt nghiệp chương trình đào tạo song ngành theo hướng ngành phụ?",
+            "Lúc nào thì tốt nghiệp chương trình đào tạo song ngành theo hướng ngành phụ?",
+            "Tôi đủ điều kiện tốt nghiệp song ngành theo hướng ngành phụ rồi thì nên làm gì?"
+          ],
+          "answer": {
+            "text": "Khi đủ điều kiện tốt nghiệp ngành thứ nhất , đồng thời hoàn thành đủ điều kiện tốt nghiệp ngành phụ , sinh viên đăng ký tốt nghiệp ngành thứ nhất và ngành phụ và được xét cấp bằng cho ngành thứ nhất . Thông tin tốt nghiệp ngành phụ được nêu rõ trong bảng điểm , phụ lục bằng tốt nghiệp nhưng không được cấp thành một văn bằng riêng .",
+            "answer_start": 2048,
+            "answer_end": 2381
+          }
+        },
+        {
+          "question": [
+            "Điều kiện học chương trình đào tạo song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác là gì?",
+            "Làm sao để được học chương trình đào tạo song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác?",
+            "Tôi muốn học chương trình đào tạo song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác thì cần điều kiện gì?",
+            "Tôi muốn học chương trình đào tạo song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác thì phải đáp ứng những gì?"
+          ],
+          "answer": {
+            "text": "Sinh viên phải được sự đồng ý của nhà trường trước khi đăng ký tuyển sinh vào chương trình đào tạo song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác . \n Sinh viên cơ sở đào tạo khác khi trúng tuyển vào chương trình song ngành theo hướng bằng thứ hai của nhà trường thực hiện đúng quy định của nhà trường về đào tạo , học vụ và quản lý học sinh sinh viên .",
+            "answer_start": 2459,
+            "answer_end": 2822
+          }
+        }
+      ]
+    }
+  ]
+}

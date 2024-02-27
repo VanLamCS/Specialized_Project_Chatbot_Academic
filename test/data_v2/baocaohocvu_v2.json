@@ -25,9 +25,9 @@
             "Các thành phần cơ bản của hồ sơ học phần là gì?"
           ],
           "answer": {
-            "text": "Hồ sơ học phần : \n Hồ sơ học phần bao gồm : \n 1 . Đề cương học phần . \n 2 . Bộ slide bài giảng . \n 3 . ( Bản sao ) Bảng điểm học phần . \n 4 . Các đề và đáp án của bài tập , thực hành , thí nghiệm được sử dụng trong học phần . \n 5 . Đầu bài và hướng dẫn chấm bài của các bài tập lớn . \n 6 . Bài làm các bài tập lớn của sinh viên . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu , trung bình , tốt ; mỗi loại ít nhất một bài . \n 7 . Đề kiểm tra , đề thi và đáp án đề kiểm tra , đề thi . \n 8 . ( Bảo sao ) Bài làm của sinh viên ( đối với các học phần có thi tự luận ) . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu , trung bình , tốt ; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15 . \n 9 . Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy , trong đó có phân tích về phổ điểm tổng kết của sinh viên . \n 10 . Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần .",
+            "text": "Hồ sơ học phần : \n Hồ sơ học phần bao gồm : \n 1 . Đề cương học phần . \n 2 . Bộ slide bài giảng . \n 3 . ( Bản sao ) Bảng điểm học phần . \n 4 . Các đề và đáp án của bài tập , thực hành , thí nghiệm được sử dụng trong học phần . \n 5 . Đầu bài và hướng dẫn chấm bài của các bài tập lớn . \n 6 . Bài làm các bài tập lớn của sinh viên . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở 3 mức xấu , trung bình , tốt ; mỗi loại ít nhất một bài . \n 7 . Đề kiểm tra , đề thi và đáp án đề kiểm tra , đề thi . \n 8 . ( Bảo sao ) Bài làm của sinh viên ( đối với các học phần có thi tự luận ) . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu , trung bình , tốt ; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15 . \n 9 . Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy , trong đó có phân tích về phổ điểm tổng kết của sinh viên . \n 10 . Đánh giá mức độ đáp ứng của sinh viên đối với chuẩn đầu ra của học phần",
             "answer_start": 50,
-            "answer_end": 1013
+            "answer_end": 1011
           }
         },
         {
@@ -42,9 +42,9 @@
             "Ai là người định nghĩa hồ sơ học phần?"
           ],
           "answer": {
-            "text": "Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần , cho từng lớp học phần giảng viên phụ trách .",
+            "text": "Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần , cho từng lớp học phần giảng viên phụ trách",
             "answer_start": 1098,
-            "answer_end": 1213
+            "answer_end": 1211
           }
         },
         {
@@ -61,9 +61,9 @@
             "Trong môi trường học tập với nhiều lớp học phần, liệu có các biện pháp cụ thể để đảm bảo rằng hồ sơ học phần được lập đúng cách không?"
           ],
           "answer": {
-            "text": "Ở các học kỳ có nhiều hơn một lớp học phần , hồ sơ học phần được lập chung cho một học phần , bao gồm đầy đủ các thành phần dùng chung ( như đề cương , bài giảng , đề thi ,... ) và các phần riêng cho từng nhóm lớp ( bảng điểm , bài làm của sinh viên , ghi chú ,... ) .",
+            "text": "Ở các học kỳ có nhiều hơn một lớp học phần , hồ sơ học phần được lập chung cho một học phần , bao gồm đầy đủ các thành phần dùng chung ( như đề cương , bài giảng , đề thi ,... ) và các phần riêng cho từng nhóm lớp ( bảng điểm , bài làm của sinh viên , ghi chú ,... )",
             "answer_start": 1214,
-            "answer_end": 1482
+            "answer_end": 1480
           }
         },
         {
@@ -73,9 +73,9 @@
             "Ngoài giáo viên có giảng dạy học phần, ai còn tham gia vào việc xây dựng và quản lý hồ sơ học phần?"
           ],
           "answer": {
-            "text": "Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ .",
+            "text": "Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ",
             "answer_start": 1483,
-            "answer_end": 1546
+            "answer_end": 1544
           }
         },
         {
@@ -90,9 +90,9 @@
             "Liệu có các biện pháp đặc biệt nào để đảm bảo an toàn và bảo mật của nơi lưu trữ hồ sơ học phần không?"
           ],
           "answer": {
-            "text": "Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa .",
+            "text": "Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa",
             "answer_start": 1549,
-            "answer_end": 1672
+            "answer_end": 1670
           }
         },
         {
@@ -106,9 +106,9 @@
             "Các yếu tố nào quyết định sự chất lượng của một bài làm và ảnh hưởng đến quyết định lựa chọn nó vào hồ sơ học phần?"
           ],
           "answer": {
-            "text": "( Bảo sao ) Bài làm của sinh viên ( đối với các học phần có thi tự luận ) . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu , trung bình , tốt ; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15 .",
+            "text": "( Bảo sao ) Bài làm của sinh viên ( đối với các học phần có thi tự luận ) . Chỉ lựa chọn các bài tiêu biểu của sinh viên ở ba mức xấu , trung bình , tốt ; mỗi loại ít nhất hai bài hoặc mỗi loại ít nhất một bài nếu số sinh viên nhỏ hơn 15",
             "answer_start": 551,
-            "answer_end": 790
+            "answer_end": 788
           }
         },
         {
@@ -123,9 +123,9 @@
             "Trong hồ sơ học phần, giảng viên chú ý đến những khía cạnh cụ thể nào của học tập sinh viên?"
           ],
           "answer": {
-            "text": "Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy , trong đó có phân tích về phổ điểm tổng kết của sinh viên .",
+            "text": "Ghi chú của các giảng viên về các điểm cần lưu ý trong quá trình giảng dạy , trong đó có phân tích về phổ điểm tổng kết của sinh viên",
             "answer_start": 797,
-            "answer_end": 932
+            "answer_end": 930
           }
         }
       ]

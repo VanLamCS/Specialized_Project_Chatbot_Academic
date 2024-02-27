@@ -16,12 +16,12 @@
             "Làm thế nào để xử lý thanh toán học phí và các khoản tiền nợ khác?",
             "Có phương thức thanh toán nào dễ dàng cho học phí và các chi phí khác?",
             "Làm sao để thanh toán học phí và các khoản tiền khác một cách an toàn?",
-            "Có cách thanh toán nào tiện lợi cho học phí và các khoản chi phí khác không?",
+            "Có cách thanh toán nào tiện lợi cho học phí và các khoản chi phí khác không?"
           ],
           "answer": {
             "text": " - Nộp tiền vào tài khoản cá nhân sinh viên tại ngân hàng OCB . \n - Truy cập myBK ( mybk . hcmut . edu . vn ) > > BKPay , đăng nhập tên username là mã số sinh viên và password là mật khẩu của email sinh viên . \n - Đánh dấu chọn các khoản cần thanh toán - Bấm Thanh toán , trang web tự động chuyển đến trang OCB online - Đăng nhập với tên đăng nhập và mật khẩu do ngân hàng OCB cung cấp - Tiến hành thanh toán theo quy trình của OCB online ( thông tin xác thực OTP sẽ được gửi qua ĐTDĐ đã đăng ký ) . \n - Đăng xuất OCB online - Kiểm tra việc thanh toán trên BKPay ( cần refresh lại trang BKPay hoặc đăng xuất và đăng nhập lại ) - Đăng xuất BKPay",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 45,
+            "answer_end": 689
           }
         },
         {
@@ -36,12 +36,12 @@
             "Trường có chấp nhận các lựa chọn thanh toán học phí đa dạng không?",
             "Có những hình thức thanh toán nào khác được trường chấp nhận?",
             "Trường có chấp nhận các hình thức thanh toán học phí linh hoạt không?",
-            "Có các lựa chọn thanh toán học phí khác mà trường hỗ trợ không?",
+            "Có các lựa chọn thanh toán học phí khác mà trường hỗ trợ không?"
           ],
           "answer": {
             "text": "Lưu ý : \n - Chỉ có duy nhất 1 hình thức thanh toán học phí tại myBK ( mybk . hcmut . edu . vn ) > > BKPay , không giải quyết bất kỳ các hình thức thanh toán khác ( ví dụ : chuyển khoản vào tài khoản của Trường , nộp - trực tiếp ... ) .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 690,
+            "answer_end": 925
           }
         },
         {
@@ -55,12 +55,12 @@
             "Hậu quả nào sẽ xảy ra nếu tôi không thanh toán đúng hạn học phí?",
             "Nếu không thanh toán học phí, có quy định cụ thể nào tôi cần biết?",
             "Nếu tôi không thanh toán học phí đúng hạn, có chính sách gì áp dụng?",
-            "Quy định nào được thiết lập nếu không thanh toán học phí đúng hạn?",
+            "Quy định nào được thiết lập nếu không thanh toán học phí đúng hạn?"
           ],
           "answer": {
             "text": "- Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 39.4 Không thanh toán học phí .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 928,
+            "answer_end": 1031
           }
         },
         {
@@ -69,8 +69,8 @@
           ],
           "answer": {
             "text": "Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 930,
+            "answer_end": 992
           }
         },
         {
@@ -85,12 +85,12 @@
             "Làm sao để tôi có thể liên lạc với ngân hàng OCB nếu gặp sự cố khi thanh toán?",
             "Nếu tôi cần hỗ trợ khi thanh toán, làm thế nào để tôi liên hệ với ngân hàng OCB?",
             "Cách nào là tốt nhất để liên hệ với ngân hàng OCB nếu tôi gặp vấn đề khi thanh toán?",
-            "Nếu có vấn đề khi thanh toán, làm thế nào để tôi liên hệ với ngân hàng OCB?",
+            "Nếu có vấn đề khi thanh toán, làm thế nào để tôi liên hệ với ngân hàng OCB?"
           ],
           "answer": {
             "text": "- Số điện thoại hotline của Ngân hàng OCB để được hỗ trợ ( khi có phát sinh sự cố ) : 18006678.",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1034,
+            "answer_end": 1129
           }
         },
         {
@@ -104,12 +104,12 @@
             "Tôi phải thực hiện những bước nào để truy cập trang BKPay trên myBK?",
             "Cách nào là tốt nhất để truy cập trang BKPay thông qua myBK?",
             "Làm thế nào để vào trang BKPay khi đang sử dụng myBK?",
-            "Tôi cần làm gì để truy cập trang BKPay trên myBK?",
+            "Tôi cần làm gì để truy cập trang BKPay trên myBK?"
           ],
           "answer": {
             "text": "Truy cập myBK ( mybk . hcmut . edu . vn ) > > BKPay , đăng nhập tên username là mã số sinh viên và password là mật khẩu của email sinh viên .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 113,
+            "answer_end": 254
           }
         },
         {
@@ -127,8 +127,8 @@
           ],
           "answer": {
             "text": "- Đăng xuất OCB online - Kiểm tra việc thanh toán trên BKPay ( cần refresh lại trang BKPay hoặc đăng xuất và đăng nhập lại ) - Đăng xuất BKPay",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 547,
+            "answer_end": 689
           }
         },
         {
@@ -137,8 +137,8 @@
           ],
           "answer": {
             "text": "- Đăng xuất OCB online - Kiểm tra việc thanh toán trên BKPay ( cần refresh lại trang BKPay hoặc đăng xuất và đăng nhập lại ) - Đăng xuất BKPay",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 547,
+            "answer_end": 689
           }
         },
         {
@@ -153,12 +153,12 @@
             "Khi nào là thời điểm phải thanh toán học phí cho kỳ chính nhất?",
             "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học chính là khi nào?",
             "Có quy định thời gian nào cho việc thanh toán học phí kỳ chính không?",
-            "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ chính?",
+            "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ chính?"
           ],
           "answer": {
             "text": "Thời gian nộp học phí - Học phí HK1 và HK2 thanh toán : \n 100 % học phí : từ tuần học thứ 12 ( thời gian thanh toán trong 1 tuần ) . Tuần học được tính theo học kỳ của các khóa chính quy trừ năm 1 .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1133,
+            "answer_end": 1331
           }
         },
         {
@@ -173,12 +173,12 @@
             "Khi nào là thời điểm phải thanh toán học phí cho kỳ dự thính nhất?",
             "Ngày bắt đầu và kết thúc thanh toán học phí cho kỳ học dự thính là khi nào?",
             "Có quy định thời gian nào cho việc thanh toán học phí kỳ dự thính không?",
-            "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ dự thính?",
+            "Làm sao để xác định thời gian cụ thể cho việc thanh toán học phí kỳ dự thính?"
           ],
           "answer": {
             "text": "- Học phí các HK dự thính : trong tuần đầu tiên của HK dự thính .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1334,
+            "answer_end": 1399
           }
         },
         {
@@ -197,8 +197,8 @@
           ],
           "answer": {
             "text": "- Học phí HK hè và HK dự thính hè : trong tuần đầu tiên của HK hè .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1402,
+            "answer_end": 1469
           }
         },
         {
@@ -213,12 +213,12 @@
             "Website nào cung cấp thông tin về thời gian thanh toán học phí?",
             "Làm thế nào để truy cập lịch thanh toán học phí?",
             "Có nguồn thông tin nào cho thời gian nộp học phí không?",
-            "Tôi cần kiểm tra thời gian nộp học phí ở đâu trực tuyến?",
+            "Tôi cần kiểm tra thời gian nộp học phí ở đâu trực tuyến?"
           ],
           "answer": {
             "text": "- Xem chi tiết lịch thời gian nộp học phí tại trang web hcmut . edu . vn > > Đào tạo > > Lịch học vụ .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1472,
+            "answer_end": 1574
           }
         },
         {
@@ -227,8 +227,8 @@
           ],
           "answer": {
             "text": "Về thông tin học phí bạn vui lòng xem chi tiết tại trang web hcmut . edu . vn > > Đào tạo > > Học phí > > Mức thu học phí các bậc đào tạo năm .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1593,
+            "answer_end": 1736
           }
         },
         {
@@ -261,12 +261,12 @@
             "Làm thế nào để đề xuất việc miễn nộp học phí?",
             "Có chính sách nào cho việc miễn nộp học phí không?",
             "Ở đâu có thông tin về quy định miễn nộp học phí?",
-            "Có thủ tục cụ thể nào để yêu cầu miễn nộp học phí?",
+            "Có thủ tục cụ thể nào để yêu cầu miễn nộp học phí?"
           ],
           "answer": {
             "text": "- Khi gặp khó khăn , SV chính quy ( trừ SV Vừa làm vừa học & bằng 2 ) , thể xin vay / miễn / giảm / hoãn nộp học phí của HK chính bằng các nộp đơn tại P . Công tác chính trị - Sinh viên ( 101A4 Cơ sở Lý Thường Kiệt hoặc Khu hành chánh Cơ sở Dĩ an ) . Email : ctctsv @ hcmut . edu . vn Các HK dự thính + HK hè không có chính sách miễn / giảm , SV cần cân nhắc khi đăng ký môn học .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1825,
+            "answer_end": 2205
           }
         },
         {
@@ -275,8 +275,8 @@
           ],
           "answer": {
             "text": "Học phí của Sinh viên Vừa Làm Vừa Học ( SV VLVH ) trong các học kỳ chính vẫn được tính theo đúng thông báo học phí , SV xem chi tiết tại trang hcmut . edu . vn > > Đào tạo > > Học phí > > Mức thu học phí các bậc đào tạo năm 2022 - 2023 .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 2316,
+            "answer_end": 2553
           }
         },
         {
@@ -285,8 +285,8 @@
           ],
           "answer": {
             "text": "Nhà trường khi tuyển sinh lớp VLVH có nêu rõ SV chủ yếu học chung với SV chính quy ( CQ ) ( CQ , từ khoá CQ là theo khái niệm hiện hành ) , chỉ mở lớp riêng cho SV VLVH khi đủ điều kiện ( sĩ số ,... ) . ",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 2556,
+            "answer_end": 2759
           }
         },
         {
@@ -295,8 +295,8 @@
           ],
           "answer": {
             "text": "Trong các học kỳ chính , SV VLVH học chung với SV CQ : các lớp ban ngày và một số lớp ban đêm ( nếu SV VLVH đăng ký được ) . Khi mở được lớp dự thính theo nhu cầu riêng của SV , chủ yếu là mở ngoài giờ hành chính và cuối tuần , SV VLVH có thể đăng ký học chung và được ưu tiên tính học phí như là lớp riêng của VLVH , không tính học phí như SV CQ học dự thính ( nhu cầu riêng , GV đồng ý dạy ngoài giờ ) . Cụ thể : khi học các lớp dự thính ( mã nhóm lớp DTxx ) , SV vẫn được tính học phí như lớp mở riêng cho VLVH ( mã nhóm lớp Txx ) .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 2761,
+            "answer_end": 3296
           }
         },
         {
@@ -309,10 +309,11 @@
           ],
           "answer": {
             "text": "+ Đối với các khóa tính học phí trọn gói , học phí thực tập ngoài trường / thực tập kỹ sư được tính vào HK 2 trước đó , nếu dư thì tính như tín chỉ vượt định mức . \n + Đối với các khóa tính học phí theo tín chỉ , học phí thực tập ngoài trường tính như đơn giá tín chỉ của các HK chính . \n + Các môn học khác , tính học phí theo đơn giá dự thính . \n + Riêng các môn hướng dẫn : Đồ án , Đồ án chuyên ngành , Đề cương luận văn , Khóa luận tốt nghiệp , Đồ án tốt nghiệp hoặc Luận văn tốt nghiệp tính học phí theo đơn giá dự thính ( lấy đơn giá thấp nhất trong bảng đơn giá dự thính của chương trình tương ứng ) .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 3971,
+            "answer_end": 4579
           }
-        },
-      }
-    ]
-  }
+        }
+      ]
+    }
+  ]
+}

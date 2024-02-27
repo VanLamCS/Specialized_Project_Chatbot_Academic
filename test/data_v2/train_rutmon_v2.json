@@ -1,0 +1,310 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "title": "",
+      "context": "Điều kiện Rút môn học : \n Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ . Sinh viên đăng ký Rút môn học và nhận điểm R ( điểm 17 ) . SV phải nộp đủ học phí , kể cả các môn nhận điểm R . \n Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học . Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí . \n 2 . Hướng dẫn đăng ký Rút môn học : \n SV đăng ký tại trang mybk . hcmut . edu . vn > > Ứng dụng cho Sinh viên > > Đăng ký Rút Môn học . Thời gian đăng ký : Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ . \n 3 . Quy trình xử lý : \n Sau hạn cuối theo \" thông báo gởi qua tin nhắn Bkel vào đầu học kỳ \" , PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học . Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút ( điểm RT hoặc điểm 17 ) tại trang web : mybk . hcmut . edu . vn > > Thông tin sinh viên > > Bảng điểm . \n Quy định : Xem chi tiết tại trang hcmut . edu . vn > > Đào tạo > > Quy chế - quy định > > Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần . ",
+      "qas": [
+        {
+          "question": [
+            "Thời gian đăng ký rút môn học là khi nào?",
+            "Trường có quy định cụ thể về thời gian đăng ký rút môn học như thế nào?",
+            "Có thời hạn cụ thể nào cho việc đăng ký rút môn học không?",
+            "Làm thế nào để biết thời gian chính xác của đợt đăng ký rút môn học?",
+            "Nếu muốn rút môn học, tôi cần tuân theo quy trình gì và trong khoảng thời gian nào?",
+            "Quy định về thời gian đăng ký rút môn học có thay đổi theo từng học kỳ không?",
+            "Nếu tôi không thể tham gia vào đợt đăng ký rút môn học chính, có cách nào khác để thực hiện quy trình này không?",
+            "Thời gian đăng ký rút môn học có được thông báo trước để sinh viên có thể chuẩn bị?",
+            "Nếu tôi đã đăng ký rút môn học và muốn hủy bỏ, liệu có thể làm điều này trong khoảng thời gian đã đề ra không?",
+            "Thời gian đăng ký rút môn học có thể thay đổi tùy theo loại hình đào tạo không?",
+            "Nếu tôi đã đăng ký rút môn học nhưng muốn thay đổi số lượng môn, có thể làm như thế nào?",
+            "Quy định nào áp dụng nếu tôi đăng ký rút môn học ngoài thời gian quy định?",
+            "Thời gian đăng ký rút môn học có được công bố rộng rãi cho tất cả sinh viên không?",
+            "Có giới hạn số lượng môn học mà sinh viên có thể rút trong mỗi kỳ đăng ký không?",
+            "Nếu tôi không đăng ký rút môn học trong khoảng thời gian quy định, liệu có còn cơ hội nào khác không?",
+            "Quy định về thời gian đăng ký rút môn học có thể khác nhau giữa các ngành học không?",
+            "Nếu có thay đổi trong lịch học, liệu thời gian đăng ký rút môn học có thay đổi không?",
+            "Nếu tôi đã đăng ký rút môn học và sau đó có lý do chính đáng muốn thay đổi, liệu có thể được xem xét không?",
+            "Có hạn chế nào về số lượng sinh viên có thể tham gia đợt đăng ký rút môn học không?",
+            "Nếu tôi đăng ký rút môn học sau thời hạn, liệu có phải trả phí không?",
+            "Thời gian đăng ký rút môn học có thể ảnh hưởng đến quá trình học tập và lịch trình sinh viên như thế nào?"
+          ],
+          "answer": {
+            "text": "Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ .",
+            "answer_start": 542,
+            "answer_end": 600
+          }
+        },
+        {
+          "question": [
+            "Điều kiện nào được yêu cầu khi Rút môn học?",
+            "Sinh viên cần đáp ứng những điều kiện gì để có thể rút môn học?",
+            "Quy định nào về tiêu chí đánh giá điều kiện để được phép rút môn học?",
+            "Có yêu cầu gì về điểm số hoặc thành tích học tập khi muốn thực hiện quy trình rút môn học không?",
+            "Sinh viên cần đạt được những kết quả học tập nào để được phép rút môn học?",
+            "Quy trình rút môn học yêu cầu những điều kiện gì từ phía sinh viên?",
+            "Nếu tôi không đáp ứng đủ điều kiện, có cách nào để xin phép rút môn học không?",
+            "Có yêu cầu nào về điểm số hay tiến trình học tập khi muốn rút môn học không?",
+            "Quy định về điều kiện sức khỏe hay tình trạng cá nhân khi muốn rút môn học là gì?",
+            "Nếu tôi đang trong quá trình học môn đó, có điều kiện gì để tôi có thể rút môn học không?",
+            "Có quy định nào về điều kiện đạo đức học thuật khi muốn thực hiện quy trình rút môn học không?",
+            "Nếu tôi đã thực hiện đủ số giờ học, liệu có đủ điều kiện để rút môn học không?",
+            "Có yêu cầu nào về học phí hay nghĩa vụ tài chính khác khi muốn rút môn học không?",
+            "Quy định về điều kiện học tập là gì khi sinh viên muốn rút môn học?",
+            "Nếu tôi đã rút một môn học và sau đó muốn đăng ký lại, liệu có còn điều kiện không?",
+            "Có quy định nào về việc đáp ứng các yêu cầu học tập khác khi muốn rút môn học không?",
+            "Nếu tôi đã rút một môn học và muốn thay đổi quyết định, có được phép không và điều kiện là gì?",
+            "Quy định về điều kiện học tập và kết quả học tập khi muốn rút môn học là gì?",
+            "Nếu tôi muốn rút môn học và chuyển sang môn khác, điều kiện cần phải đáp ứng là gì?",
+            "Có quy định nào về việc đáp ứng các yêu cầu học thuật khi muốn rút môn học không?",
+            "Nếu tôi muốn rút môn học và sau đó thay đổi ý kiến, có quy định gì về điều kiện đó không?"
+          ],
+          "answer": {
+            "text": "Sinh viên cam kết sau khi Rút môn học phải đảm bảo đủ số tín chỉ tối thiểu của học kỳ .",
+            "answer_start": 26,
+            "answer_end": 113
+          }
+        },
+        {
+          "question": [
+            "Sinh viên sẽ nhận điểm bao nhiêu khi rút môn học",
+            "Quy định điểm số cụ thể nếu sinh viên quyết định rút môn học là gì?",
+            "Sinh viên sẽ nhận được điểm nào trên bảng điểm sau khi rút môn học?",
+            "Làm thế nào điểm số của sinh viên thay đổi khi họ quyết định rút môn học?",
+            "Có ảnh hưởng nào đối với GPA khi sinh viên rút môn học không?",
+            "Quy định về cách tính điểm số khi sinh viên quyết định rút môn học là gì?",
+            "Sinh viên có nhận điểm trung bình của môn học đó trước khi rút không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến điểm số học kỳ của sinh viên?",
+            "Có quy tắc nào về việc xác định điểm số khi sinh viên quyết định rút môn học không?",
+            "Sinh viên sẽ được tính điểm theo phương pháp nào khi rút môn học?",
+            "Có quy định cụ thể nào về cách tính điểm khi sinh viên rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến học phí và các nghĩa vụ tài chính khác của sinh viên?",
+            "Có điểm số nào được gán cho sinh viên khi họ quyết định rút môn học?",
+            "Sinh viên có thể giữ lại điểm số đã đạt được trong môn học trước khi rút không?",
+            "Quy định nào về việc cập nhật bảng điểm sau khi sinh viên quyết định rút môn học?",
+            "Làm thế nào điểm số học kỳ thay đổi khi sinh viên rút môn học?",
+            "Sinh viên có thể xin xem xét điểm số khi họ quyết định rút môn học không?",
+            "Có quy định nào về việc báo cáo điểm số khi sinh viên rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến bảng xếp hạng học tập của sinh viên?",
+            "Có quy tắc nào về cách điểm số học phần được tính sau khi sinh viên quyết định rút môn học không?",
+            "Sinh viên sẽ nhận được thông báo nào về điểm số sau khi quyết định rút môn học?"
+          ],
+          "answer": {
+            "text": "Sinh viên đăng ký Rút môn học và nhận điểm R ( điểm 17 ) .",
+            "answer_start": 114,
+            "answer_end": 172
+          }
+        },
+        {
+          "question": [
+            "Rút môn học có ảnh hưởng đến việc nộp học phí không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến học phí của sinh viên?",
+            "Có sự điều chỉnh nào về học phí khi sinh viên quyết định rút môn học không?",
+            "Việc rút môn học có ảnh hưởng đến kỳ học phí nào của sinh viên không?",
+            "Sinh viên cần thanh toán bao nhiêu phần trăm học phí khi quyết định rút môn học?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến các nghĩa vụ tài chính khác của sinh viên?",
+            "Có quy định nào về việc hoàn trả hoặc giảm học phí khi sinh viên rút môn học không?",
+            "Việc rút môn học có thay đổi mức học phí của sinh viên không?",
+            "Có quy tắc nào về việc học phí đã thanh toán khi sinh viên quyết định rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến việc đăng ký học phí cho kỳ học sau?",
+            "Sinh viên có thể đợi đến khi quyết định rút môn học trước khi thanh toán học phí không?",
+            "Có yêu cầu nào về việc thanh toán học phí trước khi thực hiện quy trình rút môn học không?",
+            "Làm thế nào việc rút môn học ảnh hưởng đến kế hoạch thanh toán học phí của sinh viên?",
+            "Có sự điều chỉnh nào về học phí cho sinh viên đã rút môn học trong kỳ đó không?",
+            "Sinh viên cần thực hiện bước gì về mặt tài chính khi quyết định rút môn học?",
+            "Làm thế nào việc rút môn học ảnh hưởng đến việc nhận học bổng hoặc hỗ trợ tài chính khác?",
+            "Có quy định nào về việc giữ lại hoặc trả lại học phí sau khi sinh viên rút môn học không?",
+            "Sinh viên cần thanh toán một khoản phí nào khi quyết định rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến học phí học kỳ tiếp theo của sinh viên?",
+            "Có thông báo nào về việc rút môn học và ảnh hưởng đến học phí không?",
+            "Sinh viên có thể yêu cầu miễn giảm học phí nếu quyết định rút môn học không?"
+          ],
+          "answer": {
+            "text": "SV phải nộp đủ học phí , kể cả các môn nhận điểm R .",
+            "answer_start": 173,
+            "answer_end": 225
+          }
+        },
+        {
+          "question": [
+            "Có thời khoá biểu cho các môn học bị Rút không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến thời khoá biểu của sinh viên?",
+            "Có thông tin nào về thời gian và địa điểm của các môn học bị rút không?",
+            "Làm thế nào sinh viên biết được thời khoá biểu của môn học sau khi đã quyết định rút?",
+            "Có sự thay đổi nào về thời khoá biểu khi sinh viên rút môn học không?",
+            "Có thông báo nào về thời khoá biểu của môn học bị rút sau khi quyết định đó được thực hiện không?",
+            "Sinh viên có thể theo dõi thời khoá biểu của môn học đã rút thông qua hệ thống trực tuyến không?",
+            "Làm thế nào việc rút môn học ảnh hưởng đến lịch học và thời gian của sinh viên?",
+            "Có cơ hội nào để sinh viên kiểm tra thời khoá biểu của môn học trước khi quyết định rút không?",
+            "Có quy định nào về việc cập nhật thời khoá biểu sau khi sinh viên rút môn học không?",
+            "Làm thế nào việc rút môn học ảnh hưởng đến việc sắp xếp thời gian học tập của sinh viên?",
+            "Sinh viên có thể yêu cầu xem lại thời khoá biểu của môn học đã rút không?",
+            "Có thông tin nào về việc đăng ký thời khoá biểu sau khi sinh viên rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến việc tự do chọn lựa thời gian học tập của sinh viên?",
+            "Có thông tin nào về thời khoá biểu của môn học bị rút trên hệ thống trực tuyến không?",
+            "Sinh viên có thể theo dõi thời khoá biểu của môn học đã rút qua ứng dụng di động không?",
+            "Làm thế nào sinh viên có thể biết được thời khoá biểu của môn học đã rút trong trường hợp muốn đăng ký lại?",
+            "Có quy định nào về việc thông báo trước về sự thay đổi trong thời khoá biểu khi sinh viên rút môn học không?",
+            "Sinh viên có thể có thông tin về thời khoá biểu của môn học đã rút thông qua các nguồn thông tin trường không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến việc lên kế hoạch thời gian của sinh viên?",
+            "Có hỗ trợ nào từ trường đối với sinh viên về thông tin thời khoá biểu của môn học bị rút không?"
+          ],
+          "answer": {
+            "text": "Rút môn học là có thời khoá biểu nhưng không tham dự thi không lấy điểm môn học .",
+            "answer_start": 228,
+            "answer_end": 309
+          }
+        },
+        {
+          "question": [
+            "Làm thế nào để đăng ký Rút môn học?",
+            "Quy trình đăng ký rút môn học yêu cầu những bước gì từ phía sinh viên?",
+            "Làm thế nào để sinh viên có thể thực hiện quy trình đăng ký rút môn học?",
+            "Có hướng dẫn nào chi tiết về cách đăng ký rút môn học trên hệ thống trực tuyến không?",
+            "Sinh viên cần thực hiện những thao tác gì để hoàn thành việc đăng ký rút môn học?",
+            "Có yêu cầu gì về việc điền thông tin cụ thể khi đăng ký rút môn học không?",
+            "Làm thế nào để kiểm tra trạng thái của đơn đăng ký rút môn học đã nộp?",
+            "Có hỗ trợ nào từ phía trường đối với sinh viên trong quá trình đăng ký rút môn học không?",
+            "Quy định về thời hạn đăng ký rút môn học là gì và làm thế nào để theo kịp thời hạn đó?",
+            "Làm thế nào để sinh viên có thể xin gia hạn hoặc thay đổi thông tin trong đơn đăng ký rút môn học?",
+            "Có cần phải thực hiện các bước xác nhận hay xác minh nào trong quá trình đăng ký rút môn học không?",
+            "Sinh viên cần chuẩn bị những giấy tờ hay thông tin gì khi đăng ký rút môn học?",
+            "Làm thế nào để đăng ký rút môn học nếu sinh viên đang ở xa trường?",
+            "Có quy định về việc hủy đăng ký rút môn học sau khi đã nộp đơn không?",
+            "Làm thế nào để theo dõi tiến trình xử lý đơn đăng ký rút môn học của sinh viên?",
+            "Có yêu cầu nào về việc đăng ký rút môn học cấp bách hay trong trường hợp khẩn cấp không?",
+            "Sinh viên cần tuân thủ những quy tắc gì khi đăng ký rút môn học trên hệ thống trực tuyến?",
+            "Làm thế nào để sinh viên có thể nhận được xác nhận hoặc biên nhận sau khi đăng ký rút môn học?",
+            "Có quy định nào về việc sửa đổi đơn đăng ký rút môn học sau khi đã nộp không?",
+            "Làm thế nào để sinh viên có thể thực hiện việc đăng ký rút môn học một cách thuận tiện và nhanh chóng?",
+            "Có hướng dẫn chi tiết nào về việc đăng ký rút môn học được cung cấp cho sinh viên không?"
+          ],
+          "answer": {
+            "text": "Hướng dẫn đăng ký Rút môn học : \n SV đăng ký tại trang mybk . hcmut . edu . vn > > Ứng dụng cho Sinh viên > > Đăng ký Rút Môn học .",
+            "answer_start": 390,
+            "answer_end": 521
+          }
+        },
+        {
+          "question": [
+            "Thời gian đăng ký Rút môn học thường được thông báo khi nào?",
+            "Làm thế nào để sinh viên biết thông tin về thời gian đăng ký rút môn học?",
+            "Khi nào thông báo chính thức về thời gian đăng ký rút môn học được công bố cho sinh viên?",
+            "Có cách nào để theo dõi lịch trình đăng ký rút môn học trước đó không?",
+            "Thông tin về thời gian đăng ký rút môn học thường được cập nhật như thế nào?",
+            "Làm thế nào để đảm bảo rằng sinh viên đã được thông báo đầy đủ về thời gian đăng ký rút môn học?",
+            "Có kênh thông tin cụ thể nào được sử dụng để thông báo về thời gian đăng ký rút môn học?",
+            "Làm thế nào để truy cập thông tin về thời gian đăng ký rút môn học trên trang web của trường?",
+            "Thông tin về thời gian đăng ký rút môn học có được thông báo qua email hay không?",
+            "Có cách nào để đăng ký nhận thông báo về thời gian rút môn học qua các phương tiện truyền thông không?",
+            "Làm thế nào để sinh viên có thể xác minh thông tin về thời gian đăng ký rút môn học?",
+            "Có quy định nào về việc cập nhật lịch trình đăng ký rút môn học nếu có thay đổi không?",
+            "Làm thế nào để sinh viên biết thông tin chính xác và đầy đủ về thời gian đăng ký rút môn học?",
+            "Thông tin về thời gian đăng ký rút môn học có sẵn trên các nền tảng truyền thông xã hội không?",
+            "Làm thế nào để sinh viên có thể nhận thông báo về thời gian đăng ký rút môn học trong trường hợp khẩn cấp?",
+            "Có quy định nào về việc thông báo trước về thời gian đăng ký rút môn học không?",
+            "Làm thế nào để sinh viên có thể xem lại thông tin về thời gian đăng ký rút môn học đã qua?",
+            "Thông tin về thời gian đăng ký rút môn học có sẵn trên hệ thống di động của trường không?",
+            "Làm thế nào để sinh viên đảm bảo họ không bỏ lỡ thông tin về thời gian đăng ký rút môn học?",
+            "Có cơ hội nào để sinh viên đề xuất về lịch trình đăng ký rút môn học không?",
+            "Làm thế nào để trường đảm bảo rằng thông tin về thời gian đăng ký rút môn học được thông báo rộng rãi và rõ ràng cho sinh viên?"
+          ],
+          "answer": {
+            "text": "Thời gian đăng ký : Theo lịch thông báo gởi qua tin nhắn Bkel vào đầu học kỳ .",
+            "answer_start": 522,
+            "answer_end": 600
+          }
+        },
+        {
+          "question": [
+            "Quy trình xử lí rút môn của phòng đào tạo như thế nào?",
+            "Bước đầu tiên trong quy trình xử lí rút môn học của phòng đào tạo là gì?",
+            "Làm thế nào các yêu cầu rút môn học được tiếp nhận và ghi nhận tại phòng đào tạo?",
+            "Có bước kiểm tra hoặc xác nhận nào liên quan đến quy trình xử lí rút môn học không?",
+            "Thời gian xử lí thông thường cho mỗi đơn đăng ký rút môn học là bao lâu?",
+            "Làm thế nào các yêu cầu rút môn học được ưu tiên xử lí trong trường hợp khẩn cấp?",
+            "Quy trình xử lí rút môn học bao gồm bước nào để đảm bảo tính minh bạch và công bằng?",
+            "Có cơ hội nào để sinh viên cung cấp thêm thông tin hoặc làm rõ về yêu cầu rút môn học của mình không?",
+            "Làm thế nào thông tin về quy trình xử lí rút môn học được thông báo cho sinh viên?",
+            "Có bước nào trong quy trình xử lí rút môn học liên quan đến việc kiểm tra điều kiện và yêu cầu tốt nghiệp không?",
+            "Làm thế nào phòng đào tạo đảm bảo tính bảo mật và riêng tư trong quy trình xử lí rút môn học?",
+            "Có cơ hội nào để sinh viên theo dõi trạng thái của đơn đăng ký rút môn học của mình không?",
+            "Làm thế nào phòng đào tạo đối phó với trường hợp đơn đăng ký rút môn học bị từ chối?",
+            "Có bước nào trong quy trình xử lí rút môn học liên quan đến việc thông báo cho giáo viên về sự thay đổi trong đăng ký học tập không?",
+            "Làm thế nào thông tin về quy trình xử lí rút môn học được truy cập bởi sinh viên và giáo viên?",
+            "Có cơ hội nào để sinh viên yêu cầu xem lại quyết định về đơn đăng ký rút môn học không?",
+            "Làm thế nào quy trình xử lí rút môn học đảm bảo tính nhất quán và tuân thủ quy định của trường?",
+            "Có cơ hội nào để giáo viên đưa ra phản hồi hoặc ý kiến trong quy trình xử lí rút môn học không?",
+            "Làm thế nào thông tin về quy trình xử lí rút môn học được cập nhật và duy trì theo thời gian?",
+            "Có quy định nào về việc giữ lại hoặc lưu trữ thông tin liên quan đến quy trình xử lí rút môn học không?",
+            "Làm thế nào để phòng đào tạo giải quyết các vấn đề hoặc khiếu nại phát sinh trong quy trình xử lí rút môn học?"
+          ],
+          "answer": {
+            "text": "Quy trình xử lý : \n Sau hạn cuối theo \" thông báo gởi qua tin nhắn Bkel vào đầu học kỳ \" , PHÒNG ĐÀO TẠO sẽ lấy dữ liệu SV đăng ký Rút môn học và hậu kiểm các tình huống không đủ điều kiện Rút môn học . Sau đó PHÒNG ĐÀO TẠO sẽ cập nhật điểm Rút ( điểm RT hoặc điểm 17 ) tại trang web : mybk . hcmut . edu . vn > > Thông tin sinh viên > > Bảng điểm .",
+            "answer_start": 607,
+            "answer_end": 956
+          }
+        },
+        {
+          "question": [
+            "Rút môn học ảnh hưởng đến việc tính điểm trung bình của sinh viên không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến GPA (Điểm Trung bình tích lũy) của sinh viên?",
+            "Có thay đổi nào trong điểm số trung bình khi sinh viên quyết định rút môn học không?",
+            "Làm thế nào quy trình rút môn học ảnh hưởng đến điểm trung bình tích lũy của sinh viên?",
+            "Có quy tắc cụ thể nào về cách điểm số của môn học bị rút được tính vào GPA không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến xếp hạng học tập của sinh viên?",
+            "Có quy định nào về cách điểm trung bình kỳ của sinh viên thay đổi khi họ rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến bảng xếp hạng học tập hàng đầu của sinh viên?",
+            "Có sự điều chỉnh nào về việc tính điểm trung bình sau khi sinh viên rút môn học không?",
+            "Làm thế nào quy trình rút môn học ảnh hưởng đến điểm số học phần và GPA của sinh viên?",
+            "Có yêu cầu nào về việc báo cáo điểm số sau khi sinh viên quyết định rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến các giải thưởng học thuật hay danh hiệu của sinh viên?",
+            "Có thay đổi nào về cách tính điểm trung bình kỳ sau khi sinh viên rút môn học không?",
+            "Làm thế nào quyết định rút môn học ảnh hưởng đến việc nhận học bổng hay hỗ trợ tài chính khác của sinh viên?",
+            "Có quy định nào về việc giữ lại hay cập nhật điểm số khi sinh viên quyết định rút môn học không?",
+            "Làm thế nào quy trình rút môn học ảnh hưởng đến bảng điểm và điểm số học phần của sinh viên?",
+            "Có yêu cầu nào về việc thay đổi điểm số trung bình kỳ sau khi sinh viên rút môn học không?",
+            "Làm thế nào quy trình rút môn học ảnh hưởng đến việc sinh viên có thể xin xem xét lại điểm số hay không?",
+            "Có sự điều chỉnh nào về việc tính điểm trung bình tích lũy khi sinh viên rút môn học không?",
+            "Làm thế nào quy trình rút môn học ảnh hưởng đến việc sinh viên có thể giữ lại điểm số đã đạt được trong môn học trước khi rút không?",
+            "Có thông báo nào về việc điều chỉnh điểm số và GPA sau khi sinh viên rút môn học không?"
+          ],
+          "answer": {
+            "text": "Các môn học được Rút sẽ không tính vào bảng điểm nhưng vẫn tính học phí .",
+            "answer_start": 310,
+            "answer_end": 383
+          }
+        },
+        {
+          "question": [
+            "Có trang web hay trang thông tin cụ thể nào để tôi có thể tìm hiểu thêm về quy định rút môn học?",
+            "Làm thế nào để tôi có thể truy cập và đọc các quy định liên quan đến việc rút môn học tại trường?",
+            "Có văn bản hay tài liệu nào tôi nên kiểm tra để hiểu rõ hơn về quy trình rút môn học không?",
+            "Làm thế nào để tôi có thể đọc và tìm hiểu về các nguyên tắc và quy tắc rút môn học của trường?",
+            "Có cơ sở dữ liệu trực tuyến nào chứa các quy định và hướng dẫn chi tiết về rút môn học không?",
+            "Làm thế nào để tôi có thể tìm kiếm và xem các thông báo hoặc thông tin mới nhất về quy định rút môn học?",
+            "Có bảng thông báo hay khu vực nào trên trường cung cấp các tài liệu liên quan đến quy định rút môn học không?",
+            "Làm thế nào để tôi có thể liên hệ với phòng đào tạo hoặc bộ môn để biết thêm chi tiết về quy định rút môn học?",
+            "Có quy định nào về việc cung cấp hỗ trợ hay hướng dẫn cho sinh viên để hiểu rõ về quy trình rút môn học không?",
+            "Làm thế nào để tôi có thể nhận thông báo và cập nhật về bất kỳ thay đổi nào trong quy định rút môn học?",
+            "Có tài liệu nào giải thích về quyền và trách nhiệm của sinh viên khi rút môn học không?",
+            "Làm thế nào để tôi có thể tìm hiểu về các hình phạt hay hậu quả có thể xuất hiện khi vi phạm quy định rút môn học?",
+            "Có các buổi hướng dẫn hoặc tọa đàm nào tổ chức để giải đáp thắc mắc và cung cấp thông tin về rút môn học không?",
+            "Làm thế nào để tôi có thể yêu cầu bản sao của các quy định rút môn học nếu cần thiết?",
+            "Có hệ thống thư viện hoặc nguồn tài nguyên nào chứa các văn bản liên quan đến rút môn học không?",
+            "Làm thế nào để tôi có thể truy cập và tìm kiếm các trường hợp thực tế hoặc ví dụ liên quan đến quy định rút môn học?",
+            "Có sự hỗ trợ nào từ các tư vấn học thuật hay chuyên viên để giải đáp các câu hỏi về quy định rút môn học không?",
+            "Làm thế nào để tôi có thể đề xuất hoặc đưa ra ý kiến về việc cải thiện quy định rút môn học?",
+            "Có hướng dẫn nào cho sinh viên về cách tìm hiểu và áp dụng các quy định rút môn học?",
+            "Làm thế nào để tôi có thể liên kết với cộng đồng trực tuyến hoặc diễn đàn để chia sẻ kinh nghiệm và kiến thức về quy định rút môn học?"
+          ],
+          "answer": {
+            "text": "Quy định : Xem chi tiết tại trang hcmut . edu . vn > > Đào tạo > > Quy chế - quy định > > Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Điều 16.2 Rút đăng ký học phần .",
+            "answer_start": 959,
+            "answer_end": 1146
+          }
+        }
+      ]
+    }
+  ]
+}

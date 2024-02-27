@@ -1,0 +1,770 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "title": "Tổ chức giảng dạy",
+      "context": "Điều 9 . Phân công giảng dạy : \n 9.1 Phân công quản lý các học phần : \n Các Khoa quản lý các học phần của ngành , chuyên ngành . Trường hợp trong chương trình đào tạo của ngành , chuyên ngành có dùng học phần của ngành , chuyên ngành khác , thì Khoa mở học phần nào sẽ quản lý học phần đó . Khoa quản lý học phần có trách nhiệm xây dựng và ban hành các đề cương học phần phù hợp với các quy định chung . Các phòng đào tạo cấp mã số học phần . \n Khoa quản lý học phần có thể ủy quyền xây dựng đề cương học phần cho các bộ môn hoặc một nhóm các giảng viên , trong đó có phân công một giảng viên phụ trách học phần . \n Đối với các học phần thuộc các khối kiến thức chung : \n - Khoa Khoa học Ứng dụng quản lý các học phần thuộc khối kiến thức Toán , Vật lý , Lý luận chính trị và Pháp luật Việt nam đại cương ; \n - Khoa Kỹ thuật Hóa học quản lý các học phần thuộc khối kiến thức Hóa học đại cương ; \n - Khoa Quản lý Công nghiệp quản lý các học phần thuộc khối kiến thức quản lý chung toàn trường ; \n - Phòng Đào tạo quản lý các học phần Giáo dục thể chất ( nếu có ) ; \n - Trung tâm Ngoại ngữ quản lý các học phần Anh văn , Pháp văn ; \n - Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp ( PFIEV ) quản lý các học phần khởi nghiệp dùng trong chương trình PFIEV ; \n - Văn phòng Đào tạo Quốc tế quản lý các học phần chung dành riêng cho các chương trình Chất lượng cao / Tiên tiến / Quốc tế như Giáo dục Kỹ năng , Tiếng Việt cho người nước ngoài , Anh văn tăng cường , Tiếng Nhật ; \n - Phòng Đào tạo Sau đại học quản lý các học phần chung khác dành riêng cho bậc sau đại học . \n 9.2 Phân công giảng dạy : \n Các Khoa ( bao gồm các đơn vị quản lý học phần nêu trên ) có trách nhiệm phân công giảng dạy các học phần , phần học do Khoa phụ trách . Khoa có thể giao quyền phân công các học phần về các Bộ môn hoặc cán bộ phụ trách học phần . Việc ủy quyền và thay đổi ủy quyền cần phải có văn bản của Khoa và phải được gửi cho các phòng đào tạo để phối hợp hoạt động . \n Một lớp học phần có thể được phân công cho nhiều giảng viên giảng dạy , trong đó có một giảng viên phụ trách chính . Khi có nhiều giảng viên cùng giảng dạy , phải tách thời khoá biểu cho riêng từng giảng viên . \n Việc phân công phải đảm bảo người được phân công có trình độ chuyên môn và năng lực phù hợp với nội dung học phần , phần học của học phần phụ trách và phù hợp với các bậc đào tạo , hình thức đào tạo cũng như các quy định riêng của các chương trình đào tạo . \n Việc phân công phải đảm bảo tiến độ thời gian để toàn bộ công tác tổ chức giảng dạy hoàn thành đúng kế hoạch , trước khi bắt đầu các học kỳ . \n Khi cần phân công các giảng viên thuộc Khoa khác trong trường quản lý , Khoa quản lý học phần phải phối hợp với Khoa quản lý giảng viên để đảm bảo việc phân công giảng dạy đạt hiệu quả cao nhất . \n Đối với các lớp theo hình thức vừa làm vừa học và đào tạo từ xa , trong các trường hợp cần thiết , các phòng đào tạo có quyền phân công giảng viên để đảm bảo công tác vận hành thông suốt . Việc phân công phải đảm bảo được chất lượng giảng dạy . \n 9.3 Mời giảng , mời hỗ trợ giảng dạy : \n Khi cần phân công các giảng viên ngoài trường , Khoa thực hiện công tác mời giảng theo quy trình của nhà trường . \n Đối với các hoạt động hỗ trợ giảng dạy , Khoa thực hiện công tác mời hỗ trợ giảng dạy theo quy trình của nhà trường . \n Điều 10 . Sử dụng hệ thống hỗ trợ giảng dạy trực tuyến : \n Giảng viên phải dùng hệ thống hỗ trợ giảng dạy trực tuyến ( Bách khoa e - learning - BKeL ) trong hoạt động giảng dạy . Các thông tin sau đây cần phải đưa lên hệ thống này : \n - Đề cương học phần được sử dụng trong học kỳ . Đề cương phải đưa lên ngay trước tuần đầu tiên của lớp học . \n - Các bài giảng ( slide bài giảng ) . Có nội dung phù hợp với nội dung bài giảng thực giảng trên lớp . \n - Đề kiểm tra và đáp án kiểm tra ( nếu có tổ chức kiểm tra ) . Đưa lên sau khi tổ chức kiểm tra . Nếu là đề kiểm tra trắc nghiệm , đưa một đề kiểm tra mẫu và đáp án . \n - Đề thi và đáp án thi . Đưa lên sau khi tổ chức thi . Nếu là đề thi trắc nghiệm , đưa một đề thi mẫu và đáp án . \n - Kết quả đánh giá học phần , kể cả các điểm thành phần . \n - Mức độ đáp ứng chuẩn đầu ra của sinh viên . \n Đối với các phần học hướng dẫn thảo luận , thí nghiệm của một học phần , các lớp học phần có thể được chia khác với các lớp học phần lý thuyết . Trong các trường hợp đó , giảng viên thực hiện theo quy định trên như một học phần bình thường , tuy nhiên bài giảng sẽ là tài liệu hướng dẫn thảo luận , thí nghiệm . \n Điều 11 . An toàn và chặt chẽ trong thí nghiệm , thực tập ngoài trường : \n 11.1 An toàn trong thí nghiệm : \n Sinh viên phải có sự chuẩn bị sẵn sàng và nắm vững nội dung thí nghiệm và các quy định an toàn trước khi thực hiện thí nghiệm . \n Giảng viên và sinh viên phải đảm bảo an toàn , trật tự theo đúng nội quy phòng thí nghiệm . \n Chỉ sinh viên có Bảo hiểm Y tế và Bảo hiểm tai nạn mới được vào phòng thí nghiệm để thực hiện bài thí nghiệm . \n 11.2 Chặt chẽ trong tổ chức thực tập ngoài trường : \n Các đợt thực tập , tham quan ngoài trường phải được Khoa lập kế hoạch rõ ràng , có địa điểm , thời gian , giảng viên phụ trách , người tham dự và có thỏa thuận với cơ sở về việc thực tập , tham quan . Kế hoạch cũng phải nêu rõ các chi phí và nguồn chi phí ( từ trường , sinh viên , cơ sở ,... ) . \n Khoa gửi kế hoạch và danh sách đoàn thực tập cho các phòng đào tạo để trình Hiệu trưởng ra quyết định thành lập các đoàn thực tập trước khi thực tập . \n Điều 12 . Quy trình thực hiện đồ án , bài tập lớn , các học phần tốt nghiệp : \n 12.1 Quy trình thực hiện đồ án , bài tập lớn , tiểu luận thành phần : \n Khoa quy định quy trình thực hiện đồ án chung cho toàn Khoa hoặc cho các học phần cụ thể , trong đó phải có các quy định về đánh giá tiến độ thực hiện một cách liên tục , điều kiện cấm thi và quy cách của bản báo cáo thuyết minh . \n 12.2 Quy trình thực hiện các học phần tốt nghiệp : \n Khoa quy định quy trình ra đề tài , phân bố đề tài cho sinh viên và quy trình hướng dẫn , phản biện đề cương luận văn , tiểu luận / khoá luận / luận văn tốt nghiệp và hội đồng bảo vệ tiểu luận / khoá luận / luận văn tốt nghiệp chung cho toàn Khoa . Trong quy trình hướng dẫn , phải có các quy định về đánh giá tiến độ thực hiện một cách liên tục , đánh giá giữa kỳ , điều kiện cấm thi và quy cách của bản báo cáo thuyết minh . \n Danh sách phân công hướng dẫn , tên đề tài và người học phải được gửi về Phòng đào tạo để ra các quyết định phân công đề tài ( nếu có ) . \n Nếu nội dung hướng dẫn các học phần tốt nghiệp được thực hiện tại một cơ sở ngoài trường , Khoa làm công văn đề nghị kèm theo kế hoạch thực hiện tương tự như các đợt thực tập ngoài trường , Phòng đào tạo trình Hiệu trưởng ra quyết định cử sinh viên thực hiện công việc tại cơ sở bên ngoài . \n Điều 13 . Công khai trong giảng dạy và đánh giá học phần : \n 13.1 Công khai đề cương học phần : \n Khoa phải công khai đề cương học phần cho sinh viên trước khi sinh viên thực hiện đăng ký học phần . Đề cương học phần phải nêu rõ chuẩn đầu ra ( learning outcome ) , cách thức học , cách thức đánh giá học phần ( bao gồm cả các hình thức và thời lượng kiểm tra , thi và trọng số của các thành phần điểm , điều kiện cấm thi riêng của học phần ) . \n Đối với các học phần hoặc phần học thực tập , thí nghiệm , đề cương học phần phải nêu rõ mục tiêu và nội dung từng bài thực tập , thí nghiệm và các ràng buộc cụ thể về việc vắng mặt , học bù , về việc an toàn trong thực tập , thí nghiệm . Các quy định về an toàn có thể được quy định như nội quy phòng thí nghiệm . \n 13.2 Công khai kết quả học tập và mức độ đáp ứng chuẩn đầu ra của sinh viên : \n Trong quá trình giảng dạy , giảng viên phải công bố kết quả đánh giá của các lần đánh giá theo đề cương học phần ( điểm thành phần ) theo đúng kế hoạch đánh giá đã công bố và trước kỳ thi cuối kỳ của học phần . \n Tối đa 02 tuần sau khi kiểm tra giữa kỳ , giảng viên phải công bố kết quả kiểm tra cho sinh viên , bài làm của sinh viên và các lưu ý cho sinh viên . \n Sau khi kết thúc lớp học , giảng viên phải công bố kết quả học tập của sinh viên và mức độ đáp ứng chuẩn đầu ra ( cho từng chuẩn đầu ra ) cho sinh viên . Thời điểm công bố là tối đa 02 tuần sau khi thi và trước khi nộp điểm . \n Thời điểm tối đa để giảng viên nộp điểm về các phòng đào tạo của nhà trường là 02 tuần từ ngày thi ; hoặc 01 tuần từ ngày thi dạng vấn đáp , bảo vệ hội đồng ; hoặc 02 tuần từ sau ngày thi cuối cùng theo biểu hoạch học tập học kỳ đối với các học phần không có lịch thi . \n 13.3 Giảng dạy các học phần có nhiều nhóm lớp trong học kỳ : \n Các giảng viên dạy các học phần có nhiều nhóm lớp trong cùng một học kỳ phải đảm bảo giảng dạy đúng đề cương học phần đã công bố , đảm bảo tiến độ chung của tất cả các nhóm lớp để không ảnh hưởng đến quá trình đánh giá kết quả học tập của sinh viên .",
+      "qas": [
+        {
+          "question": [
+            "Ai quản lý các học phần?",
+            "Người nào đảm nhận trách nhiệm quản lý các học phần trong ngành và chuyên ngành?",
+            "Trách nhiệm quản lý các học phần trong ngành và chuyên ngành thuộc về đối tượng nào?",
+            "Ai là người chịu trách nhiệm quản lý các học phần trong ngành và chuyên ngành?",
+            "Đơn vị hoặc cá nhân nào đảm bảo quản lý chặt chẽ các học phần trong ngành và chuyên ngành?",
+            "Người nào định đạo quá trình quản lý học phần cho từng ngành và chuyên ngành?",
+            "Trong cơ cấu quản lý học phần, ai có trách nhiệm quản lý học phần của ngành và chuyên ngành?",
+            "Trong mô hình quản lý học phần, ai đảm nhận vai trò chính trong việc quản lý các học phần của từng ngành và chuyên ngành?"
+          ],
+          "answer": {
+            "text": "Các Khoa quản lý các học phần của ngành , chuyên ngành",
+            "answer_start": 72,
+            "answer_end": 126
+          }
+        },
+        {
+          "question": [
+            "Ai là người quản lý học phần khi chương trình đào tạo sử dụng các học phần từ ngành khác?"
+          ],
+          "answer": {
+            "text": "Trường hợp trong chương trình đào tạo của ngành , chuyên ngành có dùng học phần của ngành , chuyên ngành khác , thì Khoa mở học phần nào sẽ quản lý học phần đó",
+            "answer_start": 129,
+            "answer_end": 288
+          }
+        },
+        {
+          "question": [
+            "Người nào phụ trách quy trình ủy quyền xây dựng đề cương học phần cho các bộ môn hoặc giảng viên?",
+            "Bộ phần nào có quyền uỷ quyền xây dựng đề cương học phần cho các bộ môn hoặc giảng viên?"
+          ],
+          "answer": {
+            "text": "Khoa quản lý học phần có thể ủy quyền xây dựng đề cương học phần cho các bộ môn hoặc một nhóm các giảng viên , trong đó có phân công một giảng viên phụ trách học phần",
+            "answer_start": 445,
+            "answer_end": 611
+          }
+        },
+        {
+          "question": [
+            "Đối tượng nào có thẩm quyền xây dựng và thực hiện đề cương học phần trong ngành và chuyên ngành?",
+            "Ai chịu trách nhiệm xây dựng và ban hành đề cương học phần?",
+            "Đối tượng nào xây dựng và ban hành đề cương học phần?",
+            "Đề cương học phần do ai chịu trách nhiệm xây dựng và ban hành?"
+          ],
+          "answer": {
+            "text": "Khoa quản lý học phần có trách nhiệm xây dựng và ban hành các đề cương học phần phù hợp với các quy định chung",
+            "answer_start": 291,
+            "answer_end": 401
+          }
+        },
+        {
+          "question": [
+            "Mã học phần do ai ban hành?",
+            "Mã học phần do ai cấp?",
+            "Ai là người cấp mã học phần?",
+            "Đối tượng chịu trách nhiệm ban hành mã học phần?",
+            "Phòng ban nào ban hành mã học phần?",
+            "Mã học phần được ai cung cấp?"
+          ],
+          "answer": {
+            "text": "Các phòng đào tạo cấp mã số học phần",
+            "answer_start": 404,
+            "answer_end": 440
+          }
+        },
+        {
+          "question": [
+            "Các học phần thuộc khối kiến thức chung",
+            "Các khối kiến thức chung gồm những gì?",
+            "Liệt kê các khối kiến thức chung",
+            "Các khối kiến thức chung và phòng ban quản lý của nó",
+            "Các phòng ban nào quản lý các khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Đối với các học phần thuộc các khối kiến thức chung : \n - Khoa Khoa học Ứng dụng quản lý các học phần thuộc khối kiến thức Toán , Vật lý , Lý luận chính trị và Pháp luật Việt nam đại cương ; \n - Khoa Kỹ thuật Hóa học quản lý các học phần thuộc khối kiến thức Hóa học đại cương ; \n - Khoa Quản lý Công nghiệp quản lý các học phần thuộc khối kiến thức quản lý chung toàn trường ; \n - Phòng Đào tạo quản lý các học phần Giáo dục thể chất ( nếu có ) ; \n - Trung tâm Ngoại ngữ quản lý các học phần Anh văn , Pháp văn ; \n - Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp ( PFIEV ) quản lý các học phần khởi nghiệp dùng trong chương trình PFIEV ; \n - Văn phòng Đào tạo Quốc tế quản lý các học phần chung dành riêng cho các chương trình Chất lượng cao / Tiên tiến / Quốc tế như Giáo dục Kỹ năng , Tiếng Việt cho người nước ngoài , Anh văn tăng cường , Tiếng Nhật ; \n - Phòng Đào tạo Sau đại học quản lý các học phần chung khác dành riêng cho bậc sau đại học",
+            "answer_start": 616,
+            "answer_end": 1580
+          }
+        },
+        {
+          "question": [
+            "Khoa Khoa học Ứng dụng quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Khoa Khoa học Ứng dụng có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Khoa Khoa học Ứng dụng trong khối kiến thức nào của chương trình đào tạo.",
+            "Khoa Khoa học Ứng dụng quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Khoa Khoa học Ứng dụng chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Khoa Khoa học Ứng dụng liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Khoa Khoa học Ứng dụng trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Khoa Khoa học Ứng dụng và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Khoa Khoa học Ứng dụng có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Khoa Khoa học Ứng dụng đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Khoa Khoa học Ứng dụng quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Khoa Khoa học Ứng dụng quản lý các học phần thuộc khối kiến thức Toán , Vật lý , Lý luận chính trị và Pháp luật Việt nam đại cương",
+            "answer_start": 674,
+            "answer_end": 804
+          }
+        },
+        {
+          "question": [
+            "Khoa Kỹ thuật Hoá học quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Khoa Kỹ thuật Hoá học có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Khoa Kỹ thuật Hoá học trong khối kiến thức nào của chương trình đào tạo.",
+            "Khoa Kỹ thuật Hoá học quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Khoa Kỹ thuật Hoá học chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Khoa Kỹ thuật Hoá học liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Khoa Kỹ thuật Hoá học trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Khoa Kỹ thuật Hoá học và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Khoa Kỹ thuật Hoá học có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Khoa Kỹ thuật Hoá học đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Khoa Kỹ thuật Hoá học quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Khoa Kỹ thuật Hóa học quản lý các học phần thuộc khối kiến thức Hóa học đại cương",
+            "answer_start": 811,
+            "answer_end": 892
+          }
+        },
+        {
+          "question": [
+            "Khoa Quản lý Công nghiệp quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Khoa Quản lý Công nghiệp có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Khoa Quản lý Công nghiệp trong khối kiến thức nào của chương trình đào tạo.",
+            "Khoa Quản lý Công nghiệp quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Khoa Quản lý Công nghiệp chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Khoa Quản lý Công nghiệp liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Khoa Quản lý Công nghiệp trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Khoa Quản lý Công nghiệp và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Khoa Quản lý Công nghiệp có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Khoa Quản lý Công nghiệp đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Khoa Quản lý Công nghiệp quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Khoa Quản lý Công nghiệp quản lý các học phần thuộc khối kiến thức quản lý chung toàn trường",
+            "answer_start": 899,
+            "answer_end": 991
+          }
+        },
+        {
+          "question": [
+            "Phòng đào tạo quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Phòng đào tạo có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Phòng đào tạo trong khối kiến thức nào của chương trình đào tạo.",
+            "Phòng đào tạo quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Phòng đào tạo chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Phòng đào tạo liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Phòng đào tạo trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Phòng đào tạo và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Phòng đào tạo có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Phòng đào tạo đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Phòng đào tạo quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Phòng Đào tạo quản lý các học phần Giáo dục thể chất ( nếu có )",
+            "answer_start": 998,
+            "answer_end": 1061
+          }
+        },
+        {
+          "question": [
+            "Trung tâm Ngoại ngữ quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Trung tâm Ngoại ngữ có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Trung tâm Ngoại ngữ trong khối kiến thức nào của chương trình đào tạo.",
+            "Trung tâm Ngoại ngữ quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Trung tâm Ngoại ngữ chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Trung tâm Ngoại ngữ liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Trung tâm Ngoại ngữ trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Trung tâm Ngoại ngữ và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Trung tâm Ngoại ngữ có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Trung tâm Ngoại ngữ đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Trung tâm Ngoại ngữ quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Trung tâm Ngoại ngữ quản lý các học phần Anh văn , Pháp văn",
+            "answer_start": 1068,
+            "answer_end": 1127
+          }
+        },
+        {
+          "question": [
+            "Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) trong khối kiến thức nào của chương trình đào tạo.",
+            "Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp (PFIEV) quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Văn phòng Chương trình đào tạo Kỹ sư Chất lượng cao Việt Pháp ( PFIEV ) quản lý các học phần khởi nghiệp dùng trong chương trình PFIEV",
+            "answer_start": 1134,
+            "answer_end": 1268
+          }
+        },
+        {
+          "question": [
+            "Văn phòng Đào tạo Quốc tế quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Văn phòng Đào tạo Quốc tế có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Văn phòng Đào tạo Quốc tế trong khối kiến thức nào của chương trình đào tạo.",
+            "Văn phòng Đào tạo Quốc tế quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Văn phòng Đào tạo Quốc tế chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Văn phòng Đào tạo Quốc tế liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Văn phòng Đào tạo Quốc tế trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Văn phòng Đào tạo Quốc tế và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Văn phòng Đào tạo Quốc tế có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Văn phòng Đào tạo Quốc tế đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Văn phòng Đào tạo Quốc tế quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Văn phòng Đào tạo Quốc tế quản lý các học phần chung dành riêng cho các chương trình Chất lượng cao / Tiên tiến / Quốc tế như Giáo dục Kỹ năng , Tiếng Việt cho người nước ngoài , Anh văn tăng cường , Tiếng Nhật",
+            "answer_start": 1275,
+            "answer_end": 1485
+          }
+        },
+        {
+          "question": [
+            "Phòng Đào tạo Sau đại học quản lý các học phần thuộc khối kiến thức nào?",
+            "Trong hệ thống quản lý học phần, Phòng Đào tạo Sau đại học có trách nhiệm đối với khối kiến thức nào?",
+            "Liệt kê những khối kiến thức thuộc quản lý của Phòng Đào tạo Sau đại học trong khối kiến thức nào của chương trình đào tạo.",
+            "Phòng Đào tạo Sau đại học quản lý các học phần trong khối kiến thức nào của ngành học?",
+            "Khối kiến thức nào được Phòng Đào tạo Sau đại học chịu trách nhiệm quản lý học phần trong chương trình đào tạo?",
+            "Trách nhiệm của Phòng Đào tạo Sau đại học liên quan đến khối kiến thức nào trong việc quản lý các học phần của ngành học?",
+            "Khối kiến thức nào thuộc trách nhiệm quản lý của Phòng Đào tạo Sau đại học trong cấu trúc học phần của chương trình đào tạo?",
+            "Các học phần nào thuộc quản lý của Phòng Đào tạo Sau đại học và đóng vai trò quan trọng trong khối kiến thức nào?",
+            "Phòng Đào tạo Sau đại học có nhiệm vụ quản lý những học phần thuộc khối kiến thức nào của chương trình học?",
+            "Trong việc quản lý học phần, Phòng Đào tạo Sau đại học đảm nhiệm vai trò chính cho khối kiến thức nào?",
+            "Học phần nào trong chương trình đào tạo được Phòng Đào tạo Sau đại học quản lý và thuộc về khối kiến thức nào?"
+          ],
+          "answer": {
+            "text": "Phòng Đào tạo Sau đại học quản lý các học phần chung khác dành riêng cho bậc sau đại học",
+            "answer_start": 1492,
+            "answer_end": 1580
+          }
+        },
+        {
+          "question": [
+            "Ai chịu trách nhiệm phân công giảng dạy?",
+            "Người nào đảm nhận trách nhiệm phân công giảng dạy trong cơ cấu quản lý của trường?",
+            "Ai chịu trách nhiệm quản lý và phân công giảng dạy cho các học phần trong ngành học tại trường?",
+            "Trong tổ chức giáo dục, ai là người có trách nhiệm phân công giảng viên cho các học phần cụ thể?",
+            "Người nào chịu trách nhiệm đối với quy trình phân công giảng dạy của các học phần trong chương trình đào tạo?",
+            "Ai là người quản lý quá trình phân công giảng viên và giảng dạy các học phần trong trường đại học?",
+            "Trong hệ thống quản lý giáo dục tại Bách Khoa, ai có trách nhiệm phân công và quản lý giảng dạy cho các học phần trong khoa hay ngành học?",
+            "Ai là người có thẩm quyền quyết định về việc phân công giảng viên cho các học phần cụ thể trong trường?",
+            "Người nào chịu trách nhiệm phân công giảng dạy trong cơ sở đào tạo tại Bách khoa?",
+            "Ai là người quyết định về việc phân công giảng viên cho các học phần trong ngành học tại trường đại học Bách khoa?",
+            "Trong cơ cấu quản lý giáo dục, ai là người có thẩm quyền phân công giảng viên cho các học phần trong chương trình đào tạo?"
+          ],
+          "answer": {
+            "text": "Các Khoa ( bao gồm các đơn vị quản lý học phần nêu trên ) có trách nhiệm phân công giảng dạy các học phần , phần học do Khoa phụ trách . Khoa có thể giao quyền phân công các học phần về các Bộ môn hoặc cán bộ phụ trách học phần . Việc ủy quyền và thay đổi ủy quyền cần phải có văn bản của Khoa và phải được gửi cho các phòng đào tạo để phối hợp hoạt động",
+            "answer_start": 1613,
+            "answer_end": 1967
+          }
+        },
+        {
+          "question": [
+            "Khoa có thể giao quyền phân công các học phần cho ai phụ trách?",
+            "Ai có thể được giao quyền phân công các học phần cho các Bộ môn hoặc cán bộ phụ trách trong Khoa?",
+            "Khoa có quyền ủy thác phân công giảng dạy cho các Bộ môn hoặc cá nhân nào?",
+            "Khoa có thể ủy quyền quyết định về phân công giảng dạy cho ai trong cơ sở đào tạo?"
+          ],
+          "answer": {
+            "text": "Khoa có thể giao quyền phân công các học phần về các Bộ môn hoặc cán bộ phụ trách học phần . Việc ủy quyền và thay đổi ủy quyền cần phải có văn bản của Khoa và phải được gửi cho các phòng đào tạo để phối hợp hoạt động",
+            "answer_start": 1750,
+            "answer_end": 1967
+          }
+        },
+        {
+          "question": [
+            "Một học phần có thể phân công cho bao nhiêu giảng viên giảng dạy?",
+            "Có thể phân công nhiều giảng viên giảng dạy một học phần không?",
+            "Chỉ có một giảng viên giảng dạy một học phần thôi à?",
+            "Có thể có nhiều giảng viên cùng giảng dạy một học phần mà phải không?",
+            "Có bao nhiều giảng viên cùng được phân công giảng dạy một học phần?",
+            "Có nhiều giảng viên cùng giảng dạy một học phần đúng chứ?"
+          ],
+          "answer": {
+            "text": "Một lớp học phần có thể được phân công cho nhiều giảng viên giảng dạy , trong đó có một giảng viên phụ trách chính . Khi có nhiều giảng viên cùng giảng dạy , phải tách thời khoá biểu cho riêng từng giảng viên",
+            "answer_start": 1972,
+            "answer_end": 2180
+          }
+        },
+        {
+          "question": [
+            "Việc phân công giảng viên giảng dạy các học phần cần đảm bảo điều gì về trình độ chuyên môn và năng lực?",
+            "Điều gì cần được đảm bảo về trình độ chuyên môn và năng lực khi phân công giảng viên giảng dạy các học phần?",
+            "Quy định nào đặt ra về trình độ chuyên môn và năng lực khi phân công giảng viên cho các học phần trong chương trình đào tạo?",
+            "Trong quá trình phân công giảng viên, quy định gì đảm bảo trình độ chuyên môn và năng lực của họ cho từng học phần?",
+            "Các tiêu chí nào được xem xét để đảm bảo trình độ chuyên môn và năng lực của giảng viên khi phân công giảng dạy?",
+            "Khi phân công giảng viên, quy định nào đề cập đến việc đảm bảo trình độ chuyên môn và năng lực phù hợp với nội dung học phần?",
+            "Theo quy định, giảng viên được phân công giảng dạy các học phần cần phải đáp ứng những yêu cầu gì về trình độ chuyên môn và năng lực?",
+            "Các học phần trong chương trình đào tạo yêu cầu điều gì về trình độ chuyên môn của giảng viên được phân công giảng dạy?",
+            "Trong quy trình phân công giảng viên, có quy định nào về đánh giá trình độ chuyên môn và năng lực của họ cho từng học phần không?",
+            "Nguyên tắc gì đề cao trình độ chuyên môn và năng lực khi phân công giảng viên cho các học phần trong Khoa?",
+            "Theo quy định, giảng viên được ủy quyền giảng dạy học phần nào cần phải đáp ứng điều gì về trình độ chuyên môn?"
+          ],
+          "answer": {
+            "text": "Việc phân công phải đảm bảo người được phân công có trình độ chuyên môn và năng lực phù hợp với nội dung học phần , phần học của học phần phụ trách và phù hợp với các bậc đào tạo , hình thức đào tạo cũng như các quy định riêng của các chương trình đào tạo",
+            "answer_start": 2185,
+            "answer_end": 2440
+          }
+        },
+        {
+          "question": [
+            "Việc phân công giảng viên giảng dạy các học phần cần đảm bảo điều gì về kế hoạch, thời gian?",
+            "Phân công giảng viên giảng dạy cần đảm bảo tiến độ như thế nào?"
+          ],
+          "answer": {
+            "text": "Việc phân công phải đảm bảo tiến độ thời gian để toàn bộ công tác tổ chức giảng dạy hoàn thành đúng kế hoạch , trước khi bắt đầu các học kỳ",
+            "answer_start": 2445,
+            "answer_end": 2584
+          }
+        },
+        {
+          "question": [
+            "Nếu cần phân công giảng viên thuộc khoa khác trong trường quản lý thì cân phải làm gì?",
+            "Làm thế nào để đảm bảo sự hợp tác mạnh mẽ khi có sự phân công giảng viên từ các khoa khác nhau trong trường quản lý?",
+            "Có quy định cụ thể nào về việc chia sẻ nguồn lực giữa các khoa khi phân công giảng viên không thuộc khoa của họ quản lý?",
+            "Cần đảm bảo gì khi phân công giảng viên giảng dạy không thuộc khoa quản lý?"
+          ],
+          "answer": {
+            "text": "Khi cần phân công các giảng viên thuộc Khoa khác trong trường quản lý , Khoa quản lý học phần phải phối hợp với Khoa quản lý giảng viên để đảm bảo việc phân công giảng dạy đạt hiệu quả cao nhất",
+            "answer_start": 2589,
+            "answer_end": 2782
+          }
+        },
+        {
+          "question": [
+            "Việc phân công giảng dạy cho các lớp theo hình thức vừa làm vừa học và đào tạo từ xa có gì đặc biệt?",
+            "Điểm khác biệt khi phân công giảng dạy cho các lớp theo hình thức vừa làm vừa học và đào tạo từ xa là gì?",
+            "Phòng đào tạo có thề phân công giảng dạy cho các lớp vừa làm vừa học và đào tạo từ xa phải không?",
+            "Các lớp vừa làm vừa học và đào tạo từ xa được phân công giảng viên giảng dạy như thế nào?"
+          ],
+          "answer": {
+            "text": "Đối với các lớp theo hình thức vừa làm vừa học và đào tạo từ xa , trong các trường hợp cần thiết , các phòng đào tạo có quyền phân công giảng viên để đảm bảo công tác vận hành thông suốt",
+            "answer_start": 2787,
+            "answer_end": 2973
+          }
+        },
+        {
+          "question": [
+            "Một số trường hợp trường có thể mời giảng viên ngoài trường vào để giảng dạy đúng không?",
+            "Có thể mời giảng viên ngoài trường vào dạy không?",
+            "Giảng viên ngoài trường vẫn có thể dạy trong trường Bách khoa phải không?",
+            "Trường BK mà có giảng viên khác vào dạy à?"
+          ],
+          "answer": {
+            "text": "Khi cần phân công các giảng viên ngoài trường , Khoa thực hiện công tác mời giảng theo quy trình của nhà trường",
+            "answer_start": 3075,
+            "answer_end": 3186
+          }
+        },
+        {
+          "question": [
+            "Trường có thể mời hỗ trợ giảng dạy vào dạy ở BK mà phải không?",
+            "Hỗ trợ giảng dạy tại trường bách khoa?",
+            "Mời hỗ trợ giảng dạy bằng cách nào?"
+          ],
+          "answer": {
+            "text": "Đối với các hoạt động hỗ trợ giảng dạy , Khoa thực hiện công tác mời hỗ trợ giảng dạy theo quy trình của nhà trường",
+            "answer_start": 3191,
+            "answer_end": 3306
+          }
+        },
+        {
+          "question": [
+            "Giảng viên sử dụng hệ thống hỗ trợ giảng dạy nào?",
+            "Hệ thống hỗ trợ giảng dạy mà giảng viên phải sử dụng là gì?",
+            "Hệ thống BKeL hỗ trợ giảng viên giảng dạy phải không?",
+            "Có những công cụ hỗ trợ giảng dạy nào khác mà giảng viên cần phải sử dụng?"
+          ],
+          "answer": {
+            "text": "Giảng viên phải dùng hệ thống hỗ trợ giảng dạy trực tuyến ( Bách khoa e - learning - BKeL ) trong hoạt động giảng dạy",
+            "answer_start": 3370,
+            "answer_end": 3487
+          }
+        },
+        {
+          "question": [
+            "Các thông tin giảng viên cần đưa lên Bkel là gì?",
+            "Các thông tin giảng viên cần đưa lên hệ thống giảng dạy là gì?",
+            "Giảng viên đưa thông tin gì lên bkel",
+            "Giảng viên đưa gì lên hệ thống hỗ trợ giảng dạy?",
+            "Hệ thống giảng dạy được giảng viên sử dụng và đưa lên những gì?"
+          ],
+          "answer": {
+            "text": "Các thông tin sau đây cần phải đưa lên hệ thống này : \n - Đề cương học phần được sử dụng trong học kỳ . Đề cương phải đưa lên ngay trước tuần đầu tiên của lớp học . \n - Các bài giảng ( slide bài giảng ) . Có nội dung phù hợp với nội dung bài giảng thực giảng trên lớp . \n - Đề kiểm tra và đáp án kiểm tra ( nếu có tổ chức kiểm tra ) . Đưa lên sau khi tổ chức kiểm tra . Nếu là đề kiểm tra trắc nghiệm , đưa một đề kiểm tra mẫu và đáp án . \n - Đề thi và đáp án thi . Đưa lên sau khi tổ chức thi . Nếu là đề thi trắc nghiệm , đưa một đề thi mẫu và đáp án . \n - Kết quả đánh giá học phần , kể cả các điểm thành phần . \n - Mức độ đáp ứng chuẩn đầu ra của sinh viên . \n Đối với các phần học hướng dẫn thảo luận , thí nghiệm của một học phần , các lớp học phần có thể được chia khác với các lớp học phần lý thuyết",
+            "answer_start": 3490,
+            "answer_end": 4297
+          }
+        },
+        {
+          "question": [
+            "Đối với các phần học hướng dẫn thảo luận, thí nghiệm của một học phần, các lớp học phần có thể được chia khác với các lớp học phần lý thuyết thì tài liệu đưa lên bkel là gì?"
+          ],
+          "answer": {
+            "text": "Trong các trường hợp đó , giảng viên thực hiện theo quy định trên như một học phần bình thường , tuy nhiên bài giảng sẽ là tài liệu hướng dẫn thảo luận , thí nghiệm",
+            "answer_start": 4300,
+            "answer_end": 4464
+          }
+        },
+        {
+          "question": [
+            "Đảm bảo an toàn thí nghiệm, sinh viên cần phải làm gì?",
+            "Sinh viên cần nắm vững gì trước khi vào thí nghiệm?",
+            "Sinh viên phải chuẩn bị gì trước khi thí nghiệm để đảm bảo an toàn?",
+            "Những điều sinh viên cần nắm trước khi vào phòng thí nghiệm?"
+          ],
+          "answer": {
+            "text": "Sinh viên phải có sự chuẩn bị sẵn sàng và nắm vững nội dung thí nghiệm và các quy định an toàn trước khi thực hiện thí nghiệm",
+            "answer_start": 4578,
+            "answer_end": 4703
+          }
+        },
+        {
+          "question": [
+            "Những điều giảng viên cần lưu ý trong thí nghiệm?",
+            "Để đảm bảo an toàn, giảng viên cần chú ý gì khi thí nghiệm?",
+            "Giờ thí nghiệm, giảng viên cần đảm bảo những gì?",
+            "Giảng viên cần đảm bảo gì trong thí nghiệm để đảm bảo an toàn?"
+          ],
+          "answer": {
+            "text": "Giảng viên và sinh viên phải đảm bảo an toàn , trật tự theo đúng nội quy phòng thí nghiệm",
+            "answer_start": 4708,
+            "answer_end": 4797
+          }
+        },
+        {
+          "question": [
+            "Sinh viên không có bảo hiểm ý tế có vào thí nghiệm được không?",
+            "Nếu không có bảo hiểm ý tế thì sinh viên không thí nghiệm được à?",
+            "Sinh viên vào thí nghiệm phải đảm bảo có bảo hiểm y tế mới được hay sao?",
+            "Không có bảo hiểm y tế và bảo hiểm tai nạn thì không được thí nghiệm luôn à?",
+            "Không có bảo hiểm tai nạn thì làm sao vào thí nghiệm?",
+            "Cách vào phòng thí nghiệm mà không có bảo hiểm ý tế hay bảo hiểm tai nạn?"
+          ],
+          "answer": {
+            "text": "Chỉ sinh viên có Bảo hiểm Y tế và Bảo hiểm tai nạn mới được vào phòng thí nghiệm để thực hiện bài thí nghiệm",
+            "answer_start": 4802,
+            "answer_end": 4910
+          }
+        },
+        {
+          "question": [
+            "Yêu cầu gì đối với các đợt thực tập hay tham quan ngoài trường?",
+            "Các đợt thực tập hoặc tham quan ngoài trường yêu cầu những điều gì?",
+            "Những tiêu chí nào cần được đáp ứng khi thực hiện đợt thực tập hoặc tham quan ngoài trường?",
+            "Các chuẩn mực và điều kiện nào được áp dụng đối với việc thực hiện đợt thực tập hay tham quan ngoài trường?"
+          ],
+          "answer": {
+            "text": "Các đợt thực tập , tham quan ngoài trường phải được Khoa lập kế hoạch rõ ràng , có địa điểm , thời gian , giảng viên phụ trách , người tham dự và có thỏa thuận với cơ sở về việc thực tập , tham quan . Kế hoạch cũng phải nêu rõ các chi phí và nguồn chi phí ( từ trường , sinh viên , cơ sở ,... ) . \n Khoa gửi kế hoạch và danh sách đoàn thực tập cho các phòng đào tạo để trình Hiệu trưởng ra quyết định thành lập các đoàn thực tập trước khi thực tập",
+            "answer_start": 4969,
+            "answer_end": 5416
+          }
+        },
+        {
+          "question": [
+            "Quy trình thực hiện đồ án là gì?",
+            "Quy trình thực hiện đồ án?",
+            "Quy trình thực hiện bài tập lớn là gì?",
+            "Quy trình thực hiện bài tập lớn?",
+            "Quy trình thực hiện tiểu luận thành phần là gì?",
+            "Quy trình thực hiện tiểu luận thành phần?",
+            "Quy trình thực hiện đồ án, bài tập lớn, tiểu luận thành phần?",
+            "Giới thiệu cho tôi quy trình thực hiện đồ án với",
+            "Quy trình làm bài tập lớn là như nào vậy?",
+            "Quy trình làm tiểu luận thành phần là như nào á?"
+          ],
+          "answer": {
+            "text": "Khoa quy định quy trình thực hiện đồ án chung cho toàn Khoa hoặc cho các học phần cụ thể , trong đó phải có các quy định về đánh giá tiến độ thực hiện một cách liên tục , điều kiện cấm thi và quy cách của bản báo cáo thuyết minh",
+            "answer_start": 5573,
+            "answer_end": 5801
+          }
+        },
+        {
+          "question": [
+            "Quy định ra đề tài, quy trình hướng dẫn, phản biện đề cương luận văn, tiểu luận, luận văn tốt nghiệp,... là do ai đề ra?",
+            "Các quy trình về việc thực hiện học phần tốt nghiệp là do ai đề ra?",
+            "Ai là người đưa ra hướng dẫn việc thực hiện các học phần tốt nghiệp?"
+          ],
+          "answer": {
+            "text": "Khoa quy định quy trình ra đề tài , phân bố đề tài cho sinh viên và quy trình hướng dẫn , phản biện đề cương luận văn , tiểu luận / khoá luận / luận văn tốt nghiệp và hội đồng bảo vệ tiểu luận / khoá luận / luận văn tốt nghiệp chung cho toàn Khoa . Trong quy trình hướng dẫn , phải có các quy định về đánh giá tiến độ thực hiện một cách liên tục , đánh giá giữa kỳ , điều kiện cấm thi và quy cách của bản báo cáo thuyết minh",
+            "answer_start": 5859,
+            "answer_end": 6283
+          }
+        },
+        {
+          "question": [
+            "Nếu nội dung hướng dẫn các học phần tốt nghiệp được thực hiện tại một cơ sở ngoài trường cần phải làm gì?",
+            "Cần phải làm gì khi thực hiện học phần tốt nghiệp ở ngoài trường?",
+            "Tôi thực hiện các học phần tốt nghiệp ngoài trường thì phải làm gì?"
+          ],
+          "answer": {
+            "text": "Nếu nội dung hướng dẫn các học phần tốt nghiệp được thực hiện tại một cơ sở ngoài trường , Khoa làm công văn đề nghị kèm theo kế hoạch thực hiện tương tự như các đợt thực tập ngoài trường , Phòng đào tạo trình Hiệu trưởng ra quyết định cử sinh viên thực hiện công việc tại cơ sở bên ngoài",
+            "answer_start": 6428,
+            "answer_end": 6716
+          }
+        },
+        {
+          "question": [
+            "Khoa có cần công khai đề cương học phần cho sinh viên không?",
+            "Đề cương học phần có được công khai không?",
+            "Sinh viên có được quyền biết đề cương học phần khi đăng ký học phần đó không?",
+            "Việc biết đề cương học phần là cần thiết phải không?",
+            "Đề cương học phần phải được công khai đúng không?"
+          ],
+          "answer": {
+            "text": "Khoa phải công khai đề cương học phần cho sinh viên trước khi sinh viên thực hiện đăng ký học phần",
+            "answer_start": 6819,
+            "answer_end": 6917
+          }
+        },
+        {
+          "question": [
+            "Đề cương học phần gồm những thông tin gì?",
+            "Những thông tin bắt buộc phải có trong đề cương học phần là gì?",
+            "Thông tin trong đề cương học phần",
+            "Đề cương học phần có đề cập đến thông tin gì?",
+            "Thông tin quan trọng trong đề cương học phần là gì?",
+            "Những thông tin nên biết trong đề cương học phần",
+            "Đề cương học phần cung cấp những gì quan trọng?"
+          ],
+          "answer": {
+            "text": "Đề cương học phần phải nêu rõ chuẩn đầu ra ( learning outcome ) , cách thức học , cách thức đánh giá học phần ( bao gồm cả các hình thức và thời lượng kiểm tra , thi và trọng số của các thành phần điểm , điều kiện cấm thi riêng của học phần ) . \n Đối với các học phần hoặc phần học thực tập , thí nghiệm , đề cương học phần phải nêu rõ mục tiêu và nội dung từng bài thực tập , thí nghiệm và các ràng buộc cụ thể về việc vắng mặt , học bù , về việc an toàn trong thực tập , thí nghiệm . Các quy định về an toàn có thể được quy định như nội quy phòng thí nghiệm",
+            "answer_start": 6920,
+            "answer_end": 7479
+          }
+        },
+        {
+          "question": [
+            "Giảng viên có cần công bố kết quả đánh giá theo đề cương học phần không?",
+            "Kết quả đánh giá như điểm thành phần có được công bố không?",
+            "Điểm thành phần có được biết không?",
+            "Sinh viên có biết được điểm thành phần của mình không?",
+            "Tối có biết điểm thành phần của mình không?",
+            "Điểm cuối kỳ tối có được biết không?"
+          ],
+          "answer": {
+            "text": "Trong quá trình giảng dạy , giảng viên phải công bố kết quả đánh giá của các lần đánh giá theo đề cương học phần ( điểm thành phần ) theo đúng kế hoạch đánh giá đã công bố và trước kỳ thi cuối kỳ của học phần",
+            "answer_start": 7564,
+            "answer_end": 7772
+          }
+        },
+        {
+          "question": [
+            "Thời gian công bố kết quả thi giữa kỳ là bao lâu?",
+            "Bao lâu thì có kết quả thi giữa kỳ?",
+            "Thi giữa kỳ xong bao lâu thì biết kết quả?",
+            "Kiểm tra giữa kỳ xong bao lâu thì biết kết quả?"
+          ],
+          "answer": {
+            "text": "Tối đa 02 tuần sau khi kiểm tra giữa kỳ , giảng viên phải công bố kết quả kiểm tra cho sinh viên , bài làm của sinh viên và các lưu ý cho sinh viên",
+            "answer_start": 7777,
+            "answer_end": 7924
+          }
+        },
+        {
+          "question": [
+            "Kết thúc lớp học, sinh viên có biết được kết quả không, và trong bao lâu sẽ biết?",
+            "Sau bao lâu sau khi học xong học phần thì sinh viên có kết quả?",
+            "Có kết quả cuối kỳ sau bao lâu?"
+          ],
+          "answer": {
+            "text": "Sau khi kết thúc lớp học , giảng viên phải công bố kết quả học tập của sinh viên và mức độ đáp ứng chuẩn đầu ra ( cho từng chuẩn đầu ra ) cho sinh viên . Thời điểm công bố là tối đa 02 tuần sau khi thi và trước khi nộp điểm",
+            "answer_start": 7929,
+            "answer_end": 8152
+          }
+        },
+        {
+          "question": [
+            "Thời gian giảng viên nộp điểm về phòng đào tạo là khi nào?",
+            "Sau khi thi bao lâu thì giảng viên nộp điểm về phòng đào tạo?",
+            "Thời gian nộp điểm về phòng đào tạo là khi nào?"
+          ],
+          "answer": {
+            "text": "Thời điểm tối đa để giảng viên nộp điểm về các phòng đào tạo của nhà trường là 02 tuần từ ngày thi ; hoặc 01 tuần từ ngày thi dạng vấn đáp , bảo vệ hội đồng ; hoặc 02 tuần từ sau ngày thi cuối cùng theo biểu hoạch học tập học kỳ đối với các học phần không có lịch thi",
+            "answer_start": 8157,
+            "answer_end": 8424
+          }
+        },
+        {
+          "question": [
+            "Khi giảng dạy các học phần có nhiều lớp, nhiều nhóm, giảng viên cần đảm bảo điều gì?",
+            "Điều gì cần được đảm bảo nếu giảng viên giảng dạy các học phần có nhiều nhóm, lớp",
+            "Các học phần có nhiều nhóm, lớp thì giảng viên giảng dạy cần đáp ứng điều gì?"
+          ],
+          "answer": {
+            "text": "Giảng dạy các học phần có nhiều nhóm lớp trong học kỳ : \n Các giảng viên dạy các học phần có nhiều nhóm lớp trong cùng một học kỳ phải đảm bảo giảng dạy đúng đề cương học phần đã công bố , đảm bảo tiến độ chung của tất cả các nhóm lớp để không ảnh hưởng đến quá trình đánh giá kết quả học tập của sinh viên",
+            "answer_start": 8434,
+            "answer_end": 8740
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tổ chức giảng dạy",
+      "context": "Điều 14 . Tổ chức các lớp học phần : \n 14.1 Hình thức tổ chức lớp học phần : \n Tuỳ theo hình thức tổ chức lớp học phần , các lớp học phần được đặt tên gợi nhớ để thuận tiện trong công tác quản lý như : \n - Lớp học phần chính quy ( lớp chính quy ) mở trong các học kỳ chính , ngoại trừ học phần thực tập ngoài trường thường được mở trong học kỳ hè , theo kế hoạch giảng dạy , chủ yếu trong giờ hành chính . \n - Lớp học phần dự thính ( lớp dự thính ) mở trong các học kỳ chính hoặc học kỳ phụ , theo nhu cầu của sinh viên , có giờ học chủ yếu ngoài giờ hành chính hoặc linh động . \n - Lớp học phần ngoài giờ ( lớp tối ) mở trong các học kỳ chính hoặc học kỳ phụ , chủ yếu dành cho các sinh viên vừa làm vừa học , có giờ học chủ yếu là ngoài giờ hành chính . \n - Lớp học phần chuyên biệt dành cho từng chương trình , loại hình riêng như lớp dành cho chương trình Kỹ sư Việt - Pháp , chương trình Chất lượng cao , Chương trình Tài năng ,... Chỉ các sinh viên đúng chương trình , loại hình riêng này , hoặc một số tình huống ngoại lệ , mới được đăng ký học . \n 14.2 Giới hạn sĩ số của lớp học phần : \n Số lượng sinh viên trong mỗi lớp học phần ( gọi tắt là sĩ số ) được giới hạn bởi loại học phần , loại hình lớp học , sức chứa phòng học hoặc theo quy định riêng . \n Sĩ số lớp học phần của một số loại học phần trung bình như sau : \n - Các học phần đại cương , toàn trường : 140 hoặc lớn hơn và theo sức chứa của các phòng học ; \n - Các học phần cơ sở toàn khoa : 100 - 120 ; \n - Các học phần cơ sở ngành : 60 - 80 ; \n - Các học phần ngành , chuyên ngành : 40 - 60 ; \n - Các học phần thực hành , thực tập , thí nghiệm : 40 – 60 ; hoặc theo sức chứa của các phòng thí nghiệm đặc thù , trung bình từ 25 – 35 . \n Sĩ số tối đa của các lớp học phần có thể cao hơn quy định trên , theo sức chứa của các phòng học và theo nhu cầu của các Khoa . \n Sĩ số tối thiểu để có thể mở lớp học phần như sau : \n - Các học phần đại cương , toàn trường : 60 ; \n - Các học phần cơ sở toàn khoa : 60 ; \n - Các học phần cơ sở ngành : 40 ; \n - Các học phần ngành , chuyên ngành : 30 hoặc 15 cho các chuyên ngành rất hẹp , đặc biệt ; \n - Các học phần thực hành , thực tập , thí nghiệm : 15 . \n Sĩ số tối thiểu chỉ dùng trong các trường hợp đặc biệt , trên nguyên tắc cân đối chi phí vận hành . \n Các lớp học phần của các chương trình Chất lượng cao , Tiến tiến , có sĩ số trong khoảng 60 - 80 cho các học phần đại cương và khoảng 30 - 45 cho các học phần khác . \n Các lớp học phần của các học phần tổ chức theo dạng hướng dẫn tự học như đồ án , khoá luận tốt nghiệp có sĩ số theo số lượng sinh viên được phân công cho giảng viên hướng dẫn . \n Trong các trường hợp đặc biệt , được sự đồng ý về chuyên môn của Khoa , hình thức giảng dạy của một lớp học phần có thể chuyển sang dạng hướng dẫn tự học với giảng viên . \n Trường hợp này , sĩ số lớp học phần cho phép tối thiểu là 1 và tối đa là 10 .",
+      "qas": [
+        {
+          "question": [
+            "Quy tắc đặt tên các lớp học phần theo quy ước như thế nào?",
+            "Trường đặt tên các lớp học phần như thế nào để dễ quản lý?",
+            "Để dễ quản lý, trường đặt tên các lớp học phần như thế nào?",
+            "Cách đặt tên cho các lớp học phần?",
+            "Căn cứ vào đâu để đặt tên cho các lớp học phần?",
+            "Quy ước đặt tên các lớp học phần là gì?",
+            "Làm sao để nhà trường đặt tên cho các lớp học phần?"
+          ],
+          "answer": {
+            "text": "Tuỳ theo hình thức tổ chức lớp học phần , các lớp học phần được đặt tên gợi nhớ để thuận tiện trong công tác quản lý như : \n - Lớp học phần chính quy ( lớp chính quy ) mở trong các học kỳ chính , ngoại trừ học phần thực tập ngoài trường thường được mở trong học kỳ hè , theo kế hoạch giảng dạy , chủ yếu trong giờ hành chính . \n - Lớp học phần dự thính ( lớp dự thính ) mở trong các học kỳ chính hoặc học kỳ phụ , theo nhu cầu của sinh viên , có giờ học chủ yếu ngoài giờ hành chính hoặc linh động . \n - Lớp học phần ngoài giờ ( lớp tối ) mở trong các học kỳ chính hoặc học kỳ phụ , chủ yếu dành cho các sinh viên vừa làm vừa học , có giờ học chủ yếu là ngoài giờ hành chính . \n - Lớp học phần chuyên biệt dành cho từng chương trình , loại hình riêng như lớp dành cho chương trình Kỹ sư Việt - Pháp , chương trình Chất lượng cao , Chương trình Tài năng ,... Chỉ các sinh viên đúng chương trình , loại hình riêng này , hoặc một số tình huống ngoại lệ , mới được đăng ký học",
+            "answer_start": 79,
+            "answer_end": 1051
+          }
+        },
+        {
+          "question": [
+            "Các lớp học phần có bị giới hạn không?",
+            "Só lượng sinh viên của các lớp học phần bị giới hạn theo điều gì?",
+            "Vì sao số lượng sinh viên của các lớp lại bị giới hạn?",
+            "Giới hạn sinh viên trong một lớp học dựa trên điều gì?"
+          ],
+          "answer": {
+            "text": "Số lượng sinh viên trong mỗi lớp học phần ( gọi tắt là sĩ số ) được giới hạn bởi loại học phần , loại hình lớp học , sức chứa phòng học hoặc theo quy định riêng",
+            "answer_start": 1097,
+            "answer_end": 1257
+          }
+        },
+        {
+          "question": [
+            "Trung bình một lớp học có sĩ số như nào?",
+            "Giới hạn sinh viên trong một lớp học là bao nhiêu?",
+            "Số lượng sinh viên trong lớp học?",
+            "Có tối đa bao nhiêu sinh viên trong lớp học phần?",
+            "Có tối thiểu bao nhiêu sinh viên trong một lớp học?",
+            "Số sinh viên tối thiểu của một lớp học là bao nhiêu?"
+          ],
+          "answer": {
+            "text": "Sĩ số lớp học phần của một số loại học phần trung bình như sau : \n - Các học phần đại cương , toàn trường : 140 hoặc lớn hơn và theo sức chứa của các phòng học ; \n - Các học phần cơ sở toàn khoa : 100 - 120 ; \n - Các học phần cơ sở ngành : 60 - 80 ; \n - Các học phần ngành , chuyên ngành : 40 - 60 ; \n - Các học phần thực hành , thực tập , thí nghiệm : 40 – 60 ; hoặc theo sức chứa của các phòng thí nghiệm đặc thù , trung bình từ 25 – 35 . \n Sĩ số tối đa của các lớp học phần có thể cao hơn quy định trên , theo sức chứa của các phòng học và theo nhu cầu của các Khoa",
+            "answer_start": 1262,
+            "answer_end": 1830
+          }
+        },
+        {
+          "question": [
+            "Sĩ số các học phần đại cương, toàn trường là bao nhiêu?",
+            "Các học phần đại cương, toàn trường thì có số sinh viên là bao nhiêu mỗi lớp?",
+            "Mối lớp học phần đại cương, toàn trường có sĩ số trung bình bao nhiêu?"
+          ],
+          "answer": {
+            "text": "Các học phần đại cương , toàn trường : 140 hoặc lớn hơn và theo sức chứa của các phòng học",
+            "answer_start": 1331,
+            "answer_end": 1421
+          }
+        },
+        {
+          "question": [
+            "Sĩ số các học phần cơ sở toàn khoa là bao nhiêu?",
+            "Các học phần cơ sở toàn khoa thì có số sinh viên là bao nhiêu mỗi lớp?",
+            "Mối lớp học phần cơ sở toàn khoa có sĩ số trung bình bao nhiêu?"
+          ],
+          "answer": {
+            "text": "Các học phần cơ sở toàn khoa : 100 - 120",
+            "answer_start": 1428,
+            "answer_end": 1468
+          }
+        },
+        {
+          "question": [
+            "Sĩ số các học phần cơ sở ngành là bao nhiêu?",
+            "Các học phần cơ sở ngành thì có số sinh viên là bao nhiêu mỗi lớp?",
+            "Mối lớp học phần cơ sở ngành có sĩ số trung bình bao nhiêu?"
+          ],
+          "answer": {
+            "text": "Các học phần cơ sở ngành : 60 - 80",
+            "answer_start": 1475,
+            "answer_end": 1509
+          }
+        },
+        {
+          "question": [
+            "Sĩ số các học phần ngành, chuyên ngành là bao nhiêu?",
+            "Các học phần ngành, chuyên ngành thì có số sinh viên là bao nhiêu mỗi lớp?",
+            "Mối lớp học phần ngành, chuyên ngành có sĩ số trung bình bao nhiêu?"
+          ],
+          "answer": {
+            "text": "Các học phần ngành , chuyên ngành : 40 - 60",
+            "answer_start": 1516,
+            "answer_end": 1559
+          }
+        },
+        {
+          "question": [
+            "Sĩ số các học phần thực hành, thực tập, thí nghiệm là bao nhiêu?",
+            "Các học phần thực hành, thực tập, thí nghiệm thì có số sinh viên là bao nhiêu mỗi lớp?",
+            "Mối lớp học phần thực hành, thực tập, thí nghiệm có sĩ số trung bình bao nhiêu?"
+          ],
+          "answer": {
+            "text": "Các học phần thực hành , thực tập , thí nghiệm : 40 – 60 ; hoặc theo sức chứa của các phòng thí nghiệm đặc thù , trung bình từ 25 – 35",
+            "answer_start": 1566,
+            "answer_end": 1700
+          }
+        },
+        {
+          "question": [
+            "Sĩ số tối thiều có thể mở lớp là bao nhiêu?",
+            "Số sinh viên tối thiểu để mở một lớp học phần là bao nhiêu?",
+            "Bao nhiêu sinh viên mới mở lớp?",
+            "Cần tối thiêu bao nhiêu sinh viên mới có thể mở lớp?"
+          ],
+          "answer": {
+            "text": "Sĩ số tối thiểu để có thể mở lớp học phần như sau : \n - Các học phần đại cương , toàn trường : 60 ; \n - Các học phần cơ sở toàn khoa : 60 ; \n - Các học phần cơ sở ngành : 40 ; \n - Các học phần ngành , chuyên ngành : 30 hoặc 15 cho các chuyên ngành rất hẹp , đặc biệt ; \n - Các học phần thực hành , thực tập , thí nghiệm : 15 . \n Sĩ số tối thiểu chỉ dùng trong các trường hợp đặc biệt , trên nguyên tắc cân đối chi phí vận hành",
+            "answer_start": 1835,
+            "answer_end": 2261
+          }
+        },
+        {
+          "question": [
+            "Các lớp học phần Chất lượng cao, tiên tiến thì sĩ số là bao nhiêu?",
+            "Sĩ số bao nhiêu nếu là lớp chất lượng cao, tiên tiến?",
+            "Lớp Chất lượng cao - tiên tiến có sĩ số khoảng bao nhiêu sinh viên?",
+            "Mỗi lớp chất lượng cao - tiên tiến có khoảng bao nhiêu sinh viên?"
+          ],
+          "answer": {
+            "text": "Các lớp học phần của các chương trình Chất lượng cao , Tiến tiến , có sĩ số trong khoảng 60 - 80 cho các học phần đại cương và khoảng 30 - 45 cho các học phần khác",
+            "answer_start": 2266,
+            "answer_end": 2429
+          }
+        },
+        {
+          "question": [
+            "Các lớp học phần tổ chức theo dạng hướng dẫn tự học như đồ án, khoá luận tốt nghiệp có sĩ số là bao nhiêu?",
+            "Lớp đồ án có sĩ số là bao nhiêu?",
+            "Khoá luận tốt nghiệp có sĩ số là bao nhiêu?",
+            "Các lớp hướng dẫn tự học có khoảng bao nhiêu sinh viên?"
+          ],
+          "answer": {
+            "text": "Các lớp học phần của các học phần tổ chức theo dạng hướng dẫn tự học như đồ án , khoá luận tốt nghiệp có sĩ số theo số lượng sinh viên được phân công cho giảng viên hướng dẫn",
+            "answer_start": 2434,
+            "answer_end": 2608
+          }
+        },
+        {
+          "question": [
+            "Trường hợp lớp học chuyển sang sạng hướng dẫn tự học thì số sinh viên có thể có là?",
+            "Số sinh viên trong lớp là bao nhiêu nếu lớp học chuyển sang dạng hướng dẫn tự học dưới sự đồng ý về chuyên môn Khoa?",
+            "Sĩ số lớp là bao nhiêu nếu lớp học chuyển sang dạng hướng dẫn tự học dưới sự đồng ý về chuyên môn Khoa?"
+          ],
+          "answer": {
+            "text": "Trong các trường hợp đặc biệt , được sự đồng ý về chuyên môn của Khoa , hình thức giảng dạy của một lớp học phần có thể chuyển sang dạng hướng dẫn tự học với giảng viên . \n Trường hợp này , sĩ số lớp học phần cho phép tối thiểu là 1 và tối đa là 10",
+            "answer_start": 2613,
+            "answer_end": 2861
+          }
+        }
+      ]
+    }
+  ]
+}

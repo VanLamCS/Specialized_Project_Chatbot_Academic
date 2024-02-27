@@ -1,0 +1,1430 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "title": "Đánh giá kết quả học tập",
+      "context": "1 . Môn tương đương thay thế : \n SV xem danh sách môn tương đương thay thế tại trang web : hcmut . edu . vn > > Đào tạo > > Chương trình đào tạo . \n Trường hợp SV học môn tương đương / thay thế , khi có điểm SV có thể gửi câu hỏi qua trang hỗ trợ trực tuyến Bksi để xin cập nhật môn tương đương , trường hợp này SV vui lòng ghi rõ : Tên và Mã Môn Học ( SV đã học ) , ở học kỳ nào ? tương đương với Môn Học học nào ( thuộc Chương Trình Đào Tạo của SV ) . \n Sinh viên học đạt các học phần khác tương đương , thay thế cho các học phần gốc trong chương trình đào tạo , sẽ được tính tích lũy tín chỉ và điểm trung bình tích lũy theo số tín chỉ của môn học tương đương , thay thế . \n 2 . Điểm trung bình tích lũy , số tín chỉ tích lũy trên Cổng thông tin sinh viên / Xem điểm chưa được cập nhật ? Do điểm của các học kỳ chưa cập nhật đủ ( hoặc mới cập nhật ) nên điểm trung bình tích lũy , số tín chỉ tích lũy trên Cổng thông tin sinh viên / Xem điểm chưa được cập nhật ( không cập nhật thường xuyên ) , SV có thể tham khảo điểm của từng môn học được cập nhật và tính theo quy chế học vụ . Hoặc SV có thể đăng ký in bảng điểm Đăng ký tại trang hcmut . edu . vn > > Ứng dụng cho Sinh viên > > Đăng ký in bảng điểm , thì trong bảng điểm này sẽ được tính tất cả các môn học đã có điểm tới thời điểm SV đăng ký in . Trường hợp khi đăng ký Môn Học , xét các học phần tốt nghiệp ,... xét thiếu cho SV , khi môn học đã có điểm mà chưa được cộng để xét , SV có thể khiếu nại và gửi câu hỏi qua trang hỗ trợ trực tuyến Bksi . Trường hợp SV học môn tương đương / thay thế , khi có điểm SV có thể gửi câu hỏi qua trang hỗ trợ trực tuyến Bksi để xin cập nhật môn tương đương , trường hợp này SV vui lòng ghi rõ : Tên và Mã Môn Học ( SV đã học ) , ở học kỳ nào ? tương đương với Môn Học học nào ( thuộc Chương Trình Đào Tạo của SV ) . \n 3 . Ràng buộc điểm thành phần và điểm tổng kết ? Trích “ Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Khoản 18.1 Điều 18 Ràng buộc điểm thành phần và điểm tổng kết ” : \n + Đối với các học phần có thí nghiệm , sinh viên sẽ bị cấm thi nếu có điểm nhỏ hơn 4,0 ( thang điểm 10 ) . \n Ràng buộc thêm ( mới ) : điểm thi và các cột điểm thành phần : \n + Tất cả các thành phần phải có điểm > 0 . \n + Sẽ cấm thi khi có bất kỳ thành phần điểm nào = 0 . \n 4 . Điểm đạt của các học phần tốt nghiệp ? Sinh viên vui lòng xem chi tiết : Quy định về học vụ và đào tạo bậc đại học – Phiên hợp nhất Khoản 18.3 Điều 18 Điểm đạt của các học phần tốt nghiệp : \n Kết quả của các học phần tốt nghiệp ( Thực tập ngoài trường , Đồ án chuyên ngành , Khóa luận tốt nghiệp ) chỉ được xếp là ĐẠT khi có điểm đánh giá từ mức C trở lên ( từ 5,5 trở lên theo thang điểm 10 ) . \n 5 . Cách tính điểm học phần ? Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng , làm tròn tới Một chữ số thập phân . \n Sinh viên vui lòng xem chi tiết : Quy định về học vụ và đào tạo bậc đại học – Phiên hợp nhất Khoản 17.2 Điều 17 Tính điểm học phần . \n 6 . Quy định về thang điểm đánh giá áp dụng cho Khóa 2021 trở về sau như thế nào ? Sinh viên xem chi tiết quy định tại trang web hcmut . edu . vn > > Đào tạo > > Quy chế , quy định > > Học vụ > > Quyết định ban hành Quy định chung về học vụ và đào tạo ( số 2931 ngày 10 / 09 / 2021 ) > > Quyết định > > Điều 2 - Hiệu lực của Quyết định , & Riêng quy định về thang điểm đánh giá nêu ở khoản 14.2 Điều 14 và quy định về đánh giá kết quả học tập ở Điều 15 của quy đinh được áp dụng cho các Khóa tuyển sinh từ năm 2021 và cho người học sử dụng chương trình đào tạo của khóa tuyển sinh từ năm 2021 . \n 7 . Muốn biết cách tính điểm thành phần , tính điểm học phần , điểm đặc biệt , đánh giá kết quả học tập , xếp loại học lực áp dụng từ Khóa 2021 trở đi : \n Sinh viên vui lòng xem chi tiết Quy định về học vụ và đào tạo bậc đại học – Phiên hợp nhất / Chương 5 . Công tác đánh giá kết quả học tập . \n 8 . Theo thông tin từ giảng viên thì giảng viên đã chỉnh sửa rồi nhưng hệ thống vẫn chưa cập nhật điểm ? hoặc Giảng viên nhập sai điểm / Điểm không đúng / Khiếu nại điểm / Phúc tra lên điểm Quy trình sửa điểm : Nếu Giảng viên đã nhập điểm và khóa chương trình cập nhật điểm , sau đó muốn sửa điểm thì : \n Giảng viên phải tải mẫu “ Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ ” nộp lại PĐT . \n Sau khi được mở khóa , Giảng viên sửa điểm . \n Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PĐT thì điểm lúc đó mới chính thức được cập nhật . \n 9 . Về vấn đề điểm ( điểm nhập , điểm thành phần ... ) Bạn vui lòng liên hệ trực tiếp Giảng viên giảng dạy để hỗ trợ kiểm tra và giải quyết . \n 10 . Nếu em đã đạt , học cải thiện chứ không phải rớt môn học lại thì số tín chỉ học cải thiện đó có tính vào 5 % số tín chỉ để hạ bậc xếp loại không ? Học cải thiện là đăng ký học lại môn học đã đạt ( cùng mã số môn học ) để có điểm số cao hơn . \n Học lại là đăng ký học lại môn học không đạt ( có thể học môn tương đương thay thế : SV xem danh sách môn tương đương thay thế tại tại trang web : hcmut . edu . vn > > Đào tạo > > Chương trình đào tạo . \n 11 . SV muốn cải thiện điểm thì như thế nào ? SV muốn học cải thiện điểm thì môn học phải có cùng mã số môn học và khi tính vào điểm trung bình tích lũy sẽ lấy điểm cao nhất . \n 12 . Em muốn hỏi là trên bảng điểm được in có in điểm TBHK hay chỉ in điểm TBTL ạ ? Và quy định một môn học chỉ xuất hiện một lần với số điểm cao nhất đúng không ạ ? Trong bảng điểm in có ĐTBHK , ĐTBTL và tất cả các môn SV theo học Khi SV có bằng tốt nghiệp sẽ được nhận 2 bảng điểm : 1 bảng điểm in tất cả các môn mà SV theo học suốt quá trình , 1 bảng phụ lục chỉ in điểm cao nhất . \n 13 . Theo như quy chế học vụ , đối với môn tự chọn , ĐTBTL được tính từ điểm cao nhất của số tín chỉ quy định trong nhóm các môn tự chọn . Tuy nhiên , sau khi tự tính lại ĐTBTL đã cập nhật thì em thấy môn tự chọn thứ 2 của em chỉ được tính như là một môn học khác , không có sự so sánh , lựa chọn so với môn học tự chọn thứ 1 ? Điểm trung bình tích lũy ( ĐTBTL ) là điểm trung bình của những học phần mà người học đã học tính từ đầu khóa học , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó . \n Trường hợp người học tích lũy nhiều hơn số học phần yêu cầu của một nhóm tự chọn , chọn các học phần trong số này để tính điểm trung bình tích lũy sao cho đảm bảo đủ số tín chỉ yêu cầu của nhóm tự chọn , đồng thời làm kết quả tính điểm trung bình tích lũy đạt cao nhất . \n Điểm trung bình tích lũy ngành ( ĐTBTLN ) được tính tương tự như điểm trung bình tích lũy nhưng chỉ xét các môn học thuộc CTĐT khóa - ngành / chuyên ngành đang theo học . \n 14 . Theo CTĐT của em thì em phải học 3 môn nhóm A , 3 môn nhóm B và 1 môn nhóm C là đủ 7 môn tự chọn . PĐT cho em hỏi là nếu trong quá trình em học tới 8 hoặc 9 môn tự chọn thì ĐTBTL và ĐTBTLN của em sẽ tính cả 8,9 môn này hay chỉ lấy 7 môn có điểm số cao nhất trong trường hợp toàn bộ 8,9 môn này đều trên 5.0 hay tính ĐTBTL và ĐTBTLN như thế nào ạ ? Vậy cho em hỏi là ví dụ ngành em cần học 7 môn tự chọn ( 3A - 3B - 1C ) . Nếu em học dư ra 1 môn nhóm C ( 2 môn ) thì PĐT sẽ chọn môn có điểm cao hơn để tính vào TBTL ạ ? Điểm trung bình tích lũy ( ĐTBTL ) là điểm trung bình của những học phần mà người học đã học tính từ đầu khóa học , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó . \n Trường hợp người học tích lũy nhiều hơn số học phần yêu cầu của một nhóm tự chọn , chọn các học phần trong số này để tính điểm trung bình tích lũy sao cho đảm bảo đủ số tín chỉ yêu cầu của nhóm tự chọn , đồng thời làm kết quả tính điểm trung bình tích lũy đạt cao nhất . \n Điểm trung bình tích lũy ngành ( ĐTBTLN ) được tính tương tự như điểm trung bình tích lũy nhưng chỉ xét các môn học thuộc CTĐT khóa - ngành / chuyên ngành đang theo học 15 . \" Điểm cao nhất của các lần học \" là điểm gì ( Điểm thành phần hay điểm tổng kết ) ? Điểm tổng kết môn học . ",
+      "qas": [
+        {
+          "question": [
+            "Tại sao điểm trung bình tích lũy, số tín chỉ tích lũy trên cổng thông tin sinh viên / xem điểm chưa được cập nhật?",
+            "Vì sao điểm trung bình tích lũy không hiển thị đúng trên cổng thông tin sinh viên?",
+            "Tại sao số tín chỉ tích lũy chưa được cập nhật trên cổng thông tin sinh viên?",
+            "Tại sao thông tin về số tín chỉ tích lũy chưa được cập nhật trên cổng thông tin sinh viên?",
+            "Vì sao hệ thống sinh viên không hiển thị đúng điểm trung bình tích lũy của tôi?",
+            "Tại sao thông tin về số tín chỉ đã tích lũy không được đồng bộ trên cổng thông tin sinh viên?",
+            "Vì sao dữ liệu điểm trung bình tích lũy không đồng nhất trên cổng thông tin sinh viên?",
+            "Tại sao hệ thống không cập nhật thông tin về số tín chỉ tích lũy của sinh viên?",
+            "Lý do điểm trung bình tích lũy, số tín chỉ tích lũy trên cổng thông tin sinh viên chưa được cập nhật?",
+            "Tại sao điểm trung bình tích lũy và số tín chỉ tích lũy của tôi chưa được cập nhật trên cổng thông tin sinh viên?",
+            "Làm thế nào để giải quyết vấn đề khi điểm trung bình tích lũy và số tín chỉ tích lũy không được cập nhật trên hệ thống?",
+            "Có những nguyên nhân gì khiến cho thông tin về điểm trung bình tích lũy và số tín chỉ tích lũy không được hiển thị đúng trên cổng thông tin sinh viên?",
+            "Nếu thông tin về điểm trung bình tích lũy và số tín chỉ tích lũy chưa được cập nhật, tôi nên thực hiện những bước gì để khắc phục tình trạng này?",
+            "Làm thế nào để tìm hiểu về lý do mà điểm trung bình tích lũy và số tín chỉ tích lũy không hiển thị đúng trên cổng thông tin sinh viên?",
+            "Tại sao thông tin về điểm trung bình tích lũy và số tín chỉ tích lũy không được cập nhật đúng và làm thế nào để kiểm tra vấn đề này?",
+            "Nếu có vấn đề về cập nhật điểm, tôi nên thực hiện những thủ tục gì để đảm bảo rằng thông tin là chính xác?",
+            "Lý do nào khiến cho điểm trung bình tích lũy và số tín chỉ tích lũy không hiển thị đúng trên cổng thông tin sinh viên và làm thế nào để khắc phục?",
+            "Tại sao điểm trung bình tích luỹ, số tín chỉ tích luỹ của tôi trên công thông tin sinh viên chưa được cập nhật chính xác?"
+          ],
+          "answer": {
+            "text": "Do điểm của các học kỳ chưa cập nhật đủ ( hoặc mới cập nhật ) nên điểm trung bình tích lũy , số tín chỉ tích lũy trên Cổng thông tin sinh viên / Xem điểm chưa được cập nhật ( không cập nhật thường xuyên ) , SV có thể tham khảo điểm của từng môn học được cập nhật và tính theo quy chế học vụ . Hoặc SV có thể đăng ký in bảng điểm Đăng ký tại trang hcmut . edu . vn > > Ứng dụng cho Sinh viên > > Đăng ký in bảng điểm , thì trong bảng điểm này sẽ được tính tất cả các môn học đã có điểm tới thời điểm SV đăng ký in .",
+            "answer_start": 791,
+            "answer_end": 1305
+          }
+        },
+        {
+          "question": [
+            "Khi đăng ký môn học, xét các học phần tốt nghiệp,... bị xét thiếu, cần phải làm gì?",
+            "Nếu bị xét thiếu khi đăng ký môn học, xét các học phần tốt nghiệp, điều gì cần phải thực hiện?",
+            "Khi xét thiếu các học phần tốt nghiệp trong quá trình đăng ký môn học, cần thực hiện bước nào để khắc phục?",
+            "Nếu trong quá trình đăng ký môn học, xét các học phần tốt nghiệp bị thiếu, làm thế nào để giải quyết vấn đề này?",
+            "Khi gặp tình trạng xét thiếu các học phần tốt nghiệp, người đăng ký môn học cần thực hiện những bước gì?",
+            "Nếu xét thiếu các học phần tốt nghiệp khi đăng ký môn học, làm thế nào để khắc phục trạng thái này?",
+            "Khi đăng ký môn học và phát hiện xét thiếu các học phần tốt nghiệp, điều gì cần phải làm ngay lập tức?",
+            "Nếu bị xét thiếu trong quá trình đăng ký môn học và xét các học phần tốt nghiệp, người đăng ký cần thực hiện bước nào?",
+            "Tôi bị xét thiếu các học phần tốt nghiệp khi đăng ký môn học, tôi cần thực hiện bước gì để khắc phục?",
+            "Sinh viên gặp tình huống xét thiếu các học phần tốt nghiệp khi đăng ký môn học, họ nên làm thế nào để giải quyết vấn đề?",
+            "Tôi đăng ký môn học và phát hiện xét thiếu các học phần tốt nghiệp, tôi cần thực hiện những thủ tục nào?",
+            "Tôi phát hiện xét thiếu các học phần tốt nghiệp khi đăng ký môn học, tôi nên thực hiện những bước gì để hoàn tất quá trình đăng ký?",
+            "Trong trường hợp xét thiếu các học phần tốt nghiệp khi đăng ký môn học, tôi nên làm thế nào để đảm bảo đăng ký môn học thành công?",
+            "Nếu tôi gặp vấn đề xét thiếu các học phần tốt nghiệp khi đăng ký môn học, tôi cần tìm hiểu và thực hiện những thủ tục nào?",
+            "Trong tình huống xét thiếu học phần tốt nghiệp, tôi nên liên hệ với ai để được hỗ trợ khi đăng ký môn học?"
+          ],
+          "answer": {
+            "text": "Trường hợp khi đăng ký Môn Học , xét các học phần tốt nghiệp ,... xét thiếu cho SV , khi môn học đã có điểm mà chưa được cộng để xét , SV có thể khiếu nại và gửi câu hỏi qua trang hỗ trợ trực tuyến Bksi . Trường hợp SV học môn tương đương / thay thế , khi có điểm SV có thể gửi câu hỏi qua trang hỗ trợ trực tuyến Bksi để xin cập nhật môn tương đương , trường hợp này SV vui lòng ghi rõ : Tên và Mã Môn Học ( SV đã học ) , ở học kỳ nào ? tương đương với Môn Học học nào ( thuộc Chương Trình Đào Tạo của SV ) .",
+            "answer_start": 1306,
+            "answer_end": 1815
+          }
+        },
+        {
+          "question": [
+            "Ràng buộc điểm thành phần và điểm tổng kết?",
+            "Ràng buộc giữa điểm thành phần và điểm tổng kết là gì?",
+            "Điểm thành phần và điểm tổng kết được liên kết như thế nào?",
+            "Trong hệ thống đánh giá, ràng buộc giữa điểm thành phần và điểm tổng kết được xác định như thế nào?",
+            "Làm thế nào các điểm thành phần ảnh hưởng đến điểm tổng kết?",
+            "Ràng buộc giữa điểm thành phần và điểm tổng kết có những quy định cụ thể nào?",
+            "Điểm tổng kết là kết quả của việc tính toán điểm thành phần theo quy tắc nào?",
+            "Trong quá trình đánh giá, điểm tổng kết được xác định như thế nào dựa trên điểm thành phần?",
+            "Làm thế nào hệ thống giáo dục xác định ràng buộc giữa điểm thành phần và điểm tổng kết?",
+            "Các điểm thành phần ảnh hưởng như thế nào đến quá trình xác định điểm tổng kết?",
+            "Ràng buộc giữa điểm thành phần và điểm tổng kết có sự linh hoạt không?"
+          ],
+          "answer": {
+            "text": "Trích “ Quy định về học vụ và đào tạo bậc đại học – Phiên bản hợp nhất / Khoản 18.1 Điều 18 Ràng buộc điểm thành phần và điểm tổng kết ” : \n + Đối với các học phần có thí nghiệm , sinh viên sẽ bị cấm thi nếu có điểm nhỏ hơn 4,0 ( thang điểm 10 ) . \n Ràng buộc thêm ( mới ) : điểm thi và các cột điểm thành phần : \n + Tất cả các thành phần phải có điểm > 0 . \n + Sẽ cấm thi khi có bất kỳ thành phần điểm nào = 0 . \n 4 .",
+            "answer_start": 1867,
+            "answer_end": 2285
+          }
+        },
+        {
+          "question": [
+            "Điểm đạt của các học phần tốt nghiệp?",
+            "Điểm đạt của các học phần tốt nghiệp được xác định như thế nào?",
+            "Làm thế nào hệ thống đánh giá điểm đạt của các học phần tốt nghiệp?",
+            "Các học phần tốt nghiệp được đánh giá dựa trên tiêu chí nào để xác định điểm đạt?",
+            "Trong quá trình đánh giá điểm đạt, học phần tốt nghiệp được xem xét theo những quy định cụ thể nào?",
+            "Làm thế nào để biết điểm đạt của các học phần tốt nghiệp?",
+            "Điểm đạt của các học phần tốt nghiệp ảnh hưởng như thế nào đến quá trình đánh giá chung?",
+            "Các học phần tốt nghiệp được đánh giá theo tiêu chí gì để xác định điểm đạt?",
+            "Trong hệ thống đánh giá, điểm đạt của các học phần tốt nghiệp được quy định như thế nào?",
+            "Làm thế nào để hiểu rõ về điểm đạt của các học phần tốt nghiệp trong quá trình học?",
+            "Điểm đạt của các học phần tốt nghiệp có những yếu tố quyết định nào?"
+          ],
+          "answer": {
+            "text": "Kết quả của các học phần tốt nghiệp ( Thực tập ngoài trường , Đồ án chuyên ngành , Khóa luận tốt nghiệp ) chỉ được xếp là ĐẠT khi có điểm đánh giá từ mức C trở lên ( từ 5,5 trở lên theo thang điểm 10 ) .",
+            "answer_start": 2478,
+            "answer_end": 2681
+          }
+        },
+        {
+          "question": [
+            "Cách tính điểm học phần?",
+            "Làm thế nào hệ thống tính điểm cho các học phần?",
+            "Cách tính điểm học phần được xác định như thế nào trong hệ thống đánh giá?",
+            "Các học phần được tính điểm dựa trên những tiêu chí nào?",
+            "Trong quá trình tính điểm học phần, có những phương pháp đánh giá nào được sử dụng?",
+            "Làm thế nào để hiểu rõ về quy trình tính điểm của các học phần?",
+            "Phương pháp tính điểm cho các học phần như thế nào?",
+            "Tiêu chí nào được áp dụng trong việc tính điểm học phần?",
+            "Trong hệ thống đánh giá, quy trình tính điểm học phần được thực hiện theo những nguyên tắc nào?",
+            "Làm thế nào để biết cách tính điểm cho mỗi học phần cụ thể?",
+            "Các học phần được đánh giá và tính điểm theo phương pháp nào?"
+          ],
+          "answer": {
+            "text": "Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng , làm tròn tới Một chữ số thập phân .",
+            "answer_start": 2714,
+            "answer_end": 2831
+          }
+        },
+        {
+          "question": [
+            "Theo thông tin từ giảng viên thì giảng viên đã chỉnh sửa rồi nhưng hệ thống vẫn chưa cập nhật điểm? hoặc Giảng viên nhập sai điểm / Điểm không đúng / Khiếu nại điểm / Phúc tra lên điểm?",
+            "Tại sao hệ thống vẫn chưa cập nhật điểm khi giảng viên đã sửa điểm?",
+            "Phúc tra lên điểm tại sao hệ thống vẫn chưa cập nhật điểm?",
+            "Khiếu nại điểm xong nhưng vẫn chưa cập nhật điểm lên hệ thống là sao?",
+            "Điểm không đúng đã được giảng viên sửa lại nhưng trên hệ thống sao lại chưa cập nhật?",
+            "Tại sao, mặc dù giảng viên đã thực hiện chỉnh sửa điểm, nhưng hệ thống vẫn không cập nhật điểm?",
+            "Nếu giảng viên nhập sai điểm và có sự điều chỉnh, tại sao hệ thống vẫn không hiển thị thông tin điểm mới?",
+            "Khi thực hiện phúc tra lên điểm, làm thế nào để giải quyết vấn đề khi hệ thống không cập nhật thông tin điểm mới?",
+            "Sau khi khiếu nại điểm, tại sao hệ thống vẫn chưa cập nhật điểm lên hệ thống?",
+            "Tại sao, dù điểm đã được giảng viên sửa lại đúng, nhưng trên hệ thống vẫn chưa cập nhật thông tin điểm mới?"
+          ],
+          "answer": {
+            "text": "Nếu Giảng viên đã nhập điểm và khóa chương trình cập nhật điểm , sau đó muốn sửa điểm thì : \n Giảng viên phải tải mẫu “ Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ ” nộp lại PĐT . \n Sau khi được mở khóa , Giảng viên sửa điểm . \n Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PĐT thì điểm lúc đó mới chính thức được cập nhật .",
+            "answer_start": 4074,
+            "answer_end": 4417
+          }
+        },
+        {
+          "question": [
+            "Quy trình sửa điểm?",
+            "Làm thế nào để thực hiện quy trình sửa điểm trong hệ thống đánh giá?",
+            "Quy trình sửa điểm được thực hiện như thế nào?",
+            "Nếu có sai sót về điểm, làm thế nào để thực hiện quy trình sửa điểm đúng đắn?",
+            "Quy trình sửa điểm được thiết lập như thế nào để đảm bảo sự chính xác và minh bạch?",
+            "Nếu có điểm nhập sai, làm thế nào để bắt đầu quy trình sửa điểm một cách hiệu quả?",
+            "Làm thế nào để giảng viên thực hiện quy trình sửa điểm mà không gây ra những vấn đề phức tạp?",
+            "Quy trình sửa điểm được quy định như thế nào để đảm bảo tính công bằng và minh bạch?",
+            "Nếu cần điều chỉnh điểm, làm thế nào để thực hiện quy trình sửa điểm một cách hợp lý?",
+            "Quy trình sửa điểm có những bước cụ thể nào mà giảng viên cần phải tuân theo?"
+          ],
+          "answer": {
+            "text": "Nếu Giảng viên đã nhập điểm và khóa chương trình cập nhật điểm , sau đó muốn sửa điểm thì : \n Giảng viên phải tải mẫu “ Phiếu đề nghị điều chỉnh bảng ghi điểm học kỳ ” nộp lại PĐT . \n Sau khi được mở khóa , Giảng viên sửa điểm . \n Tiếp theo Giảng viên phải in lại bảng điểm ký nhận và nộp lại PĐT thì điểm lúc đó mới chính thức được cập nhật .",
+            "answer_start": 4074,
+            "answer_end": 4417
+          }
+        },
+        {
+          "question": [
+            "Có vấn đề về điểm cần liên hệ ai để được hỗ trợ?",
+            "Khi gặp vấn đề về điểm, làm thế nào để liên hệ và nhận được sự hỗ trợ từ người chịu trách nhiệm?",
+            "Nếu có vấn đề cần giải quyết liên quan đến điểm, làm thế nào để liên hệ với người có thẩm quyền để được giúp đỡ?",
+            "Có thể liên hệ với ai để được hỗ trợ khi xảy ra vấn đề về thông tin điểm?",
+            "Khi cần sự hỗ trợ về điểm, làm thế nào để liên lạc với người có thể giúp đỡ?",
+            "Nếu gặp khó khăn liên quan đến điểm, làm thế nào để tìm kiếm sự hỗ trợ và giải đáp các thắc mắc?",
+            "Làm thế nào để tìm ra người chịu trách nhiệm và liên hệ khi có vấn đề về điểm?",
+            "Khi có vấn đề cần sự can thiệp, làm thế nào để liên hệ với người có thẩm quyền trong trường hợp điểm?",
+            "Ai là người mà sinh viên có thể liên hệ để giải quyết vấn đề điểm?",
+            "Nếu có thắc mắc hoặc gặp khó khăn về điểm, làm thế nào để liên hệ với người quản lý tương ứng?",
+            "Khi cần sự hỗ trợ về điểm, ai là người cần phải liên hệ để đảm bảo giải quyết vấn đề một cách hiệu quả?"
+          ],
+          "answer": {
+            "text": "Về vấn đề điểm ( điểm nhập , điểm thành phần ... ) Bạn vui lòng liên hệ trực tiếp Giảng viên giảng dạy để hỗ trợ kiểm tra và giải quyết .",
+            "answer_start": 4424,
+            "answer_end": 4561
+          }
+        },
+        {
+          "question": [
+            "Nếu em đã đạt, học cải thiện chứ không phải rớt môn học lại thì số tín chỉ học cải thiện đó có tính vào 5% số tín chỉ để hạ bậc xếp loại không?",
+            "Trong trường hợp em đã đạt và học cải thiện mà không rớt môn lại, liệu số tín chỉ của học cải thiện có được tính vào 5% số tín chỉ để hạ bậc xếp loại không?",
+            "Nếu em đã đạt và có học cải thiện mà không rớt môn, thì liệu số tín chỉ của học cải thiện có ảnh hưởng đến 5% số tín chỉ để hạ bậc xếp loại không hay không?",
+            "Trong trường hợp em đạt và học cải thiện môn, nhưng không rớt, thì số tín chỉ của học cải thiện có được tính vào phần 5% số tín chỉ để hạ bậc xếp loại không không?",
+            "Nếu em đã đạt và thực hiện học cải thiện môn, không rớt, liệu số tín chỉ của học cải thiện có ảnh hưởng đến phần 5% số tín chỉ để hạ bậc xếp loại không không?",
+            "Nếu em đã đạt và thực hiện học cải thiện môn, liệu số tín chỉ của học cải thiện có ảnh hưởng đến phần 5% số tín chỉ để hạ bậc xếp loại không không?"
+          ],
+          "answer": {
+            "text": "Học lại là đăng ký học lại môn học không đạt ( có thể học môn tương đương thay thế : SV xem danh sách môn tương đương thay thế tại tại trang web : hcmut . edu . vn > > Đào tạo > > Chương trình đào tạo .",
+            "answer_start": 4813,
+            "answer_end": 5015
+          }
+        },
+        {
+          "question": [
+            "SV muốn cải thiện điểm thì như thế nào?",
+            "Làm thế nào để sinh viên có thể thực hiện học cải thiện để cải thiện điểm?",
+            "Nếu sinh viên muốn cải thiện điểm, họ có những bước cụ thể nào cần thực hiện?",
+            "Khi muốn cải thiện điểm, sinh viên nên thực hiện những hành động nào để đạt được kết quả tốt nhất?",
+            "Làm thế nào để sinh viên có thể tích cực tham gia vào quá trình học cải thiện và nâng cao điểm của mình?",
+            "Nếu muốn cải thiện điểm, sinh viên cần tìm hiểu và thực hiện những phương pháp học tập nào?",
+            "Các biện pháp cụ thể nào mà sinh viên có thể thực hiện để học cải thiện và đạt được điểm cao hơn?",
+            "Tôi muốn cải thiện điểm thì phải làm gì?",
+            "Tôi có thể làm gì để nâng cao điểm của môn học đã học qua?"
+          ],
+          "answer": {
+            "text": "SV muốn học cải thiện điểm thì môn học phải có cùng mã số môn học và khi tính vào điểm trung bình tích lũy sẽ lấy điểm cao nhất .",
+            "answer_start": 5064,
+            "answer_end": 5193
+          }
+        },
+        {
+          "question": [
+            "Trên bảng điểm được in có in điểm (trung bình học kỳ) TBHK hay chỉ in điểm (trung bình tích lũy) TBTL? Và quy định một môn học chỉ xuất hiện một lần với số điểm cao nhất phải không?",
+            "Trong bảng điểm in, liệu có hiển thị điểm trung bình học kỳ (TBHK) hay chỉ là điểm trung bình tích lũy (TBTL)?",
+            "Bảng điểm được in có thể hiển thị cả điểm TBHK và TBTL không?",
+            "Quy định của trường là một môn học chỉ xuất hiện một lần với số điểm cao nhất, đúng không?",
+            "Nếu sinh viên có nhiều điểm cho cùng một môn, thì điểm nào sẽ được hiển thị trên bảng điểm in?",
+            "Bảng điểm có in những điểm gì?",
+            "Trên bảng điểm có điểm TBHK hay chỉ in điểm TBTL?"
+          ],
+          "answer": {
+            "text": "Trong bảng điểm in có ĐTBHK , ĐTBTL và tất cả các môn SV theo học Khi SV có bằng tốt nghiệp sẽ được nhận 2 bảng điểm : 1 bảng điểm in tất cả các môn mà SV theo học suốt quá trình , 1 bảng phụ lục chỉ in điểm cao nhất .",
+            "answer_start": 5362,
+            "answer_end": 5580
+          }
+        },
+        {
+          "question": [
+            "Cách tính điểm trung bình tích lũy?",
+            "Làm thế nào để tính điểm trung bình tích lũy (TBTL) trong hệ thống đánh giá của trường?",
+            "Quy trình tính điểm trung bình tích lũy là gì và nó được thực hiện như thế nào?",
+            "Điểm trung bình tích lũy được tính toán bằng cách nào dựa trên số tín chỉ và điểm số của sinh viên?",
+            "Các yếu tố nào ảnh hưởng đến quá trình tính toán điểm trung bình tích lũy?",
+            "Làm thế nào để hiểu rõ về cách tính điểm trung bình tích lũy trong hệ thống đánh giá của trường?",
+            "Các bước cụ thể nào sinh viên cần thực hiện để tính toán điểm trung bình tích lũy của mình?",
+            "Cách tính điểm TBTL?",
+            "Làm thế nào để tính điểm TBTL trong hệ thống đánh giá của trường?",
+            "Quy trình tính điểm TBTL là gì và nó được thực hiện như thế nào?",
+            "Điểm TBTL được tính toán bằng cách nào dựa trên số tín chỉ và điểm số của sinh viên?",
+            "Các yếu tố nào ảnh hưởng đến quá trình tính toán điểm TBTL?",
+            "Làm thế nào để hiểu rõ về cách tính điểm TBTL trong hệ thống đánh giá của trường?",
+            "Các bước cụ thể nào sinh viên cần thực hiện để tính toán điểm TBTL của mình?"
+          ],
+          "answer": {
+            "text": "Điểm trung bình tích lũy ( ĐTBTL ) là điểm trung bình của những học phần mà người học đã học tính từ đầu khóa học , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó . \n Trường hợp người học tích lũy nhiều hơn số học phần yêu cầu của một nhóm tự chọn , chọn các học phần trong số này để tính điểm trung bình tích lũy sao cho đảm bảo đủ số tín chỉ yêu cầu của nhóm tự chọn , đồng thời làm kết quả tính điểm trung bình tích lũy đạt cao nhất .",
+            "answer_start": 5911,
+            "answer_end": 6382
+          }
+        },
+        {
+          "question": [
+            "Điểm trung bình tích luỹ là gì?",
+            "Định nghĩa của điểm trung bình tích lũy là gì trong ngữ cảnh hệ thống đánh giá của trường?",
+            "Làm thế nào để hiểu rõ về khái niệm điểm trung bình tích lũy?",
+            "Điểm trung bình tích luỹ?"
+          ],
+          "answer": {
+            "text": "Điểm trung bình tích lũy ( ĐTBTL ) là điểm trung bình của những học phần mà người học đã học tính từ đầu khóa học , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó .",
+            "answer_start": 5911,
+            "answer_end": 6109
+          }
+        },
+        {
+          "question": [
+            "Điểm cao nhất của các lần học là gì?",
+            "Điểm cao nhất của các lần học là gì? (điểm thành phần hay điểm tổng kết)"
+          ],
+          "answer": {
+            "text": "Điểm tổng kết môn học",
+            "answer_start": 7815,
+            "answer_end": 7836
+          }
+        },
+        {
+          "question": [
+            "Cách xem danh sách các môn tương đương thay thế?",
+            "Làm sao để xem danh sách các môn tương đương thay thế?",
+            "Tôi xem danh sách các môn tương đương thay thế ở đâu?",
+            "Cho tôi xin danh sách các môn tương đương thay thế",
+            "Làm thế nào để truy cập danh sách các môn tương đương thay thế trong hệ thống đánh giá của trường?",
+            "Nếu muốn xem danh sách các môn tương đương thay thế, thì bước nào sinh viên cần thực hiện?",
+            "Tại đâu trong hệ thống thông tin sinh viên có thể tìm thấy danh sách các môn học tương đương thay thế?",
+            "Làm thế nào để lấy được danh sách các môn tương đương thay thế cho các môn học cụ thể?",
+            "Cách xem danh sách các môn tương đương thay thế được mô tả như thế nào trong hệ thống thông tin sinh viên?",
+            "Nếu muốn xem danh sách các môn tương đương, làm thế nào để tìm ra thông tin này một cách nhanh chóng?",
+            "Tôi có thể tìm thấy danh sách các môn tương đương thay thế ở đâu trong cổng thông tin sinh viên?",
+            "Làm thế nào để truy cập danh sách các môn học tương đương thay thế từ hệ thống đánh giá của trường?",
+            "Nếu cần biết về danh sách các môn tương đương, tôi có thể tìm thông tin ở đâu?",
+            "Tôi muốn xem danh sách các môn tương đương thay thế, làm thế nào để tìm được thông tin này?"
+          ],
+          "answer": {
+            "text": "SV xem danh sách môn tương đương thay thế tại trang web : hcmut . edu . vn > > Đào tạo > > Chương trình đào tạo .",
+            "answer_start": 33,
+            "answer_end": 146
+          }
+        }
+      ]
+    },
+    {
+      "title": "Đánh giá kết quả học tập",
+      "context": "Điều 17 . Đánh giá và tính điểm học phần : \n 17.1 Điểm thành phần : \n Đối với mỗi học phần , sinh viên được đánh giá qua tối thiểu hai điểm thành phần . Đối với các học phần có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một điểm đánh giá . Phương pháp đánh giá , hình thức đánh giá và trọng số của mỗi điểm thành phần được quy định trong đề cương chi tiết của mỗi học phần . \n Các điểm thành phần được đánh giá theo thang điểm 10 , làm tròn đến 0,5 . \n 17.2 Tính điểm học phần : \n Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng , làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây , trừ các trường hợp được quy định tại khoản 17.3 trong điều này . \n a ) Loại đạt có phân mức , áp dụng cho các học phần được tính vào điểm trung bình học tập , bao gồm : \n A + : từ 9,5 đến 10,0 ; \n A : từ 8,5 đến 9,4 ; \n B + : từ 8,0 đến 8,4 ; \n B : từ 7,0 đến 7,9 ; \n C + : từ 6,5 đến 6,9 ; \n C : từ 5,5 đến 6,4 ; \n D + : từ 5,0 đến 5,4 ; \n D : từ 4,0 đến 4,9 . \n b ) Loại đạt không phân mức , áp dụng cho các học phần chỉ yêu cầu đạt , không tính vào điểm trung bình học tập : \n P : từ 5,0 trở lên . \n c ) Loại không đạt : \n F : dưới 4,0 . \n 17.3 Điểm đặc biệt : \n Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại , không được tính vào điểm trung bình học tập : \n I : Điểm chưa hoàn thiện do được phép hoãn thi , kiểm tra ; \n X : Điểm chưa hoàn thiện do chưa đủ dữ liệu ; \n W : Điểm học phần đã rút đăng ký học , không công nhận tín chỉ ; \n R : Điểm học phần được miễn học và công nhận tín chỉ . \n Điều 18 . Quy định thêm về đánh giá học phần 18.1 Ràng buộc điểm thành phần và điểm tổng kết : \n Đối với các học phần có thí nghiệm , sinh viên sẽ bị cấm thi nếu có điểm nhỏ hơn 4,0 ( thang điểm 10 ) . \n Đề cương học phần quy định chi tiết các điều kiện ràng buộc khác về điểm thành phần và điểm tổng kết , đảm bảo đúng quy định , chất lượng học tập và công bằng cho các sinh viên trong cùng học kỳ . \n 18.2 Điểm tổng kết các trường hợp riêng : \n Một số trường hợp chỉ có điểm tổng kết , không có điểm thành phần như học phần đồ án , thực tập , học phần tốt nghiệp ,... Các môn học đánh giá bằng hình thức bảo vệ thì điểm tổng kết là điểm bảo vệ cuối kỳ . Các học phần / phần học thí nghiệm tính điểm tổng kết từ điểm của các bài thí nghiệm ( nhân với trọng số của chúng ) và / hoặc điểm thi thí nghiệm ( nhân với trọng số của điểm thi ) . \n Điểm tổng kết học phần tốt nghiệp được tính từ trung bình cộng của các điểm cho bởi các thành viên của hội đồng , của người hướng dẫn và của người phản biện và được làm tròn đến 0,1 . Các điểm cho bởi các thành viên của hội đồng , của người hướng dẫn và của người phản biện không được lệch nhau quá 2,0 điểm . Trường hợp lệch quá 2,0 điểm thì hội đồng phải hội ý , xem xét để điều chỉnh phù hợp và điểm cuối cùng được quyết định bởi tập thể hội đồng . Trong đó , khi bỏ phiếu lấy ý kiến , thì phiếu của Chủ tịch Hội đồng có trọng số cao hơn 10 % so với các thành viên khác của hội đồng . Tất cả các ý kiến và kết luận cuối cùng phải được ghi vào biên bản hội đồng . \n 18.3 Điểm đạt của các học phần tốt nghiệp : \n Kết quả của các học phần tốt nghiệp ( Thực tập ngoài trường , Đồ án chuyên ngành , Khóa luận tốt nghiệp ) chỉ được xếp là đạt khi có điểm đánh giá từ mức C trở lên ( từ 5,5 trở lên theo thang điểm 10 ) . \n Điều 19 . Chuyển điểm , miễn điểm : \n 19.1 Điểm học phần tương đương , thay thế : \n Sinh viên học đạt các học phần khác tương đương , thay thế cho các học phần gốc trong chương trình đào tạo , sinh viên sẽ nhận điểm miễn các học phần gốc , tính tích luỹ tín chỉ , không tính vào điểm trung bình tích luỹ ngành . \n 19.2 Chương trình liên thông Đại học - Thạc sĩ : \n Sinh viên chương trình liên thông Đại học - Thạc sĩ , khi có kết quả đạt các học phần ở bậc cao học , được đăng ký miễn điểm cho một số học phần tương ứng ở bậc đại học . Đối với chương trình tài năng , các học phần miễn ở bậc đại học không là các học phần tài năng . \n 19.3 Chương trình song ngành với cơ sở đào tạo khác : \n Sinh viên chương trình song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác được xét công nhận tín chỉ và miễn các học phần tương ứng trong chương trình đào tạo cấp bằng thứ hai của nhà trường đối với các học phần sinh viên tích luỹ ở cơ sở đào tạo của mình . \n Điều 20 . Đánh giá kết quả học tập theo học kỳ , năm học : \n 20.1 Đánh giá kết quả học tập : \n Kết quả học tập của sinh viên được đánh giá sau từng học kỳ hoặc sau từng năm học , dựa trên kết quả các học phần nằm trong yêu cầu của chương trình đào tạo mà sinh viên đã học . \n Sinh viên được đánh giá dựa trên các tiêu chí sau : \n - Số tín chỉ tích luỹ học kỳ là tổng số tín chỉ của những học phần mà sinh viên đã học đạt trong một học kỳ ; \n - Số tín chỉ tích luỹ là tổng số tín chỉ của những học phần mà sinh viên đã đạt từ đầu khóa học , tính cả các học phần được miễn học , được công nhận tín chỉ . Trường hợp sinh viên tích luỹ nhiều hơn số tín chỉ yêu cầu của một nhóm tự chọn , chỉ số tín chỉ yêu cầu của nhóm tự chọn được tính vào số tín chỉ tích luỹ ; \n - Điểm trung bình học kỳ là điểm trung bình của những học phần mà sinh viên đã học trong một học kỳ , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó ; \n - Điểm trung bình tích luỹ là điểm trung bình của những học phần mà sinh viên đã học tính từ đầu khóa học , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó . Trường hợp sinh viên tích luỹ nhiều hơn số học phần yêu cầu của một nhóm tự chọn , chọn các học phần trong số này để tính điểm trung bình tích luỹ sao cho đảm bảo đủ số tín chỉ yêu cầu của nhóm tự chọn , đồng thời làm kết quả tính điểm trung bình tích luỹ đạt cao nhất . \n Để tính điểm trung bình , điểm chữ của học phần được quy đổi về điểm số như dưới đây : \n A + quy đổi thành 4,0 ; \n A quy đổi thành 4,0 ; \n B + quy đổi thành 3,5 ; \n B quy đổi thành 3,0 ; \n C + quy đổi thành 2,5 ; \n C quy đổi thành 2,0 ; \n D + quy đổi thành 1,5 ; \n D quy đổi thành 1,0 ; \n F quy đổi thành 0,0 . \n Những điểm chữ không được quy định như trên không được tính vào các điểm trung bình . \n 20.2 Xếp loại học lực : \n Sinh viên được xếp loại học lực theo điểm trung bình học kỳ , điểm trung bình năm học hoặc điểm trung bình tích lũy như sau : \n Từ 3,6 đến 4,0 : Xuất sắc ; \n Từ 3,2 đến cận 3,6 : Giỏi ; \n Từ 2,5 đến cận 3,2 : Khá ; \n Từ 2,0 đến cận 2,5 : Trung bình ; \n Từ 1,0 đến cận 2,0 : Yếu ; \n Dưới 1,0 : Kém . \n Điều 21 . Cấm thi , vắng thi , miễn thi , thi sớm hoặc muộn : \n 21.1 Cấm thi : \n Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị cấm thi và nhận điểm 0 cho học phần . Các quy định về cấm thi trong đề cương học phần không được vượt quá thẩm quyền so với các quy định về đào tạo - học vụ . \n 21.2 Vắng thi , hoãn thi : \n Sinh viên vắng mặt trong buổi thi , đánh giá không có lý do chính đáng phải nhận điểm 0 . \n Trường hợp vắng mặt có lý do chính đáng ở buổi thi cuối kỳ , và không phải thuộc diện cấm thi , sinh viên được hoãn thi và nhận điểm I . Sinh viên được dự thi để lấy điểm thay thế cho điểm I ở lần tổ chức thi của học phần này ở trong cùng học kỳ hoặc kỳ thi ở các học kỳ sau và trong thời hạn tối đa một năm . Trong trường hợp học phần này không tổ chức trong vòng một năm , nhà trường có thể xem xét tổ chức thi riêng để sinh viên hoàn thành học phần . Sinh viên không dự thi theo các điều kiện trên sẽ nhận điểm 0 . \n Ngoài ra , trong các trường hợp đặc biệt , như để khuyến khích sinh viên tham dự các kỳ thi học thuật cấp quốc gia , quốc tế hoặc trong trường hợp đặc biệt khác , nhà trường có quyền ra quyết định dùng một điểm số khác thay thế cho điểm I . \n Sinh viên vắng mặt có lý do chính đáng ở các buổi đánh giá điểm thành phần khác của học phần được phép dự đánh giá ở một đợt khác trong cùng học kỳ do giảng viên đề nghị , Bộ môn và Khoa tổ chức . Trong trường hợp cần thiết , giảng viên đề nghị và được Bộ môn và Khoa đồng ý dùng các điểm thành phần khác , kể cả điểm thi cuối kỳ , để thay thế cho điểm thành phần này . \n Sinh viên phải thực hiện các thủ tục đăng ký hoãn thi , vắng thi trước khi thi hoặc sau khi thi chậm nhất là 05 ngày làm việc với Phòng đào tạo . Trường hợp đặc biệt khác trễ hơn thời hạn nêu trên , Hiệu trưởng nhà trường xem xét quyết định . \n 21.3 Miễn thi : \n Trong một số trường hợp đặc biệt , khi sinh viên đạt được các thành tích học thuật xuất sắc trong học kỳ , sinh viên có thể được miễn kiểm tra , thi và nhận điểm . Trưởng Khoa hoặc các đơn vị liên quan gửi đề nghị kèm theo các minh chứng về các phòng đào tạo để ra các quyết định miễn kiểm tra , thi và nhận điểm . \n 21.4 Thi sớm hoặc muộn : \n Nhà trường có thể tổ chức kiểm tra , thi sớm hoặc muộn cho một số sinh viên trong các trường hợp cần thiết . Công văn đề nghị tổ chức thi sớm hoặc muộn do Trưởng Khoa gửi cho các phòng đào tạo để phối hợp tổ chức .",
+      "qas": [
+        {
+          "question": [
+            "Học phần được đánh giá thông qua bao nhiêu điểm thành phần?",
+            "Học phần đánh giá dựa trên bao nhiêu điểm thành phần?",
+            "Số lượng điểm thành phần cần đánh giá cho mỗi học phần là bao nhiêu?",
+            "Có bao nhiêu điểm thành phần được sử dụng để đánh giá một học phần?",
+            "Một học phần thông thường đánh giá qua mấy điểm thành phần?",
+            "Đối với mỗi học phần, có bao nhiêu điểm cần phải quan tâm trong quá trình đánh giá?",
+            "Số lượng điểm thành phần ảnh hưởng đến việc đánh giá học phần như thế nào?",
+            "Đánh giá một học phần thông qua bao nhiêu điểm thành phần có ý nghĩa gì?",
+            "Có quy tắc cụ thể nào về số lượng điểm thành phần khi đánh giá một học phần không?",
+            "Làm thế nào để xác định số lượng điểm thành phần phù hợp cho mỗi học phần?",
+            "Số lượng điểm thành phần thường được ưu tiên trong quá trình đánh giá học phần?"
+          ],
+          "answer": {
+            "text": "Đối với mỗi học phần , sinh viên được đánh giá qua tối thiểu hai điểm thành phần . Đối với các học phần có khối lượng nhỏ hơn 02 tín chỉ có thể chỉ có một điểm đánh giá .",
+            "answer_start": 70,
+            "answer_end": 240
+          }
+        },
+        {
+          "question": [
+            "Phương pháp, hình thức, trọng số các điểm thành phần quy định như thế nào?",
+            "Phương pháp, hình thức, và trọng số của các điểm thành phần được quy định như thế nào?",
+            "Làm thế nào để xác định phương pháp, hình thức, và trọng số của từng điểm thành phần?",
+            "Quy định cụ thể nào về phương pháp, hình thức, và trọng số được áp dụng trong việc đánh giá các điểm thành phần?",
+            "Phương pháp và hình thức đánh giá các điểm thành phần được quy định theo cách nào?",
+            "Làm thế nào để hiểu rõ về cách quy định phương pháp, hình thức, và trọng số của điểm thành phần?",
+            "Quy tắc nào áp dụng cho việc đặt phương pháp, hình thức, và trọng số của điểm thành phần trong quá trình đánh giá học phần?",
+            "Cách mà phương pháp, hình thức, và trọng số của các điểm thành phần được thiết lập là gì?",
+            "Làm thế nào để biết được phương pháp, hình thức, và trọng số của điểm thành phần đang được áp dụng cho một học phần cụ thể?",
+            "Phương pháp, hình thức, và trọng số của các điểm thành phần có được quy định trước khi học phần bắt đầu không?",
+            "Có quy trình cụ thể nào để thay đổi phương pháp, hình thức, và trọng số của điểm thành phần trong quá trình học phần diễn ra không?"
+          ],
+          "answer": {
+            "text": "Phương pháp đánh giá , hình thức đánh giá và trọng số của mỗi điểm thành phần được quy định trong đề cương chi tiết của mỗi học phần .",
+            "answer_start": 241,
+            "answer_end": 375
+          }
+        },
+        {
+          "question": [
+            "Các điểm thành phần được đánh giá trên thang điểm nào?",
+            "Thang điểm nào được sử dụng để đánh giá các điểm thành phần?",
+            "Các điểm thành phần được đánh giá trên thang điểm cụ thể nào?",
+            "Làm thế nào để hiểu rõ về thang điểm được áp dụng cho việc đánh giá điểm thành phần?",
+            "Thang điểm nào được quy định cho việc đánh giá các thành phần của học phần?",
+            "Cách thức đánh giá các điểm thành phần có liên quan đến thang điểm nào?",
+            "Làm thế nào để biết được thang điểm được chọn để đánh giá điểm thành phần?",
+            "Thang điểm áp dụng cho các điểm thành phần có tính phổ quát hay không?",
+            "Có quy tắc cụ thể nào về việc sử dụng thang điểm trong quá trình đánh giá điểm thành phần?",
+            "Thang điểm nào được sử dụng để làm tròn điểm thành phần?",
+            "Cách đánh giá các điểm thành phần có đồng nhất với thang điểm nào?",
+            "Quy tắc làm tròn điểm áp dụng cho thang điểm 10 khi đánh giá điểm thành phần là gì?",
+            "Làm thế nào để điểm trên thang điểm 10 được làm tròn khi đánh giá điểm thành phần?",
+            "Quy trình làm tròn điểm trên thang điểm 10 trong việc đánh giá điểm thành phần như thế nào?",
+            "Khi đánh giá điểm thành phần, thang điểm 10 được áp dụng cùng với quy tắc làm tròn nào?",
+            "Làm thế nào để hiểu rõ về cách làm tròn điểm khi sử dụng thang điểm 10 trong đánh giá điểm thành phần?",
+            "Có quy định cụ thể nào về quy tắc làm tròn điểm trên thang điểm 10 khi đánh giá điểm thành phần không?",
+            "Quy trình làm tròn điểm 10 áp dụng cho việc đánh giá điểm thành phần có gì đặc biệt?",
+            "Thang điểm 10 được làm tròn ra sao khi đánh giá các thành phần của học phần?",
+            "Làm thế nào để biết cách thức làm tròn điểm trên thang điểm 10 khi đánh giá điểm thành phần?",
+            "Có sự thay đổi nào về làm tròn điểm 10 khi đánh giá điểm thành phần không?"
+          ],
+          "answer": {
+            "text": "Các điểm thành phần được đánh giá theo thang điểm 10 , làm tròn đến 0,5 .",
+            "answer_start": 378,
+            "answer_end": 451
+          }
+        },
+        {
+          "question": [
+            "Điểm học phần được tính như thế nào từ tổng các điểm thành phần và trọng số tương ứng?",
+            "Quy trình tính điểm học phần từ tổng điểm thành phần và trọng số tương ứng như thế nào?",
+            "Làm thế nào để tính điểm học phần từ tổng điểm các thành phần và trọng số cụ thể?",
+            "Quy tắc tính điểm học phần dựa trên tổng điểm thành phần và trọng số là gì?",
+            "Khi tính điểm học phần, cách tính từ tổng điểm thành phần và trọng số được thực hiện như thế nào?",
+            "Làm thế nào để hiểu rõ về quy trình tính điểm học phần từ tổng điểm thành phần và trọng số?",
+            "Có sự chi tiết nào về cách tính điểm học phần từ tổng điểm thành phần và trọng số không?",
+            "Quy tắc cụ thể nào được áp dụng khi tính điểm học phần từ tổng điểm thành phần và trọng số?",
+            "Làm thế nào để áp dụng đúng cách tính điểm học phần từ tổng điểm thành phần và trọng số?",
+            "Cách thức tính điểm học phần từ tổng điểm các thành phần và trọng số được mô tả như thế nào?",
+            "Có điều gì đặc biệt khi tính điểm học phần từ tổng điểm thành phần và trọng số?",
+            "Cách tính điểm học phần như thế nào?",
+            "Quy trình cụ thể của cách tính điểm học phần là gì?",
+            "Làm thế nào để hiểu rõ về cách tính điểm học phần?",
+            "Có quy tắc nào áp dụng khi tính điểm học phần không?",
+            "Khi tính điểm học phần, các yếu tố nào được xem xét?",
+            "Làm thế nào để áp dụng đúng cách tính điểm học phần?",
+            "Có các bước cụ thể nào khi tính điểm học phần?",
+            "Điều gì là quan trọng khi sử dụng cách tính điểm học phần?",
+            "Cách thức đánh giá và tính điểm học phần như thế nào?",
+            "Có những quy định cụ thể nào về cách tính điểm học phần?"
+          ],
+          "answer": {
+            "text": "Điểm học phần được tính từ tổng các điểm thành phần nhân với trọng số tương ứng , làm tròn tới một chữ số thập phân và xếp loại điểm chữ như dưới đây , trừ các trường hợp được quy định tại khoản 17.3 trong điều này . \n a ) Loại đạt có phân mức , áp dụng cho các học phần được tính vào điểm trung bình học tập , bao gồm : \n A + : từ 9,5 đến 10,0 ; \n A : từ 8,5 đến 9,4 ; \n B + : từ 8,0 đến 8,4 ; \n B : từ 7,0 đến 7,9 ; \n C + : từ 6,5 đến 6,9 ; \n C : từ 5,5 đến 6,4 ; \n D + : từ 5,0 đến 5,4 ; \n D : từ 4,0 đến 4,9 . \n b ) Loại đạt không phân mức , áp dụng cho các học phần chỉ yêu cầu đạt , không tính vào điểm trung bình học tập : \n P : từ 5,0 trở lên . \n c ) Loại không đạt : \n F : dưới 4,0 .",
+            "answer_start": 482,
+            "answer_end": 1174
+          }
+        },
+        {
+          "question": [
+            "Điều 17.3 quy định điều gì?",
+            "Điều 17.3 trong quy định về điểm học phần nêu rõ những điều gì?",
+            "Nội dung của điều 17.3 là gì?",
+            "Nội dung điều 17.3",
+            "Quy định ghi rõ trong điều 17.3?"
+          ],
+          "answer": {
+            "text": "17.3 Điểm đặc biệt : \n Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại , không được tính vào điểm trung bình học tập : \n I : Điểm chưa hoàn thiện do được phép hoãn thi , kiểm tra ; \n X : Điểm chưa hoàn thiện do chưa đủ dữ liệu ; \n W : Điểm học phần đã rút đăng ký học , không công nhận tín chỉ ; \n R : Điểm học phần được miễn học và công nhận tín chỉ .",
+            "answer_start": 1177,
+            "answer_end": 1538
+          }
+        },
+        {
+          "question": [
+            "Các loại đạt phân mức là gì?",
+            "Các loại đạt phân mức được mô tả như thế nào theo quy định điểm học phần?",
+            "Quy định chi tiết về các loại đạt phân mức được nêu trong điểm 17.2 như thế nào?",
+            "Các loại đạt phân mức A+, A, B+,... được định nghĩa như thế nào trong hệ thống điểm học phần?",
+            "Nội dung của Điều 17.2 về các loại đạt phân mức là gì?",
+            "Trong điều 17.2, các loại đạt phân mức được xác định dựa trên tiêu chí nào?",
+            "Điểm chữ như A+, A, B+,... có ý nghĩa gì theo quy định về đánh giá điểm học phần?",
+            "Làm thế nào để sinh viên được phân loại vào các loại đạt phân mức khác nhau?",
+            "Quy định trong Điều 17.2 về các loại đạt phân mức có những điều cụ thể gì?",
+            "Các học phần được xếp loại theo các loại đạt phân mức như thế nào?",
+            "Thông tin về các loại đạt phân mức A+, A, B+,... được mô tả như thế nào trong quy định điểm học phần?"
+          ],
+          "answer": {
+            "text": "Loại đạt có phân mức , áp dụng cho các học phần được tính vào điểm trung bình học tập , bao gồm : \n A + : từ 9,5 đến 10,0 ; \n A : từ 8,5 đến 9,4 ; \n B + : từ 8,0 đến 8,4 ; \n B : từ 7,0 đến 7,9 ; \n C + : từ 6,5 đến 6,9 ; \n C : từ 5,5 đến 6,4 ; \n D + : từ 5,0 đến 5,4 ; \n D : từ 4,0 đến 4,9 .",
+            "answer_start": 705,
+            "answer_end": 995
+          }
+        },
+        {
+          "question": [
+            "Các loại đạt không phân mức như P được áp dụng cho điểm trung bình học tập hay không?",
+            "Nội dung của quy định về các loại đạt không phân mức trong Điều 17.2 là gì?",
+            "Làm thế nào các loại đạt không phân mức như P được tính vào quyết định về điểm trung bình học tập?",
+            "Quy định về các loại đạt không phân mức có ảnh hưởng như thế nào đến tính toán điểm học phần?",
+            "Các học phần chỉ yêu cầu đạt, không tính vào điểm trung bình học tập được miêu tả như thế nào trong quy định?",
+            "Các loại đạt không phân mức như P áp dụng cho loại hình đào tạo nào?",
+            "Thang điểm của các loại đạt không phân mức như P được xác định như thế nào?",
+            "Các loại đạt không phân mức có ảnh hưởng đến xếp loại của sinh viên như thế nào?",
+            "Làm thế nào để sinh viên được phân loại vào các loại đạt không phân mức khác nhau?",
+            "Quy định về các loại đạt không phân mức như P đặt ra những điều kiện cụ thể gì?",
+            "Các loại đạt không phân mức được áp dụng cho điểm trung bình học tập không?"
+          ],
+          "answer": {
+            "text": "Loại đạt không phân mức , áp dụng cho các học phần chỉ yêu cầu đạt , không tính vào điểm trung bình học tập : \n P : từ 5,0 trở lên .",
+            "answer_start": 1002,
+            "answer_end": 1134
+          }
+        },
+        {
+          "question": [
+            "Điểm học phần nào là loại không đạt?",
+            "Điểm F đánh giá điều gì?",
+            "Loại điểm nào được xem là loại không đạt trong hệ thống đánh giá điểm học phần?",
+            "Điều gì được thể hiện thông qua việc sinh viên nhận điểm F trong học phần?",
+            "Quy định về loại điểm F được mô tả như thế nào trong hệ thống đánh giá điểm của trường?",
+            "Khi nào mà sinh viên có thể nhận điểm F trong quá trình học tập?",
+            "Loại điểm không đạt F áp dụng cho tất cả các học phần hay chỉ những học phần cụ thể?",
+            "Có những trường hợp nào mà sinh viên sẽ nhận điểm không đạt F?",
+            "Thang điểm và tiêu chí của loại không đạt F được mô tả như thế nào trong hệ thống đánh giá điểm?"
+          ],
+          "answer": {
+            "text": "Loại không đạt : \n F : dưới 4,0 .",
+            "answer_start": 1141,
+            "answer_end": 1174
+          }
+        },
+        {
+          "question": [
+            "Có các loại điểm đặc biệt nào?",
+            "Có những điểm đặc biệt nào được quy định trong hệ thống đánh giá điểm của trường?",
+            "Liệt kê và mô tả các loại điểm đặc biệt được áp dụng trong quá trình đánh giá học phần?",
+            "Quy định và quy trình áp dụng các loại điểm đặc biệt được thể hiện như thế nào trong hệ thống điểm của trường?",
+            "Có bất kỳ điều kiện nào cụ thể khiến sinh viên nhận điểm đặc biệt trong quá trình học tập?"
+          ],
+          "answer": {
+            "text": "Điểm đặc biệt : \n Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại , không được tính vào điểm trung bình học tập : \n I : Điểm chưa hoàn thiện do được phép hoãn thi , kiểm tra ; \n X : Điểm chưa hoàn thiện do chưa đủ dữ liệu ; \n W : Điểm học phần đã rút đăng ký học , không công nhận tín chỉ ; \n R : Điểm học phần được miễn học và công nhận tín chỉ .",
+            "answer_start": 1182,
+            "answer_end": 1538
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì nhận được điểm I?",
+            "Quy định cụ thể nào làm cho sinh viên nhận được điểm I trong học phần?",
+            "Dưới những tình huống nào, sinh viên có thể được đánh giá điểm I trong quá trình học tập?",
+            "Các điều kiện hay yêu cầu gì cần được đáp ứng để nhận điểm I trong một học phần?",
+            "Làm thế nào để xử lý và hoàn thiện điểm I sau khi sinh viên nhận được nó?",
+            "Điểm I có ảnh hưởng như thế nào đối với quá trình học tập và xếp loại cuối kỳ?",
+            "Khi nào là thời điểm phù hợp để áp dụng điểm I trong quá trình đánh giá học phần?",
+            "Liệt kê những trường hợp cụ thể nào mà điểm I được áp dụng trong hệ thống đánh giá của trường?",
+            "Quy trình đánh giá điểm I được thực hiện như thế nào từ phía giáo viên và sinh viên?",
+            "Có bất kỳ hạn chế hay quy định nào về việc nhận điểm I mà sinh viên cần biết?"
+          ],
+          "answer": {
+            "text": "I : Điểm chưa hoàn thiện do được phép hoãn thi , kiểm tra ;",
+            "answer_start": 1307,
+            "answer_end": 1366
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì nhận được điểm X?",
+            "Quy định cụ thể nào làm cho sinh viên nhận được điểm X trong học phần?",
+            "Dưới những tình huống nào, sinh viên có thể được đánh giá điểm X trong quá trình học tập?",
+            "Các điều kiện hay yêu cầu gì cần được đáp ứng để nhận điểm X trong một học phần?",
+            "Làm thế nào để xử lý và hoàn thiện điểm X sau khi sinh viên nhận được nó?",
+            "Điểm X có ảnh hưởng như thế nào đối với quá trình học tập và xếp loại cuối kỳ?",
+            "Khi nào là thời điểm phù hợp để áp dụng điểm X trong quá trình đánh giá học phần?",
+            "Liệt kê những trường hợp cụ thể nào mà điểm X được áp dụng trong hệ thống đánh giá của trường?",
+            "Quy trình đánh giá điểm X được thực hiện như thế nào từ phía giáo viên và sinh viên?",
+            "Có bất kỳ hạn chế hay quy định nào về việc nhận điểm X mà sinh viên cần biết?"
+          ],
+          "answer": {
+            "text": "X : Điểm chưa hoàn thiện do chưa đủ dữ liệu ;",
+            "answer_start": 1369,
+            "answer_end": 1414
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì nhận được điểm W?",
+            "Quy định cụ thể nào làm cho sinh viên nhận được điểm W trong học phần?",
+            "Dưới những tình huống nào, sinh viên có thể được đánh giá điểm W trong quá trình học tập?",
+            "Các điều kiện hay yêu cầu gì cần được đáp ứng để nhận điểm W trong một học phần?",
+            "Làm thế nào để xử lý và hoàn thiện điểm W sau khi sinh viên nhận được nó?",
+            "Điểm W có ảnh hưởng như thế nào đối với quá trình học tập và xếp loại cuối kỳ?",
+            "Khi nào là thời điểm phù hợp để áp dụng điểm W trong quá trình đánh giá học phần?",
+            "Liệt kê những trường hợp cụ thể nào mà điểm W được áp dụng trong hệ thống đánh giá của trường?",
+            "Quy trình đánh giá điểm W được thực hiện như thế nào từ phía giáo viên và sinh viên?",
+            "Có bất kỳ hạn chế hay quy định nào về việc nhận điểm W mà sinh viên cần biết?"
+          ],
+          "answer": {
+            "text": "W : Điểm học phần đã rút đăng ký học , không công nhận tín chỉ ;",
+            "answer_start": 1417,
+            "answer_end": 1481
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì nhận được điểm R?",
+            "Quy định cụ thể nào làm cho sinh viên nhận được điểm R trong học phần?",
+            "Dưới những tình huống nào, sinh viên có thể được đánh giá điểm R trong quá trình học tập?",
+            "Các điều kiện hay yêu cầu gì cần được đáp ứng để nhận điểm R trong một học phần?",
+            "Làm thế nào để xử lý và hoàn thiện điểm R sau khi sinh viên nhận được nó?",
+            "Điểm R có ảnh hưởng như thế nào đối với quá trình học tập và xếp loại cuối kỳ?",
+            "Khi nào là thời điểm phù hợp để áp dụng điểm R trong quá trình đánh giá học phần?",
+            "Liệt kê những trường hợp cụ thể nào mà điểm R được áp dụng trong hệ thống đánh giá của trường?",
+            "Quy trình đánh giá điểm R được thực hiện như thế nào từ phía giáo viên và sinh viên?",
+            "Có bất kỳ hạn chế hay quy định nào về việc nhận điểm R mà sinh viên cần biết?"
+          ],
+          "answer": {
+            "text": "R : Điểm học phần được miễn học và công nhận tín chỉ .",
+            "answer_start": 1484,
+            "answer_end": 1538
+          }
+        },
+        {
+          "question": [
+            "Quy định chi tiết về ràng buộc điểm thành phần và điểm tổng kết trong các học phần có thí nghiệm là gì?",
+            "Trong các học phần có thí nghiệm, quy định chi tiết nào liên quan đến ràng buộc về điểm thành phần và điểm tổng kết?",
+            "Điều gì được đề cập trong đề cương học phần về điều kiện ràng buộc của điểm thành phần và điểm tổng kết trong học phần có thí nghiệm?",
+            "Các quy tắc nào được áp dụng đối với việc cấm thi của sinh viên trong các học phần có thí nghiệm khi có điểm nhỏ hơn 4,0?"
+          ],
+          "answer": {
+            "text": "Đối với các học phần có thí nghiệm , sinh viên sẽ bị cấm thi nếu có điểm nhỏ hơn 4,0 ( thang điểm 10 ) .",
+            "answer_start": 1638,
+            "answer_end": 1742
+          }
+        },
+        {
+          "question": [
+            "Các ràng buộc giữa điểm thành phần và điểm tổng kết được quy định ở đâu?",
+            "Nơi nào mà các ràng buộc giữa điểm thành phần và điểm tổng kết được quy định rõ?",
+            "Đề cương học phần cụ thể nào chứa thông tin về ràng buộc giữa điểm thành phần và điểm tổng kết?",
+            "Làm thế nào quy định về điểm tổng kết và điểm thành phần được đưa ra trong đề cương học phần?",
+            "Quy tắc nào áp dụng cho mối quan hệ giữa điểm thành phần và điểm tổng kết trong các học phần có thí nghiệm?",
+            "Làm thế nào quy định về điểm thành phần giúp đảm bảo tính công bằng trong quy trình đánh giá tổng kết?",
+            "Các điều kiện cụ thể về điểm thành phần và điểm tổng kết được mô tả trong tài liệu nào?",
+            "Quy tắc cụ thể nào đảm bảo rằng điểm thành phần ảnh hưởng đến điểm tổng kết của sinh viên?",
+            "Thông tin chi tiết về mối quan hệ giữa điểm thành phần và điểm tổng kết có sẵn ở đâu trong hướng dẫn học phần?"
+          ],
+          "answer": {
+            "text": "Đề cương học phần quy định chi tiết các điều kiện ràng buộc khác về điểm thành phần và điểm tổng kết , đảm bảo đúng quy định , chất lượng học tập và công bằng cho các sinh viên trong cùng học kỳ .",
+            "answer_start": 1745,
+            "answer_end": 1941
+          }
+        },
+        {
+          "question": [
+            "Trường hợp nào chỉ có điểm tổng kết không có điểm thành phần?",
+            "Các tình huống cụ thể nào mà chỉ có điểm tổng kết mà không có điểm thành phần?",
+            "Học phần nào trong đó điểm tổng kết không phụ thuộc vào điểm thành phần?",
+            "Khi nào mà sinh viên chỉ được đánh giá dựa trên điểm tổng kết mà không có điểm thành phần?",
+            "Các học phần nào chỉ có điểm tổng kết và không có điểm thành phần chi tiết?",
+            "Trong hệ thống đánh giá, có những trường hợp nào không yêu cầu điểm thành phần?",
+            "Thông tin chi tiết về điểm tổng kết mà không có điểm thành phần nằm ở đâu trong hướng dẫn học phần?"
+          ],
+          "answer": {
+            "text": "Một số trường hợp chỉ có điểm tổng kết , không có điểm thành phần như học phần đồ án , thực tập , học phần tốt nghiệp ,...",
+            "answer_start": 1988,
+            "answer_end": 2110
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì điểm tổng kết là điểm bảo vệ cuối kỳ?",
+            "Khi nào có điểm tổng kết những không thi cuối kỳ?",
+            "Điểm tổng kết của các học phần thí nghiệm tính ra sao?"
+          ],
+          "answer": {
+            "text": "Các môn học đánh giá bằng hình thức bảo vệ thì điểm tổng kết là điểm bảo vệ cuối kỳ . Các học phần / phần học thí nghiệm tính điểm tổng kết từ điểm của các bài thí nghiệm ( nhân với trọng số của chúng ) và / hoặc điểm thi thí nghiệm ( nhân với trọng số của điểm thi ) .",
+            "answer_start": 2111,
+            "answer_end": 2380
+          }
+        },
+        {
+          "question": [
+            "Cách tính điểm của các học phần tốt nghiệp?",
+            "Làm thế nào điểm của các học phần tốt nghiệp được tính toán?",
+            "Quy trình tính điểm cho các học phần tốt nghiệp như thế nào?",
+            "Các yếu tố nào ảnh hưởng đến việc tính điểm cho các học phần tốt nghiệp?",
+            "Làm thế nào có thể biết được điểm cuối cùng của một học phần tốt nghiệp?",
+            "Điểm đánh giá cho các học phần tốt nghiệp được xác định ra sao?",
+            "Trong trường hợp của học phần tốt nghiệp, điểm cuối cùng phụ thuộc vào những gì?",
+            "Các thành phần nào tham gia vào việc đánh giá điểm của các học phần tốt nghiệp?",
+            "Điều kiện nào quy định cách tính điểm cho học phần tốt nghiệp?",
+            "Trong hệ thống đánh giá, có quy tắc cụ thể nào về việc tính điểm cho các học phần tốt nghiệp?"
+          ],
+          "answer": {
+            "text": "Điểm tổng kết học phần tốt nghiệp được tính từ trung bình cộng của các điểm cho bởi các thành viên của hội đồng , của người hướng dẫn và của người phản biện và được làm tròn đến 0,1 .",
+            "answer_start": 2383,
+            "answer_end": 2566
+          }
+        },
+        {
+          "question": [
+            "Quy định chấm điểm của các thành viên trong hội đồng như thế nào?",
+            "Làm thế nào quy định về chấm điểm của các thành viên trong hội đồng?",
+            "Quy tắc nào liên quan đến việc chấm điểm của thành viên trong hội đồng?",
+            "Cách thức đánh giá điểm của thành viên trong hội đồng được mô tả như thế nào?",
+            "Có những yếu tố nào quy định về chấm điểm trong hội đồng?",
+            "Làm thế nào quy định về chấm điểm để đảm bảo công bằng trong hội đồng?",
+            "Quy định chi tiết về việc thành viên trong hội đồng đánh giá điểm là gì?",
+            "Các nguyên tắc nào được áp dụng cho việc chấm điểm của thành viên trong hội đồng?",
+            "Trách nhiệm của thành viên trong hội đồng trong quá trình chấm điểm được quy định như thế nào?",
+            "Có những quy định cụ thể nào liên quan đến việc thành viên trong hội đồng đưa ra ý kiến trong quá trình đánh giá điểm?",
+            "Các thành viên trong hội đồng chấm điểm lệch nhau thì phải làm sao?"
+          ],
+          "answer": {
+            "text": "Các điểm cho bởi các thành viên của hội đồng , của người hướng dẫn và của người phản biện không được lệch nhau quá 2,0 điểm . Trường hợp lệch quá 2,0 điểm thì hội đồng phải hội ý , xem xét để điều chỉnh phù hợp và điểm cuối cùng được quyết định bởi tập thể hội đồng . Trong đó , khi bỏ phiếu lấy ý kiến , thì phiếu của Chủ tịch Hội đồng có trọng số cao hơn 10 % so với các thành viên khác của hội đồng . Tất cả các ý kiến và kết luận cuối cùng phải được ghi vào biên bản hội đồng .",
+            "answer_start": 2567,
+            "answer_end": 3048
+          }
+        },
+        {
+          "question": [
+            "Quy định gì về điểm đạt của học phần tốt nghiệp?",
+            "Điểm đạt của học phần tốt nghiệp là bao nhiêu?",
+            "Tôi cần đạt bao nhiêu điểm để qua học phần tốt nghiệp?",
+            "Điểm đạt của học phần tốt nghiệp là gì theo quy định?",
+            "Quy định về điểm đạt trong học phần tốt nghiệp như thế nào?",
+            "Để qua học phần tốt nghiệp, cần đạt điểm bao nhiêu?",
+            "Các yêu cầu điểm đạt của học phần tốt nghiệp được mô tả như thế nào?",
+            "Làm thế nào để biết điểm đạt của học phần tốt nghiệp?",
+            "Có những quy định cụ thể nào về điểm đạt trong học phần tốt nghiệp?",
+            "Điểm tối thiểu để đạt học phần tốt nghiệp là bao nhiêu?",
+            "Quy định về điểm đạt có sự khác biệt giữa các loại học phần tốt nghiệp không?",
+            "Làm thế nào để đảm bảo đạt điểm trong học phần tốt nghiệp?",
+            "Có những trường hợp nào cụ thể áp dụng quy định về điểm đạt trong học phần tốt nghiệp?"
+          ],
+          "answer": {
+            "text": "Kết quả của các học phần tốt nghiệp ( Thực tập ngoài trường , Đồ án chuyên ngành , Khóa luận tốt nghiệp ) chỉ được xếp là đạt khi có điểm đánh giá từ mức C trở lên ( từ 5,5 trở lên theo thang điểm 10 ) .",
+            "answer_start": 3097,
+            "answer_end": 3300
+          }
+        },
+        {
+          "question": [
+            "Học các học phần tương đương, thay thế có tính vào điểm tích luỹ của ngành không?",
+            "Các học phần tương đương có ảnh hưởng đến điểm tích luỹ của ngành không?",
+            "Việc học các học phần thay thế có được tính vào điểm trung bình tích luỹ không?",
+            "Có tính vào điểm tích luỹ của ngành khi thay thế học phần không?",
+            "Làm thế nào để biết liệu điểm từ các học phần tương đương được tính vào điểm tích luỹ hay không?",
+            "Thay thế học phần có tác động gì đến điểm số chung của ngành học?",
+            "Làm thế nào để xác định xem các học phần tương đương có được tính vào điểm tích luỹ không?"
+          ],
+          "answer": {
+            "text": "không tính vào điểm trung bình tích luỹ ngành .",
+            "answer_start": 3567,
+            "answer_end": 3614
+          }
+        },
+        {
+          "question": [
+            "Khi học học phần tương đương, thay thế sinh viễn sẽ đưuọc những gì?",
+            "Học học phần tương đương mang lại những lợi ích gì cho sinh viên?",
+            "Sinh viên học học phần thay thế sẽ có những ưu điểm gì so với học học phần chính?",
+            "Có sự khác biệt nào trong quyền lợi của sinh viên khi học học phần tương đương không?",
+            "Có tính điểm tích luỹ cho các học phần tương đương, thay thế không?"
+          ],
+          "answer": {
+            "text": "Sinh viên học đạt các học phần khác tương đương , thay thế cho các học phần gốc trong chương trình đào tạo , sinh viên sẽ nhận điểm miễn các học phần gốc , tính tích luỹ tín chỉ , không tính vào điểm trung bình tích luỹ ngành .",
+            "answer_start": 3387,
+            "answer_end": 3614
+          }
+        },
+        {
+          "question": [
+            "Có quy định gì cho chương trình liên thông Đại học - Thạc sĩ?",
+            "Quy định nào áp dụng cho sinh viên tham gia chương trình liên thông Đại học - Thạc sĩ?",
+            "Chương trình liên thông Đại học - Thạc sĩ có những điều kiện đặc biệt nào cần tuân theo?",
+            "Sinh viên liên thông có cơ hội được miễn học phần nào trong quá trình học Thạc sĩ không?",
+            "Có những quy định cụ thể nào về chất lượng học tập trong chương trình liên thông Đại học - Thạc sĩ?",
+            "Liên thông Đại học - Thạc sĩ yêu cầu sinh viên đáp ứng những tiêu chí nào để được chấp nhận?",
+            "Có quy định gì về số tín chỉ cần đạt để tham gia chương trình liên thông Đại học - Thạc sĩ không?",
+            "Chương trình liên thông có những đối tượng nào được ưu tiên đăng ký?",
+            "Sinh viên liên thông cần tuân thủ những quy tắc nào liên quan đến học phần tương đương?",
+            "Làm thế nào để xác định học phần nào được tính vào chương trình liên thông Đại học - Thạc sĩ?",
+            "Có sự khác biệt nào trong quy trình đánh giá cho sinh viên liên thông so với sinh viên truyền thống không?"
+          ],
+          "answer": {
+            "text": "Sinh viên chương trình liên thông Đại học - Thạc sĩ , khi có kết quả đạt các học phần ở bậc cao học , được đăng ký miễn điểm cho một số học phần tương ứng ở bậc đại học . Đối với chương trình tài năng , các học phần miễn ở bậc đại học không là các học phần tài năng .",
+            "answer_start": 3668,
+            "answer_end": 3935
+          }
+        },
+        {
+          "question": [
+            "Có quy định gì về đào tạo song ngành với cơ sở đào tạo khác?",
+            "Quy định nào áp dụng cho việc đào tạo song ngành với cơ sở đào tạo khác nhau?",
+            "Sinh viên đào tạo song ngành với cơ sở khác có được áp dụng những quy tắc nào liên quan đến chương trình học?",
+            "Có quy định nào về số tín chỉ cần đạt để hoàn thành chương trình đào tạo song ngành với cơ sở khác không?",
+            "Quy định gì về việc hỗ trợ sinh viên trong quá trình học đào tạo song ngành với cơ sở khác?"
+          ],
+          "answer": {
+            "text": "Sinh viên chương trình song ngành theo hướng bằng thứ hai với cơ sở đào tạo khác được xét công nhận tín chỉ và miễn các học phần tương ứng trong chương trình đào tạo cấp bằng thứ hai của nhà trường đối với các học phần sinh viên tích luỹ ở cơ sở đào tạo của mình .",
+            "answer_start": 3994,
+            "answer_end": 4258
+          }
+        },
+        {
+          "question": [
+            "Kết quả học tập của sinh viên được đánh giá khi nào?",
+            "Có phải trường sẽ đánh giá kết quả học tập của sinh viên theo từng học kỳ không?",
+            "Khi nào nhà trường đánh giá kết quả học tập cho sinh viên?",
+            "Kết quả học tập được đánh giá định kỳ trong bao lâu?",
+            "Nhà trường đánh giá kết quả học tập sinh viên theo từng kỳ hay từng năm?",
+            "Kết quả học tập của sinh viên được đánh giá theo từng năm nhỉ?"
+          ],
+          "answer": {
+            "text": "Kết quả học tập của sinh viên được đánh giá sau từng học kỳ hoặc sau từng năm học , dựa trên kết quả các học phần nằm trong yêu cầu của chương trình đào tạo mà sinh viên đã học .",
+            "answer_start": 4356,
+            "answer_end": 4534
+          }
+        },
+        {
+          "question": [
+            "Các tiêu chí đánh giá kết quả học tập của sinh viên là gì?",
+            "Các yếu tố cụ thể nào được sử dụng để đánh giá kết quả học tập của sinh viên?",
+            "Làm thế nào các tiêu chí đánh giá kết quả học tập được xác định và áp dụng?",
+            "Những yếu tố nào được sử dụng để đánh giá thành tích học tập của sinh viên?",
+            "Làm thế nào hệ thống đánh giá học tập đối với sinh viên được thiết lập?",
+            "Các phương pháp đánh giá kết quả học tập mà trường đại học thường sử dụng là gì?",
+            "Những tiêu chí cụ thể nào được xem xét khi đánh giá hiệu suất học tập của sinh viên?",
+            "Hệ thống đánh giá học tập có những thay đổi hay cập nhật gì trong những năm gần đây?",
+            "Làm thế nào sinh viên có thể đo lường và theo dõi tiến độ học tập của mình trong quá trình đào tạo?",
+            "Trường có áp dụng các hình thức đánh giá khác nhau cho các khóa học hay không?",
+            "Làm thế nào học phần thực hành được tính vào đánh giá kết quả học tập của sinh viên?",
+            "Có những nguồn thông tin nào khác ngoài điểm số được xem xét khi đánh giá thành tích học tập của sinh viên?"
+          ],
+          "answer": {
+            "text": "Sinh viên được đánh giá dựa trên các tiêu chí sau : \n - Số tín chỉ tích luỹ học kỳ là tổng số tín chỉ của những học phần mà sinh viên đã học đạt trong một học kỳ ; \n - Số tín chỉ tích luỹ là tổng số tín chỉ của những học phần mà sinh viên đã đạt từ đầu khóa học , tính cả các học phần được miễn học , được công nhận tín chỉ . Trường hợp sinh viên tích luỹ nhiều hơn số tín chỉ yêu cầu của một nhóm tự chọn , chỉ số tín chỉ yêu cầu của nhóm tự chọn được tính vào số tín chỉ tích luỹ ; \n - Điểm trung bình học kỳ là điểm trung bình của những học phần mà sinh viên đã học trong một học kỳ , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó ; \n - Điểm trung bình tích luỹ là điểm trung bình của những học phần mà sinh viên đã học tính từ đầu khóa học , tính theo điểm chính thức của học phần và trọng số là số tín chỉ của học phần đó . Trường hợp sinh viên tích luỹ nhiều hơn số học phần yêu cầu của một nhóm tự chọn , chọn các học phần trong số này để tính điểm trung bình tích luỹ sao cho đảm bảo đủ số tín chỉ yêu cầu của nhóm tự chọn , đồng thời làm kết quả tính điểm trung bình tích luỹ đạt cao nhất .",
+            "answer_start": 4537,
+            "answer_end": 5671
+          }
+        },
+        {
+          "question": [
+            "Quy đổi điểm giữa điểm chữ và điểm số thang 4?",
+            "Làm cách nào quá trình quy đổi giữa điểm chữ và điểm số trên thang 4 thường diễn ra?",
+            "Có quy tắc cụ thể nào để chuyển đổi giữa điểm chữ và điểm số thang 4 không?",
+            "Quy đổi điểm giữa hệ thống điểm chữ và thang điểm 4 đòi hỏi những bước nào?",
+            "Làm thế nào có thể hiểu rõ cách điểm chữ được ánh xạ vào điểm số thang 4 trong quá trình quy đổi?",
+            "Có sự thay đổi nào trong quy định quy đổi giữa điểm chữ và điểm số thang 4 không?",
+            "Đối với sinh viên, quy đổi giữa điểm chữ và điểm số thang 4 có ảnh hưởng như thế nào đến hiểu biết về kết quả học tập của họ?",
+            "Làm thế nào hệ thống quy đổi giữa điểm chữ và điểm số thang 4 đảm bảo sự công bằng trong đánh giá học tập?",
+            "Có sự linh hoạt nào trong cách quy đổi điểm giữa hệ thống điểm chữ và thang điểm 4 không?",
+            "Những yếu tố nào được xem xét khi thực hiện quy đổi giữa điểm chữ và điểm số thang 4?",
+            "Làm thế nào sinh viên có thể biết được cách điểm chữ của họ tương đương với điểm số thang 4?"
+          ],
+          "answer": {
+            "text": "Để tính điểm trung bình , điểm chữ của học phần được quy đổi về điểm số như dưới đây : \n A + quy đổi thành 4,0 ; \n A quy đổi thành 4,0 ; \n B + quy đổi thành 3,5 ; \n B quy đổi thành 3,0 ; \n C + quy đổi thành 2,5 ; \n C quy đổi thành 2,0 ; \n D + quy đổi thành 1,5 ; \n D quy đổi thành 1,0 ; \n F quy đổi thành 0,0 . \n Những điểm chữ không được quy định như trên không được tính vào các điểm trung bình .",
+            "answer_start": 5674,
+            "answer_end": 6072
+          }
+        },
+        {
+          "question": [
+            "Căn cứ vào đâu để xếp loại học lực sinh viên?",
+            "Điểm trung bình của tôi là bao nhiều để xếp loại học lực giỏi?",
+            "Điểm trung bình của tôi là bao nhiều để xếp loại học lực khá?",
+            "Điểm trung bình của tôi là bao nhiều để xếp loại học lực xuất sắc?",
+            "Điểm trung bình của tôi là bao nhiều để xếp loại học lực trung bình?",
+            "Điểm trung bình của tôi là bao nhiều để xếp loại học lực yếu?",
+            "Điểm trung bình của tôi là 2 thì xếp loại học lực là gì?"
+          ],
+          "answer": {
+            "text": "Sinh viên được xếp loại học lực theo điểm trung bình học kỳ , điểm trung bình năm học hoặc điểm trung bình tích lũy như sau : \n Từ 3,6 đến 4,0 : Xuất sắc ; \n Từ 3,2 đến cận 3,6 : Giỏi ; \n Từ 2,5 đến cận 3,2 : Khá ; \n Từ 2,0 đến cận 2,5 : Trung bình ; \n Từ 1,0 đến cận 2,0 : Yếu ; \n Dưới 1,0 : Kém .",
+            "answer_start": 6101,
+            "answer_end": 6399
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì sinh viên bị cấm thi?",
+            "Vì sao tôi bị cấm thi?",
+            "Tại sao lại cấm thi tôi?",
+            "Quy định nào xác định khi nào sinh viên sẽ bị cấm thi?",
+            "Có những lý do cụ thể gì khiến sinh viên bị cấm thi?",
+            "Tại sao một sinh viên có thể bị cấm thi trong quá trình học tập?",
+            "Các tiêu chí hay quy tắc nào được áp dụng để quyết định việc cấm thi đối với sinh viên?"
+          ],
+          "answer": {
+            "text": "Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị cấm thi và nhận điểm 0 cho học phần . Các quy định về cấm thi trong đề cương học phần không được vượt quá thẩm quyền so với các quy định về đào tạo - học vụ .",
+            "answer_start": 6483,
+            "answer_end": 6764
+          }
+        },
+        {
+          "question": [
+            "Khi bị cấm thi sinh viên sẽ nhận được điểm gì?",
+            "Tôi bị cấm thi thì điểm của tôi như thế nào?",
+            "Tỗi nhận được điểm gì khi bị cấm thi?"
+          ],
+          "answer": {
+            "text": "Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị cấm thi và nhận điểm 0 cho học phần .",
+            "answer_start": 6483,
+            "answer_end": 6643
+          }
+        },
+        {
+          "question": [
+            "Vắng thi không có lý do chính đáng thì bị gì?",
+            "Theo quy định của trường Đại học Bách Khoa, nếu sinh viên vắng thi mà không có lý do chính đáng, họ sẽ phải đối mặt với hình phạt gì?",
+            "Quy tắc xử lý vắng thi không có lý do chính đáng tại Trường Đại học Bách Khoa là gì? Có những biện pháp gì được áp dụng?",
+            "Sinh viên nào sẽ bị ảnh hưởng khi vắng thi không có lý do chính đáng?",
+            "Làm thế nào quy định về vắng thi không có lý do chính đáng ảnh hưởng đến quá trình học tập và kết quả của sinh viên?",
+            "Nếu sinh viên không tuân thủ quy định về việc vắng thi không có lý do chính đáng, liệu có cơ hội để họ có thể giải quyết tình hình và phục hồi tình trạng học tập của mình không?"
+          ],
+          "answer": {
+            "text": "Sinh viên vắng mặt trong buổi thi , đánh giá không có lý do chính đáng phải nhận điểm 0 .",
+            "answer_start": 6796,
+            "answer_end": 6885
+          }
+        },
+        {
+          "question": [
+            "Vắng thi cuối kỳ với lý do chính đáng thì có bị gì không?",
+            "Trong trường hợp sinh viên vắng thi cuối kỳ với lý do chính đáng, liệu họ sẽ phải đối mặt với hình phạt hoặc có những biện pháp đặc biệt nào được áp dụng không?",
+            "Có quy định cụ thể nào tại Trường Đại học Bách Khoa về việc xử lý sinh viên vắng thi cuối kỳ có lý do chính đáng?",
+            "Làm thế nào quy định về vắng thi cuối kỳ với lý do chính đáng được thực hiện để đảm bảo sự công bằng và minh bạch?",
+            "Trong trường hợp sinh viên vắng thi cuối kỳ do lý do chính đáng, liệu họ có quyền được hoãn thi và dự thi lại không?",
+            "Có những biện pháp hỗ trợ hoặc quy định đặc biệt nào áp dụng cho sinh viên vắng thi cuối kỳ với lý do chính đáng nhằm hỗ trợ họ trong quá trình học tập?",
+            "Nếu sinh viên có lý do chính đáng vắng thi cuối kỳ, liệu có quyền họ có quyền gặp giảng viên để thảo luận về các biện pháp hỗ trợ và lựa chọn trong tình huống này không?",
+            "Làm thế nào quy định về vắng thi cuối kỳ với lý do chính đáng có thể ảnh hưởng đến quyết định cuối cùng về kết quả học tập của sinh viên?",
+            "Có các trường hợp đặc biệt nào mà sinh viên vắng thi cuối kỳ với lý do chính đáng có thể được xem xét và quyết định đặc biệt từ phía trường không?"
+          ],
+          "answer": {
+            "text": "Trường hợp vắng mặt có lý do chính đáng ở buổi thi cuối kỳ , và không phải thuộc diện cấm thi , sinh viên được hoãn thi và nhận điểm I . Sinh viên được dự thi để lấy điểm thay thế cho điểm I ở lần tổ chức thi của học phần này ở trong cùng học kỳ hoặc kỳ thi ở các học kỳ sau và trong thời hạn tối đa một năm . Trong trường hợp học phần này không tổ chức trong vòng một năm , nhà trường có thể xem xét tổ chức thi riêng để sinh viên hoàn thành học phần . Sinh viên không dự thi theo các điều kiện trên sẽ nhận điểm 0 .",
+            "answer_start": 6888,
+            "answer_end": 7405
+          }
+        },
+        {
+          "question": [
+            "Có cách nào để có điểm khác thay thế điểm I không?",
+            "Theo quy định của trường Đại học Bách Khoa, có những cách nào để có điểm khác thay thế cho điểm I khi sinh viên vắng thi cuối kỳ với lý do chính đáng?",
+            "Ngoài cách thi lại, có thể nào thay thế điểm I không?",
+            "Có sự linh hoạt nào trong quy định của trường cho phép sinh viên tự đề xuất các biện pháp cụ thể để có điểm thay thế sau khi vắng mặt cuối kỳ với lý do chính đáng không?"
+          ],
+          "answer": {
+            "text": "trong các trường hợp đặc biệt , như để khuyến khích sinh viên tham dự các kỳ thi học thuật cấp quốc gia , quốc tế hoặc trong trường hợp đặc biệt khác , nhà trường có quyền ra quyết định dùng một điểm số khác thay thế cho điểm I .",
+            "answer_start": 7419,
+            "answer_end": 7648
+          }
+        },
+        {
+          "question": [
+            "Nếu vằng thi ở các buổi thi thành phần khác với lý do chính đáng thì có cách gì giải quyết không?",
+            "Theo quy định của Trường Đại học Bách Khoa, nếu sinh viên vắng thi ở các buổi thi thành phần khác với lý do chính đáng, có những cách nào để giải quyết tình hình này?",
+            "Trong trường hợp vắng mặt ở các buổi đánh giá điểm thành phần với lý do chính đáng, sinh viên có được áp dụng các biện pháp nào để thực hiện đánh giá ở một đợt khác không?",
+            "Làm thế nào quy định của trường Đại học Bách Khoa hỗ trợ sinh viên vắng thi ở các buổi đánh giá điểm thành phần khác với lý do chính đáng?",
+            "Trong trường hợp sinh viên không thể tham gia các buổi đánh giá điểm thành phần vì lý do chính đáng, liệu có cơ hội để họ áp dụng các biện pháp khác để thay thế điểm không?",
+            "Có sự linh hoạt nào trong quy định để sinh viên vắng mặt với lý do chính đáng ở các buổi đánh giá điểm thành phần có thể được xem xét và áp dụng các biện pháp thay thế không?",
+            "Làm thế nào giảng viên, Bộ môn và Khoa đối xử với trường hợp sinh viên vắng mặt ở các buổi đánh giá điểm thành phần với lý do chính đáng và có cơ hội để thực hiện đánh giá ở một đợt khác?"
+          ],
+          "answer": {
+            "text": "Sinh viên vắng mặt có lý do chính đáng ở các buổi đánh giá điểm thành phần khác của học phần được phép dự đánh giá ở một đợt khác trong cùng học kỳ do giảng viên đề nghị , Bộ môn và Khoa tổ chức . Trong trường hợp cần thiết , giảng viên đề nghị và được Bộ môn và Khoa đồng ý dùng các điểm thành phần khác , kể cả điểm thi cuối kỳ , để thay thế cho điểm thành phần này .",
+            "answer_start": 7651,
+            "answer_end": 8020
+          }
+        },
+        {
+          "question": [
+            "Thời gian đăng ký thủ tục hoãn thi, vắng thi là khi nào?",
+            "Quy định của trường Đại học Bách Khoa về thời gian đăng ký thủ tục hoãn thi, vắng thi là như thế nào?",
+            "Sinh viên cần thực hiện thủ tục đăng ký hoãn thi, vắng thi trước khi thi hoặc sau khi thi chậm nhất là bao lâu trong thời gian làm việc tại Phòng đào tạo theo quy định của trường?",
+            "Trường Đại học Bách Khoa có quy định cụ thể nào về thời gian đăng ký thủ tục hoãn thi, vắng thi cho các trường hợp đặc biệt khác nhau không?",
+            "Có những biện pháp nào được áp dụng nếu sinh viên đăng ký thủ tục hoãn thi, vắng thi sau thời hạn quy định?",
+            "Làm thế nào quy định về thời gian đăng ký thủ tục hoãn thi, vắng thi đảm bảo sự công bằng và minh bạch trong quá trình quản lý học tập của sinh viên?",
+            "Trong trường hợp đặc biệt khác và cần thiết, Hiệu trưởng có thể xem xét và quyết định những trường hợp nào về thủ tục hoãn thi, vắng thi sau thời hạn quy định không?"
+          ],
+          "answer": {
+            "text": "Sinh viên phải thực hiện các thủ tục đăng ký hoãn thi , vắng thi trước khi thi hoặc sau khi thi chậm nhất là 05 ngày làm việc với Phòng đào tạo . Trường hợp đặc biệt khác trễ hơn thời hạn nêu trên , Hiệu trưởng nhà trường xem xét quyết định .",
+            "answer_start": 8023,
+            "answer_end": 8265
+          }
+        },
+        {
+          "question": [
+            "Khi nào thì sinh viên được miễn thi?",
+            "Tôi có thành tích đặc biệt xuất sắc trong các kỳ thi có được miễn thi không?",
+            "Quy định của trường Đại học Bách Khoa về việc miễn thi đối với sinh viên là như thế nào?",
+            "Theo quy định hiện hành, có những điều kiện nào khiến cho sinh viên được miễn thi tại Trường Đại học Bách Khoa?",
+            "Sinh viên có thành tích đặc biệt xuất sắc trong các kỳ thi có được miễn thi không, và liệu có các tiêu chí cụ thể nào áp dụng cho trường hợp này?",
+            "Theo quy định mới nhất, có những kỳ thi nào mà sinh viên có thể được miễn thi dựa trên thành tích xuất sắc của họ?",
+            "Có quy tắc hay tiêu chí nào cụ thể mà sinh viên cần đạt được để được miễn thi trong các kỳ thi tại Trường Đại học Bách Khoa không?",
+            "Các trường hợp đặc biệt khác, ngoài thành tích xuất sắc, có thể được xem xét để được miễn thi không, và quyết định này do ai đưa ra?"
+          ],
+          "answer": {
+            "text": "Trong một số trường hợp đặc biệt , khi sinh viên đạt được các thành tích học thuật xuất sắc trong học kỳ , sinh viên có thể được miễn kiểm tra , thi và nhận điểm .",
+            "answer_start": 8286,
+            "answer_end": 8449
+          }
+        },
+        {
+          "question": [
+            "Làm thế nào quá trình xem xét và quyết định về việc miễn thi đối với sinh viên diễn ra, và có sự công bằng trong quy trình này không?",
+            "Sinh viên cần thực hiện những bước cụ thể nào để đề xuất và xem xét về việc miễn thi, đặc biệt là khi có thành tích đặc biệt xuất sắc trong các kỳ thi?",
+            "Làm sao để được miễn thi?"
+          ],
+          "answer": {
+            "text": "Trưởng Khoa hoặc các đơn vị liên quan gửi đề nghị kèm theo các minh chứng về các phòng đào tạo để ra các quyết định miễn kiểm tra , thi và nhận điểm .",
+            "answer_start": 8450,
+            "answer_end": 8600
+          }
+        },
+        {
+          "question": [
+            "Nhà trường có thể tổ chức thi sớm hoặc muộn hơn không?",
+            "Theo quy định của trường Đại học Bách Khoa, nhà trường có quyền tổ chức thi sớm hoặc muộn hơn không?",
+            "Ngoài lịch thi chính thức, có những lý do nào khác mà nhà trường có thể xem xét để tổ chức thi sớm hoặc muộn hơn?",
+            "Có sự linh hoạt nào trong quy định để sinh viên có thể tham gia vào quyết định về việc tổ chức thi sớm hoặc muộn hơn không?",
+            "Quy định của nhà trường về việc tổ chức thi sớm hoặc muộn hơn có được áp dụng một cách công bằng và minh bạch không?"
+          ],
+          "answer": {
+            "text": "Nhà trường có thể tổ chức kiểm tra , thi sớm hoặc muộn cho một số sinh viên trong các trường hợp cần thiết .",
+            "answer_start": 8630,
+            "answer_end": 8738
+          }
+        },
+        {
+          "question": [
+            "Cách để tố chức thi sớm hoặc muôn hơn là gì?",
+            "Làm sao để nhà trường tổ chức thi sớm, muộn hơn?"
+          ],
+          "answer": {
+            "text": "Công văn đề nghị tổ chức thi sớm hoặc muộn do Trưởng Khoa gửi cho các phòng đào tạo để phối hợp tổ chức .",
+            "answer_start": 8739,
+            "answer_end": 8844
+          }
+        }
+      ]
+    },
+    {
+      "title": "Đánh giá kết quả học tập",
+      "context": "Điều 22 . Học lại , thi và học cải thiện điểm : \n Sinh viên đã có điểm học phần đạt được đăng ký học lại để cải thiện điểm . Điểm học cao nhất trong các lần học là điểm chính thức của học phần . \n Trong trường hợp cần thiết , giảng viên đề xuất và được Bộ môn và Khoa đồng ý cho phép sinh viên đánh giá lại một điểm thành phần , ngoại trừ điểm thi cuối kỳ , để cải thiện điểm học phần từ không đạt thành đạt ; trong trường hợp này , điểm học phần sau khi đánh giá lại chỉ được giới hạn ở mức điểm D . Các phòng đào tạo ban hành điều kiện và quy trình đánh giá lại điểm thành phần trong trường hợp này . \n Điều 23 . Công nhận kết quả học tập và chuyển đổi tín chỉ : \n 23.1 Công nhận kết quả học tập và chuyển đổi tín chỉ : \n Kết quả học tập của sinh viên đã tích lũy từ một trình độ đào tạo khác , một ngành đào tạo hoặc một chương trình đào tạo khác , một khóa học khác hoặc từ một cơ sở đào tạo khác được xem xét công nhận , chuyển đổi sang tín chỉ của những học phần trong chương trình đào tạo theo học . \n Khoa thành lập các hội đồng chuyên môn để xem xét công nhận , chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra , nội dung và khối lượng học tập , cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ : \n a ) Công nhận , chuyển đổi theo từng học phần ; \n b ) Công nhận , chuyển đổi theo từng nhóm học phần ; \n c ) Công nhận , chuyển đổi theo cả chương trình đào tạo . \n Chỉ có các học phần đã học và thoả mãn các điều kiện sau mới được xem xét công nhận , chuyển đổi : \n - Có kết quả đạt , đối với loại không phân mức , hoặc đạt từ loại C trở lên , đối với loại đạt có phân mức ; \n - Thời điểm hoàn thành học phần không quá 05 năm , ngoại trừ các học phần thuộc khối kiến thức toán , khoa học tự nhiên , chính trị xã hội pháp luật và cơ sở ngành , tính đến thời điểm xem xét . \n Khối lượng tối đa được công nhận , chuyển đổi không vượt quá 50 % khối lượng học tập tối thiểu của chương trình đào tạo . \n 23.2 Các trường hợp được xem xét : \n Sinh viên được xem xét công nhận , chuyển đổi trong các trường hợp sau : \n - Khi xét tuyển sinh hoặc khi chuyển ngành , chuyển chương trình , chuyển trường , sinh viên sẽ được xem xét công nhận , chuyển đổi tín chỉ một lần ; \n - Trong quá trình học , sinh viên tham gia các chương trình trao đổi học tập hoặc tích luỹ các tín chỉ ở các cở sở đào tạo có trong thoả thuận hợp tác với nhà trường , hoặc theo quy định của các cấp có thẩm quyền . \n Các phòng đào tạo quy định quy trình xem xét công nhận , chuyển đổi tín chỉ . \n Điều 24 . Xếp trình độ năm học cho sinh viên : \n Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học ( gọi tắt là N ) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn ( gọi tắt là M ) và các ràng buộc khác , cụ thể như sau : \n - Trình độ năm thứ nhất : N < M ; \n - Trình độ năm thứ hai : M ≤ N < 2M và đạt chuẩn ngoại ngữ năm hai ; \n - Trình độ năm thứ ba : 2M ≤ N < 3M và đạt chuẩn ngoại ngữ năm ba ; \n - Trình độ năm thứ tư : 3M ≤ N < 4M và đạt chuẩn ngoại ngữ năm tư ; \n - Trình độ năm thứ năm : 4M ≤ N < 5M và đạt chuẩn ngoại ngữ năm tư . \n Khi xếp trình độ năm học làm căn cứ ràng buộc trong đăng ký học phần , M được tính là 85 % số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn . \n M được quy định cụ thể như sau : \n Hình thức đào tạo Chính quy : kế hoạch ( M = 33 ) , khi đăng ký học phần ( M = 28 ) ; \n Hình thức đào tạo Vừa làm vừa học , đào tạo từ xa : kế hoạch ( M = 26 ) , khi đăng ký học phần ( M = 22 ) ; \n Ngoài ra , sinh viên phải hoàn thành chương trình Giáo dục Quốc phòng - An ninh và Giáo dục Thể chất để có thể được xếp trình độ từ năm thứ ba . \n Điều 25 . Các hình thức đánh giá học phần : \n 25.1 Các hình thức đánh giá học phần : \n Mỗi học phần có thể có nhiều hình thức đánh giá , như trắc nghiệm , tự luận , vấn đáp , bài luận , sản phẩm , bảo vệ trước tập thể giảng viên hay hội đồng . Một bài đánh giá có thể bao gồm nhiều hình thức đánh giá . \n 25.2 Đánh giá bằng hình thức vấn đáp : \n Vấn đáp là hình thức đánh giá bằng cách giảng viên hỏi và sinh viên phát biểu trả lời . \n Phải có ít nhất 02 giảng viên cùng chấm vấn đáp cho mỗi sinh viên . \n Trường hợp điểm vấn đáp theo thang điểm số , điểm tổng kết của sinh viên là trung bình cộng của các giảng viên chấm thi , được làm tròn tới một số lẻ . Trường hợp điểm của các giảng viên chấm thi lệch quá 02 điểm ( thang điểm 10 ) , các giảng viên cần thống nhất lại . \n Trường hợp điểm thi vấn đáp theo thang điểm khác như Đạt / Không đạt ,... các giảng viên phải thống nhất kết quả cuối cùng hoặc quy đổi về thang điểm số , tính trung bình cộng và quy về thang điểm ban đầu . Trong trường hợp các giảng viên chấm thi không thống nhất được điểm cuối cùng , các giảng viên trình Chủ nhiệm Bộ môn quyết định kết quả cuối cùng . \n Trong phòng đánh giá , giảng viên lần lượt gọi sinh viên bốc thăm đề thi , và cho phép sinh viên có nhiều nhất là 10 phút chuẩn bị trước khi được gọi lên trình bày . Các giảng viên chấm thi được phép đặt câu hỏi thêm ngoài các câu hỏi ghi trong đề thi để làm rõ hơn phần trả lời của sinh viên . Các câu hỏi sẽ được đưa ra sao cho giảng viên có thể đánh giá được mức độ đáp ứng chuẩn đầu ra của sinh viên đối với học phần và cho điểm theo thang điểm quy định . \n Kết quả chấm vấn đáp phải công bố công khai cho sinh viên sau mỗi buổi thi . \n 25.3 Bài luận , sản phẩm : \n Bài luận , sản phẩm là hình thức đánh giá yêu cầu sinh viên phải thực hiện bài luận hoặc / và sản phẩm và nộp bài theo thời gian quy định của học phần . Sản phẩm bắt buộc phải có bài luận kèm theo . Bài luận , sản phẩm có thể được thực hiện theo từng cá nhân hoặc nhóm . Giảng viên hoặc tập thể giảng viên thực hiện chấm bài luận , sản phẩm . Việc chấm bài có thể bao gồm việc yêu cầu sinh viên thuyết trình , hoặc giải thích thêm . Trường hợp chấm tập thể , vấn đề lệch điểm giữa các giảng viên được giải quyết như hình thức vấn đáp . \n 25.4 Bảo vệ hội đồng : \n Bảo vệ hội đồng là hình thức sinh viên trình bày bài làm của mình trước hội đồng chấm bài . Hội đồng phải là số lẻ và gồm ít nhất 03 thành viên . \n Các học phần đồ án , thực tập ngoài trường được chấm theo hình thức bảo vệ hội đồng . \n Kết quả đánh giá là trung bình cộng các điểm của các thành viên hội đồng , được làm tròn tới một số lẻ . Vấn đề lệch điểm giữa các thành viên được giải quyết như hình thức vấn đáp . \n Riêng môn thực tập ngoài trường , cần phải tham khảo đánh giá thực tập từ phía cơ sở thực tập khi đánh giá kết quả cuối cùng . Khoa cũng có thể mời các đại diện phía các cơ sở thực tập cùng tham gia chấm bài . \n Các học phần tốt nghiệp được chấm theo hình thức bảo vệ hội đồng . Quy định về thành phần hội đồng , cách chấm điểm , làm tròn điểm và trường hợp lệch điểm được quy định riêng cho từng loại học phần tốt nghiệp và bậc học . \n Điều 26 . Công bằng và minh bạch trong đánh giá học phần : \n Khi đánh giá học phần , phải đảm bảo tính công bằng giữa những sinh viên của cùng một học phần của bất kỳ hình thức đào tạo nào trong cùng một học kỳ . \n Việc đánh giá học phần phải đồng thời đánh giá chuẩn đầu ra của học phần . \n Mỗi phương thức đánh giá dùng cho một học phần trong một học kỳ phải có đáp án hay hướng dẫn chấm bài hay tiêu chí chấm bài ( gọi chung là đáp án ) . \n Điều 27 . Thời lượng kiểm tra , thi : \n Tổng thời lượng kiểm tra và thi theo hình thức trắc nghiệm , tự luận của một học phần không vượt quá số tín chỉ nhân với 50 phút . Trong đó , thời lượng kiểm tra không vượt quá thời lượng thi của cùng một học phần trong cùng một học kỳ . \n Một phiên kiểm tra hoặc thi theo hình thức trắc nghiệm , tự luận của một học phần có thời lượng là một trong các thời lượng sau : 50’ , 60’ , 70’ , 80’ , 90’ , 100’ , 110’ , 120’ , 130’ , 140’ , 150’ . Trong đó , thời lượng kiểm tra hoặc thi theo hình thức trắc nghiệm không quá 90’ . \n Điều 28 . Phúc tra , đề nghị sửa điểm , bổ sung điểm : \n Trong trường hợp cần thiết , khi có dấu hiệu bất thường , Khoa , nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi . Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng . Trong các trường hợp này , phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng . Thời hạn chấm kiểm tra theo thời hạn lưu trữ bài thi . \n Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận . Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ . \n Giảng viên có thể đề nghị sửa điểm , bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót . Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm . \n Kết quả chấm lại , phúc tra , sửa điểm là kết quả cuối cùng . \n Các phòng đào tạo quy định quy trình đề nghị chấm phúc tra , sửa điểm . ",
+      "qas": [
+        {
+          "question": [
+            "Khi học cải thiện điểm thì điểm được tính như thế nào?",
+            "Làm thế nào điểm được tính khi tìm cách nâng cao hiệu suất học tập?",
+            "Trong việc cải thiện điểm số, phương pháp tính điểm được áp dụng ra sao?",
+            "Điểm số được tính toán ra sao khi đang tập trung vào việc học để cải thiện?",
+            "Khi đang cố gắng cải thiện điểm, cơ cấu tính điểm làm thế nào?",
+            "Quy tắc tính điểm như thế nào khi mục tiêu là cải thiện điểm học tập?",
+            "Cách tính điểm khi học để cải thiện có điều chỉnh không?",
+            "Tôi học cải thiện điểm nhưng điểm thấp hơn lần trước thì tính điểm ra sao?"
+          ],
+          "answer": {
+            "text": "Sinh viên đã có điểm học phần đạt được đăng ký học lại để cải thiện điểm . Điểm học cao nhất trong các lần học là điểm chính thức của học phần .",
+            "answer_start": 50,
+            "answer_end": 194
+          }
+        },
+        {
+          "question": [
+            "Các tiêu chí đánh giá lại điểm thành phần là như thế nào?",
+            "Có quy định gì về việc đánh giá lại các điểm thành phần?",
+            "Làm thế nào các tiêu chí đánh giá lại điểm thành phần được thiết lập?",
+            "Có quy định cụ thể nào về việc đánh giá lại các điểm thành phần trong hệ thống đánh giá?",
+            "Trong quá trình đánh giá lại điểm thành phần, các tiêu chí cụ thể nào được áp dụng?",
+            "Có sự khác biệt gì trong cách đánh giá lại điểm thành phần so với quy trình đánh giá thông thường?",
+            "Có nguyên tắc hay hướng dẫn nào đối với quá trình đánh giá lại điểm thành phần?",
+            "Trong quá trình đánh giá lại điểm thành phần, tiêu chí nào được ưu tiên hoặc coi trọng hơn?",
+            "Có bất kỳ điều kiện hay ràng buộc nào áp dụng khi đánh giá lại điểm thành phần?",
+            "Làm thế nào quy định về đánh giá lại điểm thành phần giúp đảm bảo tính công bằng và khách quan?",
+            "Có sự thay đổi nào trong các tiêu chí đánh giá lại điểm thành phần theo thời gian hay không?"
+          ],
+          "answer": {
+            "text": "Trong trường hợp cần thiết , giảng viên đề xuất và được Bộ môn và Khoa đồng ý cho phép sinh viên đánh giá lại một điểm thành phần , ngoại trừ điểm thi cuối kỳ , để cải thiện điểm học phần từ không đạt thành đạt ; trong trường hợp này , điểm học phần sau khi đánh giá lại chỉ được giới hạn ở mức điểm D . Các phòng đào tạo ban hành điều kiện và quy trình đánh giá lại điểm thành phần trong trường hợp này .",
+            "answer_start": 197,
+            "answer_end": 602
+          }
+        },
+        {
+          "question": [
+            "Tôi đã học một ngành đào tạo khác thì kết quả học tập đó của tôi có được chuyển đổi theo ngành đang học hiện giờ không?",
+            "Tôi đã học một ngành đào tạo khác thậm chí ở cơ sở đào tạo khác thì kết quả học tập đó của tôi có được chuyển đổi theo ngành đang học hiện giờ không?"
+          ],
+          "answer": {
+            "text": "ết quả học tập của sinh viên đã tích lũy từ một trình độ đào tạo khác , một ngành đào tạo hoặc một chương trình đào tạo khác , một khóa học khác hoặc từ một cơ sở đào tạo khác được xem xét công nhận , chuyển đổi sang tín chỉ của những học phần trong chương trình đào tạo theo học .",
+            "answer_start": 725,
+            "answer_end": 1006
+          }
+        },
+        {
+          "question": [
+            "Có các loại chuyển đổi kết quả học tập nào vậy?",
+            "Trường thực hiện chuyển đổi kết quả học tập theo điều kiện gì?",
+            "Cơ sở nào để chuyển đổi kết quả học tập?"
+          ],
+          "answer": {
+            "text": "Khoa thành lập các hội đồng chuyên môn để xem xét công nhận , chuyển đổi tín chỉ trên cơ sở đối sánh chuẩn đầu ra , nội dung và khối lượng học tập , cách thức đánh giá học phần và các điều kiện bảo đảm chất lượng thực hiện chương trình theo các cấp độ : \n a ) Công nhận , chuyển đổi theo từng học phần ; \n b ) Công nhận , chuyển đổi theo từng nhóm học phần ; \n c ) Công nhận , chuyển đổi theo cả chương trình đào tạo .",
+            "answer_start": 1009,
+            "answer_end": 1427
+          }
+        },
+        {
+          "question": [
+            "Các học phần phải đạt điều kiện gì mới được công nhận chuyển đổi?",
+            "Để học phần được công nhận chuyển đổi, những điều kiện cụ thể là gì?",
+            "Có quy định nào về điều kiện cần đạt để học phần có thể chuyển đổi?",
+            "Làm thế nào để học phần đáp ứng được yêu cầu để được công nhận chuyển đổi?",
+            "Quy trình đánh giá điều kiện cho việc chuyển đổi học phần như thế nào?",
+            "Có sự khác biệt nào về điều kiện giữa các học phần khi muốn chuyển đổi không?",
+            "Có nguyên tắc hay hướng dẫn nào về điều kiện cần đạt để học phần được công nhận chuyển đổi không?",
+            "Làm thế nào quy định về điều kiện chuyển đổi học phần đảm bảo tính công bằng?",
+            "Có bất kỳ yêu cầu hay ràng buộc nào khiến cho học phần khó khăn trong quá trình chuyển đổi không?",
+            "Các học phần cần phải đáp ứng những yêu cầu cụ thể gì để có thể được công nhận chuyển đổi?",
+            "Có thay đổi nào trong quy định về điều kiện chuyển đổi học phần qua thời gian không?"
+          ],
+          "answer": {
+            "text": "Chỉ có các học phần đã học và thoả mãn các điều kiện sau mới được xem xét công nhận , chuyển đổi : \n - Có kết quả đạt , đối với loại không phân mức , hoặc đạt từ loại C trở lên , đối với loại đạt có phân mức ; \n - Thời điểm hoàn thành học phần không quá 05 năm , ngoại trừ các học phần thuộc khối kiến thức toán , khoa học tự nhiên , chính trị xã hội pháp luật và cơ sở ngành , tính đến thời điểm xem xét .",
+            "answer_start": 1430,
+            "answer_end": 1836
+          }
+        },
+        {
+          "question": [
+            "Khối lượng chuyển đổi kết quả học tập tối đa được công nhận là bao nhiêu?",
+            "Kết quả học tập được phép chuyển đổi tối đa là bao nhiêu?"
+          ],
+          "answer": {
+            "text": "Khối lượng tối đa được công nhận , chuyển đổi không vượt quá 50 % khối lượng học tập tối thiểu của chương trình đào tạo .",
+            "answer_start": 1839,
+            "answer_end": 1960
+          }
+        },
+        {
+          "question": [
+            "Sinh viên được xem xét công nhận, chuyển đổi trong các trường hợp nào?",
+            "Khi nào thì sinh viên được xem xét công nhận, chuyển đổi?",
+            "Tôi phải đạt điều kiện gì mới được xem xét công nhận và chuyển đổi?",
+            "Sinh viên được xem xét công nhận và chuyển đổi trong những tình huống nào?",
+            "Khi nào sinh viên có thể đưa ra đề xuất để được xem xét công nhận và chuyển đổi?",
+            "Để được xem xét công nhận và chuyển đổi, tôi cần phải đạt những điều kiện gì?",
+            "Quy trình xem xét công nhận và chuyển đổi áp dụng trong những trường hợp nào?",
+            "Có nguyên tắc hay hướng dẫn cụ thể nào về việc xem xét công nhận và chuyển đổi không?",
+            "Tôi cần thỏa mãn những tiêu chí nào để có thể đề xuất xem xét công nhận và chuyển đổi?",
+            "Có sự khác biệt nào trong quy trình xem xét giữa các trường hợp xem xét công nhận và chuyển đổi không?",
+            "Có bất kỳ ràng buộc hay yêu cầu nào khiến quá trình xem xét công nhận và chuyển đổi trở nên phức tạp hơn không?",
+            "Có thay đổi nào trong quy định về xem xét công nhận và chuyển đổi theo thời gian không?"
+          ],
+          "answer": {
+            "text": "Sinh viên được xem xét công nhận , chuyển đổi trong các trường hợp sau : \n - Khi xét tuyển sinh hoặc khi chuyển ngành , chuyển chương trình , chuyển trường , sinh viên sẽ được xem xét công nhận , chuyển đổi tín chỉ một lần ; \n - Trong quá trình học , sinh viên tham gia các chương trình trao đổi học tập hoặc tích luỹ các tín chỉ ở các cở sở đào tạo có trong thoả thuận hợp tác với nhà trường , hoặc theo quy định của các cấp có thẩm quyền .",
+            "answer_start": 2000,
+            "answer_end": 2441
+          }
+        },
+        {
+          "question": [
+            "Căn cứ vào đâu để xếp trình độ năm học cho sinh viên?",
+            "Quy định nào được sử dụng để xác định trình độ học tập của sinh viên trong năm học?",
+            "Các tiêu chí nào được sử dụng để xếp trình độ cho sinh viên theo năm học?",
+            "Có nguyên tắc hay hướng dẫn cụ thể nào về việc đánh giá và xếp trình độ năm học sinh viên không?",
+            "Làm thế nào quy định về xếp trình độ năm học đảm bảo tính công bằng và khách quan?",
+            "Quy trình xác định trình độ năm học của sinh viên bao gồm những bước nào?",
+            "Có sự khác biệt nào trong cách xếp trình độ giữa các sinh viên không?",
+            "Có bất kỳ điều kiện hay ràng buộc nào làm ảnh hưởng đến quá trình xếp trình độ năm học không?",
+            "Có thay đổi nào trong cách xác định trình độ năm học của sinh viên theo thời gian không?"
+          ],
+          "answer": {
+            "text": "Sinh viên được xếp trình độ năm học căn cứ số tín chỉ tích lũy được từ đầu khóa học ( gọi tắt là N ) và số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn ( gọi tắt là M ) và các ràng buộc khác , cụ thể như sau : \n - Trình độ năm thứ nhất : N < M ; \n - Trình độ năm thứ hai : M ≤ N < 2M và đạt chuẩn ngoại ngữ năm hai ; \n - Trình độ năm thứ ba : 2M ≤ N < 3M và đạt chuẩn ngoại ngữ năm ba ; \n - Trình độ năm thứ tư : 3M ≤ N < 4M và đạt chuẩn ngoại ngữ năm tư ; \n - Trình độ năm thứ năm : 4M ≤ N < 5M và đạt chuẩn ngoại ngữ năm tư .",
+            "answer_start": 2573,
+            "answer_end": 3114
+          }
+        },
+        {
+          "question": [
+            "Tín chỉ trung bình một năm học theo tập chuẩn quy định như nào?",
+            "Quy định gì về tín chi trung bình một năm học theo tập chuẩn?",
+            "Tập chuẩn về tín chỉ trung bình một năm học là gì?"
+          ],
+          "answer": {
+            "text": "Khi xếp trình độ năm học làm căn cứ ràng buộc trong đăng ký học phần , M được tính là 85 % số tín chỉ trung bình một năm học theo kế hoạch học tập chuẩn . \n M được quy định cụ thể như sau : \n Hình thức đào tạo Chính quy : kế hoạch ( M = 33 ) , khi đăng ký học phần ( M = 28 ) ; \n Hình thức đào tạo Vừa làm vừa học , đào tạo từ xa : kế hoạch ( M = 26 ) , khi đăng ký học phần ( M = 22 ) ; \n Ngoài ra , sinh viên phải hoàn thành chương trình Giáo dục Quốc phòng - An ninh và Giáo dục Thể chất để có thể được xếp trình độ từ năm thứ ba .",
+            "answer_start": 3117,
+            "answer_end": 3651
+          }
+        },
+        {
+          "question": [
+            "Các hình thức đánh giá một học phần có thể có?",
+            "Hình thức nào dùng để đánh giá một học phần",
+            "Các phương thức đánh giá một học phần có thể bao gồm những gì?",
+            "Hình thức nào được sử dụng để đánh giá của một học phần?",
+            "Làm thế nào các hình thức đánh giá được áp dụng để đưa ra đánh giá chính xác cho học phần?",
+            "Có quy định nào về việc sử dụng các phương thức đánh giá trong một học phần không?",
+            "Quy trình đánh giá hiệu suất học tập bao gồm những loại hình thức đánh giá nào?",
+            "Các tiêu chí nào được áp dụng khi chọn lựa hình thức đánh giá cho một học phần cụ thể?",
+            "Làm thế nào quy định về các hình thức đánh giá đảm bảo sự minh bạch và công bằng?",
+            "Có sự khác biệt nào giữa các hình thức đánh giá khi đánh giá hiệu suất của một học phần không?",
+            "Bất kỳ yêu cầu hay ràng buộc nào trong việc sử dụng các phương thức đánh giá cho một học phần không?",
+            "Có thay đổi nào trong cách sử dụng các hình thức đánh giá theo thời gian không?"
+          ],
+          "answer": {
+            "text": "Mỗi học phần có thể có nhiều hình thức đánh giá , như trắc nghiệm , tự luận , vấn đáp , bài luận , sản phẩm , bảo vệ trước tập thể giảng viên hay hội đồng . Một bài đánh giá có thể bao gồm nhiều hình thức đánh giá .",
+            "answer_start": 3741,
+            "answer_end": 3956
+          }
+        },
+        {
+          "question": [
+            "Hình thức vấn đáp là gì?",
+            "Hiểu hình thức vấn đáp như thế nào là chính xác?",
+            "Giải thích hình thức vấn đáp",
+            "Khái niệm hình thức vấn đáp là gì và được sử dụng như thế nào?",
+            "Làm thế nào để chính xác hiểu về hình thức vấn đáp trong một ngữ cảnh cụ thể?",
+            "Giải thích chi tiết về hình thức vấn đáp và cách nó được tích hợp vào quá trình giao tiếp?",
+            "Có quy tắc hay nguyên tắc nào cần tuân theo khi sử dụng hình thức vấn đáp không?",
+            "Làm thế nào hình thức vấn đáp đóng vai trò trong việc truyền đạt thông điệp hiệu quả?",
+            "Các tình huống cụ thể nào nên sử dụng hình thức vấn đáp để tối ưu hóa hiệu suất giao tiếp?",
+            "Làm thế nào quy định về hình thức vấn đáp đảm bảo sự hiểu rõ và minh bạch?",
+            "Có sự khác biệt nào giữa cách hiểu hình thức vấn đáp trong các ngữ cảnh khác nhau không?",
+            "Bất kỳ nguyên tắc hay quy tắc cụ thể nào để giải thích hình thức vấn đáp?"
+          ],
+          "answer": {
+            "text": "Vấn đáp là hình thức đánh giá bằng cách giảng viên hỏi và sinh viên phát biểu trả lời . \n Phải có ít nhất 02 giảng viên cùng chấm vấn đáp cho mỗi sinh viên .",
+            "answer_start": 4000,
+            "answer_end": 4157
+          }
+        },
+        {
+          "question": [
+            "Quy định về điểm số theo hình thức vấn đáp là gì?",
+            "Điểm của tôi sẽ như thế nào nếu đánh giá bằng hình thức vấn đáp?",
+            "Quy định cụ thể nào liên quan đến việc đánh giá điểm số theo hình thức vấn đáp?",
+            "Làm thế nào hệ thống đánh giá điểm số khi sử dụng hình thức vấn đáp và có những tiêu chí nào được áp dụng?",
+            "Các quy tắc hay nguyên tắc nào được áp dụng khi quyết định điểm số dựa trên hình thức vấn đáp?",
+            "Làm thế nào quy định về điểm số đảm bảo tính minh bạch và công bằng khi sử dụng hình thức vấn đáp?",
+            "Có sự khác biệt nào trong cách đánh giá điểm số giữa hình thức vấn đáp và các hình thức khác không?",
+            "Bất kỳ yêu cầu hay ràng buộc nào khiến quá trình đánh giá điểm theo hình thức vấn đáp trở nên phức tạp hơn không?",
+            "Làm thế nào quy định về điểm số theo hình thức vấn đáp đảm bảo sự linh hoạt trong việc đánh giá?",
+            "Có nguyên tắc nào cần tuân theo để đảm bảo tính chính xác của quá trình đánh giá điểm theo hình thức vấn đáp không?",
+            "Các tiêu chí nào quan trọng khi xác định điểm số dựa trên hình thức vấn đáp?",
+            "Hình thức đánh giá điểm hình thức thi vấn đáp?"
+          ],
+          "answer": {
+            "text": "Trường hợp điểm vấn đáp theo thang điểm số , điểm tổng kết của sinh viên là trung bình cộng của các giảng viên chấm thi , được làm tròn tới một số lẻ . Trường hợp điểm của các giảng viên chấm thi lệch quá 02 điểm ( thang điểm 10 ) , các giảng viên cần thống nhất lại . \n Trường hợp điểm thi vấn đáp theo thang điểm khác như Đạt / Không đạt ,... các giảng viên phải thống nhất kết quả cuối cùng hoặc quy đổi về thang điểm số , tính trung bình cộng và quy về thang điểm ban đầu . Trong trường hợp các giảng viên chấm thi không thống nhất được điểm cuối cùng , các giảng viên trình Chủ nhiệm Bộ môn quyết định kết quả cuối cùng .",
+            "answer_start": 4160,
+            "answer_end": 4786
+          }
+        },
+        {
+          "question": [
+            "Kết quả buổi thi vấn đáp có khi nào?",
+            "Tôi sắp thi vấn đáp, kế quả sẽ có trong bao lâu?",
+            "Thi vấn đáp khi nào thì có kết quả",
+            "Kết quả của thi vấn đáp có khi nào?"
+          ],
+          "answer": {
+            "text": "Kết quả chấm vấn đáp phải công bố công khai cho sinh viên sau mỗi buổi thi .",
+            "answer_start": 5251,
+            "answer_end": 5327
+          }
+        },
+        {
+          "question": [
+            "Quy trình của buổi thi vấn đáp là như thế nào?",
+            "Hãy cho tôi biết quy trình thi vấn đáp tại Bách Khoa",
+            "Thi vấn đáp theo quy trình nào?",
+            "Trình từ các bước của thi vấn đáp là như thế nào?",
+            "Review quá trình thi vấn đáp"
+          ],
+          "answer": {
+            "text": "Trong phòng đánh giá , giảng viên lần lượt gọi sinh viên bốc thăm đề thi , và cho phép sinh viên có nhiều nhất là 10 phút chuẩn bị trước khi được gọi lên trình bày . Các giảng viên chấm thi được phép đặt câu hỏi thêm ngoài các câu hỏi ghi trong đề thi để làm rõ hơn phần trả lời của sinh viên . Các câu hỏi sẽ được đưa ra sao cho giảng viên có thể đánh giá được mức độ đáp ứng chuẩn đầu ra của sinh viên đối với học phần và cho điểm theo thang điểm quy định .",
+            "answer_start": 4789,
+            "answer_end": 5248
+          }
+        },
+        {
+          "question": [
+            "Bài luận, sản phẩm là gì?",
+            "Định nghĩa bài luận, sản phẩm",
+            "Tôi có thể hiểu bài luận, sản phẩm là gì?",
+            "Bài luận, sản phẩm được hiểu như thế nào?",
+            "Cách hiểu bài luận, sản phẩm là như thế nào?",
+            "Giải thích bài luận, sản phẩm là gì?"
+          ],
+          "answer": {
+            "text": "Bài luận , sản phẩm là hình thức đánh giá yêu cầu sinh viên phải thực hiện bài luận hoặc / và sản phẩm và nộp bài theo thời gian quy định của học phần . Sản phẩm bắt buộc phải có bài luận kèm theo .",
+            "answer_start": 5359,
+            "answer_end": 5557
+          }
+        },
+        {
+          "question": [
+            "Khi làm bài luận, sản phẩm có thể làm cá nhân không?",
+            "Khi làm bài luận, sản phẩm có thể làm nhóm không?",
+            "Bài luận sản phẩm có thể thực hiện bằng nhóm hay cá nhân?"
+          ],
+          "answer": {
+            "text": "Bài luận , sản phẩm có thể được thực hiện theo từng cá nhân hoặc nhóm .",
+            "answer_start": 5558,
+            "answer_end": 5629
+          }
+        },
+        {
+          "question": [
+            "Việc chấm bài luận, sản phẩm được quy định như thế nào?",
+            "Có thể có nhiều giảng viên cùng chấm một bài luận, sản phẩm không?",
+            "Giảng viên chấm bài luận, sản phẩm có thể yêu cầu thêm gì ở sinh viên?",
+            "Vấn đề điểm lệch nếu có nhiều giảng viên cùng chấm thì xử lý như thế nào?"
+          ],
+          "answer": {
+            "text": "Giảng viên hoặc tập thể giảng viên thực hiện chấm bài luận , sản phẩm . Việc chấm bài có thể bao gồm việc yêu cầu sinh viên thuyết trình , hoặc giải thích thêm . Trường hợp chấm tập thể , vấn đề lệch điểm giữa các giảng viên được giải quyết như hình thức vấn đáp .",
+            "answer_start": 5630,
+            "answer_end": 5894
+          }
+        },
+        {
+          "question": [
+            "Bảo vệ hội đồng là gì?",
+            "Tôi có thể hiểu hình thức bảo vệ hội đồng như thế nào?",
+            "Giải thích bảo vệ hội đồng là gì?",
+            "Cách hiểu bảo vệ hội đồng là như thế nào?",
+            "Tôi chưa hiểu bảo vệ hội đồng là như nào cả, giải thích cho tôi với",
+            "Bảo vệ hội đồng là một khái niệm như thế nào trong ngữ cảnh học thuật hay nghiên cứu?",
+            "Làm thế nào tôi có thể hiểu và mô tả hình thức bảo vệ hội đồng trong quá trình nghiên cứu?",
+            "Giải thích chi tiết về bảo vệ hội đồng và vai trò quan trọng của nó trong quá trình học thuật?",
+            "Cách hiểu về bảo vệ hội đồng như thế nào để đảm bảo sự hiểu rõ và chính xác?",
+            "Tôi chưa hiểu rõ về khái niệm 'bảo vệ hội đồng', có thể giải thích chi tiết để tôi hiểu hơn không?",
+            "Có quy tắc hay hướng dẫn nào về cách hiểu và thực hiện bảo vệ hội đồng không?",
+            "Làm thế nào người ta giải thích bảo vệ hội đồng để tạo ra một quá trình minh bạch và công bằng?"
+          ],
+          "answer": {
+            "text": "Bảo vệ hội đồng là hình thức sinh viên trình bày bài làm của mình trước hội đồng chấm bài . Hội đồng phải là số lẻ và gồm ít nhất 03 thành viên .",
+            "answer_start": 5922,
+            "answer_end": 6067
+          }
+        },
+        {
+          "question": [
+            "Những học phần nào thường đánh giá bằng hình thức bảo vệ hội đồng?",
+            "Bảo vệ hội đồng thường dùng cho học phần nào?",
+            "Học phần áp dụng bảo vệ hội đồng gồm những học phần nào?"
+          ],
+          "answer": {
+            "text": "Các học phần đồ án , thực tập ngoài trường được chấm theo hình thức bảo vệ hội đồng .",
+            "answer_start": 6070,
+            "answer_end": 6155
+          }
+        },
+        {
+          "question": [
+            "Kết quả đánh giá của hình thức bảo vệ hội đồng là gì?",
+            "Cách đánh giá điểm của hình thức bảo vệ hội đồng?",
+            "Làm thế nào kết quả đánh giá của hình thức bảo vệ hội đồng được xác định và công bố?",
+            "Quy trình đánh giá điểm của hình thức bảo vệ hội đồng bao gồm những bước nào?",
+            "Có những tiêu chí cụ thể nào được sử dụng để đánh giá hiệu suất trong bảo vệ hội đồng?",
+            "Làm thế nào hệ thống đánh giá điểm của hình thức bảo vệ hội đồng để đảm bảo tính minh bạch và chính xác?",
+            "Trong quá trình đánh giá điểm của bảo vệ hội đồng, có bất kỳ sự ưu tiên hay ưu đãi nào không?",
+            "Có sự khác biệt nào trong cách đánh giá điểm giữa hình thức bảo vệ hội đồng và các hình thức khác không?",
+            "Làm thế nào quy định về đánh giá điểm trong bảo vệ hội đồng đảm bảo sự công bằng và minh bạch?",
+            "Các yếu tố nào quan trọng khi đánh giá điểm của hình thức bảo vệ hội đồng trong quá trình nghiên cứu?"
+          ],
+          "answer": {
+            "text": "Kết quả đánh giá là trung bình cộng các điểm của các thành viên hội đồng , được làm tròn tới một số lẻ . Vấn đề lệch điểm giữa các thành viên được giải quyết như hình thức vấn đáp . \n Riêng môn thực tập ngoài trường , cần phải tham khảo đánh giá thực tập từ phía cơ sở thực tập khi đánh giá kết quả cuối cùng . Khoa cũng có thể mời các đại diện phía các cơ sở thực tập cùng tham gia chấm bài . \n Các học phần tốt nghiệp được chấm theo hình thức bảo vệ hội đồng . Quy định về thành phần hội đồng , cách chấm điểm , làm tròn điểm và trường hợp lệch điểm được quy định riêng cho từng loại học phần tốt nghiệp và bậc học .",
+            "answer_start": 6158,
+            "answer_end": 6776
+          }
+        },
+        {
+          "question": [
+            "Làm sao để đảm bảo công bằng, minh bạch trong đánh giá học phần?",
+            "Có những biện pháp cụ thể nào để đảm bảo tính công bằng và minh bạch trong quá trình đánh giá học phần?",
+            "Làm thế nào hệ thống giáo dục đảm bảo sự công bằng và minh bạch trong quá trình đánh giá học phần?",
+            "Các tiêu chí nào được áp dụng để đảm bảo tính công bằng trong quá trình đánh giá hiệu suất học tập của sinh viên?",
+            "Làm thế nào quy định về đánh giá học phần đảm bảo rằng quá trình này diễn ra minh bạch và công bằng?",
+            "Có nguyên tắc hay hướng dẫn nào về việc đảm bảo sự minh bạch và công bằng khi thực hiện đánh giá học phần không?",
+            "Có sự khác biệt nào trong cách đảm bảo công bằng và minh bạch giữa các hệ thống đánh giá học phần không?",
+            "Bất kỳ yêu cầu hay ràng buộc nào làm ảnh hưởng đến quá trình đánh giá học phần và đảm bảo công bằng không?",
+            "Các biện pháp cụ thể nào có thể được thực hiện để nâng cao tính công bằng và minh bạch trong quá trình đánh giá học phần?"
+          ],
+          "answer": {
+            "text": "Khi đánh giá học phần , phải đảm bảo tính công bằng giữa những sinh viên của cùng một học phần của bất kỳ hình thức đào tạo nào trong cùng một học kỳ . \n Việc đánh giá học phần phải đồng thời đánh giá chuẩn đầu ra của học phần . \n Mỗi phương thức đánh giá dùng cho một học phần trong một học kỳ phải có đáp án hay hướng dẫn chấm bài hay tiêu chí chấm bài ( gọi chung là đáp án ) .",
+            "answer_start": 6840,
+            "answer_end": 7220
+          }
+        },
+        {
+          "question": [
+            "Có quy định gì về thời lượng kiểm tra, thi không?",
+            "Quy định cụ thể nào liên quan đến thời lượng của các kỳ kiểm tra hay thi trong hệ thống giáo dục tại Bách khoa?",
+            "Làm thế nào hệ thống quy định thời lượng cho các kỳ kiểm tra hay thi để đảm bảo tính công bằng và chính xác?",
+            "Các tiêu chí nào được sử dụng để xác định thời lượng của các kỳ kiểm tra hay thi trong quá trình đánh giá học phần?",
+            "Làm thế nào quy định về thời lượng kiểm tra và thi giúp đảm bảo sự minh bạch và công bằng trong hệ thống giáo dục?",
+            "Trong quá trình xây dựng quy định, có những yếu tố nào được xem xét để quyết định thời lượng kiểm tra hay thi?",
+            "Làm thế nào quy định về thời lượng kiểm tra và thi đảm bảo sự linh hoạt để phù hợp với nhiều ngữ cảnh khác nhau?",
+            "Có biện pháp nào được thực hiện để đảm bảo tính chính xác và công bằng trong việc xác định thời lượng kiểm tra?"
+          ],
+          "answer": {
+            "text": "Tổng thời lượng kiểm tra và thi theo hình thức trắc nghiệm , tự luận của một học phần không vượt quá số tín chỉ nhân với 50 phút . Trong đó , thời lượng kiểm tra không vượt quá thời lượng thi của cùng một học phần trong cùng một học kỳ . \n Một phiên kiểm tra hoặc thi theo hình thức trắc nghiệm , tự luận của một học phần có thời lượng là một trong các thời lượng sau : 50’ , 60’ , 70’ , 80’ , 90’ , 100’ , 110’ , 120’ , 130’ , 140’ , 150’ . Trong đó , thời lượng kiểm tra hoặc thi theo hình thức trắc nghiệm không quá 90’ .",
+            "answer_start": 7263,
+            "answer_end": 7787
+          }
+        },
+        {
+          "question": [
+            "Khi nào các bài thi phải được chấm lại?",
+            "Các bài thì được chấm lại khi nào?",
+            "Lúc nào thì các bài thi được chấm lại?",
+            "Khi nào các bài kiểm tra được chấm lại?",
+            "Các bài kiểm tra được chấm lại khi nào?",
+            "Lúc nào các bài kiểm tra được chấm lại?"
+          ],
+          "answer": {
+            "text": "Trong trường hợp cần thiết , khi có dấu hiệu bất thường , Khoa , nhà trường có thể yêu cầu chấm kiểm tra một số bài kiểm tra hay thi .",
+            "answer_start": 7847,
+            "answer_end": 7981
+          }
+        },
+        {
+          "question": [
+            "Trong trường hợp tổ chức chấm lại các bài thi vấn đáp hay bảo vệ hội đồng cần phải làm gì?",
+            "Quy trình nào được thực hiện khi tổ chức chấm lại bài thi vấn đáp hay bảo vệ hội đồng trong hệ thống giáo dục?",
+            "Làm thế nào quy định về tổ chức chấm lại các bài thi vấn đáp, bảo vệ hội đồng đảm bảo sự công bằng và minh bạch trong quá trình đánh giá học phần?",
+            "Làm thế nào quy định về tổ chức chấm lại cho bài thi vấn đáp hay bảo vệ hội đồng đảm bảo rằng quá trình này diễn ra minh bạch và công bằng?",
+            "Trong quá trình xây dựng quy định, có những tiêu chí nào được xem xét để đảm bảo tính chính xác khi tổ chức chấm lại?"
+          ],
+          "answer": {
+            "text": "Việc chấm lại có thể bao gồm tổ chức lại vấn đáp hay bảo vệ hội đồng . Trong các trường hợp này , phải có sự thay đổi về giảng viên chấm thi hay thành viên các hội đồng .",
+            "answer_start": 7982,
+            "answer_end": 8152
+          }
+        },
+        {
+          "question": [
+            "Sinh viên có thể yêu cầu phúc tra bài thi tự luận không?",
+            "Tôi có thể yêu cầu phúc tra lại bài thi không?"
+          ],
+          "answer": {
+            "text": "Sinh viên có thể yêu cầu chấm phúc tra bài thi tự luận .",
+            "answer_start": 8210,
+            "answer_end": 8266
+          }
+        },
+        {
+          "question": [
+            "Thời hạn phúc tra bài thi là bao lâu?",
+            "Giới hạn thời gian yêu cầu phúc tra bài thi là bao lâu?",
+            "Thời gian mà tôi có thể yêu cầu phúc tra bài thi?",
+            "Sau khi có kết quả bao lâu tôi còn có thể yêu cầu phúc tra bài thi?",
+            "Tôi còn có thể yêu cầu phúc tra bài thi không?",
+            "Thời gian tôi yêu cầu phúc tra bài thì là khoảng thời gian nào?"
+          ],
+          "answer": {
+            "text": "Thời hạn yêu cầu chấm phúc tra là tối đa 01 tháng sau ngày công bố kết quả và chỉ được yêu cầu chấm phúc tra 01 lần cho một học phần trong học kỳ .",
+            "answer_start": 8267,
+            "answer_end": 8414
+          }
+        },
+        {
+          "question": [
+            "Giảng viên có thể sửa điểm không?",
+            "Giảng viên có thể bổ sung điểm không?",
+            "Khi nào giảng viên có thể sửa điểm hoặc bổ sung điểm?"
+          ],
+          "answer": {
+            "text": "Giảng viên có thể đề nghị sửa điểm , bổ sung điểm sau khi nộp điểm nếu phát hiện có sai sót .",
+            "answer_start": 8417,
+            "answer_end": 8510
+          }
+        },
+        {
+          "question": [
+            "Thời gian giảng viên yêu cầu sửa điểm, bổ sung điểm là bao lâu",
+            "Giới hạn thời gian yêu cầu sửa điểm, bổ sung điểm là bao lâu?",
+            "Thời gian mà giảng viên có thể yêu cầu sừa điểm, bổ sung điểm?",
+            "Sau khi có kết quả bao lâu giảng viên còn có thể yêu cầu sửa điểm, bổ sung điểm?",
+            "Giảng viên còn có thể yêu cầu sửa điểm hay bổ sung điểm không?",
+            "Thời gian giảng viên yêu cầu sửa điểm, bổ sung điểm là khoảng thời gian nào?"
+          ],
+          "answer": {
+            "text": "Thời hạn đề nghị sửa điểm tối đa 01 tháng sau ngày nộp điểm .",
+            "answer_start": 8511,
+            "answer_end": 8572
+          }
+        }
+      ]
+    }
+  ]
+}

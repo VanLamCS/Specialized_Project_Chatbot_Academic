@@ -1,0 +1,401 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "title": "",
+      "context": "21 . 1 Cấm thi Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị cấm thi và nhận điểm 0 cho học phần . Các quy định về cấm thi trong đề cương học phần không được vượt quá thẩm quyền so với các quy định về đào tạo - học vụ . \n 21.2 Vắng thi , hoãn thi Sinh viên vắng mặt trong buổi thi , đánh giá không có lý do chính đáng phải nhận điểm 0 . \n Trường hợp vắng mặt có lý do chính đáng ở buổi thi cuối kỳ , và không phải thuộc diện cấm thi , sinh viên được hoãn thi và nhận điểm I . Sinh viên được dự thi để lấy điểm thay thế cho điểm I ở lần tổ chức thi của học phần này ở trong cùng học kỳ hoặc kỳ thi ở các học kỳ sau và trong thời hạn tối đa một năm . Trong trường hợp học phần này không tổ chức trong vòng một năm , nhà trường có thể xem xét tổ chức thi riêng để sinh viên hoàn thành học phần . Sinh viên không dự thi theo các điều kiện trên sẽ nhận điểm 0 . \n Ngoài ra , trong các trường hợp đặc biệt , như để khuyến khích sinh viên tham dự các kỳ thi học thuật cấp quốc gia , quốc tế hoặc trong trường hợp đặc biệt khác , nhà trường có quyền ra quyết định dùng một điểm số khác thay thế cho điểm I . \n Sinh viên vắng mặt có lý do chính đáng ở các buổi đánh giá điểm thành phần khác của học phần được phép dự đánh giá ở một đợt khác trong cùng học kỳ do giảng viên đề nghị , Bộ môn và Khoa tổ chức . Trong trường hợp cần thiết , giảng viên đề nghị và được Bộ môn và Khoa đồng ý dùng các điểm thành phần khác , kể cả điểm thi cuối kỳ , để thay thế cho điểm thành phần này . \n Sinh viên phải thực hiện các thủ tục đăng ký hoãn thi , vắng thi trước khi thi hoặc sau khi thi chậm nhất là 05 ngày làm việc với Phòng đào tạo . Trường hợp đặc biệt khác trễ hơn thời hạn nêu trên , Hiệu trưởng nhà trường xem xét quyết định . \n 21.3 Miễn thi Trong một số trường hợp đặc biệt , khi sinh viên đạt được các thành tích học thuật xuất sắc trong học kỳ , sinh viên có thể được miễn kiểm tra , thi và nhận điểm . Trưởng Khoa hoặc các đơn vị liên quan gửi đề nghị kèm theo các minh chứng về các phòng đào tạo để ra các quyết định miễn kiểm tra , thi và nhận điểm . \n 21.4 Thi sớm hoặc muộn Nhà trường có thể tổ chức kiểm tra , thi sớm hoặc muộn cho một số sinh viên trong các trường hợp cần thiết . Công văn đề nghị tổ chức thi sớm hoặc muộn do Trưởng Khoa gửi cho các phòng đào tạo để phối hợp tổ chức . ",
+      "qas": [
+        {
+          "question": [
+            "Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị áp đặt biện pháp nào?",
+            "Những biện pháp nào có thể được áp đặt đối với sinh viên vi phạm quy định đào tạo - học vụ?",
+            "Đối với những sinh viên không tuân thủ quy định đào tạo - học vụ, các biện pháp phòng ngừa nào có thể được thực hiện?",
+            "Sinh viên vi phạm các quy định về học vụ có thể phải đối mặt với những hậu quả gì?",
+            "Trường có áp đặt biện pháp nào đối với sinh viên không tuân thủ các quy định đào tạo không?",
+            "Nếu sinh viên không tuân thủ các quy định đào tạo, liệu họ có thể bị áp đặt biện pháp kỷ luật không?",
+            "Các biện pháp disclipine nào có thể được áp dụng đối với sinh viên vi phạm quy định học vụ?",
+            "Sinh viên có phải tuân thủ mọi quy định về đào tạo không? Nếu không, hậu quả có thể là gì?",
+            "Trường có chính sách cụ thể nào đối với sinh viên vi phạm quy định đào tạo không?",
+            "Có những biện pháp kỷ luật nào có thể được áp dụng đối với sinh viên vi phạm quy định học vụ?",
+            "Có hậu quả gì có thể xảy ra nếu sinh viên không tuân thủ quy định đào tạo?",
+            "Nếu sinh viên không tuân thủ các quy định học vụ, liệu họ có thể bị loại khỏi trường không?",
+            "Những biện pháp nào có thể được thực hiện để đảm bảo tuân thủ các quy định đào tạo - học vụ?",
+            "Sinh viên không tuân thủ quy định đào tạo có thể đối mặt với những hậu quả nào?",
+            "Trường có chính sách rõ ràng đối với sinh viên vi phạm quy định đào tạo không?",
+            "Có biện pháp nào được áp dụng để đối phó với sinh viên không tuân thủ quy định học vụ?",
+            "Sinh viên vi phạm quy định đào tạo có thể bị xử phạt như thế nào?",
+            "Nếu sinh viên không tuân thủ các quy định học vụ, liệu họ có thể bị đình chỉ học không?",
+            "Có biện pháp nào khác nhau được áp dụng tùy thuộc vào mức độ vi phạm của sinh viên về quy định đào tạo không?",
+            "Những biện pháp phòng ngừa nào có thể được thực hiện để ngăn chặn sinh viên vi phạm quy định đào tạo - học vụ?",
+            "Có những hậu quả nào có thể xảy ra nếu sinh viên không chấp hành quy định đào tạo - học vụ của trường?"
+          ],
+          "answer": {
+            "text": "Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị cấm thi và nhận điểm 0 cho học phần",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Quy định về cấm thi trong đề cương học phần có sự hạn chế nào không được vượt quá?",
+            "Trong quy định về cấm thi, có những giới hạn cụ thể nào không được phép vượt quá?",
+            "Đề cương học phần có quy định cụ thể nào về việc không vượt quá các hạn chế trong việc cấm thi không?",
+            "Các quy định về cấm thi trong đề cương học phần có những hạn chế gì không được vượt quá?",
+            "Có những ràng buộc cụ thể nào áp đặt lên việc cấm thi trong đề cương học phần?",
+            "Trong quy định về cấm thi, có những điều kiện nào không được phép vượt quá theo đề cương học phần?",
+            "Đề cương học phần có hạn chế nào đối với việc áp dụng quy định về cấm thi không?",
+            "Có những nguyên tắc nào quan trọng không được phép vi phạm trong việc thi hành quy định về cấm thi?",
+            "Trong đề cương học phần, quy định về cấm thi có những hạn chế nào không được vượt quá?",
+            "Có những giới hạn cụ thể nào áp dụng đối với quy định về cấm thi trong đề cương học phần?",
+            "Đề cương học phần có quy định rõ ràng về việc không vượt quá các hạn chế trong việc cấm thi không?",
+            "Những quy định về cấm thi có bất kỳ sự linh hoạt nào không được phép vượt quá theo đề cương học phần?",
+            "Có những điều kiện cụ thể nào không được phép vi phạm trong việc thi hành quy định về cấm thi?",
+            "Trong đề cương học phần, có những hạn chế nào đối với việc thi hành quy định về cấm thi không?",
+            "Có những nguyên tắc cốt lõi nào không được phép vi phạm khi thực hiện quy định về cấm thi trong đề cương học phần?",
+            "Trong quy định về cấm thi, có những điều khoản nào không được phép vi phạm theo đề cương học phần?",
+            "Đề cương học phần có ràng buộc nào đối với việc không vượt quá các hạn chế trong việc cấm thi không?",
+            "Có những nguyên tắc cụ thể nào không được phép vi phạm trong việc thi hành quy định về cấm thi?",
+            "Trong quy định về cấm thi, có những điều kiện cụ thể nào không được phép vượt quá theo đề cương học phần?",
+            "Có những giới hạn cụ thể nào áp dụng đối với quy định về cấm thi trong đề cương học phần?",
+            "Đề cương học phần có quy định rõ ràng về việc không vi phạm các điều kiện trong quy định về cấm thi không?"
+          ],
+          "answer": {
+            "text": "Các quy định về cấm thi trong đề cương học phần không được vượt quá thẩm quyền so với các quy định về đào tạo - học vụ .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Sinh viên vắng mặt trong buổi thi mà không có lý do chính đáng sẽ nhận điểm bao nhiêu?",
+            "Nếu sinh viên vắng mặt trong buổi thi mà không có lý do chính đáng, họ sẽ nhận điểm là bao nhiêu?",
+            "Điểm số của sinh viên nếu vắng mặt không lý do trong buổi thi sẽ được xác định như thế nào?",
+            "Trường hợp sinh viên vắng mặt không có lý do trong buổi thi, điểm số của họ sẽ bị ảnh hưởng như thế nào?",
+            "Sinh viên không có lý do chính đáng vắng mặt trong buổi thi sẽ bị áp đặt điểm mất bao nhiêu?",
+            "Có quy định cụ thể nào về điểm số đối với sinh viên vắng mặt không lý do trong buổi thi không?",
+            "Điểm số của sinh viên sẽ bị ảnh hưởng ra sao nếu họ vắng mặt trong buổi thi mà không có lý do chính đáng?",
+            "Sinh viên không có lý do chính đáng vắng mặt trong buổi thi sẽ nhận điểm mất tựa như thế nào?",
+            "Quy định về điểm số đối với sinh viên vắng mặt không lý do trong buổi thi là gì?",
+            "Nếu sinh viên vắng mặt không lý do trong buổi thi, điểm số của họ sẽ được xác định như thế nào?",
+            "Có hậu quả gì đối với sinh viên không có lý do chính đáng vắng mặt trong buổi thi?",
+            "Điểm số của sinh viên nếu vắng mặt không lý do trong buổi thi sẽ bị ảnh hưởng như thế nào?",
+            "Sinh viên vắng mặt không có lý do trong buổi thi sẽ nhận điểm mất tựa như thế nào?",
+            "Có quy định gì về điểm số đối với sinh viên vắng mặt không lý do trong buổi thi không?",
+            "Nếu sinh viên vắng mặt không lý do trong buổi thi, điểm số của họ sẽ bị ảnh hưởng như thế nào?",
+            "Quy định về điểm số đối với sinh viên vắng mặt không lý do trong buổi thi là gì?",
+            "Sinh viên không có lý do chính đáng vắng mặt trong buổi thi sẽ nhận điểm mất bao nhiêu?",
+            "Nếu sinh viên không có lý do chính đáng vắng mặt trong buổi thi, điểm số của họ sẽ được xác định như thế nào?",
+            "Trường hợp sinh viên vắng mặt không có lý do trong buổi thi, điểm số của họ sẽ bị ảnh hưởng như thế nào?",
+            "Sinh viên không có lý do chính đáng vắng mặt trong buổi thi sẽ nhận điểm mất tựa như thế nào?",
+            "Quy định về điểm số đối với sinh viên vắng mặt không lý do trong buổi thi là gì?"
+          ],
+          "answer": {
+            "text": "Sinh viên vắng mặt trong buổi thi , đánh giá không có lý do chính đáng phải nhận điểm 0 .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Sinh viên được hoãn thi và nhận điểm gì trong trường hợp vắng mặt có lý do chính đáng ở buổi thi cuối kỳ?",
+            "Trong trường hợp sinh viên vắng mặt có lý do chính đáng ở buổi thi cuối kỳ, họ sẽ được hoãn thi và nhận điểm gì?",
+            "Nếu sinh viên có lý do chính đáng vắng mặt trong buổi thi cuối kỳ, điểm số của họ sẽ được xử lý như thế nào?",
+            "Sinh viên vắng mặt có lý do chính đáng trong buổi thi cuối kỳ sẽ nhận điểm thi như thế nào?",
+            "Trong trường hợp có lý do chính đáng, điểm số của sinh viên vắng mặt ở buổi thi cuối kỳ sẽ được xử lý ra sao?",
+            "Nếu sinh viên có lý do chính đáng vắng mặt trong buổi thi cuối kỳ, họ sẽ được xử lý thế nào về điểm số?",
+            "Sinh viên vắng mặt có lý do chính đáng trong buổi thi cuối kỳ sẽ nhận điểm như thế nào?",
+            "Trong trường hợp sinh viên vắng mặt với lý do chính đáng ở buổi thi cuối kỳ, điểm số của họ sẽ được tính như thế nào?",
+            "Nếu sinh viên có lý do chính đáng không tham dự buổi thi cuối kỳ, họ sẽ được xử lý như thế nào về điểm số?",
+            "Sinh viên vắng mặt với lý do chính đáng trong buổi thi cuối kỳ sẽ nhận điểm bao nhiêu?",
+            "Trong trường hợp sinh viên có lý do chính đáng vắng mặt ở buổi thi cuối kỳ, điểm số của họ sẽ được xử lý như thế nào?",
+            "Nếu sinh viên vắng mặt có lý do chính đáng trong buổi thi cuối kỳ, điểm số của họ sẽ được quản lý như thế nào?",
+            "Sinh viên vắng mặt có lý do chính đáng trong buổi thi cuối kỳ sẽ được xử lý điểm số ra sao?",
+            "Trong trường hợp sinh viên có lý do chính đáng vắng mặt trong buổi thi cuối kỳ, điểm số của họ sẽ được giải quyết như thế nào?",
+            "Nếu sinh viên có lý do chính đáng không tham dự buổi thi cuối kỳ, họ sẽ nhận điểm như thế nào?",
+            "Sinh viên vắng mặt với lý do chính đáng trong buổi thi cuối kỳ sẽ được điểm bao nhiêu?",
+            "Trong trường hợp sinh viên vắng mặt có lý do chính đáng ở buổi thi cuối kỳ, điểm số của họ sẽ được xử lý như thế nào?",
+            "Nếu sinh viên có lý do chính đáng không tham dự buổi thi cuối kỳ, họ sẽ được quản lý điểm số ra sao?",
+            "Sinh viên vắng mặt có lý do chính đáng trong buổi thi cuối kỳ sẽ nhận điểm như thế nào?",
+            "Trong trường hợp sinh viên có lý do chính đáng vắng mặt ở buổi thi cuối kỳ, điểm số của họ sẽ được xử lý như thế nào?",
+            "Nếu sinh viên vắng mặt có lý do chính đáng trong buổi thi cuối kỳ, điểm số của họ sẽ được quản lý như thế nào?"
+          ],
+          "answer": {
+            "text": "Trường hợp vắng mặt có lý do chính đáng ở buổi thi cuối kỳ , và không phải thuộc diện cấm thi , sinh viên được hoãn thi và nhận điểm I .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Sinh viên được dự thi để lấy điểm thay thế cho điểm I trong trường hợp nào và trong thời gian tối đa bao lâu?",
+            "Khi nào sinh viên được dự thi để lấy điểm thay thế cho điểm I?",
+            "Điều gì quy định việc sinh viên được tham gia thi để thay thế điểm I?",
+            "Trong trường hợp nào, sinh viên có thể dự thi để lấy điểm thay thế cho điểm I?",
+            "Quy định nào áp dụng khi sinh viên muốn dự thi để thay thế điểm I?",
+            "Sinh viên được tham gia thi để lấy điểm thay thế cho điểm I dựa trên điều kiện gì?",
+            "Theo quy định, sinh viên được phép dự thi để thay thế điểm I trong trường hợp nào?",
+            "Điều gì quy định về việc sinh viên dự thi để thay thế điểm I trong đề cương học phần?",
+            "Trong trường hợp nào, sinh viên có thể tham gia thi để lấy điểm thay thế cho điểm I?",
+            "Sinh viên được tham dự thi để lấy điểm thay thế cho điểm I theo quy định nào?",
+            "Khi nào, sinh viên được phép dự thi để thay thế điểm I?",
+            "Điều kiện nào quy định việc sinh viên được dự thi để lấy điểm thay thế cho điểm I?",
+            "Theo quy định của trường, sinh viên được tham gia thi để lấy điểm thay thế cho điểm I trong trường hợp nào?",
+            "Sinh viên được dự thi để thay thế điểm I dựa trên những yếu tố nào?",
+            "Trong trường hợp nào, sinh viên có thể tham dự thi để thay thế điểm I?",
+            "Quy định nào quy định việc sinh viên được dự thi để lấy điểm thay thế cho điểm I?",
+            "Điều gì xác định việc sinh viên có thể dự thi để lấy điểm thay thế cho điểm I?",
+            "Theo quy định của trường, sinh viên được tham gia thi để lấy điểm thay thế cho điểm I dựa trên điều kiện gì?",
+            "Khi nào, sinh viên được phép dự thi để thay thế điểm I theo quy định?",
+            "Sinh viên được tham dự thi để lấy điểm thay thế cho điểm I dựa trên điều kiện nào?",
+            "Theo quy định của trường, trong trường hợp nào, sinh viên có thể tham gia thi để lấy điểm thay thế cho điểm I?"
+          ],
+          "answer": {
+            "text": " Sinh viên được dự thi để lấy điểm thay thế cho điểm I ở lần tổ chức thi của học phần này ở trong cùng học kỳ hoặc kỳ thi ở các học kỳ sau và trong thời hạn tối đa một năm .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Sinh viên được dự thi để lấy điểm thay thế cho điểm I trong trường hợp nào và trong thời gian tối đa bao lâu?",
+            "Trong điều kiện nào, sinh viên được phép tham dự thi để thay thế điểm I?",
+            "Quy định nào xác định việc sinh viên được dự thi để lấy điểm thay thế cho điểm I?",
+            "Theo quy định của trường, khi nào sinh viên có thể tham gia thi để thay thế điểm I?",
+            "Điều gì quy định về việc sinh viên được dự thi để lấy điểm thay thế cho điểm I?",
+            "Sinh viên được tham dự thi để lấy điểm thay thế cho điểm I dựa trên điều kiện gì?",
+            "Trong trường hợp nào, sinh viên được phép dự thi để thay thế điểm I?",
+            "Điều gì xác định việc sinh viên có thể tham dự thi để lấy điểm thay thế cho điểm I?",
+            "Khi nào, sinh viên được phép tham gia thi để thay thế điểm I?",
+            "Theo quy định của trường, trong trường hợp nào, sinh viên có thể tham gia thi để thay thế điểm I?",
+            "Sinh viên được dự thi để thay thế điểm I dựa trên những yếu tố nào?",
+            "Trong điều kiện nào, sinh viên được phép dự thi để lấy điểm thay thế cho điểm I?",
+            "Quy định nào quy định việc sinh viên được dự thi để lấy điểm thay thế cho điểm I?",
+            "Điều gì xác định việc sinh viên được tham gia thi để lấy điểm thay thế cho điểm I?",
+            "Khi nào, sinh viên được phép dự thi để thay thế điểm I theo quy định?",
+            "Sinh viên được tham dự thi để lấy điểm thay thế cho điểm I dựa trên điều kiện nào?",
+            "Trong trường hợp nào, sinh viên được phép tham gia thi để thay thế điểm I?",
+            "Theo quy định của trường, khi nào sinh viên có thể tham gia thi để thay thế điểm I?",
+            "Sinh viên được dự thi để thay thế điểm I dựa trên điều kiện gì?",
+            "Quy định nào quy định việc sinh viên được dự thi để lấy điểm thay thế cho điểm I?",
+            "Điều gì quy định về việc sinh viên được tham gia thi để lấy điểm thay thế cho điểm I?"
+          ],
+          "answer": {
+            "text": "Trong trường hợp học phần này không tổ chức trong vòng một năm , nhà trường có thể xem xét tổ chức thi riêng để sinh viên hoàn thành học phần .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Trường hợp nào có thể xem xét sử dụng một điểm số khác thay thế cho điểm I?",
+            "Quy định nào áp dụng khi xem xét sử dụng một điểm số khác thay thế cho điểm I?",
+            "Khi nào, có thể xem xét sử dụng một điểm số khác để thay thế cho điểm I theo quy định của trường?",
+            "Trong những trường hợp nào, quy định cho phép sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Có những điều kiện nào quy định việc sử dụng một điểm số khác để thay thế cho điểm I theo quy định của trường?",
+            "Theo quy định của trường, khi nào có thể xem xét sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Quy định về việc sử dụng điểm số thay thế cho điểm I áp dụng trong những tình huống nào?",
+            "Trong tình huống nào, có thể xem xét sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Theo quy định của trường, những tình huống nào được xem xét để sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Khi nào, quy định cho phép sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Có những điều kiện nào quy định việc sử dụng điểm số thay thế cho điểm I trong quy định của trường?",
+            "Trong trường hợp nào, quy định cho phép sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Quy định nào quy định về việc sử dụng điểm số thay thế cho điểm I trong những trường hợp cụ thể?",
+            "Có những điều kiện nào quy định việc sử dụng một điểm số khác để thay thế cho điểm I theo quy định của trường?",
+            "Trong những tình huống nào, có thể xem xét sử dụng một điểm số khác để thay thế cho điểm I theo quy định?",
+            "Khi nào, quy định áp dụng để sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Theo quy định của trường, những điều kiện nào được xem xét để sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Quy định về việc sử dụng điểm số thay thế cho điểm I áp dụng trong những tình huống nào?",
+            "Trong trường hợp nào, quy định cho phép sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Theo quy định của trường, có những điều kiện nào được xem xét để sử dụng một điểm số khác để thay thế cho điểm I?",
+            "Khi nào, có thể xem xét sử dụng một điểm số khác để thay thế cho điểm I theo quy định?"
+          ],
+          "answer": {
+            "text": "Ngoài ra , trong các trường hợp đặc biệt , như để khuyến khích sinh viên tham dự các kỳ thi học thuật cấp quốc gia , quốc tế hoặc trong trường hợp đặc biệt khác , nhà trường có quyền ra quyết định dùng một điểm số khác thay thế cho điểm I .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Sinh viên được phép dự đánh giá ở một đợt khác trong cùng học kỳ trong trường hợp nào?",
+            "Trong điều kiện nào, sinh viên có thể tham gia đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Khi nào, quy định cho phép sinh viên dự đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Quy định nào áp dụng khi sinh viên muốn dự đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Trong trường hợp nào, sinh viên được phép tham dự đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Theo quy định của trường, khi nào sinh viên có thể dự đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Quy định về việc tham gia đánh giá ở một đợt khác trong cùng học kỳ áp dụng trong những trường hợp nào?",
+            "Trong tình huống nào, quy định cho phép sinh viên tham gia đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Khi nào, sinh viên được phép dự đánh giá ở một đợt khác trong cùng học kỳ theo quy định?",
+            "Theo quy định của trường, trong những trường hợp nào, sinh viên có thể tham gia đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Quy định về việc dự đánh giá ở một đợt khác trong cùng học kỳ áp dụng trong những tình huống nào?",
+            "Khi nào, quy định cho phép sinh viên dự đánh giá ở một đợt khác trong cùng học kỳ theo quy định?",
+            "Trong trường hợp nào, quy định cho phép sinh viên tham gia đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Quy định nào áp dụng để xác định việc sinh viên được phép tham gia đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Theo quy định của trường, khi nào sinh viên có thể dự đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Trong những tình huống nào, quy định cho phép sinh viên dự đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Quy định về việc tham gia đánh giá ở một đợt khác trong cùng học kỳ áp dụng trong những trường hợp nào?",
+            "Khi nào, sinh viên được phép tham gia đánh giá ở một đợt khác trong cùng học kỳ theo quy định?",
+            "Theo quy định của trường, trong trường hợp nào, sinh viên được phép dự đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Quy định nào áp dụng để xác định việc sinh viên được phép tham gia đánh giá ở một đợt khác trong cùng học kỳ?",
+            "Khi nào, quy định cho phép sinh viên dự đánh giá ở một đợt khác trong cùng học kỳ?"
+          ],
+          "answer": {
+            "text": "Sinh viên vắng mặt có lý do chính đáng ở các buổi đánh giá điểm thành phần khác của học phần được phép dự đánh giá ở một đợt khác trong cùng học kỳ do giảng viên đề nghị , Bộ môn và Khoa tổ chức . Trong trường hợp cần thiết , giảng viên đề nghị và được Bộ môn và Khoa đồng ý dùng các điểm thành phần khác , kể cả điểm thi cuối kỳ , để thay thế cho điểm thành phần này .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Sinh viên phải thực hiện các thủ tục đăng ký hoãn thi, vắng thi trước khi thi hoặc sau khi thi chậm nhất là bao nhiêu ngày làm việc?",
+            "Sinh viên cần thực hiện thủ tục đăng ký hoãn thi, vắng thi trước khi thi hoặc sau khi thi chậm nhất là bao nhiêu ngày làm việc?",
+            "Trước khi thi hoặc sau khi thi, sinh viên phải thực hiện thủ tục đăng ký hoãn thi, vắng thi trước thời hạn tối đa là bao nhiêu ngày làm việc?",
+            "Bao lâu trước khi thi hoặc sau khi thi, sinh viên cần thực hiện thủ tục đăng ký hoãn thi, vắng thi?",
+            "Theo quy định, sinh viên phải thực hiện thủ tục đăng ký hoãn thi, vắng thi trước thời hạn tối đa là bao nhiêu ngày làm việc?",
+            "Sinh viên cần báo cáo vắng mặt hoặc đăng ký hoãn thi trước thời hạn tối đa là bao nhiêu ngày làm việc?",
+            "Trước khi thi hoặc sau khi thi, bao lâu trước đó, sinh viên cần thực hiện thủ tục đăng ký hoãn thi, vắng thi?",
+            "Sinh viên phải thông báo vắng mặt hoặc đăng ký hoãn thi trước thời hạn tối đa là bao nhiêu ngày làm việc?",
+            "Bao nhiêu ngày làm việc trước khi thi hoặc sau khi thi, sinh viên cần thực hiện thủ tục đăng ký hoãn thi, vắng thi?",
+            "Trước khi thi hoặc sau khi thi, sinh viên phải báo cáo vắng mặt hoặc đăng ký hoãn thi trước thời hạn tối đa là bao nhiêu ngày làm việc?",
+            "Theo quy định, bao lâu trước khi thi hoặc sau khi thi, sinh viên cần thông báo vắng mặt hoặc đăng ký hoãn thi?",
+            "Sinh viên cần thực hiện thủ tục đăng ký hoãn thi, vắng thi trước thời hạn tối đa là bao nhiêu ngày làm việc theo quy định?",
+            "Bao nhiêu ngày làm việc trước khi thi hoặc sau khi thi, sinh viên cần thông báo vắng mặt hoặc đăng ký hoãn thi?",
+            "Trước khi thi hoặc sau khi thi, sinh viên phải báo cáo vắng mặt hoặc đăng ký hoãn thi trước thời hạn tối đa là bao nhiêu ngày làm việc theo quy định?",
+            "Sinh viên cần thông báo vắng mặt hoặc đăng ký hoãn thi trước thời hạn tối đa là bao nhiêu ngày làm việc theo quy định?",
+            "Theo quy định, bao lâu trước khi thi hoặc sau khi thi, sinh viên cần thực hiện thủ tục đăng ký hoãn thi, vắng thi?",
+            "Sinh viên phải thực hiện thủ tục đăng ký hoãn thi, vắng thi trước thời hạn tối đa là bao nhiêu ngày làm việc theo quy định?",
+            "Trước khi thi hoặc sau khi thi, bao lâu trước đó, sinh viên cần thông báo vắng mặt hoặc đăng ký hoãn thi?",
+            "Bao nhiêu ngày làm việc trước khi thi hoặc sau khi thi, sinh viên cần báo cáo vắng mặt hoặc đăng ký hoãn thi?",
+            "Trước khi thi hoặc sau khi thi, sinh viên phải thực hiện thủ tục đăng ký hoãn thi, vắng thi trước thời hạn tối đa là bao nhiêu ngày làm việc?",
+            "Theo quy định, sinh viên cần thông báo vắng mặt hoặc đăng ký hoãn thi trước thời hạn tối đa là bao nhiêu ngày làm việc?"
+          ],
+          "answer": {
+            "text": "Sinh viên phải thực hiện các thủ tục đăng ký hoãn thi , vắng thi trước khi thi hoặc sau khi thi chậm nhất là 05 ngày làm việc với Phòng đào tạo . Trường hợp đặc biệt khác trễ hơn thời hạn nêu trên , Hiệu trưởng nhà trường xem xét quyết định .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Trong trường hợp nào sinh viên có thể được miễn kiểm tra và thi?",
+            "Theo quy định của trường, trong tình huống nào sinh viên có thể được miễn kiểm tra và thi?",
+            "Khi nào, quy định cho phép sinh viên được miễn kiểm tra và thi?",
+            "Quy định nào áp dụng khi sinh viên muốn được miễn kiểm tra và thi?",
+            "Trong trường hợp nào, sinh viên có thể được miễn kiểm tra và thi theo quy định?",
+            "Sinh viên có thể được miễn kiểm tra và thi trong những tình huống nào theo quy định của trường?",
+            "Quy định về việc miễn kiểm tra và thi áp dụng trong những trường hợp nào?",
+            "Khi nào, sinh viên được phép được miễn kiểm tra và thi theo quy định?",
+            "Theo quy định của trường, trong những trường hợp nào sinh viên có thể được miễn kiểm tra và thi?",
+            "Quy định về việc miễn kiểm tra và thi áp dụng trong những tình huống nào theo quy định của trường?",
+            "Trong tình huống nào, quy định cho phép sinh viên được miễn kiểm tra và thi?",
+            "Theo quy định của trường, khi nào sinh viên có thể được miễn kiểm tra và thi?",
+            "Sinh viên có thể được miễn kiểm tra và thi trong những trường hợp nào?",
+            "Quy định nào áp dụng để xác định việc sinh viên được miễn kiểm tra và thi?",
+            "Trong trường hợp nào, quy định cho phép sinh viên được miễn kiểm tra và thi theo quy định?",
+            "Theo quy định của trường, trong tình huống nào sinh viên có thể được miễn kiểm tra và thi?",
+            "Sinh viên được miễn kiểm tra và thi trong những tình huống nào theo quy định của trường?",
+            "Khi nào, quy định cho phép sinh viên được miễn kiểm tra và thi?",
+            "Quy định về việc miễn kiểm tra và thi áp dụng trong những trường hợp nào?",
+            "Trong những trường hợp nào, sinh viên có thể được miễn kiểm tra và thi theo quy định?",
+            "Theo quy định của trường, khi nào sinh viên có thể được miễn kiểm tra và thi?"
+          ],
+          "answer": {
+            "text": "Trong một số trường hợp đặc biệt , khi sinh viên đạt được các thành tích học thuật xuất sắc trong học kỳ , sinh viên có thể được miễn kiểm tra , thi và nhận điểm .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Ai có thẩm quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Theo quy định của trường, ai có thẩm quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Trong trường hợp nào, ai được ủy quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Quy định nào xác định về người có thẩm quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Ai được giao trách nhiệm ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên theo quy định của trường?",
+            "Theo quy định của trường, người nào có thẩm quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Trong những trường hợp nào, ai được ủy quyền quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Quy định về việc miễn kiểm tra, thi và nhận điểm cho sinh viên chỉ định rõ người nào có thẩm quyền ra quyết định?",
+            "Ai có trách nhiệm ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên theo quy định của trường?",
+            "Theo quy định của trường, ai được ủy quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Trong trường hợp nào, người được ủy quyền quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Quy định nào chỉ định rõ về người có thẩm quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Ai được giao trách nhiệm ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên theo quy định của trường?",
+            "Theo quy định của trường, người nào có thẩm quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Trong những trường hợp nào, ai được ủy quyền quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Quy định về việc miễn kiểm tra, thi và nhận điểm cho sinh viên chỉ định rõ người nào có thẩm quyền ra quyết định?",
+            "Ai có trách nhiệm ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên theo quy định của trường?",
+            "Theo quy định của trường, ai được ủy quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Trong trường hợp nào, người được ủy quyền quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Quy định nào chỉ định rõ về người có thẩm quyền ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên?",
+            "Ai được giao trách nhiệm ra quyết định miễn kiểm tra, thi và nhận điểm cho sinh viên theo quy định của trường?"
+          ],
+          "answer": {
+            "text": "Trưởng Khoa hoặc các đơn vị liên quan gửi đề nghị kèm theo các minh chứng về các phòng đào tạo để ra các quyết định miễn kiểm tra , thi và nhận điểm .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Trong trường hợp nào nhà trường có thể tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Khi nào, nhà trường có thể tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên theo quy định?",
+            "Trong trường hợp nào, nhà trường được phép tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Quy định nào xác định về việc nhà trường tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Khi nào, nhà trường có thể quyết định tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Nhà trường được phép tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên trong những tình huống nào?",
+            "Quy định về việc tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên chỉ định rõ trong trường hợp nào?",
+            "Khi nào, nhà trường được ủy quyền tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Theo quy định của trường, trong những trường hợp nào nhà trường có thể tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Nhà trường được phép quyết định tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên trong tình huống nào?",
+            "Khi nào, nhà trường được ủy quyền quyết định tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Theo quy định của trường, trong trường hợp nào nhà trường có thể tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Quy định về việc tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên chỉ định rõ những tình huống nào?",
+            "Khi nào, nhà trường được phép tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Theo quy định của trường, trong những trường hợp nào nhà trường có thể tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Nhà trường được ủy quyền quyết định tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên trong tình huống nào?",
+            "Khi nào, nhà trường được phép quyết định tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Quy định về việc tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên chỉ định rõ trong trường hợp nào?",
+            "Theo quy định của trường, nhà trường được ủy quyền tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên trong những tình huống nào?",
+            "Khi nào, nhà trường được phép tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?",
+            "Theo quy định của trường, trong những trường hợp nào nhà trường có thể tổ chức kiểm tra, thi sớm hoặc muộn cho sinh viên?"
+          ],
+          "answer": {
+            "text": "Thi sớm hoặc muộn Nhà trường có thể tổ chức kiểm tra , thi sớm hoặc muộn cho một số sinh viên trong các trường hợp cần thiết .",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        },
+        {
+          "question": [
+            "Ai gửi công văn đề nghị tổ chức thi sớm hoặc muộn và đến đâu?",
+            "Người nào gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi tới đâu?",
+            "Ai là người chịu trách nhiệm gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi đến đâu?",
+            "Quy định của trường chỉ định ai gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi tới đâu?",
+            "Ai là người có thẩm quyền gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi đến đâu?",
+            "Theo quy định, ai có trách nhiệm gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi đến đâu?",
+            "Ai là người gửi công văn yêu cầu tổ chức thi sớm hoặc muộn và gửi tới đâu?",
+            "Trong trường hợp cần thi sớm hoặc muộn, ai chịu trách nhiệm gửi công văn và gửi tới đâu?",
+            "Quy định của trường chỉ định người nào gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi đến đâu?",
+            "Ai là người gửi yêu cầu tổ chức thi sớm hoặc muộn và gửi tới đâu?",
+            "Theo quy định, ai có thẩm quyền gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi đến đâu?",
+            "Người gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi tới đâu theo quy định?",
+            "Ai là người chịu trách nhiệm gửi công văn yêu cầu tổ chức thi sớm hoặc muộn và gửi tới đâu?",
+            "Quy định của trường chỉ định ai gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi đến đâu?",
+            "Ai là người gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi tới đâu theo quy định?",
+            "Theo quy định, ai có trách nhiệm gửi công văn yêu cầu tổ chức thi sớm hoặc muộn và gửi tới đâu?",
+            "Người gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi tới đâu theo quy định?",
+            "Ai là người chịu trách nhiệm gửi yêu cầu tổ chức thi sớm hoặc muộn và gửi tới đâu?",
+            "Quy định của trường chỉ định người nào gửi công văn đề nghị tổ chức thi sớm hoặc muộn và gửi đến đâu?",
+            "Ai là người gửi yêu cầu tổ chức thi sớm hoặc muộn và gửi tới đâu theo quy định?",
+            "Theo quy định, ai có thẩm quyền gửi công văn yêu cầu tổ chức thi sớm hoặc muộn và gửi tới đâu?"
+          ],
+          "answer": {
+            "text": "Công văn đề nghị tổ chức thi sớm hoặc muộn do Trưởng Khoa gửi cho các phòng đào tạo để phối hợp tổ chức . ",
+            "answer_start": 0,
+            "answer_end": 31
+          }
+        }
+      ]
+    }
+  ]
+}

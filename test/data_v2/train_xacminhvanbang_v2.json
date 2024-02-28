@@ -1,0 +1,101 @@
+{
+  "version": "2.1.0",
+  "data": [
+    {
+      "title": "Xác minh văn bằng",
+      "context": "Cựu sinh viên ( hoặc người thân ) đem đến Phòng Đào tạo bộ hồ sơ bao gồm : \n 1 . Biểu mẫu yêu cầu xác minh của trường / tổ chức nước ngoài ( nếu có ) 2 . Bằng ( bản sao y có chứng thực , có thể chứng thực tại Phòng Đào tạo ) 3 . Bản sao Học Bạ ( Bảng điểm ) đăng ký in tại Phòng Đào tạo 4 . Bằng và Bảng điểm ( bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch ) . Nếu bằng , bảng điểm đã có tiếng Anh thì không cần bản dịch . \n Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong , giao cho cựu sinh viên ( hoặc người thân ) để tự gửi đến trường / tổ chức nước ngoài . \n Liên hệ : Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG - HCM Phòng 101A1 , 268 Lý Thường Kiệt , Phường 14 , Quận 10 , TP . HCM",
+      "qas": [
+        {
+          "question": [
+            "Để đưa hồ sơ xác minh tới trường/tổ chức nước ngoài, cựu sinh viên (hoặc người thân) cần chuẩn bị những tài liệu gì?",
+            "Cựu sinh viên (hoặc người thân) cần chuẩn bị những tài liệu nào để đưa hồ sơ xác minh tới trường/tổ chức nước ngoài?",
+            "Những tài liệu nào cần được chuẩn bị bởi cựu sinh viên (hoặc người thân) để đưa hồ sơ xác minh tới trường/tổ chức nước ngoài?",
+            "Quy trình chuẩn bị hồ sơ xác minh để đưa tới trường/tổ chức nước ngoài đòi hỏi cựu sinh viên (hoặc người thân) cần có những giấy tờ gì?",
+            "Để gửi hồ sơ xác minh tới trường/tổ chức nước ngoài, cựu sinh viên (hoặc người thân) cần thu thập những loại giấy tờ nào?",
+            "Những tài liệu nào là cần thiết khi cựu sinh viên (hoặc người thân) chuẩn bị hồ sơ xác minh để đưa tới trường/tổ chức nước ngoài?",
+            "Cựu sinh viên (hoặc người thân) cần chuẩn bị những giấy tờ nào để gửi hồ sơ xác minh tới trường/tổ chức nước ngoài?",
+            "Để gửi hồ sơ xác minh tới trường/tổ chức nước ngoài, cựu sinh viên (hoặc người thân) cần có những tài liệu gì?",
+            "Quy trình chuẩn bị hồ sơ xác minh để gửi tới trường/tổ chức nước ngoài đòi hỏi cựu sinh viên (hoặc người thân) cần có những giấy tờ gì?",
+            "Cựu sinh viên (hoặc người thân) cần thu thập những loại giấy tờ nào để chuẩn bị hồ sơ xác minh đưa tới trường/tổ chức nước ngoài?",
+            "Để đưa hồ sơ xác minh tới trường/tổ chức nước ngoài, cựu sinh viên (hoặc người thân) cần có những tài liệu gì?",
+            "Quy trình chuẩn bị hồ sơ xác minh để gửi tới trường/tổ chức nước ngoài đòi hỏi cựu sinh viên (hoặc người thân) cần có những giấy tờ gì?",
+            "Những tài liệu nào là cần thiết khi cựu sinh viên (hoặc người thân) chuẩn bị hồ sơ xác minh để gửi tới trường/tổ chức nước ngoài?",
+            "Cựu sinh viên (hoặc người thân) cần thu thập những loại giấy tờ nào để gửi hồ sơ xác minh tới trường/tổ chức nước ngoài?",
+            "Để gửi hồ sơ xác minh tới trường/tổ chức nước ngoài, cần có những tài liệu gì cựu sinh viên (hoặc người thân) cần chuẩn bị?",
+            "Quy trình chuẩn bị hồ sơ xác minh để gửi tới trường/tổ chức nước ngoài đòi hỏi cựu sinh viên (hoặc người thân) cần có những giấy tờ gì?",
+            "Những tài liệu nào là cần thiết khi cựu sinh viên (hoặc người thân) chuẩn bị hồ sơ xác minh để gửi tới trường/tổ chức nước ngoài?",
+            "Cựu sinh viên (hoặc người thân) cần thu thập những loại giấy tờ nào để chuẩn bị hồ sơ xác minh đưa tới trường/tổ chức nước ngoài?",
+            "Để đưa hồ sơ xác minh tới trường/tổ chức nước ngoài, cựu sinh viên (hoặc người thân) cần có những tài liệu gì?",
+            "Quy trình chuẩn bị hồ sơ xác minh để gửi tới trường/tổ chức nước ngoài đòi hỏi cựu sinh viên (hoặc người thân) cần có những giấy tờ gì?",
+            "Những tài liệu nào là cần thiết khi cựu sinh viên (hoặc người thân) chuẩn bị hồ sơ xác minh để đưa tới trường/tổ chức nước ngoài?"
+          ],
+          "answer": {
+            "text": "Cựu sinh viên ( hoặc người thân ) đem đến Phòng Đào tạo bộ hồ sơ bao gồm : \n 1 . Biểu mẫu yêu cầu xác minh của trường / tổ chức nước ngoài ( nếu có ) 2 . Bằng ( bản sao y có chứng thực , có thể chứng thực tại Phòng Đào tạo ) 3 . Bản sao Học Bạ ( Bảng điểm ) đăng ký in tại Phòng Đào tạo 4 . Bằng và Bảng điểm ( bản dịch do Phòng Quan hệ đối ngoại trường ĐHBK dịch ) . Nếu bằng , bảng điểm đã có tiếng Anh thì không cần bản dịch .",
+            "answer_start": 0,
+            "answer_end": 429
+          }
+        },
+        {
+          "question": [
+            "Tại Phòng Đào tạo, những tài liệu nào sẽ được kiểm tra và để vào bì thư của trường có niêm phong?",
+            "Tại Phòng Đào tạo, những giấy tờ nào sẽ được kiểm tra và đưa vào bì thư của trường được niêm phong?",
+            "Những tài liệu cụ thể nào sẽ được kiểm tra và đóng vào bì thư của trường tại Phòng Đào tạo?",
+            "Quy trình kiểm tra tài liệu và đóng niêm phong bì thư của trường tại Phòng Đào tạo bao gồm những giấy tờ nào?",
+            "Tại Phòng Đào tạo, những tài liệu cần thiết nào sẽ được xem xét và bảo quản trong bì thư của trường?",
+            "Trong quá trình kiểm tra tại Phòng Đào tạo, những giấy tờ nào sẽ được đặc biệt chú ý và đưa vào bì thư của trường?",
+            "Những tài liệu nào sẽ được chọn lọc và bảo quản trong bì thư của trường tại Phòng Đào tạo?",
+            "Quy định về việc kiểm tra và bảo quản tài liệu trong bì thư của trường tại Phòng Đào tạo gồm những giấy tờ nào?",
+            "Tại Phòng Đào tạo, những tài liệu nào sẽ được xem xét kỹ lưỡng và đóng niêm phong vào bì thư của trường?",
+            "Trong quá trình kiểm tra tài liệu tại Phòng Đào tạo, những giấy tờ nào sẽ được lựa chọn để đưa vào bì thư của trường?",
+            "Những tài liệu cụ thể nào sẽ được chấp nhận và đưa vào bì thư của trường tại Phòng Đào tạo?",
+            "Tại Phòng Đào tạo, những giấy tờ nào sẽ được đánh giá và đặt vào bì thư của trường sau khi kiểm tra?",
+            "Quy trình kiểm tra tài liệu và đóng niêm phong bì thư của trường tại Phòng Đào tạo bao gồm những tài liệu nào?",
+            "Trong quá trình kiểm tra tại Phòng Đào tạo, những tài liệu nào sẽ được chọn lọc và đưa vào bì thư của trường?",
+            "Những tài liệu cần thiết nào sẽ được kiểm tra và đóng vào bì thư của trường tại Phòng Đào tạo?",
+            "Quy định về việc kiểm tra và bảo quản tài liệu trong bì thư của trường tại Phòng Đào tạo gồm những giấy tờ nào?",
+            "Tại Phòng Đào tạo, những tài liệu nào sẽ được xem xét và đặt vào bì thư của trường sau khi kiểm tra?",
+            "Trong quá trình kiểm tra tài liệu tại Phòng Đào tạo, những giấy tờ nào sẽ được đánh giá và đưa vào bì thư của trường?",
+            "Những tài liệu nào sẽ được chọn lọc và bảo quản trong bì thư của trường tại Phòng Đào tạo?",
+            "Quy định về việc kiểm tra và bảo quản tài liệu trong bì thư của trường tại Phòng Đào tạo bao gồm những giấy tờ nào?",
+            "Tại Phòng Đào tạo, những giấy tờ nào sẽ được xem xét kỹ lưỡng và đóng niêm phong vào bì thư của trường?"
+          ],
+          "answer": {
+            "text": "Phòng Đào tạo sẽ kiểm tra và để vào bì thư của trường có niêm phong , giao cho cựu sinh viên ( hoặc người thân ) để tự gửi đến trường / tổ chức nước ngoài .",
+            "answer_start": 432,
+            "answer_end": 588
+          }
+        },
+        {
+          "question": [
+            "Liên hệ với ai để biết thêm thông tin hoặc để gửi hồ sơ?",
+            "Ai là người liên hệ để biết thêm thông tin hoặc để gửi hồ sơ?",
+            "Ai là người được ủy quyền để cung cấp thông tin chi tiết hoặc tiếp nhận hồ sơ?",
+            "Để biết thêm thông tin hoặc gửi hồ sơ, tôi cần liên hệ với ai?",
+            "Ai là người phụ trách để cung cấp thông tin thêm hoặc nhận hồ sơ?",
+            "Người nào tôi nên liên hệ nếu muốn biết thêm chi tiết hoặc nộp hồ sơ?",
+            "Ai là người đề xuất để liên hệ nếu muốn được hỗ trợ thông tin hoặc gửi hồ sơ?",
+            "Nếu muốn biết thêm thông tin hoặc gửi hồ sơ, tôi cần liên hệ với ai?",
+            "Ai là người có thẩm quyền để cung cấp thông tin chi tiết hoặc nhận hồ sơ?",
+            "Để gửi hồ sơ hoặc biết thêm thông tin, tôi nên liên hệ với ai?",
+            "Người nào là người chịu trách nhiệm cho việc cung cấp thông tin hoặc tiếp nhận hồ sơ?",
+            "Ai là người được giao nhiệm vụ cung cấp thông tin hoặc tiếp nhận hồ sơ?",
+            "Nếu cần biết thêm thông tin hoặc gửi hồ sơ, tôi nên liên hệ với ai?",
+            "Ai là người phụ trách để cung cấp thông tin chi tiết hoặc nhận hồ sơ?",
+            "Người nào tôi nên liên hệ nếu muốn biết thêm chi tiết hoặc nộp hồ sơ?",
+            "Nếu muốn gửi hồ sơ hoặc biết thêm thông tin, tôi cần liên hệ với ai?",
+            "Ai là người có thẩm quyền để cung cấp thông tin chi tiết hoặc nhận hồ sơ?",
+            "Để biết thêm thông tin hoặc gửi hồ sơ, tôi nên liên hệ với ai?",
+            "Người nào là người được giao nhiệm vụ cung cấp thông tin hoặc tiếp nhận hồ sơ?",
+            "Ai là người phụ trách để cung cấp thông tin chi tiết hoặc nhận hồ sơ?",
+            "Nếu cần biết thêm thông tin hoặc gửi hồ sơ, tôi nên liên hệ với ai?"
+          ],
+          "answer": {
+            "text": "Liên hệ : Phòng Đào tạo trường Đại học Bách Khoa - ĐHQG - HCM Phòng 101A1 , 268 Lý Thường Kiệt , Phường 14 , Quận 10 , TP . HCM",
+            "answer_start": 591,
+            "answer_end": 718
+          }
+        }
+      ]
+    }
+  ]
+}

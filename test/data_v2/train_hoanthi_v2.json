@@ -2,7 +2,7 @@
   "version": "2.1.0",
   "data": [
     {
-      "title": "",
+      "title": "Hoãn thi",
       "context": "21 . 1 Cấm thi Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị cấm thi và nhận điểm 0 cho học phần . Các quy định về cấm thi trong đề cương học phần không được vượt quá thẩm quyền so với các quy định về đào tạo - học vụ . \n 21.2 Vắng thi , hoãn thi Sinh viên vắng mặt trong buổi thi , đánh giá không có lý do chính đáng phải nhận điểm 0 . \n Trường hợp vắng mặt có lý do chính đáng ở buổi thi cuối kỳ , và không phải thuộc diện cấm thi , sinh viên được hoãn thi và nhận điểm I . Sinh viên được dự thi để lấy điểm thay thế cho điểm I ở lần tổ chức thi của học phần này ở trong cùng học kỳ hoặc kỳ thi ở các học kỳ sau và trong thời hạn tối đa một năm . Trong trường hợp học phần này không tổ chức trong vòng một năm , nhà trường có thể xem xét tổ chức thi riêng để sinh viên hoàn thành học phần . Sinh viên không dự thi theo các điều kiện trên sẽ nhận điểm 0 . \n Ngoài ra , trong các trường hợp đặc biệt , như để khuyến khích sinh viên tham dự các kỳ thi học thuật cấp quốc gia , quốc tế hoặc trong trường hợp đặc biệt khác , nhà trường có quyền ra quyết định dùng một điểm số khác thay thế cho điểm I . \n Sinh viên vắng mặt có lý do chính đáng ở các buổi đánh giá điểm thành phần khác của học phần được phép dự đánh giá ở một đợt khác trong cùng học kỳ do giảng viên đề nghị , Bộ môn và Khoa tổ chức . Trong trường hợp cần thiết , giảng viên đề nghị và được Bộ môn và Khoa đồng ý dùng các điểm thành phần khác , kể cả điểm thi cuối kỳ , để thay thế cho điểm thành phần này . \n Sinh viên phải thực hiện các thủ tục đăng ký hoãn thi , vắng thi trước khi thi hoặc sau khi thi chậm nhất là 05 ngày làm việc với Phòng đào tạo . Trường hợp đặc biệt khác trễ hơn thời hạn nêu trên , Hiệu trưởng nhà trường xem xét quyết định . \n 21.3 Miễn thi Trong một số trường hợp đặc biệt , khi sinh viên đạt được các thành tích học thuật xuất sắc trong học kỳ , sinh viên có thể được miễn kiểm tra , thi và nhận điểm . Trưởng Khoa hoặc các đơn vị liên quan gửi đề nghị kèm theo các minh chứng về các phòng đào tạo để ra các quyết định miễn kiểm tra , thi và nhận điểm . \n 21.4 Thi sớm hoặc muộn Nhà trường có thể tổ chức kiểm tra , thi sớm hoặc muộn cho một số sinh viên trong các trường hợp cần thiết . Công văn đề nghị tổ chức thi sớm hoặc muộn do Trưởng Khoa gửi cho các phòng đào tạo để phối hợp tổ chức . ",
       "qas": [
         {
@@ -31,8 +31,8 @@
           ],
           "answer": {
             "text": "Sinh viên vi phạm quy định đào tạo - học vụ hoặc thuộc vào các điều kiện ràng buộc riêng trong đề cương học phần có thể bị cấm thi và nhận điểm 0 cho học phần",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 15,
+            "answer_end": 173
           }
         },
         {
@@ -61,8 +61,8 @@
           ],
           "answer": {
             "text": "Các quy định về cấm thi trong đề cương học phần không được vượt quá thẩm quyền so với các quy định về đào tạo - học vụ .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 176,
+            "answer_end": 296
           }
         },
         {
@@ -91,8 +91,8 @@
           ],
           "answer": {
             "text": "Sinh viên vắng mặt trong buổi thi , đánh giá không có lý do chính đáng phải nhận điểm 0 .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 324,
+            "answer_end": 413
           }
         },
         {
@@ -121,8 +121,8 @@
           ],
           "answer": {
             "text": "Trường hợp vắng mặt có lý do chính đáng ở buổi thi cuối kỳ , và không phải thuộc diện cấm thi , sinh viên được hoãn thi và nhận điểm I .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 416,
+            "answer_end": 552
           }
         },
         {
@@ -151,8 +151,8 @@
           ],
           "answer": {
             "text": " Sinh viên được dự thi để lấy điểm thay thế cho điểm I ở lần tổ chức thi của học phần này ở trong cùng học kỳ hoặc kỳ thi ở các học kỳ sau và trong thời hạn tối đa một năm .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 552,
+            "answer_end": 725
           }
         },
         {
@@ -181,8 +181,8 @@
           ],
           "answer": {
             "text": "Trong trường hợp học phần này không tổ chức trong vòng một năm , nhà trường có thể xem xét tổ chức thi riêng để sinh viên hoàn thành học phần .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 726,
+            "answer_end": 869
           }
         },
         {
@@ -211,8 +211,8 @@
           ],
           "answer": {
             "text": "Ngoài ra , trong các trường hợp đặc biệt , như để khuyến khích sinh viên tham dự các kỳ thi học thuật cấp quốc gia , quốc tế hoặc trong trường hợp đặc biệt khác , nhà trường có quyền ra quyết định dùng một điểm số khác thay thế cho điểm I .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 936,
+            "answer_end": 1176
           }
         },
         {
@@ -241,8 +241,8 @@
           ],
           "answer": {
             "text": "Sinh viên vắng mặt có lý do chính đáng ở các buổi đánh giá điểm thành phần khác của học phần được phép dự đánh giá ở một đợt khác trong cùng học kỳ do giảng viên đề nghị , Bộ môn và Khoa tổ chức . Trong trường hợp cần thiết , giảng viên đề nghị và được Bộ môn và Khoa đồng ý dùng các điểm thành phần khác , kể cả điểm thi cuối kỳ , để thay thế cho điểm thành phần này .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1179,
+            "answer_end": 1548
           }
         },
         {
@@ -271,8 +271,8 @@
           ],
           "answer": {
             "text": "Sinh viên phải thực hiện các thủ tục đăng ký hoãn thi , vắng thi trước khi thi hoặc sau khi thi chậm nhất là 05 ngày làm việc với Phòng đào tạo . Trường hợp đặc biệt khác trễ hơn thời hạn nêu trên , Hiệu trưởng nhà trường xem xét quyết định .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1551,
+            "answer_end": 1793
           }
         },
         {
@@ -301,8 +301,8 @@
           ],
           "answer": {
             "text": "Trong một số trường hợp đặc biệt , khi sinh viên đạt được các thành tích học thuật xuất sắc trong học kỳ , sinh viên có thể được miễn kiểm tra , thi và nhận điểm .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1810,
+            "answer_end": 1973
           }
         },
         {
@@ -331,8 +331,8 @@
           ],
           "answer": {
             "text": "Trưởng Khoa hoặc các đơn vị liên quan gửi đề nghị kèm theo các minh chứng về các phòng đào tạo để ra các quyết định miễn kiểm tra , thi và nhận điểm .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 1974,
+            "answer_end": 2124
           }
         },
         {
@@ -361,8 +361,8 @@
           ],
           "answer": {
             "text": "Thi sớm hoặc muộn Nhà trường có thể tổ chức kiểm tra , thi sớm hoặc muộn cho một số sinh viên trong các trường hợp cần thiết .",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 2132,
+            "answer_end": 2258
           }
         },
         {
@@ -391,8 +391,8 @@
           ],
           "answer": {
             "text": "Công văn đề nghị tổ chức thi sớm hoặc muộn do Trưởng Khoa gửi cho các phòng đào tạo để phối hợp tổ chức . ",
-            "answer_start": 0,
-            "answer_end": 31
+            "answer_start": 2259,
+            "answer_end": 2365
           }
         }
       ]

@@ -254,7 +254,7 @@ if __name__ == "__main__":
 
     parser.add_argument("-metric", type=str, default="squad")
     parser.add_argument("-device", type=str, default=DEVICE)
-    parser.add_argument("-output_dir", type=str, default="checkpoints")
+    parser.add_argument("-output_dir", type=str, default=CHECKPOINTS_FOLDER)
     parser.add_argument("-scheduler", type=str, default="linear")
     parser.add_argument("-pretrained_model", type=str, default=PRETRAIN_MODEL)
 

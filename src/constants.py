@@ -1,4 +1,5 @@
-DATASET_FOLDER = "./test/data"
+CHECKPOINTS_FOLDER = "checkpoints"
+DATASET_FOLDER = "./test/data_v2"
 ALL_CONTEXT_FILE = './test/data/contexts/all_contexts.json'
 PRETRAIN_MODEL = "vinai/phobert-base-v2"
 SERVER_PORT = 5000

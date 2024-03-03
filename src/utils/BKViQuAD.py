@@ -12,14 +12,14 @@ class ViQuAD(datasets.GeneratorBasedBuilder):
     BUILDER_CONFIGS = [
         BKViQuADConfig(
             name="plain_text",
-            version=datasets.Version("1.0.0", ""),
+            version=datasets.Version("2.0.0", ""),
             description="Plain text",
         ),
     ]
 
     def _info(self):
         return datasets.DatasetInfo(
-            description="BKViQuAD1.0",
+            description="BKViQuAD2.0",
             features=datasets.Features(
                 {
                     "id": datasets.Value("string"),

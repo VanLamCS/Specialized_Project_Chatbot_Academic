@@ -345,9 +345,9 @@
             "Giấy chứng nhận tạm thời có thể được công nhận trong trường hợp nào?"
           ],
           "answer": {
-            "text": "Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng. Giấy này không thay thế cho bằng tốt nghiệp.",
-            "answer_start": -1,
-            "answer_end": -1
+            "text": "Trường có thể cấp Giấy chứng nhận tốt nghiệp tạm thời cho sinh viên có giá trị từ ngày cấp đến ngày nhận bằng tốt nghiệp và trong tối đa 06 tháng . Giấy này không thay thế cho bằng tốt nghiệp",
+            "answer_start": 1050,
+            "answer_end": 1241
           }
         }
       ]

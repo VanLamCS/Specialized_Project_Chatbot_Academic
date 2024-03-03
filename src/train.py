@@ -268,7 +268,7 @@ if __name__ == "__main__":
     parser.add_argument("-n_best", type=int, default=N_BEST)
     parser.add_argument("-max_answer_length", type=int, default=MAX_ANSWER_LENGTH)
 
-    parser.add_argument("-metric_dir", type=str, default="metric")
+    parser.add_argument("-metric_dir", type=str, default=CHECKPOINTS_FOLDER + "metric")
 
     args = parser.parse_args()
 

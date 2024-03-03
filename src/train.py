@@ -231,11 +231,11 @@ def main(raw_datasets, args):
             print("Finished.")
             prev_metrics = metrics
 
-    metric_file = os.path.join(args.metric_dir, "metrics.txt")
-    with open(metric_file, "w") as file:
-        file.write("Epoch\tF1-score\tExact Match\n")
-        for epoch, (f1, exact) in enumerate(zip(f1_scores, exact_matches), 1):
-            file.write(f"{epoch}\t{f1}\t{exact}\n")
+        metric_file = os.path.join(args.metric_dir, "metrics.txt")
+        with open(metric_file, "w") as file:
+            file.write("Epoch\tF1-score\tExact Match\n")
+            for epoch, (f1, exact) in enumerate(zip(f1_scores, exact_matches), 1):
+                file.write(f"{epoch}\t{f1}\t{exact}\n")
 
     epochs = range(1, args.epochs + 1)
 

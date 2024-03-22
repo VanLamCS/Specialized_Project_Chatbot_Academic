@@ -7,7 +7,7 @@ EMBEDDING_MODEL_ID = os.environ.get('EMBEDDING_MODEL_ID')
 DOCS_PATH = os.environ.get('DOCS_PATH')
 LLM_MODEL_ID = os.environ.get('LLM_MODEL_ID')
 DEVICE = os.environ.get('DOCS_PATH')
-TORCH_DTYPE = os.environ.get('TORCH_DTYPE')
+# TORCH_DTYPE = os.environ.get('TORCH_DTYPE')
 MAX_NEW_TOKENS = os.environ.get('MAX_NEW_TOKENS')
 
 
@@ -22,7 +22,8 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_text_splitters import CharacterTextSplitter
 
-from langchain.retrievers import BM25Retriever, EnsembleRetriever
+from langchain.retrievers import EnsembleRetriever
+from langchain_community.retrievers import BM25Retriever
 from langchain_community.vectorstores import FAISS
 
 """*For llm*"""
@@ -33,6 +34,8 @@ import torch
 import torch.nn.functional as F
 
 """# **Helper**"""
+
+TORCH_DTYPE = torch.bfloat16
 
 class Rag_helper:
     """

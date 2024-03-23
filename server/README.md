@@ -134,6 +134,26 @@ Params:
 }
 ```
 
+### Delete conversation
+
+`DELETE api/conversation`
+
+Header:
+
+```json
+{
+  "Authorization": "Bearer <access_token>"
+}
+```
+
+Body:
+
+```json
+{
+  "conversation_id": "id"
+}
+```
+
 ### Send message
 
 `POST api/message/send`

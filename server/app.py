@@ -2,7 +2,7 @@ from dotenv import load_dotenv
 import os
 from quart import Quart
 from quart_jwt_extended import JWTManager
-from chatcore import chat_core
+# from chatcore import chat_core
 from routes import main_bp
 
 load_dotenv()

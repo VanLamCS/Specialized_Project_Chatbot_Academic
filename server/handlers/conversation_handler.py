@@ -97,16 +97,19 @@ async def get_conversation_history():
     except Exception as e:
         return jsonify({'msg': 'Server Internal Error'}), 500
     
-@conversation_bp.route('/', methods=['DELETE'])
+@conversation_bp.route('/<conversation_id>', methods=['DELETE'])
 @jwt_required
-async def delete_conversation():
+async def delete_conversation(conversation_id):
     try:
-        conv_data = await request.get_json()
-        v = Validator(delete_conversation_schema)
-        if conv_data is None or not v.validate(conv_data):
-            return jsonify({'msg': 'Wrong data', 'errors': v.errors}), 400
+        is_id, obj_conversation_id = is_object_id(conversation_id)
+        if not is_id:
+            return jsonify({'msg': 'Invalid conversation id'}), 400
+        existing_conversation = db.conversations.find_one({'_id': obj_conversation_id})
+        print('check existing_conversation: ', existing_conversation)
+        if not existing_conversation:
+            return jsonify({'msg': 'Invalid conversation'}), 400
         current_user_id = get_jwt_identity()
-        result = db.conversations.update_one({'user_id': ObjectId(current_user_id), '_id': ObjectId(conv_data['conversation_id'])}, {'$set': {'deleted': True}})
+        result = db.conversations.update_one({'user_id': ObjectId(current_user_id), '_id': ObjectId(conversation_id)}, {'$set': {'deleted': True}})
         if result.acknowledged and result.modified_count > 0:
             return jsonify({'msg': 'Delete success'}), 200
         return jsonify({'msg': 'Delete is not success'}), 400

@@ -7,7 +7,7 @@ EMBEDDING_MODEL_ID = os.environ.get('EMBEDDING_MODEL_ID')
 DOCS_PATH = os.environ.get('DOCS_PATH')
 LLM_MODEL_ID = os.environ.get('LLM_MODEL_ID')
 DEVICE = os.environ.get('DOCS_PATH')
-TORCH_DTYPE = os.environ.get('TORCH_DTYPE')
+# TORCH_DTYPE = os.environ.get('TORCH_DTYPE')
 MAX_NEW_TOKENS = os.environ.get('MAX_NEW_TOKENS')
 LLM_API_SERVICE_URL = os.environ.get('LLM_API_SERVICE_URL')
 

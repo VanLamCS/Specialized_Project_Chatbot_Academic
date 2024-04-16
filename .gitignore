@@ -8,3 +8,5 @@ checkpoints/*.bin
 /transformers
 /server/venv
 /server/.env
+.history
+/.vscode

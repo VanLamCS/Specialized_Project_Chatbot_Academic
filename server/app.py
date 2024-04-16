@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from quart import Quart
+from quart_cors import cors
 from quart_jwt_extended import JWTManager
 from routes import main_bp
 
@@ -18,6 +19,7 @@ app.config['JWT_SECRET_KEY'] = JWT_SECRET_KEY
 jwt = JWTManager(app)
 
 app.register_blueprint(main_bp)
+app = cors(app, allow_origin="*")  # Sử dụng '*' để cho phép tất cả các origin
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port = PORT)

@@ -53,7 +53,7 @@ async def get_conversation():
         docs = [{'name': conv['name'], 'id': str(conv['_id']), 'timestamp': conv['timestamp']} for conv in conversations]
         return jsonify({'msg': "Retrieve success", 'data': docs}), 200
     except Exception as e:
-        return jsonify({'msg': 'Server Internal Error', 'errors': e}), 500
+        return jsonify({'msg': 'Server Internal Error'}), 500
 
 @conversation_bp.route('/change-name', methods=['POST'])
 @jwt_required

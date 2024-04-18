@@ -2,7 +2,7 @@ from quart import Blueprint, jsonify, request
 from cerberus import Validator
 from quart_jwt_extended import jwt_required
 from bson.objectid import ObjectId
-# from chatcore.create_answer import create_answer
+from chatcore.create_answer import create_answer
 from datetime import datetime
 from db import db
 
@@ -26,10 +26,7 @@ async def send_message():
             return jsonify({'msg': 'Message is invalid', 'errors': v.errors}), 400
         request_message = message_data['message']
         conversation_id = message_data['conversation_id']
-        # Fake message response
-        response_message = "Fake response message 😢"
-        # Real response
-        # response_message, score = create_answer(request_message)
+        response_message, _ = create_answer(request_message)
         res_time = datetime.utcnow()
 
         # Save messages to database
@@ -44,7 +41,7 @@ async def send_message():
         
         return jsonify({'msg': "Answer already 😢", 'answer': response_message}), 201
     except Exception as e:
-        return jsonify({'msg': 'Server Internal Error', 'errors': e}), 500
+        return jsonify({'msg': 'Server Internal Error'}), 500
 
 async def save_pair_qa(q_id: ObjectId, a_id: ObjectId):
     try:

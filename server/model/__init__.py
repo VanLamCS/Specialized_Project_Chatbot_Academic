@@ -13,12 +13,12 @@ LLM_API_SERVICE_URL = os.environ.get('LLM_API_SERVICE_URL')
 
 from langchain_text_splitters import CharacterTextSplitter
 
-from BK_rag_llm_block import BK_rag_llm_block
-from BK_rag_retriever_block import BK_rag_retriever_block
-from Rag_helper import Rag_helper
+from model.BK_rag_llm_block import BK_rag_llm_block
+from model.BK_rag_retriever_block import BK_rag_retriever_block
+from model.Rag_helper import Rag_helper
 
 class Rag_chain:
-  def __init__(self,llm_api_service_url = LLM_API_SERVICE_URL,  embedding_model_id = EMBEDDING_MODEL_ID, docs_path = DOCS_PATH, chuck_size = 2000, chunk_overlap = 500):
+  def __init__(self,llm_api_service_url = LLM_API_SERVICE_URL,  embedding_model_id = EMBEDDING_MODEL_ID, docs_path = DOCS_PATH, chuck_size = 4000, chunk_overlap = 1000):
     self.llm = BK_rag_llm_block(llm_api_service_url)
     self.retriever = BK_rag_retriever_block(embedding_model_id, docs_path)
     self.text_splitter = CharacterTextSplitter(

@@ -5,10 +5,11 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_text_splitters import CharacterTextSplitter
 
-from langchain.retrievers import BM25Retriever, EnsembleRetriever
+from langchain.retrievers import EnsembleRetriever
+from langchain_community.retrievers import BM25Retriever
 from langchain_community.vectorstores import FAISS
 
-from Rag_helper import Rag_helper
+from model.Rag_helper import Rag_helper
 
 class BK_rag_retriever_block:
   def __init__(self, embedding_model_id, docs_path):

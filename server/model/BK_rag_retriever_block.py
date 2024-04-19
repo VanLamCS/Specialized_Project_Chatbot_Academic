@@ -12,8 +12,8 @@ from langchain_community.vectorstores import FAISS
 from model.Rag_helper import Rag_helper
 
 class BK_rag_retriever_block:
-  def __init__(self, embedding_model_id, docs_path):
-    self.embedding = HuggingFaceEmbeddings(model_name = embedding_model_id)
+  def __init__(self, embedding_model_id, docs_path, embedding_model_kwargs):
+    self.embedding = HuggingFaceEmbeddings(model_name = embedding_model_id, model_kwargs = embedding_model_kwargs)
     self.char_text_splitter = CharacterTextSplitter(
        separator="\n\n",
        chunk_size=2000,

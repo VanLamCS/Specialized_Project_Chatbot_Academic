@@ -1,15 +1,14 @@
 """# **Constants**"""
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
+
 load_dotenv()
 
-EMBEDDING_MODEL_ID = os.environ.get('EMBEDDING_MODEL_ID')
-DOCS_PATH = os.environ.get('DOCS_PATH')
-LLM_MODEL_ID = os.environ.get('LLM_MODEL_ID')
-DEVICE = os.environ.get('DOCS_PATH')
-# TORCH_DTYPE = os.environ.get('TORCH_DTYPE')
-MAX_NEW_TOKENS = os.environ.get('MAX_NEW_TOKENS')
-LLM_API_SERVICE_URL = os.environ.get('LLM_API_SERVICE_URL')
+EMBEDDING_MODEL_ID = os.getenv('EMBEDDING_MODEL_ID')
+DOCS_PATH = os.getenv('DOCS_PATH')
+MAX_NEW_TOKENS = os.getenv('MAX_NEW_TOKENS')
+LLM_API_SERVICE_URL = os.getenv('LLM_API_SERVICE_URL')
+DEVICE = os.getenv('DEVICE', 'cpu')
 
 from langchain_text_splitters import CharacterTextSplitter
 
@@ -18,9 +17,9 @@ from model.BK_rag_retriever_block import BK_rag_retriever_block
 from model.Rag_helper import Rag_helper
 
 class Rag_chain:
-  def __init__(self,llm_api_service_url = LLM_API_SERVICE_URL,  embedding_model_id = EMBEDDING_MODEL_ID, docs_path = DOCS_PATH, chuck_size = 4000, chunk_overlap = 1000):
+  def __init__(self,llm_api_service_url = LLM_API_SERVICE_URL,  embedding_model_id = EMBEDDING_MODEL_ID, docs_path = DOCS_PATH, chuck_size = 2000, chunk_overlap = 1000):
     self.llm = BK_rag_llm_block(llm_api_service_url)
-    self.retriever = BK_rag_retriever_block(embedding_model_id, docs_path)
+    self.retriever = BK_rag_retriever_block(embedding_model_id, docs_path, {'device': DEVICE})
     self.text_splitter = CharacterTextSplitter(
     separator="\n\n",
     chunk_size=chuck_size,

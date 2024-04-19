@@ -1,16 +1,13 @@
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
 from quart import Quart
 from quart_jwt_extended import JWTManager
-# from chatcore import chat_core
 from routes import main_bp
 
 load_dotenv()
 
-PORT = os.environ.get('PORT')
-JWT_SECRET_KEY = os.environ.get('JWT_SECRET_KEY')
-
-# Init chat core
+PORT = os.getenv('PORT') or 5000
+JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY')
 
 app = Quart(__name__)
 
@@ -21,4 +18,4 @@ jwt = JWTManager(app)
 app.register_blueprint(main_bp)
 
 if __name__ == "__main__":
-    app.run(port = PORT)
+    app.run(host='0.0.0.0', port = PORT)

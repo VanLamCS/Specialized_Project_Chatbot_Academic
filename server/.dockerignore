@@ -1,0 +1,21 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Python bytecode cache
+*/__pycache__/
+
+# Ignore any virtual environment directory
+venv/
+env/
+
+# Ignore logs and other runtime files
+*.log
+*.pid
+*.sock
+
+# Ignore development-related files
+*.bak
+*.swp
+.DS_Store
+.vscode/
+.idea/

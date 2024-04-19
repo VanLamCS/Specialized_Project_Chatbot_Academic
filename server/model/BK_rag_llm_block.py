@@ -1,11 +1,10 @@
 """*For llm*"""
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
+
 load_dotenv()
 
-LLM_API_SERVICE_URL = os.environ.get('LLM_API_SERVICE_URL')
-
-
+LLM_API_SERVICE_URL = os.getenv('LLM_API_SERVICE_URL')
 
 from model.LLm_api_service import LLm_api_service
 

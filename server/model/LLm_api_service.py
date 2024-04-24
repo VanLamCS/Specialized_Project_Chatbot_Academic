@@ -8,6 +8,10 @@ class LLm_api_service:
     def generate_text(self, user_input):
         body = {
             "inputs": f"<start_of_turn>user\n{user_input}\n<end_of_turn>\n<start_of_turn>model\n",
+            "parameters":{
+                "max_new_tokens": 700,
+                "min_new_tokens": 250,
+            },
             "model": "",
         }
 
@@ -22,7 +26,6 @@ class LLm_api_service:
 
         result = ""
         log_prob_map = []
-
         if response.headers['Content-Type'] == 'text/event-stream':
             for line in response.iter_lines():
                 if not line or line.decode('utf-8').startswith('#'):
@@ -43,4 +46,4 @@ class LLm_api_service:
         else:
             log_prob_avg = None
 
-        return {"text":result, "score":log_prob_avg}
+        return {"text":result, "score":log_prob_avg, "log_prob_map": log_prob_map}

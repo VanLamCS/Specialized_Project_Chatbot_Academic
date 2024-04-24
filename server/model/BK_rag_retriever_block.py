@@ -12,8 +12,8 @@ from langchain_community.vectorstores import FAISS
 from model.Rag_helper import Rag_helper
 
 class BK_rag_retriever_block:
-  def __init__(self, embedding_model_id, docs_path, embedding_model_kwargs):
-    self.embedding = HuggingFaceEmbeddings(model_name = embedding_model_id, model_kwargs = embedding_model_kwargs)
+  def __init__(self, embedding_model_id, docs_path):
+    self.embedding = HuggingFaceEmbeddings(model_name = embedding_model_id)
     self.char_text_splitter = CharacterTextSplitter(
        separator="\n\n",
        chunk_size=2000,
@@ -27,18 +27,23 @@ class BK_rag_retriever_block:
 
     bm25_retriever = BM25Retriever.from_documents(self.docs_chucked, search_kwargs={
         "score_threshold": 0.9,
-        "k": 4
+        "k": 8
         })
+    # db = Chroma.from_documents(self.docs_chucked, self.embeddings)
+    # embedding_retriever = db.as_retriever(search_kwargs={
+    #     "score_threshold": 0.9,
+    #     "k": 4
+    #     })
     faiss_vectorstore = FAISS.from_documents(self.docs_chucked, self.embedding)
     faiss_retriever = faiss_vectorstore.as_retriever(search_kwargs={
         "score_threshold": 0.9,
-        "k": 4
+        "k": 8
         })
     self.retriever = EnsembleRetriever(
     retrievers=[bm25_retriever, faiss_retriever], weights=[0.5, 0.5],
     search_kwargs={
         "score_threshold": 0.9,
-        "k": 2
+        "k": 8
         }
     )
 

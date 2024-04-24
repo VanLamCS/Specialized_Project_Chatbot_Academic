@@ -42,7 +42,7 @@ class Rag_helper:
     @staticmethod
     def add_metadata_to_docs(docs):
       for doc in docs:
-        doc.page_content = "Nội dung được lấy từ tài liệu: " + doc.metadata["content"] + " và hiệu lực từ năm: " + doc.metadata["effect_year"] + "\n\n\n\n" + doc.page_content
+        doc.page_content = "(Nội dung được lấy từ tài liệu: \"" + doc.metadata["content"] + "\" và hiệu lực từ năm: " + doc.metadata["effect_year"] + ".)\n\n\n\n\""  + str(doc.page_content)  + "\""
       return docs
 
     @staticmethod
@@ -72,7 +72,7 @@ class Rag_helper:
         return docs_merged
 
     @staticmethod
-    def confidence_score(scores, temperature=1.0):
+    def confidence_score(scores, temperature=3.0):
         # Apply temperature scaling if needed
         if temperature != 1.0:
             scaled_scores = scores / temperature

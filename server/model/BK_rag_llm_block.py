@@ -14,5 +14,11 @@ class BK_rag_llm_block:
 
   def generate(self, prompt):
       result = self.llm_service.generate_text(prompt)
+      # print("prompt: ", prompt,
+      #       "\noutput: ", result["text"],
+      #       "\nscore: ", result["score"],
+      #       "\nlog_prob_map: ", result["log_prob_map"],
+      #       '\n------------------------------------------------------------\n')
+
 
       return {"output": result["text"], "score": result["score"]}

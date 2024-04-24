@@ -13,6 +13,7 @@ class BK_rag_llm_block:
     self.llm_service = LLm_api_service(llm_api_service_url or LLM_API_SERVICE_URL)
 
   def generate(self, prompt):
-      result = self.llm_service.generate_text(prompt)
+      # result = self.llm_service.generate_text(prompt)
+      result = self.llm_service.openai_generate_text(prompt)
 
       return {"output": result["text"], "score": result["score"]}

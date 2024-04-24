@@ -48,4 +48,4 @@ class Rag_chain:
     add_metadata_to_docs = Rag_helper.add_metadata_to_docs(added_meta_docs)
     prompts = [Rag_chain.create_prompt(doc.page_content, query) for doc in add_metadata_to_docs]
     outputs = [self.llm.generate(prompt) for prompt in prompts]
-    return outputs, docs_merged
+    return outputs

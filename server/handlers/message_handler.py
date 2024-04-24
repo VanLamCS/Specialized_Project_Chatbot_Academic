@@ -5,6 +5,7 @@ from bson.objectid import ObjectId
 from chatcore.create_answer import create_answer
 from datetime import datetime
 from db import db
+import json
 
 message_bp = Blueprint('message', __name__)
 
@@ -26,7 +27,7 @@ async def send_message():
             return jsonify({'msg': 'Message is invalid', 'errors': v.errors}), 400
         request_message = message_data['message']
         conversation_id = message_data['conversation_id']
-        response_message, _, answers = create_answer(request_message)
+        response_message, _ = create_answer(request_message)
         res_time = datetime.utcnow()
 
         # Save messages to database

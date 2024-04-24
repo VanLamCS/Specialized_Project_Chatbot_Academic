@@ -6,6 +6,8 @@ from routes import main_bp
 
 load_dotenv()
 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 PORT = os.getenv('PORT') or 5000
 JWT_SECRET_KEY = os.getenv('JWT_SECRET_KEY')
 

@@ -1,5 +1,9 @@
 import json
 import requests # type: ignore
+import os
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_URL = os.getenv("OPENAI_API_URL")
 
 class LLm_api_service:
     def __init__(self, api_url):
@@ -44,16 +48,37 @@ class LLm_api_service:
 
         if log_prob_map:
             log_prob_avg = sum(log_prob_map) / len(log_prob_map)
-            # log_prob_max = max(log_prob_map)
         else:
             log_prob_avg = None
-            # log_prob_max = None
-        # if log_prob_avg is not None and log_prob_max is not None:
-        #     combined_score = log_prob_avg * 0.8 + log_prob_max * 0.2
-        # elif log_prob_avg is not None:
-        #     combined_score = log_prob_avg
-        # elif log_prob_max is not None:
-        #     combined_score = log_prob_max
         combined_score = log_prob_avg
 
         return {"text": result, "score": combined_score, "log_prob_map": log_prob_map}
+
+    def openai_generate_text(self, prompt):
+        body = {
+            "model": "gpt-3.5-turbo",
+            "logprobs": True,
+            "messages": [
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ]
+        }
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer " + OPENAI_API_KEY,
+        }
+        try:
+            response = requests.post(OPENAI_API_URL + "/v1/chat/completions", data=json.dumps(body), headers=headers)
+            response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print(f"Error: {e}")
+            return None, None
+        str_content = response.content.decode("utf-8")
+        obj_content = json.loads(str_content)
+        text = obj_content["choices"][0]["message"]["content"]
+        logprobs = obj_content["choices"][0]["logprobs"]["content"]
+        logprob_list = [logprob["logprob"] for logprob in logprobs]
+        logprobs_avg = sum(logprob_list) / len(logprob_list)
+        return {"text": text, "score": logprobs_avg}

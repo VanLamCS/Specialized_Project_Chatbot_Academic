@@ -27,18 +27,18 @@ class BK_rag_retriever_block:
 
     bm25_retriever = BM25Retriever.from_documents(self.docs_chucked, search_kwargs={
         "score_threshold": 0.5,
-        "k": 8
+        "k": 4
         })
     faiss_vectorstore = FAISS.from_documents(self.docs_chucked, self.embedding)
     faiss_retriever = faiss_vectorstore.as_retriever(search_kwargs={
         "score_threshold": 0.5,
-        "k": 8
+        "k": 4
         })
     self.retriever = EnsembleRetriever(
     retrievers=[bm25_retriever, faiss_retriever], weights=[0.5, 0.5],
     search_kwargs={
         "score_threshold": 0.5,
-        "k": 8
+        "k": 4
         }
     )
 

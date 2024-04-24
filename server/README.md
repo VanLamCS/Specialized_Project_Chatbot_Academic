@@ -10,10 +10,18 @@
 
 Switch location at `server`
 
-### Step 2 (optional)
+### Step 2
 
 Create virtual environment
 `python -m venv venv`
+
+Activate:
+
+On Windows
+`./venv/Scripts/activate`
+
+On Linux
+`source venv/bin/activate`
 
 ### Step 3
 

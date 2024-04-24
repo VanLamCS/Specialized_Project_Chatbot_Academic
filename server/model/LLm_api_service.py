@@ -8,6 +8,10 @@ class LLm_api_service:
     def generate_text(self, user_input):
         body = {
             "inputs": f"<start_of_turn>user\n{user_input}\n<end_of_turn>\n<start_of_turn>model\n",
+            "parameters": {
+                "max_new_tokens": 700,
+                "min_new_tokens": 250,
+            },
             "model": "",
         }
 
@@ -40,7 +44,16 @@ class LLm_api_service:
 
         if log_prob_map:
             log_prob_avg = sum(log_prob_map) / len(log_prob_map)
+            # log_prob_max = max(log_prob_map)
         else:
             log_prob_avg = None
+            # log_prob_max = None
+        # if log_prob_avg is not None and log_prob_max is not None:
+        #     combined_score = log_prob_avg * 0.8 + log_prob_max * 0.2
+        # elif log_prob_avg is not None:
+        #     combined_score = log_prob_avg
+        # elif log_prob_max is not None:
+        #     combined_score = log_prob_max
+        combined_score = log_prob_avg
 
-        return {"text":result, "score":log_prob_avg}
+        return {"text": result, "score": combined_score, "log_prob_map": log_prob_map}

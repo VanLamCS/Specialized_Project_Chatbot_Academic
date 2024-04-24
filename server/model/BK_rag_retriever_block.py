@@ -26,19 +26,19 @@ class BK_rag_retriever_block:
     self.docs_chucked = self.char_text_splitter.split_documents(self.docs)
 
     bm25_retriever = BM25Retriever.from_documents(self.docs_chucked, search_kwargs={
-        "score_threshold": 0.9,
-        "k": 4
+        "score_threshold": 0.5,
+        "k": 8
         })
     faiss_vectorstore = FAISS.from_documents(self.docs_chucked, self.embedding)
     faiss_retriever = faiss_vectorstore.as_retriever(search_kwargs={
-        "score_threshold": 0.9,
-        "k": 4
+        "score_threshold": 0.5,
+        "k": 8
         })
     self.retriever = EnsembleRetriever(
     retrievers=[bm25_retriever, faiss_retriever], weights=[0.5, 0.5],
     search_kwargs={
-        "score_threshold": 0.9,
-        "k": 2
+        "score_threshold": 0.5,
+        "k": 8
         }
     )
 

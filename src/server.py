@@ -2,6 +2,7 @@ from quart import Quart, jsonify, request
 from config import context_config
 from utils.BKViQuAModel import ViQuADModel
 import constants
+import time
 
 BKViQuA = ViQuADModel()
 
@@ -60,6 +61,7 @@ def get_question_types():
 @app.route('/api/ask', methods=['POST'])
 async def ask_question():
     try:
+        start_time = time.time()
         request_data = await request.get_json()
         question_type = request_data['question_type']
         question = request_data['question']
@@ -70,6 +72,8 @@ async def ask_question():
         if not isinstance(question, str):
             raise BadRequestException('Datatype of question is invalid')
         answer = BKViQuA.forward(question, question_type)
+        end_time = time.time()
+        print("=====CHECK TIME=====", end_time - start_time, "giây")
         return jsonify({
             'status': 'success',
             'data': {

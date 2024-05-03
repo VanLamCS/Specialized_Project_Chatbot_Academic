@@ -36,7 +36,7 @@ async def send_message():
 
         # Update timestamp of conversation
         db.conversations.update_one({'_id': ObjectId(conversation_id)}, {'$set': {'timestamp': res_time}})
-
+        print("=====CHECK TIME=====", res_time - req_time)
         # Save pair of question and answer
         await save_pair_qa(q_id=q_id, a_id=a_id)
         

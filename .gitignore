@@ -5,8 +5,10 @@
 *__pycache__
 /local*
 checkpoints/*.bin
+checkpoints/config.json
 /transformers
 /server/venv
 /server/.env
 .history
 /.vscode
+/venv

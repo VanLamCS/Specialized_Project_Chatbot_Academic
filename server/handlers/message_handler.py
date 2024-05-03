@@ -34,9 +34,9 @@ async def send_message():
         q_id = db.messages.insert_one({'conversation_id': ObjectId(conversation_id),'message': request_message, 'sender': 'human', 'timestamp': req_time}).inserted_id
         a_id = db.messages.insert_one({'conversation_id': ObjectId(conversation_id),'message': response_message, 'sender': 'bot', 'timestamp': res_time}).inserted_id
 
+        print("=====CHECK TIME=====", res_time - req_time)
         # Update timestamp of conversation
         db.conversations.update_one({'_id': ObjectId(conversation_id)}, {'$set': {'timestamp': res_time}})
-        print("=====CHECK TIME=====", res_time - req_time)
         # Save pair of question and answer
         await save_pair_qa(q_id=q_id, a_id=a_id)
         

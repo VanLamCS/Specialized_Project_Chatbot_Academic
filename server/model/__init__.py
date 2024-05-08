@@ -17,7 +17,7 @@ from model.BK_rag_retriever_block import BK_rag_retriever_block
 from model.Rag_helper import Rag_helper
 
 class Rag_chain:
-  def __init__(self,llm_api_service_url = LLM_API_SERVICE_URL,  embedding_model_id = EMBEDDING_MODEL_ID, docs_path = DOCS_PATH, chuck_size = 2500, chunk_overlap = 1000):
+  def __init__(self,llm_api_service_url = LLM_API_SERVICE_URL,  embedding_model_id = EMBEDDING_MODEL_ID, docs_path = DOCS_PATH, chuck_size = 4000, chunk_overlap = 1000):
     self.llm = BK_rag_llm_block(llm_api_service_url)
     self.retriever = BK_rag_retriever_block(embedding_model_id, docs_path, {'device': DEVICE})
     self.text_splitter = CharacterTextSplitter(
@@ -40,12 +40,24 @@ class Rag_chain:
     input = f"Dựa vào một số ngữ cảnh được cho dưới đây, trả lời câu hỏi ở cuối.\n\n{context}\n\nCâu hỏi: {query}"
     prompt = prompt_template.format(instruction=query, input=input, output='')
     return prompt
+  
+  @staticmethod
+  def  create_prompt_v2(context, query):
+    prompt_template = (
+      "===Ngữ cảnh===:\n{context_merged}\n\n"
+      "===Câu hỏi===: {query}"
+    )
+    prompt = prompt_template.format(context_merged=context, query=query)
+    print("===CHECK PROMPT===\n", len(prompt), "\n\n", prompt)
+    return prompt
 
   def invoke(self, query):
     docs_merged = self.retriever.invoke(query)
     found_splitted_docs = self.text_splitter.split_documents(docs_merged)
     added_meta_docs = Rag_helper.add_info_docs(found_splitted_docs)
-    add_metadata_to_docs = Rag_helper.add_metadata_to_docs(added_meta_docs)
-    prompts = [Rag_chain.create_prompt(doc.page_content, query) for doc in add_metadata_to_docs]
+    # add_metadata_to_docs = Rag_helper.add_metadata_to_docs(added_meta_docs)
+    context_combine = "\n".join([doc.page_content for doc in added_meta_docs])
+    context_combine_and_cut = context_combine[:45000] # Max: 45000 characters
+    prompts = [Rag_chain.create_prompt_v2(context_combine_and_cut, query)]
     outputs = [self.llm.generate(prompt) for prompt in prompts]
     return outputs

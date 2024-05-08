@@ -16,7 +16,7 @@ class BK_rag_retriever_block:
     self.embedding = HuggingFaceEmbeddings(model_name = embedding_model_id, model_kwargs = embedding_model_kwargs)
     self.char_text_splitter = CharacterTextSplitter(
        separator="\n\n",
-       chunk_size=2000,
+       chunk_size=1800,
        chunk_overlap=1000,
        length_function=len,
        is_separator_regex=False,
@@ -26,19 +26,19 @@ class BK_rag_retriever_block:
     self.docs_chucked = self.char_text_splitter.split_documents(self.docs)
 
     bm25_retriever = BM25Retriever.from_documents(self.docs_chucked, search_kwargs={
-        "score_threshold": 0.5,
+        "score_threshold": 0.6,
         "k": 4
         })
     faiss_vectorstore = FAISS.from_documents(self.docs_chucked, self.embedding)
     faiss_retriever = faiss_vectorstore.as_retriever(search_kwargs={
-        "score_threshold": 0.5,
+        "score_threshold": 0.6,
         "k": 4
         })
     self.retriever = EnsembleRetriever(
     retrievers=[bm25_retriever, faiss_retriever], weights=[0.5, 0.5],
     search_kwargs={
-        "score_threshold": 0.5,
-        "k": 4
+        "score_threshold": 0.6,
+        "k": 2
         }
     )
 

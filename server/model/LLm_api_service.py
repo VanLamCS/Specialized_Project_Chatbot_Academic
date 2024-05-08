@@ -58,12 +58,18 @@ class LLm_api_service:
         body = {
             "model": "gpt-3.5-turbo",
             "logprobs": True,
+            "n": 2,
             "messages": [
+                {
+                    "role": "system",
+                    "content": "Bạn là một trợ lý để hỗ trợ sinh ra câu trả lời với ngữ cảnh và câu hỏi được cung cấp bởi người dùng. Trong đó tiền tố cho ngữ cảnh là: \"===Ngữ cảnh===:\". Tiền tố của câu hỏi là: \"===Câu hỏi===:\".\n Câu trả lời sẽ được sinh ra dựa vào nội dung của ngữ cảnh mà không được lấy thông tin ở bất kỳ nguồn nào khác. Nếu không sinh ra được câu trả lời từ ngữ cảnh hãy phản hồi \"Tôi không có câu trả lời cho câu hỏi này, hãy đặt lại câu hỏi với đầy đủ thông tin hơn.\"."
+                },
                 {
                     "role": "user",
                     "content": prompt
                 }
-            ]
+            ],
+            "temperature": 0.3
         }
         headers = {
             "Content-Type": "application/json",
@@ -77,8 +83,15 @@ class LLm_api_service:
             return None, None
         str_content = response.content.decode("utf-8")
         obj_content = json.loads(str_content)
-        text = obj_content["choices"][0]["message"]["content"]
-        logprobs = obj_content["choices"][0]["logprobs"]["content"]
-        logprob_list = [logprob["logprob"] for logprob in logprobs]
-        logprobs_avg = sum(logprob_list) / len(logprob_list)
-        return {"text": text, "score": logprobs_avg}
+
+        logprobs_avg_max = float('-inf')
+        text = ""
+        for choice in obj_content["choices"]:
+            logprobs = choice["logprobs"]["content"]
+            logprob_list = [logprob["logprob"] for logprob in logprobs]
+            logprobs_avg = sum(logprob_list) / len(logprob_list)
+            if logprobs_avg_max < logprobs_avg:
+                text = choice["message"]["content"]
+                logprobs_avg_max = logprobs_avg
+
+        return {"text": text, "score": logprobs_avg_max}
